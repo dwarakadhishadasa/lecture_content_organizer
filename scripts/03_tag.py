@@ -16,7 +16,7 @@ import re
 import time
 from pathlib import Path
 
-import google.generativeai as genai
+import google.genai as genai
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -59,7 +59,7 @@ def call_gemini_with_retry(model, prompt: str, video_id: str) -> str | None:
     delays = [2, 4, 8]
     for attempt, delay in enumerate(delays, 1):
         try:
-            response = model.generate_content(prompt)
+            response = model.generate_content(model="gemini-1.5-flash", contents=prompt)
             return response.text
         except Exception as e:
             if attempt < len(delays):
@@ -99,8 +99,8 @@ def parse_gemini_response(raw: str, video_id: str) -> list[dict] | None:
 
 
 def main():
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    model = client.models
 
     transcript_files = sorted(Path("data/transcripts").glob("*.json"))
     total = len(transcript_files)

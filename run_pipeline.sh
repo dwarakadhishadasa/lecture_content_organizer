@@ -59,7 +59,7 @@ python scripts/04_upload_notion.py
 # Phase 4: GitHub Final Commit
 # audio/ is gitignored (ephemeral); all other data/ files are tracked
 echo "=== [4/4] Final GitHub commit ==="
-git add archive.txt
+git add archive.txt 2>/dev/null || true
 git add config/*.yaml
 git add data/transcripts/*.json data/tagged/*.json 2>/dev/null || true
 git add data/unresolved_speakers.txt data/uploaded.txt 2>/dev/null || true
