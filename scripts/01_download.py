@@ -49,7 +49,7 @@ def main():
     # Load canonical speakers for pre-filter
     speakers = load_speakers("config/speakers.yaml")
 
-    def speaker_match_filter(info_dict, *, incomplete):
+    def speaker_match_filter(info_dict, *, incomplete=False):
         """
         Invoked by yt-dlp after fetching metadata, before any audio download.
         Returns a non-None string to skip the video; None to allow download.

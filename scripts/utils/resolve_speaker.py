@@ -33,7 +33,8 @@ def resolve_speaker(
     """
     if log_path is None:
         log_path = _PROJECT_ROOT / "data" / "unresolved_speakers.txt"
-    segments = [s.strip() for s in title.split("|")]
+    # Skip segments that are clearly topic titles/questions (contain "?") — not person names
+    segments = [s.strip() for s in title.split("|") if "?" not in s]
     best_score, best_match = 0, None
     for segment in segments:
         result = process.extractOne(segment, canonical, scorer=fuzz.WRatio)
