@@ -1,0 +1,29 @@
+# Canonical speaker names — exact form as desired in Notion's Speaker property.
+# Fuzzy matching (rapidfuzz WRatio, threshold=85) handles title variants:
+# honorifics (HG, HH), abbreviations, typos, and ordering differences.
+#
+# To add a speaker after the initial run:
+#   1. Add their canonical name here.
+#   2. Re-run the pipeline — already-processed videos are skipped automatically.
+#      Previously-skipped unresolved videos (never added to archive.txt)
+#      will be automatically discovered and downloaded on the next run.
+#
+# Populate ALL known speakers before the first pipeline run.
+speakers:
+  - "HDG Srila Prabhupada"
+  - "HG Madhu Pandit Dasa"
+  - "HG Chanchalapathi Dasa"
+  - "HG Jai Chaitanya Dasa"
+  - "HG Stoka Krishna Swami"
+  - "HG Amitasana Dasa"
+  - "HG Vasudev Keshav Dasa"
+  - "HG Rajiv Lochan Dasa"
+  - "HG Satya Gaura Chandra Dasa"
+  - "HG Suvyakta Narasimha Dasa"
+  - "HG Chanchalapathi Dasa"
+  - "HG Madhu Pandit Dasa"
+  - "HG Chanchalapathi Dasa"
+  - "Krishna Consciousness Happiness & Pleasure"
+  - "Soulful Japa"
+  - "Braj Mandal Parikrama"
+  - "Navadvip Mandal Parikrama"

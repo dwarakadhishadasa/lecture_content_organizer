@@ -1,0 +1,13 @@
+# YouTube channel URLs for bulk download
+# NOT speaker-tied — speaker identity comes from video title parsing (config/speakers.yaml)
+# Add/remove channels here without code changes.
+channels:
+  - url: "https://www.youtube.com/@iskconbangaloresanga"
+  - url: "https://www.youtube.com/@iskconbangalore"
+  - url: "https://www.youtube.com/@hkmchennai"
+  - url: "https://www.youtube.com/@HKMCtattvam"
+  - url: "https://www.youtube.com/@Hkmcsangam"
+  - url: "https://www.youtube.com/@ISKCONHubli"
+  - url: "https://www.youtube.com/@GuptVrindavanDham"
+  - url: "https://www.youtube.com/@hkmmumbai"
+  - url: "https://www.youtube.com/@HareKrishnaSatsang-u2m"
