@@ -21,6 +21,8 @@ from scripts.utils.resolve_speaker import load_speakers, resolve_speaker
 def main():
     speakers = load_speakers("config/speakers.yaml")
 
+    Path("data/transcripts").mkdir(parents=True, exist_ok=True)
+
     # Clean up stale temp files from any interrupted previous run
     for tmp in Path("data/transcripts").glob("*.json.tmp"):
         tmp.unlink()
