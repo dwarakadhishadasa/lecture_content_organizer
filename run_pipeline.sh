@@ -10,6 +10,10 @@ set -e
 # Ensure 'scripts' package is importable as a top-level module
 export PYTHONPATH="$(pwd)"
 
+# Git identity (required for commits on RunPod pods)
+git config --global user.email "dwarakadhishadasa@gmail.com"
+git config --global user.name "Dwarakadas"
+
 BATCH_SIZE=50  # lectures per download-transcribe cycle (~3-6 GB audio at a time)
 BATCH_NUM=0
 
@@ -39,7 +43,7 @@ while true; do
     echo "--- [Batch $BATCH_NUM] Checkpointing to GitHub ---"
     git add archive.txt 2>/dev/null || true
     git add data/transcripts/*.json data/unresolved_speakers.txt 2>/dev/null || true
-    git diff --cached --quiet || git commit -m "checkpoint: batch $BATCH_NUM ($(wc -l < archive.txt) videos archived)"
+    git diff --cached --quiet || git commit -m "checkpoint: batch $BATCH_NUM ($($([ -f archive.txt ] && wc -l < archive.txt || echo 0)) videos archived)"
     git push origin main
 
     if [ $DOWNLOAD_CODE -eq 0 ]; then
@@ -63,7 +67,7 @@ git add archive.txt 2>/dev/null || true
 git add config/*.yaml
 git add data/transcripts/*.json data/tagged/*.json 2>/dev/null || true
 git add data/unresolved_speakers.txt data/uploaded.txt 2>/dev/null || true
-git diff --cached --quiet || git commit -m "pipeline complete: $(date +'%Y-%m-%d %H:%M') — $(wc -l < archive.txt) videos processed"
+git diff --cached --quiet || git commit -m "pipeline complete: $(date +'%Y-%m-%d %H:%M') — $($([ -f archive.txt ] && wc -l < archive.txt || echo 0)) videos processed"
 git push origin main
 
 echo "=== Data safely pushed to GitHub. Pipeline complete. ==="
