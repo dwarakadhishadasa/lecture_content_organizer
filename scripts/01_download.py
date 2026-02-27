@@ -55,6 +55,8 @@ def main():
         Returns a non-None string to skip the video; None to allow download.
         Skipped videos are NOT added to archive.txt and do NOT count against max_downloads.
         """
+        if incomplete:
+            return None  # Wait for full metadata before filtering
         title = info_dict.get("title", "")
         if resolve_speaker(title, speakers) is None:
             return "Speaker unresolved — skipping download"

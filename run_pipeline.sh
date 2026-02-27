@@ -25,13 +25,13 @@ while true; do
     echo "--- [Batch $BATCH_NUM] Downloading up to $BATCH_SIZE lectures ---"
 
     set +e
-    python scripts/01_download.py --batch-size $BATCH_SIZE
+    python3 scripts/01_download.py --batch-size $BATCH_SIZE
     DOWNLOAD_CODE=$?
     set -e
 
     echo "--- [Batch $BATCH_NUM] Transcribing ---"
     set +e
-    python scripts/02_transcribe.py
+    python3 scripts/02_transcribe.py
     TRANSCRIBE_CODE=$?
     set -e
     if [ $TRANSCRIBE_CODE -ne 0 ]; then
