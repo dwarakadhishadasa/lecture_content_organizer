@@ -27,6 +27,7 @@ LOCATION = "us-central1"
 MODEL_NAME = "publishers/google/models/gemini-2.0-flash-001"
 BUCKET_NAME = f"{PROJECT_ID}-lco-tagger"
 
+
 PROMPT_TEMPLATE = """\
 VIDEO_ID: {video_id}
 You are analyzing a transcript from a Vaishnava lecture.
@@ -48,17 +49,20 @@ Identify thematic segments of 5-10 minutes each. For each segment return ONLY va
       "content_type": "story|analogy|philosophy|practical",
       "circle_fit": [1, 2],
       "key_quote": "Most impactful sentence from this segment",
-      "summary": "One sentence describing this segment"
+      "summary": "One sentence describing this segment",
+      "transcript": "Verbatim cleaned text of everything said in this segment. Fix grammar and punctuation. Remove repeated phrases from speech disfluencies. Preserve all Sanskrit terms, names, and philosophical concepts exactly."
     }}
   ]
 }}
 circle_fit: 1=full-time devotees, 2=congregation/volunteers, 3=newcomers, 4=general public with no prior exposure
 VERSE REFERENCE FORMAT (P1): Use ONLY "BG X.Y" for Bhagavad-gita and "SB X.Y.Z" for Srimad Bhagavatam.
 No other formats ("Bg.", "Bhagavad-gita", chapter references without verse). If uncertain, use empty list [].
+TRANSCRIPT FIELD: Cleaned verbatim prose — not a summary. Include all content said. Fix grammar and remove disfluency repetitions only.
+THEMES FIELD: Choose 1-3 descriptive themes per segment.
 """
 
 REQUIRED_KEYS = {"start_time", "end_time", "verse_references", "themes",
-                 "content_type", "circle_fit", "key_quote", "summary"}
+                 "content_type", "circle_fit", "key_quote", "summary", "transcript"}
 
 # All non-Latin foreign scripts: Devanagari, Arabic/Urdu, Tamil, Telugu, Bengali,
 # Cyrillic, CJK — used to strip segments before sending to Gemini.
@@ -93,40 +97,46 @@ def ensure_bucket(gcs: storage.Client) -> None:
         print(f"[GCS] Created bucket: gs://{BUCKET_NAME}")
 
 
-def build_input_jsonl(transcript_paths: list[Path]) -> str:
+def build_input_jsonl(transcript_paths: list[Path], failed_log: Path) -> str:
     """Build a JSONL string with one Gemini request per transcript.
 
     Embeds VIDEO_ID: {id} as the first line of each prompt so results
     can be correlated back to source files after batch completion.
+    Transcripts that fail to load or parse are logged to failed_log and skipped.
     """
     lines = []
     for path in transcript_paths:
         video_id = path.stem
-        with open(path) as f:
-            t = json.load(f)
+        try:
+            with open(path) as f:
+                t = json.load(f)
 
-        # Strip segments that are predominantly foreign script before sending to Gemini.
-        # Catches: Sanskrit verse recitations (Devanagari), Urdu/Tamil audio versions,
-        # and Whisper hallucination artifacts (stray Cyrillic/CJK characters).
-        transcript_text = "\n".join(
-            f"[{int(seg['start'])}s] {seg['text']}"
-            for seg in t["segments"]
-            if _foreign_char_ratio(seg["text"]) < 0.6
-        )
-        prompt = PROMPT_TEMPLATE.format(
-            video_id=video_id,
-            speaker=t["speaker"],
-            title=t["title"],
-            youtube_url=t["youtube_url"],
-            transcript_text=transcript_text,
-        )
-        request = {
-            "request": {
-                "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-                "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8192},
+            # Strip segments that are predominantly foreign script before sending to Gemini.
+            # Catches: Sanskrit verse recitations (Devanagari), Urdu/Tamil audio versions,
+            # and Whisper hallucination artifacts (stray Cyrillic/CJK characters).
+            transcript_text = "\n".join(
+                f"[{int(seg['start'])}s] {seg['text']}"
+                for seg in t["segments"]
+                if _foreign_char_ratio(seg["text"]) < 0.6
+            )
+            prompt = PROMPT_TEMPLATE.format(
+                video_id=video_id,
+                speaker=t["speaker"],
+                title=t["title"],
+                youtube_url=t["youtube_url"],
+                transcript_text=transcript_text,
+            )
+            request = {
+                "request": {
+                    "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+                    "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8192},
+                }
             }
-        }
-        lines.append(json.dumps(request, ensure_ascii=False))
+            lines.append(json.dumps(request, ensure_ascii=False))
+        except Exception as e:
+            print(f"  [WARN] Skipping {video_id}: failed to build request: {e}")
+            with open(failed_log, "a") as f:
+                f.write(video_id + "\n")
     return "\n".join(lines)
 
 
@@ -222,7 +232,7 @@ def main():
 
     # Build, upload, and submit batch job
     ts = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
-    input_uri = upload_jsonl(gcs, build_input_jsonl(untagged),
+    input_uri = upload_jsonl(gcs, build_input_jsonl(untagged, failed_log),
                              f"batch_jobs/{ts}/input.jsonl")
     output_prefix = f"gs://{BUCKET_NAME}/batch_jobs/{ts}/output/"
 
@@ -240,6 +250,7 @@ def main():
 
     tagged_count = 0
     failed_count = 0
+    seen_ids: set[str] = set()
 
     for item in results:
         req_text = (item.get("request", {})
@@ -252,6 +263,8 @@ def main():
             print("  [WARN] Skipping item: VIDEO_ID not found in request text")
             failed_count += 1
             continue
+
+        seen_ids.add(video_id)
 
         if item.get("status"):
             print(f"  [WARN] {video_id}: item-level error: {item['status']}")
@@ -296,6 +309,15 @@ def main():
         )
         print(f"  Tagged {video_id} ({len(segments)} segments)")
         tagged_count += 1
+
+    # Log any untagged videos that never appeared in batch results (partial batch failure).
+    missing = [p.stem for p in untagged if p.stem not in seen_ids]
+    if missing:
+        print(f"  [WARN] {len(missing)} video(s) missing from batch results — logging to failed_tag.txt")
+        with open(failed_log, "a") as f:
+            for vid in missing:
+                f.write(vid + "\n")
+        failed_count += len(missing)
 
     print(f"[03_tag] Done. {tagged_count} tagged, {failed_count} failed.")
     if failed_count:

@@ -11,3 +11,10 @@ channels:
   - url: "https://www.youtube.com/@GuptVrindavanDham/videos"
   - url: "https://www.youtube.com/@hkmmumbai/videos"
   - url: "https://www.youtube.com/@HareKrishnaSatsang-u2m/videos"
+
+# Playlists with a known speaker — downloaded without speaker resolution.
+# Speaker is stamped directly onto each video (written to data/speaker_map.json).
+# Run via: python3 scripts/01_download.py --playlists
+playlists:
+  # - url: "https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxx"
+  #   speaker: "Canonical Speaker Name (exact form as in speakers.yaml)"

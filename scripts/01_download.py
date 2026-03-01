@@ -1,15 +1,19 @@
 """
-01_download.py — Download audio from configured YouTube channels.
+01_download.py — Download audio from configured YouTube channels and playlists.
 
 Exit codes:
   0   — All channels fully downloaded (no more videos to fetch)
   101 — Batch complete, more remain (run_pipeline.sh loops)
 
 Usage:
-  python scripts/01_download.py [--batch-size N]
+  python scripts/01_download.py [--batch-size N]   # channel mode (default)
+  python scripts/01_download.py --playlists         # playlist mode (known speakers)
 """
 import argparse
+import json
 import sys
+from pathlib import Path
+
 import yaml
 from yt_dlp import YoutubeDL
 from yt_dlp.utils import MaxDownloadsReached
@@ -34,11 +38,84 @@ class _DownloadLogger:
             f.write(msg + "\n")
 
 
+SPEAKER_MAP_PATH = Path("data/speaker_map.json")
+
+
+def download_playlists():
+    """
+    Download all configured playlists, bypassing speaker resolution.
+    Speaker name is taken directly from channels.yaml and written to
+    data/speaker_map.json so 02_transcribe.py can use it without fuzzy matching.
+    Idempotent: archive.txt deduplicates already-downloaded videos.
+    """
+    with open("config/channels.yaml") as f:
+        config = yaml.safe_load(f)
+
+    playlists = config.get("playlists") or []
+    if not playlists:
+        print("[01_download] No playlists configured — skipping playlist phase.")
+        return
+
+    # Load existing speaker_map (preserve entries from previous runs)
+    speaker_map = {}
+    if SPEAKER_MAP_PATH.exists():
+        with open(SPEAKER_MAP_PATH) as f:
+            speaker_map = json.load(f)
+
+    for playlist in playlists:
+        url = playlist["url"]
+        speaker = playlist["speaker"]
+        print(f"[01_download] Playlist: {url}")
+        print(f"[01_download]   Speaker: {speaker}")
+
+        newly_captured = []
+
+        def progress_hook(d, _captured=newly_captured):
+            if d["status"] == "finished":
+                video_id = d.get("info_dict", {}).get("id")
+                if video_id:
+                    _captured.append(video_id)
+
+        opts = {
+            "format": "bestaudio/best",
+            "postprocessors": [{"key": "FFmpegExtractAudio", "preferredcodec": "mp3"}],
+            "outtmpl": "data/audio/%(id)s.%(ext)s",
+            "download_archive": "archive.txt",
+            "writeinfojson": True,
+            "progress_hooks": [progress_hook],
+            "sleep_interval": 15,
+            "max_sleep_interval": 45,
+            "sleep_requests": 3,
+            "ignoreerrors": True,
+            "logger": _DownloadLogger(),
+        }
+
+        with YoutubeDL(opts) as ydl:
+            ydl.download([url])
+
+        for video_id in newly_captured:
+            speaker_map[video_id] = speaker
+
+        # Write after each playlist — crash between playlists won't lose captured IDs
+        SPEAKER_MAP_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(SPEAKER_MAP_PATH, "w") as f:
+            json.dump(speaker_map, f, ensure_ascii=False, indent=2)
+        print(f"[01_download]   Done: {len(newly_captured)} new video(s) mapped to '{speaker}' "
+              f"({len(speaker_map)} total entries in speaker_map.json)")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--batch-size", type=int, default=50,
                         help="Max lectures to download per run (default: 50)")
+    parser.add_argument("--playlists", action="store_true",
+                        help="Download configured playlists with known speakers (no batch limit)")
     args = parser.parse_args()
+
+    if args.playlists:
+        download_playlists()
+        sys.exit(0)
+
     batch_size = args.batch_size
 
     # Load channel URLs

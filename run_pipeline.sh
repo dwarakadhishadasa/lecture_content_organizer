@@ -19,6 +19,16 @@ BATCH_NUM=0
 
 echo "=== Pipeline start (BATCH_SIZE=$BATCH_SIZE) ==="
 
+# Phase 0: Download playlists with known speakers (no batch limit, no speaker resolution)
+echo "=== [0/4] Downloading playlists ==="
+set +e
+python3 scripts/01_download.py --playlists
+PLAYLIST_CODE=$?
+set -e
+if [ $PLAYLIST_CODE -ne 0 ]; then
+    echo "[WARN] Playlist download exited with code $PLAYLIST_CODE — check logs, continuing with channels"
+fi
+
 # Phase 1: Download-transcribe loop (keeps disk bounded)
 while true; do
     BATCH_NUM=$((BATCH_NUM + 1))
@@ -43,6 +53,7 @@ while true; do
     echo "--- [Batch $BATCH_NUM] Checkpointing to GitHub ---"
     git add archive.txt 2>/dev/null || true
     git add data/transcripts/*.json data/unresolved_speakers.txt 2>/dev/null || true
+    git add data/speaker_map.json 2>/dev/null || true
     git diff --cached --quiet || git commit -m "checkpoint: batch $BATCH_NUM ($($([ -f archive.txt ] && wc -l < archive.txt || echo 0)) videos archived)"
     git push origin main
 
@@ -52,7 +63,7 @@ while true; do
     fi
 done
 
-# Phase 2: Tag all transcripts
+# Phase 2: Tag all transcripts (includes transcript cleaning via Gemini)
 echo "=== [2/4] Tagging with Gemini ==="
 python scripts/03_tag.py
 
@@ -66,7 +77,7 @@ echo "=== [4/4] Final GitHub commit ==="
 git add archive.txt 2>/dev/null || true
 git add config/*.yaml
 git add data/transcripts/*.json data/tagged/*.json 2>/dev/null || true
-git add data/unresolved_speakers.txt data/uploaded.txt 2>/dev/null || true
+git add data/unresolved_speakers.txt data/uploaded.txt data/speaker_map.json data/cleaned.txt 2>/dev/null || true
 git diff --cached --quiet || git commit -m "pipeline complete: $(date +'%Y-%m-%d %H:%M') — $($([ -f archive.txt ] && wc -l < archive.txt || echo 0)) videos processed"
 git push origin main
 

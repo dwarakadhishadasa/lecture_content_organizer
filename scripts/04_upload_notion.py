@@ -24,24 +24,27 @@ from notion_client.errors import APIResponseError
 load_dotenv()
 
 
+def normalize_themes(themes: list[str]) -> list[str]:
+    """Lowercase and strip themes to collapse case/whitespace variants.
+
+    Deduplicates after normalization and drops empty strings.
+    This prevents unbounded growth of Notion multi_select schema options
+    caused by free-form Gemini output from older tagged files.
+    """
+    seen = set()
+    result = []
+    for t in themes:
+        normalized = t.strip().lower()
+        if normalized and normalized not in seen:
+            seen.add(normalized)
+            result.append(normalized)
+    return result
+
+
 def load_uploaded(path: Path) -> set[str]:
     if not path.exists():
         path.write_text("")
     return set(path.read_text().splitlines())
-
-
-def get_segment_transcript(video_id: str, start_time: float, end_time: float) -> str:
-    """Reconstruct segment text from original Whisper segments by time range."""
-    transcript_path = Path(f"data/transcripts/{video_id}.json")
-    if not transcript_path.exists():
-        return ""
-    with open(transcript_path) as f:
-        transcript = json.load(f)
-    texts = [
-        seg["text"] for seg in transcript.get("segments", [])
-        if seg["start"] >= start_time and seg["end"] <= end_time
-    ]
-    return " ".join(texts)
 
 
 def create_page_with_retry(client: Client, db_id: str, properties: dict, video_id: str) -> bool:
@@ -99,9 +102,7 @@ def main():
 
         all_ok = True
         for seg in segments:
-            segment_transcript = get_segment_transcript(
-                video_id, seg["start_time"], seg["end_time"]
-            )
+            segment_transcript = seg.get("transcript", "")
             if len(segment_transcript) > 2000:
                 print(f"  [WARN] Transcript truncated to 2000 chars for {video_id} "
                       f"@{seg['start_time']}s (full: {len(segment_transcript)} chars)")
@@ -114,7 +115,7 @@ def main():
                 "Start Time": {"number": seg["start_time"]},
                 "End Time": {"number": seg["end_time"]},
                 "Verse References": {"multi_select": [{"name": v} for v in seg["verse_references"]]},
-                "Themes": {"multi_select": [{"name": t} for t in seg["themes"]]},
+                "Themes": {"multi_select": [{"name": t} for t in normalize_themes(seg["themes"])]},
                 "Content Type": {"select": {"name": seg["content_type"]}},
                 "Circle Fit": {"multi_select": [{"name": str(c)} for c in seg["circle_fit"]]},
                 "Key Quote": {"rich_text": [{"text": {"content": seg["key_quote"][:2000]}}]},

@@ -2,7 +2,8 @@
 02_transcribe.py — Transcribe audio files using Whisper large-v3 on GPU.
 
 For each audio file in data/audio/:
-  - Resolves speaker from video title (safety net; 01_download.py pre-filters)
+  - Checks data/speaker_map.json first (playlist-mode: speaker pre-assigned, no fuzzy match)
+  - Falls back to resolve_speaker() from video title (channel-mode safety net)
   - Transcribes with faster-whisper
   - Writes data/transcripts/{video_id}.json atomically
   - Deletes source audio to keep disk bounded
@@ -20,6 +21,15 @@ from scripts.utils.resolve_speaker import load_speakers, resolve_speaker
 
 def main():
     speakers = load_speakers("config/speakers.yaml")
+
+    # speaker_map: video_id → canonical speaker for playlist-mode videos (bypasses fuzzy match)
+    speaker_map_path = Path("data/speaker_map.json")
+    speaker_map = {}
+    if speaker_map_path.exists():
+        with open(speaker_map_path) as f:
+            speaker_map = json.load(f)
+    if speaker_map:
+        print(f"[02_transcribe] Loaded speaker_map.json ({len(speaker_map)} playlist entries)")
 
     Path("data/transcripts").mkdir(parents=True, exist_ok=True)
 
@@ -64,8 +74,9 @@ def main():
         youtube_url = info.get("webpage_url", "")
         duration = info.get("duration", 0)
 
-        # Safety net: resolve speaker (primary filter was in 01_download.py match_filter)
-        speaker = resolve_speaker(title, speakers)
+        # Playlist-mode: use pre-mapped speaker directly (bypasses fuzzy match).
+        # Channel-mode: fall back to resolve_speaker() as before.
+        speaker = speaker_map.get(video_id) or resolve_speaker(title, speakers)
         if speaker is None:
             print(f"[{n}/{total}] Skipping {video_id}: speaker unresolved")
             audio_path.unlink()
