@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 
 import yaml
@@ -5,6 +6,13 @@ from rapidfuzz import process, fuzz
 
 # Project root = two levels up from this file (scripts/utils/resolve_speaker.py)
 _PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+
+# YouTube channel handle → canonical speaker name
+# Handles cases where the channel alias doesn't fuzzy-match the canonical name
+_ALIASES = {
+    "@madhupanditdasaofficial": "HG Madhu Pandit Dasa",
+    "@chanchalapathidas": "HG Chanchalapathi Dasa",
+}
 
 
 def load_speakers(path: str | Path | None = None) -> list[str]:
@@ -37,6 +45,15 @@ def resolve_speaker(
     segments = [s.strip() for s in title.split("|") if "?" not in s]
     best_score, best_match = 0, None
     for segment in segments:
+        # Skip historical Thakura composer names — they share tokens ("Dasa", "Srila")
+        # with canonical modern speakers and cause false positives
+        if re.search(r"thakur", segment, re.IGNORECASE):
+            continue
+        # Resolve YouTube handle aliases before fuzzy matching
+        seg_lower = segment.lower()
+        for alias, canonical_name in _ALIASES.items():
+            if alias in seg_lower:
+                return canonical_name
         result = process.extractOne(segment, canonical, scorer=fuzz.WRatio)
         if result and result[1] > best_score:
             best_score, best_match = result[1], result[0]

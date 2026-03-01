@@ -1,6 +1,7 @@
 yt-dlp>=2024.1.0
 faster-whisper>=1.0.0
-google-genai>=1.0.0
+google-cloud-aiplatform>=1.60.0
+google-cloud-storage>=2.14.0
 notion-client>=2.2.0
 python-dotenv>=1.0.0
 pyyaml>=6.0
