@@ -27,6 +27,7 @@ code_patterns:
   - 01_download.py accepts --batch-size N; exits 101 if more remain, 0 if all done
   - Run inside screen session on RunPod for SSH-disconnect resilience
   - Each script is idempotent - skips already-completed work
+  - Optional cookies: --cookies FILE in 01_download.py; COOKIES_FILE env var in run_pipeline.sh (export COOKIES_FILE=cookies.txt before running)
   - JSON files as intermediate storage (data/transcripts/, data/tagged/)
   - Audio deleted immediately after successful transcription (bounded disk usage)
   - Channel URLs in config/channels.yaml (dynamic, N channels; NOT speaker-tied — speaker identity comes from title parsing)
@@ -264,10 +265,11 @@ config/channels.yaml
            'writeinfojson': True,
            'max_downloads': batch_size,
            'match_filter': speaker_match_filter,
-           'sleep_interval': 15,
-           'max_sleep_interval': 45,
-           'sleep_requests': 3,
+           'sleep_interval': 5,        # reduced from 15 — cookies bypass IP-based bot detection
+           'max_sleep_interval': 15,   # reduced from 45
+           'sleep_requests': 1,        # reduced from 3
            'ignoreerrors': True,
+           **_cookie_opts(args.cookies),
        }
        ```
     6. Catch `MaxDownloadsReached` from `yt_dlp.utils`:
@@ -282,6 +284,7 @@ config/channels.yaml
            print(f"[01_download] Batch of {batch_size} downloaded. More remain.")
            sys.exit(101)  # signal: loop should continue
        ```
+  - **Cookies support (added 2026-03-02):** Add `--cookies FILE` CLI argument. Add `_cookie_opts()` helper: `return {"cookiefile": cookies} if cookies else {}`. Spread into both playlist and channel opts dicts. Cookies bypass YouTube IP-based bot detection (authenticated session); allows reducing sleep values (see above). Export via browser extension "Get cookies.txt LOCALLY" or `yt-dlp --cookies-from-browser chrome --skip-download <any-url>`. Use `export COOKIES_FILE=cookies.txt` before running `run_pipeline.sh`. Add `cookies.txt` to `.gitignore` — file contains auth tokens and must not be committed.
   - Notes: `match_filter` callable is invoked by yt-dlp after fetching video metadata (title available) but before any audio download. Videos that return a non-None string are skipped entirely: no audio downloaded, no info.json written, NOT added to archive.txt — this means re-running after adding a missing speaker to speakers.yaml will automatically retry the video on the next run. `match_filter`-skipped videos do NOT count against `max_downloads`, so BATCH_SIZE=50 means 50 actually-downloaded (resolved-speaker) lectures. Unresolved video titles are still logged to `data/unresolved_speakers.txt` by `resolve_speaker()`. `ignoreerrors=True` skips unavailable/private/age-gated videos; `archive.txt` deduplicates globally — already-downloaded video IDs are never re-fetched; exit code 101 is how `run_pipeline.sh` detects that more batches remain; **F3** — print `[01_download] Batch N complete` at end
 
 - [x] **Task 6: Implement `scripts/02_transcribe.py`**
@@ -445,6 +448,13 @@ config/channels.yaml
 
     BATCH_SIZE=50  # lectures per download-transcribe cycle (~3-6 GB audio at a time)
     BATCH_NUM=0
+    COOKIES_FILE="${COOKIES_FILE:-}"  # optional: export COOKIES_FILE=cookies.txt before running
+
+    COOKIES_ARG=""
+    if [ -n "$COOKIES_FILE" ]; then
+        COOKIES_ARG="--cookies $COOKIES_FILE"
+        echo "=== Using cookies file: $COOKIES_FILE ==="
+    fi
 
     echo "=== Pipeline start (BATCH_SIZE=$BATCH_SIZE) ==="
 
@@ -454,7 +464,7 @@ config/channels.yaml
         echo "--- [Batch $BATCH_NUM] Downloading up to $BATCH_SIZE lectures ---"
 
         set +e
-        python scripts/01_download.py --batch-size $BATCH_SIZE
+        python scripts/01_download.py --batch-size $BATCH_SIZE $COOKIES_ARG
         DOWNLOAD_CODE=$?
         set -e
 
