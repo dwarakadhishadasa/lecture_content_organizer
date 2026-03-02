@@ -16,6 +16,13 @@ git config --global user.name "Dwarakadas"
 
 BATCH_SIZE=50  # lectures per download-transcribe cycle (~3-6 GB audio at a time)
 BATCH_NUM=0
+COOKIES_FILE="${COOKIES_FILE:-}"  # set externally: export COOKIES_FILE=cookies.txt
+
+COOKIES_ARG=""
+if [ -n "$COOKIES_FILE" ]; then
+    COOKIES_ARG="--cookies $COOKIES_FILE"
+    echo "=== Using cookies file: $COOKIES_FILE ==="
+fi
 
 echo "=== Pipeline start (BATCH_SIZE=$BATCH_SIZE) ==="
 
@@ -26,7 +33,7 @@ while true; do
     echo "--- [Batch $BATCH_NUM] Downloading up to $BATCH_SIZE lectures ---"
 
     set +e
-    python3 scripts/01_download.py --batch-size $BATCH_SIZE
+    python3 scripts/01_download.py --batch-size $BATCH_SIZE $COOKIES_ARG
     DOWNLOAD_CODE=$?
     set -e
 

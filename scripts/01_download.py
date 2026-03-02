@@ -6,8 +6,12 @@ Exit codes:
   101 — Batch complete, more remain (run_pipeline.sh loops)
 
 Usage:
-  python scripts/01_download.py [--batch-size N]   # channel mode (default)
-  python scripts/01_download.py --playlists         # playlist mode (known speakers)
+  python scripts/01_download.py [--batch-size N]          # channel mode (default)
+  python scripts/01_download.py --playlists                # playlist mode (known speakers)
+  python scripts/01_download.py --cookies cookies.txt      # pass browser cookies file
+
+Export cookies from Chrome/Firefox with the "Get cookies.txt LOCALLY" extension,
+or via: yt-dlp --cookies-from-browser chrome --skip-download <any-url>
 """
 import argparse
 import json
@@ -41,7 +45,11 @@ class _DownloadLogger:
 SPEAKER_MAP_PATH = Path("data/speaker_map.json")
 
 
-def download_playlists():
+def _cookie_opts(cookies: str | None) -> dict:
+    return {"cookiefile": cookies} if cookies else {}
+
+
+def download_playlists(cookies: str | None = None):
     """
     Download all configured playlists, bypassing speaker resolution.
     Speaker name is taken directly from channels.yaml and written to
@@ -88,6 +96,7 @@ def download_playlists():
             "sleep_requests": 3,
             "ignoreerrors": True,
             "logger": _DownloadLogger(),
+            **_cookie_opts(cookies),
         }
 
         with YoutubeDL(opts) as ydl:
@@ -110,14 +119,16 @@ def main():
                         help="Max lectures to download per run (default: 50)")
     parser.add_argument("--playlists", action="store_true",
                         help="Download configured playlists with known speakers (no batch limit)")
+    parser.add_argument("--cookies", metavar="FILE",
+                        help="Path to Netscape-format cookies file for YouTube authentication")
     args = parser.parse_args()
 
     if args.playlists:
-        download_playlists()
+        download_playlists(cookies=args.cookies)
         sys.exit(0)
 
     # Always download playlists first before processing channels
-    download_playlists()
+    download_playlists(cookies=args.cookies)
 
     batch_size = args.batch_size
 
@@ -155,6 +166,7 @@ def main():
         "sleep_requests": 3,
         "ignoreerrors": True,
         "logger": _DownloadLogger(),
+        **_cookie_opts(args.cookies),
     }
 
     try:
