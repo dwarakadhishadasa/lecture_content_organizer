@@ -19,17 +19,8 @@ BATCH_NUM=0
 
 echo "=== Pipeline start (BATCH_SIZE=$BATCH_SIZE) ==="
 
-# Phase 0: Download playlists with known speakers (no batch limit, no speaker resolution)
-echo "=== [0/4] Downloading playlists ==="
-set +e
-python3 scripts/01_download.py --playlists
-PLAYLIST_CODE=$?
-set -e
-if [ $PLAYLIST_CODE -ne 0 ]; then
-    echo "[WARN] Playlist download exited with code $PLAYLIST_CODE — check logs, continuing with channels"
-fi
-
 # Phase 1: Download-transcribe loop (keeps disk bounded)
+# Note: 01_download.py handles playlists automatically before each channel batch
 while true; do
     BATCH_NUM=$((BATCH_NUM + 1))
     echo "--- [Batch $BATCH_NUM] Downloading up to $BATCH_SIZE lectures ---"

@@ -1,20 +1,66 @@
+# Playlists with a known speaker — downloaded without speaker resolution.
+# Speaker is stamped directly onto each video (written to data/speaker_map.json).
+# Run via: python3 scripts/01_download.py --playlists
+playlists:
+  - url: https://www.youtube.com/watch?v=xT1qaTWcMpQ&list=PLikT9B8Jspa2_qPtXg6VCwXXaY9_LPL1A
+    speaker: "Yatri"
+  # - url: "https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxx"
+  #   speaker: "Canonical Speaker Name (exact form as in speakers.yaml)"
+
+  # HG Satya Gaura Chandra Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-nAJJH_gECdZ79fYQo1u_19"
+    speaker: "HG Satya Gaura Chandra Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLNCinO8_sTeN9kOVTdNs9Vb2Xs0-rXYZF"
+    speaker: "HG Satya Gaura Chandra Dasa"
+
+  # HG Amitasana Dasa
+  - url: "https://www.youtube.com/playlist?list=PLxNqt5PyA-IqI9tzhb7N_RtW5VAOzysNH"
+    speaker: "HG Amitasana Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lmq2c32ns1Rk0FZMKRghap"
+    speaker: "HG Amitasana Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLxNqt5PyA-Ipj1n1yEzx4BYdEDtYWd1LX"
+    speaker: "HG Amitasana Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLxNqt5PyA-Ip36-aiE5pV-XGQbtWgdclM"
+    speaker: "HG Amitasana Dasa"
+
+  # HG Madhu Pandit Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-k1hMlGnAmNT8uMpfw68HNO"
+    speaker: "HG Madhu Pandit Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-mLVsDDXgO5OzHUTXsqhp2P"
+    speaker: "HG Madhu Pandit Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-kXiMJvyy0bPYXwyK8YNWP_"
+    speaker: "HG Madhu Pandit Dasa"
+
+  # HG Chanchalapathi Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lGOfZ0XG4HBdhM-8p2yvYN"
+    speaker: "HG Chanchalapathi Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lbuziiDo2vR8_l43i4QDMo"
+    speaker: "HG Chanchalapathi Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-ms9asIcaOp5PL8IcD3nkEH"
+    speaker: "HG Chanchalapathi Dasa"
+
+  # HG Rajiv Lochan Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lUV2aRddt32vuQAj3HNu6C"
+    speaker: "HG Rajiv Lochan Dasa"
+
+  # HG Vasudev Keshav Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-kio90Ggh216TrSD-oli1Ie"
+    speaker: "HG Vasudev Keshav Dasa"
+
+  # HG Suvyakta Narasimha Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-ntpoFaZ531bd2uQ3Iq9FKV"
+    speaker: "HG Suvyakta Narasimha Dasa"
+    
 # YouTube channel URLs for bulk download
 # NOT speaker-tied — speaker identity comes from video title parsing (config/speakers.yaml)
 # Add/remove channels here without code changes.
 channels:
+  - url: "https://www.youtube.com/@ISKCONHubli/videos"
   - url: "https://www.youtube.com/@iskconbangaloresanga/videos"
   - url: "https://www.youtube.com/@iskconbangalore/videos"
   - url: "https://www.youtube.com/@hkmchennai/videos"
   - url: "https://www.youtube.com/@HKMCtattvam/videos"
   - url: "https://www.youtube.com/@Hkmcsangam/videos"
-  - url: "https://www.youtube.com/@ISKCONHubli/videos"
   - url: "https://www.youtube.com/@GuptVrindavanDham/videos"
   - url: "https://www.youtube.com/@hkmmumbai/videos"
   - url: "https://www.youtube.com/@HareKrishnaSatsang-u2m/videos"
-
-# Playlists with a known speaker — downloaded without speaker resolution.
-# Speaker is stamped directly onto each video (written to data/speaker_map.json).
-# Run via: python3 scripts/01_download.py --playlists
-playlists:
-  # - url: "https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxx"
-  #   speaker: "Canonical Speaker Name (exact form as in speakers.yaml)"

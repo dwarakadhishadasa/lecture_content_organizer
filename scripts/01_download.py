@@ -116,6 +116,9 @@ def main():
         download_playlists()
         sys.exit(0)
 
+    # Always download playlists first before processing channels
+    download_playlists()
+
     batch_size = args.batch_size
 
     # Load channel URLs
