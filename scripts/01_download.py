@@ -49,12 +49,15 @@ def _cookie_opts(cookies: str | None) -> dict:
     return {"cookiefile": cookies} if cookies else {}
 
 
-def download_playlists(cookies: str | None = None):
+def download_playlists(cookies: str | None = None, batch_size: int | None = None) -> tuple[int, bool]:
     """
     Download all configured playlists, bypassing speaker resolution.
     Speaker name is taken directly from channels.yaml and written to
     data/speaker_map.json so 02_transcribe.py can use it without fuzzy matching.
     Idempotent: archive.txt deduplicates already-downloaded videos.
+
+    Returns (total_downloaded, batch_full) where batch_full is True if batch_size
+    was reached before all playlists were exhausted.
     """
     with open("config/channels.yaml") as f:
         config = yaml.safe_load(f)
@@ -62,7 +65,7 @@ def download_playlists(cookies: str | None = None):
     playlists = config.get("playlists") or []
     if not playlists:
         print("[01_download] No playlists configured — skipping playlist phase.")
-        return
+        return 0, False
 
     # Load existing speaker_map (preserve entries from previous runs)
     speaker_map = {}
@@ -70,7 +73,13 @@ def download_playlists(cookies: str | None = None):
         with open(SPEAKER_MAP_PATH) as f:
             speaker_map = json.load(f)
 
+    total_downloaded = 0
+
     for playlist in playlists:
+        remaining = None if batch_size is None else batch_size - total_downloaded
+        if batch_size is not None and remaining <= 0:
+            return total_downloaded, True
+
         url = playlist["url"]
         speaker = playlist["speaker"]
         print(f"[01_download] Playlist: {url}")
@@ -80,6 +89,9 @@ def download_playlists(cookies: str | None = None):
 
         def progress_hook(d, _captured=newly_captured):
             if d["status"] == "finished":
+                # "finished" fires before yt-dlp increments its download counter
+                # and raises MaxDownloadsReached, so newly_captured will always
+                # include the last downloaded video even when the batch limit is hit.
                 video_id = d.get("info_dict", {}).get("id")
                 if video_id:
                     _captured.append(video_id)
@@ -96,11 +108,19 @@ def download_playlists(cookies: str | None = None):
             "sleep_requests": 1,
             "ignoreerrors": True,
             "logger": _DownloadLogger(),
+            **({"max_downloads": remaining} if remaining is not None else {}),
             **_cookie_opts(cookies),
         }
 
-        with YoutubeDL(opts) as ydl:
-            ydl.download([url])
+        batch_full = False
+        try:
+            with YoutubeDL(opts) as ydl:
+                ydl.download([url])
+        except MaxDownloadsReached:
+            # MaxDownloadsReached is raised by yt-dlp's download manager after
+            # completing a download, not inside the per-video error handler.
+            # ignoreerrors does NOT swallow it — this catch is reliable.
+            batch_full = True
 
         for video_id in newly_captured:
             speaker_map[video_id] = speaker
@@ -109,8 +129,14 @@ def download_playlists(cookies: str | None = None):
         SPEAKER_MAP_PATH.parent.mkdir(parents=True, exist_ok=True)
         with open(SPEAKER_MAP_PATH, "w") as f:
             json.dump(speaker_map, f, ensure_ascii=False, indent=2)
+        total_downloaded += len(newly_captured)
         print(f"[01_download]   Done: {len(newly_captured)} new video(s) mapped to '{speaker}' "
               f"({len(speaker_map)} total entries in speaker_map.json)")
+
+        if batch_full:
+            return total_downloaded, True
+
+    return total_downloaded, False
 
 
 def main():
@@ -118,19 +144,31 @@ def main():
     parser.add_argument("--batch-size", type=int, default=50,
                         help="Max lectures to download per run (default: 50)")
     parser.add_argument("--playlists", action="store_true",
-                        help="Download configured playlists with known speakers (no batch limit)")
+                        help="Download configured playlists with known speakers (batch-size applies)")
     parser.add_argument("--cookies", metavar="FILE",
                         help="Path to Netscape-format cookies file for YouTube authentication")
     args = parser.parse_args()
+    batch_size = args.batch_size
+    if batch_size <= 0:
+        parser.error("--batch-size must be a positive integer (0 would download nothing and loop forever)")
 
     if args.playlists:
-        download_playlists(cookies=args.cookies)
+        _, batch_full = download_playlists(cookies=args.cookies, batch_size=batch_size)
+        if batch_full:
+            print(f"[01_download] Batch of {batch_size} downloaded during playlists. More remain.")
+            sys.exit(101)
         sys.exit(0)
 
     # Always download playlists first before processing channels
-    download_playlists(cookies=args.cookies)
+    playlist_count, batch_full = download_playlists(cookies=args.cookies, batch_size=batch_size)
+    if batch_full:
+        print(f"[01_download] Batch of {batch_size} downloaded during playlists. More remain.")
+        sys.exit(101)
 
-    batch_size = args.batch_size
+    remaining = batch_size - playlist_count
+    if remaining <= 0:
+        print(f"[01_download] Batch of {batch_size} fully consumed by playlists. Skipping channels.")
+        sys.exit(101)
 
     # Load channel URLs
     with open("config/channels.yaml") as f:
@@ -159,7 +197,7 @@ def main():
         "outtmpl": "data/audio/%(id)s.%(ext)s",
         "download_archive": "archive.txt",
         "writeinfojson": True,
-        "max_downloads": batch_size,
+        "max_downloads": remaining,
         "match_filter": speaker_match_filter,
         "sleep_interval": 5,
         "max_sleep_interval": 15,
@@ -175,7 +213,8 @@ def main():
         print(f"[01_download] All channels fully downloaded.")
         sys.exit(0)
     except MaxDownloadsReached:
-        print(f"[01_download] Batch of {batch_size} downloaded. More remain.")
+        print(f"[01_download] Batch of {batch_size} downloaded "
+              f"({playlist_count} playlist + {remaining} channel). More remain.")
         sys.exit(101)
 
 

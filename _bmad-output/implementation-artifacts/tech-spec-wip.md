@@ -8,7 +8,7 @@ tech_stack:
   - Python 3.10+
   - yt-dlp (Python API - YoutubeDL class)
   - faster-whisper (Whisper large-v3)
-  - google-generativeai (Gemini 1.5 Flash)
+  - google-cloud-aiplatform + google-cloud-storage (Vertex AI Batch API, Gemini 2.0 Flash)
   - notion-client (Notion API)
   - RunPod A40 GPU pod (all scripts run here via SSH)
 files_to_modify:
@@ -38,7 +38,9 @@ code_patterns:
   - yt-dlp --download-archive archive.txt for global deduplication
   - yt-dlp --write-info-json to preserve metadata for timestamp URLs
   - All scripts print [N/TOTAL] progress for pipeline.log monitoring
-  - 03_tag.py: robust JSON parsing with regex fallback + failed_tag.txt logging
+  - 03_tag.py: Vertex AI Batch API (Gemini 2.0 Flash) — build JSONL + upload to GCS + submit batch job + wait + download results; VIDEO_ID marker in each request for result correlation; _foreign_char_ratio() strips segments >60% non-Latin foreign chars before sending; transcript field embedded per segment in output
+  - 01_download.py: download_playlists() runs before channel phase; batch_size cap applies to total downloads across playlists + channels combined; playlists write data/speaker_map.json (video_id → speaker, bypasses fuzzy match in 02_transcribe.py)
+  - 02_transcribe.py: loads speaker_map.json at startup; playlist-mode videos use pre-mapped speaker directly (speaker_map.get(video_id)), channel-mode falls back to resolve_speaker()
 test_patterns:
   - No formal test framework (personal tooling)
   - Idempotency smoke test: run each script twice, verify second run skips all work
@@ -236,10 +238,11 @@ config/channels.yaml
   - File: `.env` (never commit to git)
   - Action: Create `.env` with:
     ```
-    GEMINI_API_KEY=your_google_ai_studio_key
+    GOOGLE_CLOUD_PROJECT=your_gcp_project_id   # used by 03_tag.py (Vertex AI Batch API)
     NOTION_API_KEY=secret_your_notion_integration_token
     NOTION_DATABASE_ID=your_32char_database_id
     ```
+  - Notes: `GEMINI_API_KEY` is no longer used — tagging was migrated to Vertex AI Batch API (see Task 7). Vertex AI uses application-default credentials (`gcloud auth application-default login`) or a service account; `GOOGLE_CLOUD_PROJECT` sets the billing project. GCS bucket `{PROJECT_ID}-lco-tagger` is created automatically by `03_tag.py` if it does not exist.
 
 - [x] **Task 5: Implement `scripts/01_download.py`**
   - File: `scripts/01_download.py`
@@ -284,6 +287,8 @@ config/channels.yaml
            print(f"[01_download] Batch of {batch_size} downloaded. More remain.")
            sys.exit(101)  # signal: loop should continue
        ```
+  - **Playlist support (added post-implementation):** `config/channels.yaml` has a `playlists:` section alongside `channels:` — each entry has `url` and `speaker` (exact canonical name, no fuzzy matching needed). `download_playlists(cookies, batch_size)` runs before the channel phase every time `main()` is invoked. Playlist downloads bypass `speaker_match_filter` entirely; speaker is written directly to `data/speaker_map.json` (video_id → canonical speaker) for `02_transcribe.py` to consume. `--playlists` flag runs playlist phase only and exits (skip channel phase). `data/speaker_map.json` is written after each playlist and preserved across runs.
+  - **Batch-size cap for playlists (added 2026-03-02):** `batch_size` applies to total downloads across playlists AND channels combined. `download_playlists()` accepts `batch_size` param; passes `remaining = batch_size - total_downloaded` as `max_downloads` per playlist opts; catches `MaxDownloadsReached` and returns `(total_downloaded, True)`. `main()` subtracts `playlist_count` from channel budget (`remaining = batch_size - playlist_count`); exits 101 if playlists already exhausted the cap. Before this fix, playlists ran unbounded, causing total per-run downloads to exceed `batch_size`.
   - **Cookies support (added 2026-03-02):** Add `--cookies FILE` CLI argument. Add `_cookie_opts()` helper: `return {"cookiefile": cookies} if cookies else {}`. Spread into both playlist and channel opts dicts. Cookies bypass YouTube IP-based bot detection (authenticated session); allows reducing sleep values (see above). Export via browser extension "Get cookies.txt LOCALLY" or `yt-dlp --cookies-from-browser chrome --skip-download <any-url>`. Use `export COOKIES_FILE=cookies.txt` before running `run_pipeline.sh`. Add `cookies.txt` to `.gitignore` — file contains auth tokens and must not be committed.
   - Notes: `match_filter` callable is invoked by yt-dlp after fetching video metadata (title available) but before any audio download. Videos that return a non-None string are skipped entirely: no audio downloaded, no info.json written, NOT added to archive.txt — this means re-running after adding a missing speaker to speakers.yaml will automatically retry the video on the next run. `match_filter`-skipped videos do NOT count against `max_downloads`, so BATCH_SIZE=50 means 50 actually-downloaded (resolved-speaker) lectures. Unresolved video titles are still logged to `data/unresolved_speakers.txt` by `resolve_speaker()`. `ignoreerrors=True` skips unavailable/private/age-gated videos; `archive.txt` deduplicates globally — already-downloaded video IDs are never re-fetched; exit code 101 is how `run_pipeline.sh` detects that more batches remain; **F3** — print `[01_download] Batch N complete` at end
 
@@ -291,6 +296,7 @@ config/channels.yaml
   - File: `scripts/02_transcribe.py`
   - Action:
     1. At startup: `from scripts.utils.resolve_speaker import load_speakers, resolve_speaker`; `speakers = load_speakers("config/speakers.yaml")`
+       Load `data/speaker_map.json` into a dict (empty if missing) — maps playlist video_id → canonical speaker, bypasses fuzzy match. Speaker resolution: `speaker = speaker_map.get(video_id) or resolve_speaker(title, speakers)`.
     2. At startup: delete any stale `data/transcripts/*.json.tmp` files from previous interrupted runs
     3. Load `WhisperModel("large-v3", device="cuda", compute_type="float16")` once at startup
     4. Glob `data/audio/` for audio files (`*.mp3`, `*.m4a`, `*.webm`); count total for progress
@@ -329,48 +335,25 @@ config/channels.yaml
 - [x] **Task 7: Implement `scripts/03_tag.py`**
   - File: `scripts/03_tag.py`
   - Action:
-    1. `genai.configure(api_key=os.environ["GEMINI_API_KEY"])`; `model = genai.GenerativeModel("gemini-1.5-flash")`
-    2. Glob `data/transcripts/*.json`; count total for progress
-    3. For each transcript (print `[N/TOTAL] Tagging {video_id}...`):
-       - Derive `video_id` from filename
-       - **Skip** if `data/tagged/{video_id}.json` already exists
-       - Load transcript JSON
-       - Format transcript text: one line per Whisper segment → `[{start:.0f}s] {text}`
-       - Build and send prompt (see Notes for full template)
-       - **F2 — Robust JSON parsing:**
-         ```python
-         raw = response.text
-         # Strip markdown fences
-         raw = re.sub(r'```json|```', '', raw).strip()
-         # Fallback: extract first {...} block if prose wraps the JSON
-         match = re.search(r'\{.*\}', raw, re.DOTALL)
-         if not match:
-             print(f"[WARN] No JSON found for {video_id} — logging to data/failed_tag.txt")
-             with open("data/failed_tag.txt", "a") as f: f.write(video_id + "\n")
-             continue
-         data = json.loads(match.group())
-         # Validate required keys on each segment
-         required = {"start_time","end_time","verse_references","themes","content_type","circle_fit","key_quote","summary"}
-         valid_segments = [s for s in data.get("segments", []) if required.issubset(s.keys())]
-         if not valid_segments:
-             print(f"[WARN] No valid segments for {video_id} — logging to data/failed_tag.txt")
-             with open("data/failed_tag.txt", "a") as f: f.write(video_id + "\n")
-             continue
-         ```
-       - **P2 — Timestamp URL:** Use `timestamp_url = f"https://youtu.be/{video_id}?t={int(segment['start_time'])}"` — avoids the double-`?` bug from appending to `watch?v=` URLs
-       - **P5 — Key name:** Save tagged segments under the key `"segments"` (same key name as transcript JSON for consistency):
-         ```python
-         output = {
-             "video_id": video_id, "title": title, "speaker": speaker,
-             "youtube_url": youtube_url,
-             "segments": valid_segments  # each enriched with timestamp_url etc.
-         }
-         ```
-       - Save `data/tagged/{video_id}.json`
-       - `time.sleep(4)` after each call (15 RPM = max 1 per 4s)
-    4. Wrap each API call in retry loop: on exception, sleep 2s → 4s → 8s, then log to `failed_tag.txt` and `continue`
-  - Notes: Gemini prompt template:
+  > **Note (post-implementation rewrite):** Task 7 was rewritten to use the **Vertex AI Batch API** (Gemini 2.0 Flash) instead of sequential Gemini 1.5 Flash calls. The original sequential design (one API call per transcript, 4s sleep between calls) was replaced with a single batch job covering all untagged transcripts. The prompt schema was also extended to include a `transcript` field per segment.
+
+    1. `aiplatform.init(project=PROJECT_ID, location="us-central1")` where `PROJECT_ID = os.environ["GOOGLE_CLOUD_PROJECT"]`; GCS client via `storage.Client(project=PROJECT_ID)`. GCS bucket `{PROJECT_ID}-lco-tagger` created if not present.
+    2. Glob `data/transcripts/*.json`; filter to untagged only (no `data/tagged/{id}.json`).
+    3. **Build JSONL (`build_input_jsonl`):** For each untagged transcript:
+       - Strip segments where `_foreign_char_ratio(seg["text"]) >= 0.6` (Devanagari Sanskrit verses, Urdu/Tamil/Telugu audio versions, Whisper hallucination artifacts — Cyrillic/CJK)
+       - Format remaining segments: `[{start:.0f}s] {text}`
+       - Embed `VIDEO_ID: {video_id}` as the first line of each prompt (for result correlation after batch completes)
+       - Wrap in Vertex AI request envelope: `{"request": {"contents": [...], "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8192}}}`
+    4. Upload JSONL to `gs://{BUCKET}/batch_jobs/{ts}/input.jsonl`; submit `aiplatform.BatchPredictionJob.create()`; block with `job.wait()`.
+    5. If job state is FAILED/CANCELLED: log all untagged video IDs to `data/failed_tag.txt` and return.
+    6. **Download and parse results (`fetch_results`):** Iterate all `*.jsonl` blobs under output prefix; for each line: extract `VIDEO_ID` from request text, check item-level error (`item["status"]`), extract `candidates[0].content.parts[0].text`, parse via regex fallback + key validation.
+    7. **Save tagged JSON** per video with `timestamp_url` added to each segment; log missing/failed IDs to `data/failed_tag.txt`.
+  - Segment output schema now includes `transcript` field: verbatim cleaned text of everything said in the segment (grammar fixed, disfluency repetitions removed, Sanskrit terms preserved exactly).
+  - Required segment keys: `start_time`, `end_time`, `verse_references`, `themes`, `content_type`, `circle_fit`, `key_quote`, `summary`, `transcript`.
+  - No rate limiting needed — Vertex AI Batch API handles throughput internally. No `time.sleep()` between calls.
+  - **Prompt template** (embedded in `PROMPT_TEMPLATE` constant):
     ```
+    VIDEO_ID: {video_id}
     You are analyzing a transcript from a Vaishnava lecture.
     Speaker: {speaker}
     Title: {title}
@@ -379,7 +362,7 @@ config/channels.yaml
     Timestamped transcript:
     {transcript_text}
 
-    Identify thematic segments of 5–10 minutes each. For each segment return ONLY valid JSON (no markdown fences):
+    Identify thematic segments of 5-10 minutes each. For each segment return ONLY valid JSON (no markdown fences):
     {
       "segments": [
         {
@@ -390,15 +373,16 @@ config/channels.yaml
           "content_type": "story|analogy|philosophy|practical",
           "circle_fit": [1, 2],
           "key_quote": "Most impactful sentence from this segment",
-          "summary": "One sentence describing this segment"
+          "summary": "One sentence describing this segment",
+          "transcript": "Verbatim cleaned text..."
         }
       ]
     }
     circle_fit: 1=full-time devotees, 2=congregation/volunteers, 3=newcomers, 4=general public with no prior exposure
-    VERSE REFERENCE FORMAT (P1): Use ONLY "BG X.Y" for Bhagavad-gita and "SB X.Y.Z" for Srimad Bhagavatam.
-    No other formats ("Bg.", "Bhagavad-gita", chapter references without verse). If uncertain, use empty list [].
+    VERSE REFERENCE FORMAT: Use ONLY "BG X.Y" / "SB X.Y.Z". If uncertain, use [].
+    TRANSCRIPT FIELD: Cleaned verbatim prose — not a summary. Fix grammar, remove disfluency repetitions, preserve Sanskrit terms exactly.
     ```
-  - After run, check `data/failed_tag.txt` — re-run `03_tag.py` after fixing any issue; failed video_ids have no tagged JSON so they will be retried automatically
+  - After run, check `data/failed_tag.txt` — re-run `03_tag.py`; failed video_ids have no tagged JSON so they will be retried automatically
 
 - [x] **Task 8: Implement `scripts/04_upload_notion.py`**
   - File: `scripts/04_upload_notion.py`
