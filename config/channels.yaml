@@ -7,10 +7,6 @@ playlists:
   # - url: "https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxx"
   #   speaker: "Canonical Speaker Name (exact form as in speakers.yaml)"
 
-  # HG Satya Gaura Chandra Dasa
-  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-nAJJH_gECdZ79fYQo1u_19"
-    speaker: "HG Satya Gaura Chandra Dasa"
-
   # HG Amitasana Dasa
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lmq2c32ns1Rk0FZMKRghap"
     speaker: "HG Amitasana Dasa"
@@ -19,17 +15,16 @@ playlists:
   - url: "https://www.youtube.com/playlist?list=PLxNqt5PyA-Ip36-aiE5pV-XGQbtWgdclM"
     speaker: "HG Amitasana Dasa"
 
-  - url: "https://www.youtube.com/playlist?list=PLNCinO8_sTeN9kOVTdNs9Vb2Xs0-rXYZF"
-    speaker: "HG Satya Gaura Chandra Dasa"
+
   # HG Madhu Pandit Dasa
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-k1hMlGnAmNT8uMpfw68HNO"
     speaker: "HG Madhu Pandit Dasa"
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-kNyVocJzO1MXqsvimBMOMy"
     speaker: "HG Madhu Pandit Dasa"
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-kNyVocJzO1MXqsvimBMOMy"
+    speaker: "HG Madhu Pandit Dasa"
 
   # HG Suvyakta Narasimha Dasa
-  - url: "https://www.youtube.com/playlist?list=PL2CCUWOdqqaMfnZJYHESpyWMY6FbxkHef"
-    speaker: "HG Suvyakta Narasimha Dasa"
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-ntpoFaZ531bd2uQ3Iq9FKV"
     speaker: "HG Suvyakta Narasimha Dasa"
 
@@ -40,7 +35,7 @@ playlists:
     speaker: "HG Chanchalapathi Dasa"
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lNGxitbV5MBzbV1qE2dBPD"
     speaker: "HG Chanchalapathi Dasa"
-  
+
   # HG Rajiv Lochan Dasa
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-lUV2aRddt32vuQAj3HNu6C"
     speaker: "HG Rajiv Lochan Dasa"
@@ -50,9 +45,17 @@ playlists:
     speaker: "HG Vasudev Keshav Dasa"
   - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-k-VHcGd_h9xg5c7Jyqa11w"
     speaker: "HG Vasudev Keshav Dasa"
+  - url: "https://www.youtube.com/playlist?list=PL2CCUWOdqqaMfnZJYHESpyWMY6FbxkHef"
+    speaker: "HG Suvyakta Narasimha Dasa"
 
+  # HG Madhu Pandit Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-l7pfiqQkOvyAFkSE3lndbn"
+    speaker: "HG Madhu Pandit Dasa"
 
-    
+  # HG Satya Gaura Chandra Dasa
+  - url: "https://www.youtube.com/playlist?list=PLKVQRAZMT7-nAJJH_gECdZ79fYQo1u_19"
+    speaker: "HG Satya Gaura Chandra Dasa"
+
 # YouTube channel URLs for bulk download
 # NOT speaker-tied — speaker identity comes from video title parsing (config/speakers.yaml)
 # Add/remove channels here without code changes.
