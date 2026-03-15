@@ -34,6 +34,36 @@ def slugify(name: str) -> str:
     return re.sub(r"[^a-z0-9_]", "", name.lower().replace(" ", "_"))
 
 
+def valid_segment(seg: object) -> bool:
+    return isinstance(seg, dict) and "start_time" in seg
+
+
+def normalize_lecture(path: Path) -> dict | None:
+    data = json.loads(path.read_text())
+    if not isinstance(data, dict):
+        print(f"  [WARN] Skipping {path.name}: expected lecture object, got {type(data).__name__}")
+        return None
+    if "speaker" not in data or "title" not in data:
+        print(f"  [WARN] Skipping {path.name}: missing lecture metadata")
+        return None
+
+    segments = data.get("segments", [])
+    if not isinstance(segments, list):
+        print(f"  [WARN] Skipping {path.name}: expected segments list")
+        return None
+
+    filtered = [seg for seg in segments if valid_segment(seg)]
+    dropped = len(segments) - len(filtered)
+    if dropped:
+        print(f"  [WARN] {path.name}: dropped {dropped} malformed segment(s)")
+    if not filtered:
+        print(f"  [WARN] Skipping {path.name}: no valid segments")
+        return None
+
+    data["segments"] = filtered
+    return data
+
+
 def format_segment(seg: dict, heading: str = "###") -> str:
     themes      = ", ".join(seg.get("themes", [])) or "general"
     verse_refs  = ", ".join(seg.get("verse_references", [])) or "—"
@@ -134,8 +164,13 @@ def main():
     # Load and group by speaker
     groups: dict[str, list[dict]] = {}
     for path in tagged_files:
-        data = json.loads(path.read_text())
+        data = normalize_lecture(path)
+        if data is None:
+            continue
         groups.setdefault(data["speaker"], []).append(data)
+    if not groups:
+        print("[05_export] No valid tagged lecture files found in data/tagged/")
+        return
     for lectures in groups.values():
         lectures.sort(key=lambda d: d["title"])
 

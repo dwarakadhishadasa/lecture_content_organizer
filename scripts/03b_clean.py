@@ -46,6 +46,96 @@ Segments:
 """
 
 
+def extract_video_id(request_text: str) -> str | None:
+    m = re.search(r"^VIDEO_ID: (\S+)", request_text)
+    return m.group(1) if m else None
+
+
+def parse_tagged_segments(raw: str, video_id: str) -> list[dict] | None:
+    raw = re.sub(r"```json|```", "", raw).strip()
+    match = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not match:
+        print(f"  [WARN] No tagged JSON block found for {video_id}")
+        return None
+    try:
+        data = json.loads(match.group())
+    except json.JSONDecodeError as e:
+        print(f"  [WARN] Tagged JSON decode error for {video_id}: {e}")
+        return None
+    segments = data.get("segments")
+    if not isinstance(segments, list):
+        print(f"  [WARN] Tagged response missing segments for {video_id}")
+        return None
+    return segments
+
+
+def iter_tagged_docs(tagged_paths: list[Path]) -> list[tuple[Path, dict]]:
+    docs: list[tuple[Path, dict]] = []
+
+    for path in tagged_paths:
+        with open(path) as f:
+            data = json.load(f)
+
+        if isinstance(data, dict):
+            segments = data.get("segments")
+            if isinstance(segments, list):
+                docs.append((path, data))
+                continue
+            print(f"  [WARN] Skipping {path.name}: expected dict with 'segments' list")
+            continue
+
+        if not isinstance(data, list):
+            print(f"  [WARN] Skipping {path.name}: unsupported JSON shape {type(data).__name__}")
+            continue
+
+        for item in data:
+            req_text = (item.get("request", {})
+                            .get("contents", [{}])[0]
+                            .get("parts", [{}])[0]
+                            .get("text", ""))
+            video_id = extract_video_id(req_text)
+            if not video_id:
+                print(f"  [WARN] Skipping batch item in {path.name}: VIDEO_ID not found")
+                continue
+
+            if item.get("status"):
+                print(f"  [WARN] Skipping {video_id} from {path.name}: item-level error: {item['status']}")
+                continue
+
+            candidates = item.get("response", {}).get("candidates", [])
+            if not candidates:
+                print(f"  [WARN] Skipping {video_id} from {path.name}: no candidates in response")
+                continue
+
+            raw_text = (candidates[0].get("content", {})
+                                     .get("parts", [{}])[0]
+                                     .get("text", ""))
+            segments = parse_tagged_segments(raw_text, video_id)
+            if segments is None:
+                continue
+
+            transcript_path = Path(f"data/transcripts/{video_id}.json")
+            if not transcript_path.exists():
+                print(f"  [WARN] Skipping {video_id}: source transcript not found")
+                continue
+
+            with open(transcript_path) as f:
+                transcript = json.load(f)
+
+            docs.append((
+                Path(f"data/tagged/{video_id}.json"),
+                {
+                    "video_id": video_id,
+                    "title": transcript["title"],
+                    "speaker": transcript["speaker"],
+                    "youtube_url": transcript["youtube_url"],
+                    "segments": segments,
+                },
+            ))
+
+    return docs
+
+
 def ensure_bucket(gcs: storage.Client) -> None:
     try:
         gcs.get_bucket(BUCKET_NAME)
@@ -55,13 +145,10 @@ def ensure_bucket(gcs: storage.Client) -> None:
         print(f"[GCS] Created bucket: gs://{BUCKET_NAME}")
 
 
-def build_input_jsonl(tagged_paths: list[Path]) -> str:
+def build_input_jsonl(tagged_docs: list[tuple[Path, dict]]) -> str:
     lines = []
-    for path in tagged_paths:
+    for path, t in tagged_docs:
         video_id = path.stem
-        with open(path) as f:
-            t = json.load(f)
-
         segments_data = [
             {"idx": i, "text": seg.get("transcript", "").strip()}
             for i, seg in enumerate(t.get("segments", []))
@@ -123,11 +210,6 @@ def fetch_results(gcs: storage.Client, output_prefix_uri: str) -> list[dict]:
     return results
 
 
-def extract_video_id(request_text: str) -> str | None:
-    m = re.search(r"^VIDEO_ID: (\S+)", request_text)
-    return m.group(1) if m else None
-
-
 def parse_cleaned_segments(raw: str, video_id: str) -> list[dict] | None:
     raw = re.sub(r"```json|```", "", raw).strip()
     start = raw.find("[")
@@ -162,9 +244,18 @@ def main():
     if cleaned_log.exists():
         already_cleaned = set(cleaned_log.read_text().splitlines())
 
-    to_clean = [p for p in all_tagged if p.stem not in already_cleaned]
-    if not to_clean:
+    to_clean_paths = [p for p in all_tagged if p.stem not in already_cleaned]
+    if not to_clean_paths:
         print("[03b_clean] All tagged transcripts already cleaned.")
+        return
+
+    to_clean = [
+        (path, doc)
+        for path, doc in iter_tagged_docs(to_clean_paths)
+        if path.stem not in already_cleaned
+    ]
+    if not to_clean:
+        print("[03b_clean] No valid tagged lecture files found to clean.")
         return
 
     print(f"[03b_clean] Cleaning {len(to_clean)}/{len(all_tagged)} transcripts "
@@ -222,13 +313,13 @@ def main():
             continue
 
         tagged_path = Path(f"data/tagged/{video_id}.json")
-        if not tagged_path.exists():
-            print(f"  [WARN] {video_id}: tagged file not found, skipping")
+        existing_doc = next((doc for path, doc in to_clean if path.stem == video_id), None)
+        if existing_doc is None:
+            print(f"  [WARN] {video_id}: source tagged data not found, skipping")
             failed_count += 1
             continue
 
-        with open(tagged_path) as f:
-            t = json.load(f)
+        t = existing_doc
 
         idx_to_text = {
             entry["idx"]: entry["text"]
