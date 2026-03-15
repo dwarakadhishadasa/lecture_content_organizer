@@ -1,5 +1,5 @@
 # HG Suvyakta Narasimha Dasa — Vaishnava Lecture Corpus
-Generated: 2026-03-14 | Lectures: 62 | Segments: 541 | Est. words: 190,050
+Generated: 2026-03-15 | Lectures: 88 | Segments: 854 | Est. words: 301,426
 
 ---
 
@@ -1674,6 +1674,767 @@ Krishna because Krishna knew what was happening behind the scene this this death
 
 ---
 
+## Mahabharata - Short Stories | Part 1 | His Grace Suvyakta Narasimha Dasa
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### hardship, water
+**Timestamp:** https://youtu.be/qJyfzzwImdg?t=278
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "There was a lot of water and we have to drink."
+**Summary:** The speaker mentions a time when there was a lot of water and they had to drink.
+
+بہت زیادہ نهاڑ ہوا تھا for about twelve years there where there was a lot of water and we had to drink.
+
+---
+
+## Mahabharata l Part 18 l The Burning of the Khandava Forest
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, introduction
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Hey, welcome back to today's episode of the Mahabharata."
+**Summary:** The speaker offers prayers and welcomes the audience to the next episode of the Mahabharata series.
+
+Thank you for watching. Om Ajnanath Miranthasya Jnananjana Salakaya Chaksharan Militam Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadvaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswati Devay Gauravani Pracharine Nirvishasunyavadi Pashatya Deshatarine. Namaste Saraswati Devay Gauravani Pracharine. Jai Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadadhara Shri Vasad Gauravakta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pangam Langayate Girim Yad Kripata Maham Vande Shri Gurum Deena Taranam. Hare Krishna Krishna Krishna Krishna. Hi everyone. Hey, welcome back to today's episode of the Mahabharata.
+
+---
+### Khandava Forest, Krishna's protection
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=92
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Despite the greater numerical strength of the Devatas and their divine powers, still Arjuna was able to fend off the Khandava forest."
+**Summary:** The episode begins with Arjuna and Krishna agreeing to help Agnidev consume the Khandava forest, leading to a battle with Indra and the Devatas, which Arjuna wins, allowing Agnidev to burn the forest.
+
+In the last episode, we have seen how the Pandavas have settled down in Indraprastha, and Lord Krishna has come to Indraprastha to stay for a few days with them. Agnidev has taken the opportunity to approach Krishna and Arjuna to help him out with his malady, which can be cured only by voyaging to that place. The problem being Indra, because Indra was the lord of the Khandava forest, and he would not allow Agni to consume the forest. Now, what happened when Arjuna and Krishna decided to help Agnidev is what we will see today. Agnidev, when he approached Krishna and Arjuna for their help to consume the Khandava forest, Krishna was inclined to help Agnidev because, like we had discussed in the last episode, Agnidev had gifted Krishna the Sudarsana Chakra. Arjuna, when he saw that Krishna wants to help Agnidev, he also agreed to help Agnidev. And so Krishna driving the chariot, Arjuna with his bow and arrows, accompanied Agnidev went to the Khandava forest. When Agnidev, on the strength of the presence of Arjuna and Krishna, started consuming the Khandava forest, immediately Indra got the news, and he, along with all his soldiers, with his army, came to the spot and challenged Arjuna. Arjuna was all alone with only Krishna as his charioteer, but he accepted the challenge of Indra and all the Devatas. And there was a valiant fight between Indra and the Devatas on one side and Arjuna on the other side, guided by Krishna. Despite the greater numerical strength of the Devatas and their divine powers, still Arjuna was able to fend off the Khandava forest, and finally, he defeated Indra and the Devatas in the battle, and Indra had to retreat.
+
+---
+### gratitude, protection, dharma
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=236
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Arjuna, according to the codes of Dharma of a Kshatriya, he assured Mayadanava of his protection."
+**Summary:** Agnidev continues burning the Khandava forest, and Mayadanava seeks Arjuna's protection, which Arjuna grants according to Kshatriya dharma. Agnidev, cured of his malady, expresses gratitude to Arjuna and Krishna.
+
+Agnidev, without any obstacle, he continued on his consumption of the Khandava forest by burning it down. Now, in that forest, there were many reptiles, herbs, trees, plants, etc. When Agnidev was consuming all of them without any discrimination, there was one Asura called Mayadanava who had also taken shelter in that forest. When Mayadanava saw this entire forest fire enveloping him, and he saw how he was about to be consumed by the fire, he started running from the fire. And when he started running from the fire, the fires also started chasing him. And when Krishna saw that Mayadanava is trying to escape, Krishna immediately sent his Sudarsana Chakra behind him. Now Mayadanava was being chased by Agni on one side and Sudarsana on the other, and he is running from both of them. And this Mayadanava was very fearful for his life. Not knowing where to go, what to do, he saw Arjuna standing there. He went and fell at his feet, and he begged him, please give me shelter, please protect me. The moment Agnidev and the Sudarsana disc, they saw that Mayadanava had approached Arjuna, both of them held back. And Arjuna generally, it is a Kshatriya's duty to give protection to anyone who surrenders to them. Arjuna, according to the codes of Dharma of a Kshatriya, he assured Mayadanava of his protection. And because Arjuna assured him protection, therefore the Agnidev and the Sudarsana disc, they excused Mayadanava, and they did not further chase him. And in this manner, Agnidev consumed the Khandava forest to his satisfaction, and ultimately his malady was cured because of all the herbs within that forest which he could consume. And after consuming the forest and Agnidev being cured of his malady, he came to thank Arjuna and Krishna.
+
+---
+### gifts, devotional service, sukriti
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=393
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Anybody who serves a pure devotee, there is immense spiritual benefit that that person gets."
+**Summary:** Agnidev gifts Arjuna with the Gandiva bow, a quiver with invincible arrows, and a wonderful chariot. Mayadanava wants to repay Arjuna's gratitude, but Krishna wants to engage Mayadanava in Arjuna's service to give him spiritual benefit, explaining the difference between Punya and Sukriti.
+
+To express his gratitude to Arjuna, Agnidev gifted him with a wonderful bow, and the name of that bow was Gandiva. And this is the very famous bow of Arjuna with which he fought all the rest of the battles in his life. Agnidev also gifted Arjuna with a quiver in which there were two invincible arrows. They could never be stopped by anyone else. They were so powerful. Agnidev also gifted a wonderful chariot to Arjuna pulled by four steeds. Like this, Agnidev gifted this wonderful chariot as well as the Gandiva bow and a quiver with two invincible arrows to Arjuna. And then after this whole incident, Agnidev departed back to his own abode. Now Mayadanava was still there in the presence of Arjuna and Krishna, and after Agnidev had left, Mayadanava also wanted to express his gratitude to Arjuna, and therefore he requested Arjuna, I want to repay my gratitude to you. Please order me, I would like to serve you in some way to repay my gratitude. But Arjuna said, no, no, no, you have taken shelter of me for protection of your life, and it was my duty, so I have done my duty. I am not expecting anything in return from you. But Mayadanava was very insistent, something he wanted to do for Arjuna, and Krishna therefore, he wanted to engage Mayadanava in some service of Arjuna. Why? Because Arjuna is a great pure devotee of Krishna, and anybody who serves a pure devotee, there is immense spiritual benefit that that person gets. Actually, in this world, if we engage in any pious activities, Punya Karma, they assure for themselves some happiness in the future, either in this life or the next life, but then if we render service to a pure devotee of Krishna, like Arjuna, then that service gives us not Punya, but it gives us Sukriti.
+
+---
+### sukriti, liberation, devotional service
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=553
+**Verse References:** BG 9.2
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Whenever we render service to some great Vaishnava, some great pure devotee of Krishna or Vishnu, is that the Sukriti which accrues to us out of such service can never be destroyed."
+**Summary:** The speaker elaborates on the difference between Punya and Sukriti, explaining that Punya is exhaustible, while Sukriti, gained through service to a Vaishnava, leads to liberation and residence in the spiritual world.
+
+The difference between Punya and Sukriti is like this. Punya entails, Punya assures some happiness for us in the future. Whenever the circumstances are favorable and the fruit of that Punya we enjoy, the Punya gets exhausted by that. It is just like you have a bank account and you have deposited some money into that. The money will sit in your account. Some day when you want to spend that money, you withdraw that money and you buy some object for yourself, then that account gets depleted by that much amount. In a similar way, the moment we enjoy the result of our Punya, then that Punya becomes depleted and it gets finished. So if we want to continue our happiness in this world, then we have to continually keep doing Punya Karmas, pious activities. Now where this differs from Sukriti is that whenever we render service to some great Vaishnava, some great pure devotee of Krishna or Vishnu, is that the Sukriti which accrues to us out of such service can never be destroyed. Krishna says in the Bhagavad Gita, neha-bhikraman-asosthi-pratyavayona-vidyate solpam apyasya dharmasya trayate mahatobhayat. So there are two important ways in which the Sukriti of serving a pure devotee differs from doing any pious activities. If we give dana, if we help some poor person, establish some hospital, we build an orphanage, etc. etc. There are many many pious activities that a person can do. When he engages in those pious activities, he acquires Punya Karma to his credit. But when a person renders service to a pure devotee, to a Vaishnava, then what happens is the Sukriti that he gets, number one, it can never diminish or never can it be destroyed. Number two is the result of such service is we will get liberated from this material world and we will gain residence in the spiritual world. Punya Karma can never elevate you to the spiritual world. Punya Karma by its nature, pious activities by its nature will bind you to this material world to take repeated birth to be able to enjoy the fruits of that pious activity. Whereas the Sukriti, the result of devotional service to a pure devotee or to Krishna directly will elevate us to the spiritual world beyond the cycle of birth and death in this material world.
+
+---
+### devotee service, material skills, Krishna's plan
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=731
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Generally these Danavas or Asuras, those who are not devotees of Krishna, they are very highly skilled in some material art or the other."
+**Summary:** Lord Krishna wants to benefit Mayadanava eternally by engaging him in Arjuna's service, so he suggests that Mayadanava build a palace for the Pandavas, knowing his skill in construction.
+
+Lord Krishna wanting to benefit Mayadanava eternally like this, he wanted Mayadanava to get something more than just Punya Karma, so he wanted to engage Mayadanava in Arjuna's service, and therefore he told Mayadanava that why don't you build a nice palace for the Pandavas. They have come to this new city Indraprastha and they are still building the city, so why don't you help them? Because Krishna knew that this Mayadanava had a very good skill in constructing beautiful buildings. Generally these Danavas or Asuras, those who are not devotees of Krishna, they are very highly skilled in some material art or the other. They are very talented in the material field, but all their activities will generally end up in some sort of disturbance for the society or the other, just like some people invented the nuclear bomb. So to invent the nuclear bomb you need very good intelligence, you need a very good brain and you need in-depth knowledge of science, physics, etc. Therefore to invent the nuclear bomb is not an ordinary thing. It requires extraordinary intelligence, skill, ability, planning and so many such things, but then already people are dying in this world. What is the use of inventing something which is going to accelerate the death of people? That is the nature of the Danavas who invent horrible things within this material world, whereas pure devotees like Arjuna, they are always engaged in activities to relieve the people permanently from the distress in this world and take them back to Godhead. So Krishna knowing Mayadanava's ability and his talent, he decided to engage him in Arjuna's and the Pandavas' service and he asked Mayadanava to build a nice palace for the Pandavas. And thus Mayadanava immediately very happily he took up that work.
+
+---
+### palace construction, gifts, city planning
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=857
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "This palace was very beautifully done with intricate carvings and wonderful marble and granite flooring."
+**Summary:** Mayadanava builds a wonderful palace for the Pandavas in Indraprastha, gifting a gada to Bhima and the Devadatta conch to Arjuna. Yudhishthira Maharaj requests Krishna to improve the city's infrastructure.
+
+Because he was grateful to Arjuna for having saved his life, he built a wonderful palace for the Pandavas in Indraprastha. This palace was very beautifully done with intricate carvings and wonderful marble and granite flooring, and it had wonderful, it could create certain visual illusions by which when a person enters some hall, he will think there is water on the floor but there will be no water, and where there are some water bodies, some small artificial ponds created, visually people would not be able to make out that there is a pond there, and they would end up falling into the pond if they were unaware of the layout of the palace. Some interesting thing like this he made and he built this wonderful palace and offered it to the Pandavas, and the Pandavas shifted into this palace. They were very happy, and not only did Mayadanava build this palace for the Pandavas, he also gifted a gada to Bhima because he knew that Bhima liked gada yudha. He liked to play around with the mace, so he gifted him with a mace, and he also, Mayadanava also gifted the conch shell named Devadatta to Arjuna, and Arjuna carried this, and in the Bhagavad Gita also it says that when the battle of Kurukshetra was beginning at that time, Arjuna blew the Devadatta conch to announce the beginning of the war. So Arjuna carried that, he treasured that conch and he carried with him always the conch too. Now when the Pandavas were staying in the Indraprastha like this along with Krishna, Yudhishthira Maharaj requested Krishna to improve the infrastructure of the city and to build a much better city in Indraprastha.
+
+---
+### devotee welfare, city improvement, hunting
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=974
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Bhakta Vatsala, he is always thinking of the welfare of the devotees."
+**Summary:** Krishna, always wanting to help his devotees, calls Vishwakarma to improve Indraprastha. Arjuna and Krishna go hunting to protect the rishis and sadhus in the forest.
+
+Because Krishna is always wanting to help his devotees, Bhakta Vatsala, he is always thinking of the welfare of the devotees, he immediately called Vishwakarma. Vishwakarma is the chief engineer of all the devatas, of all the demigods, and he generally carries out all the civil works and the infrastructure works required in the swargalokas, in the heavenly kingdoms. Krishna called him and he told him to plan and build the Indraprastha city in a much better way, and Vishwakarma also gladly because it was Krishna's order. Krishna is the supreme personality of Godhead. He is the master of even all the devatas. He immediately took up that task and built a wonderful city around this palace which Mayadhanava had already built, and so naturally the news of this wonderful city started spreading far and wide. Lot of people slowly started coming in. They started settling. Various artisans came, agriculturists, businessmen, and various artists. All these kind of people started coming and populating Indraprastha city. One day Arjuna and Krishna, they went out for a little hunt. The Kshatriyas generally used to go for hunting in the forest, because within the forest there would be many rishis, sadhus, saints. They would build their hermitages there far away from the cities, and because they needed a secluded place, and they would execute their yoga practices in the forest, and their various spiritual activities. Whenever there would be some disturbances caused to the rishis and sages on account of some wild animals, like there may be some bears, there may be lions, tigers, rhinoceroses etc., the Kshatriyas would go to the forest from time to time, and whatever disturbing animals would be there, they would hunt them down and restore peace within the forest. In the same way Krishna accompanied Arjuna, when Arjuna wanted to go on this hunting expedition, to remove the disturbing animals within the forest.
+
+---
+### training, Yamuna, Kalindi
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=1113
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Krishna was preparing Arjuna for that."
+**Summary:** Krishna accompanies Arjuna on the hunt to train him for future battles. They stop at the Yamuna river, where they meet Kalindi, the daughter of the sun god.
+
+Not only that Krishna also wanted to see how Arjuna gets trained up, because Krishna is the supreme lord. He is omniscient. He knows what is going to happen in the future, like the Kurukshetra war is going to come up in the future. Arjuna would have to fight with so many great generals in the battlefield of Kurukshetra. Krishna was preparing Arjuna for that. Krishna also went along with Arjuna, and after a sufficient amount of time spending in the hunting, Arjuna felt thirsty, and he asked Krishna to take the chariot towards the Yamuna river, because Kanda Prastha is on the western banks of the Yamuna river. Krishna took the chariot along with Arjuna. They parked it near the Yamunaji, and they drank the fresh cool waters of the Yamuna, and they just relaxed there for some time. When Krishna and Arjuna were relaxing like this, they saw a beautiful young girl, decked with various ornaments, and dressed very attractively, walking along the bank of the Yamuna river. When Krishna saw this Krishna told Arjuna, looks like this young girl is not yet married, and she is looking for a suitable groom to marry her. Why don't you talk to her and find out what is the purpose of her walking here all alone. She was there all alone. Arjuna therefore approached this girl, and he asked and he introduced himself. He said I am Arjuna the one of the Pandava brothers, and with me is Krishna, and we have come to this forest for a hunting expedition, and we happen to see you all alone walking on this banks of the Yamuna, so I was just curious to know who you are, why you are walking here all alone, and is there some help we can render, can we be of some service to you. Then the girl replied, my name is Kalindi, and I am the daughter of the sun god. I am the daughter of Surya. So the Suryadeva the sun god, his daughter is Kalindi or Yamuna. Another name for Yamuna is Kalindi, so this girl was Yamuna personified. Yamunaji is another son of Suryadeva. Yamuna and Yamunaji are brother and sister, and that is how during Diwali there is a big celebration of Bhaya Dooj.
+
+---
+### devotion, spiritual master, Krishna's pleasure
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=1288
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Those who are devotees of my pure devotees, factually they are the real devotees."
+**Summary:** Yamuna desires to marry Vishnu and asks Arjuna to pray on her behalf, explaining that Krishna is more inclined to accept the prayers of his devotees. The speaker emphasizes the importance of approaching Krishna through a spiritual master.
+
+Yamuna informed Arjuna further that she had decided that she would marry only Vishnu and she would not marry anyone else, and she told Arjuna it is my ardent desire to obtain the Supreme Personality of Godhead Vishnu as my husband, and since you are a devotee of Lord Krishna I am requesting you, you please pray to Vishnu that he may accept me as his wife. The reason why Yamuna asked Arjuna to pray to Vishnu is because when a devotee prays to Krishna, Krishna is more inclined to accept the prayer of that devotee. If anyone approaches Krishna directly, requiring, asking something, praying for something, then Krishna is not so inclined. Krishna is not so pleased, but if his pure devotee asks him something for some other devotee, then Krishna cannot refuse. This is a very important principle that we have to understand. In the Adi Purana Lord Krishna while speaking to Arjuna, he informed Arjuna, Yeme Bhakta Janaha Partha Name Bhakta Chate Janaha Madh Bhakta Naam Chaye Bhakta Stheve Bhakta Tama Mataha. Krishna said to Arjuna that those who consider themselves directly my devotees are not factually my devotees. In fact Krishna said, Madh Bhakta Naam Chaye Bhakta, those who are devotees of my pure devotees, factually they are the real devotees. This is another reason why to approach the Supreme Personality of Godhead, to approach Krishna, we have to take shelter of a spiritual master.
+
+---
+### acharya, surrender, Krishna's mercy
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=1451
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "If we please Prabhupada by following all his instructions, then Krishna will definitely take us back to Godhead."
+**Summary:** The speaker continues to explain that Krishna is pleased when we serve his pure devotees, like Srila Prabhupada, and follow their instructions. Krishna accepts Yamuna's request, and they return to Indraprastha.
+
+If we directly try to become a devotee of Krishna, then Krishna will not be pleased with us, but if we accept a pure devotee as our spiritual master, as our Guru, and we serve him at his instructions, and we please him, then Krishna will be pleased to accept us as his devotee. That is why from time to time Krishna sends great devotees, pure devotees, as Acharyas, like Madhvacharya, Ramanujacharya, Chaitanya Mahaprabhu himself came, Srila Prabhupada. These are all great Acharyas who are pure devotees. When we surrender ourselves to them, when we surrender to Srila Prabhupada, and accept him as our Guru, and Prabhupada gives us an assurance that he will take us back to Godhead, if we follow all his instructions of chanting Hare Krishna Maha Mantra every day 16 malas without fail, following the four regulative principles of no meat eating, no intoxication, no illicit sex, and no gambling, and we follow all the instructions of Prabhupada, then Prabhupada is assuring us that he will take us back to Godhead. So therefore, if we please Prabhupada by following all his instructions, then Krishna will definitely take us back to Godhead. Krishna cannot refuse us. Therefore Kalindi requested Arjuna to pray on her behalf to the Supreme Lord. Arjuna came back to Krishna, and he informed him, look Krishna it is like this, and she wants to marry only you. Therefore immediately Krishna accepted her request, and he took her also on to the chariot, and like this Arjuna and Krishna along with Kalindi, they returned back to Hastinapura, or rather to Indraprastha. After Krishna brought Kalindi along with Arjuna back to Indraprastha, the time period of the four months of Chaturmasya was getting over, and Krishna had stayed for the full four months of Chaturmasya in Indraprastha to please his devotees, the Pandavas. Chaturmasya having got over, Krishna along with Kalindi, he went back to Dwaraka. There he married Kalindi in a proper wedding in the presence of all the elders there.
+
+---
+### Swayamvara, contest, Lakshmana
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=1572
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Brihat Sena wanted the best even better than Arjuna he wanted somebody and so therefore he made this contest and then he sent out invitations all over the world."
+**Summary:** In Madhra Desha, King Brihat Sena plans a Swayamvara for his daughter Lakshmana, creating a difficult contest similar to Drupada's, but even more challenging. Kings from all over the world are invited.
+
+Now in the meantime, in the province of Madhra, Madhra Desha, which is current day Tamil Nadu, those days it was known as Madhra Desha or Madras. There was a king by name Brihat Sena. He had a daughter by name Lakshmana. This Brihat Sena wanted to conduct a Swayamvara for his daughter. He also, like Drupada, wanted to get the best of the grooms as his son in law. Therefore, he also decided to create a contest, similar to what Drupada had created. If you all recall, Drupada had fixed a fish on the top of a long pole, below which, there was a revolving wheel with many spokes. And below the pole, there was a pool of water which was created, which was constantly, it had ripples in it. The water was constantly moving and looking at the moving reflection of the fish within the water the person had to shoot the arrow. That was the contest that Drupada had thought of which Arjuna managed to win that contest. Now in this the task set forth by Drupada was next to impossible which only Arjuna could achieve. Now Brihat Sena went one step further. What he did exactly like what Drupada did, he had a long pole, there was a fish suspended from the top of it, a revolving wheel beneath it and a pool of water below and the water was constantly moving. Over and above this what he did was he put a cloth and covered the fish. Now when you look at the reflection of the fish in the water, you could see only the covering of the fish. Now looking at that the Kshatriya had to estimate the position of the eye of the fish and it had to pierce it. It was practically impossible. But Brihat Sena wanted the best even better than Arjuna he wanted somebody and so therefore he made this contest and then he sent out invitations all over the world. So, he won. Kings from different parts of the world converged on Madhra Desha and they all came to win the hand of Lakshmana. Many many stalwart kings came. Even Karna had come, Duryodhana had also come, Arjuna was there of course. Other kings like Shishupala, Jayadratha they had all come. And now who could win this impossible contest and win the hand of Lakshmana? Please join us in our next episode to know about this. Thank you for joining us today. Jagat Guru Shri Ela Prabhupada Ki Jai Nithayagor Pemanande Hari Haribor.
+
+---
+### Swayamvara, contest, Lakshmana
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=1775
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Brihat Sena wanted the best even better than Arjuna he wanted somebody and so therefore he made this contest and then he sent out invitations all over the world."
+**Summary:** In Madhra Desha, King Brihat Sena plans a Swayamvara for his daughter Lakshmana, creating a difficult contest similar to Drupada's, but even more challenging. Kings from all over the world are invited.
+
+Lakshmana. This Brihat Sena wanted to conduct a Swayamvara for his daughter. He also, like Drupada, wanted to get the best of the grooms as his son-in-law. Therefore, he also decided to create a contest, similar to what Drupada had created. If you all recall, Drupada had fixed a fish on the top of a long pole, below which, there was a ball coming wheel with many spokes. And below the pole, there was a pool of water which was created, which was constantly, it had ripples in it. The water was constantly looping, that is correct. Yes. Okay. constantly moving and looking at the moving reflection of the fish within the water the person had to shoot the arrow. That was the contest that Drupada had thought of which Arjuna managed to win that contest. Now in this the task set forth by Drupada was next to impossible which only Arjuna could achieve. Now Brihat Sena went one step further. What he did exactly like what Drupada did, he had a long pole, there was a fish suspended from the top of it, a revolving wheel beneath it and a pool of water below and the water was constantly moving. Over and above this what he did was he put a cloth and covered the fish. Now when you look at the reflection of the fish in the water. You could see only the covering of the fish. Now looking at that the Kshatriya had to estimate the position of the eye of the fish and it had to pierce it. It was practically impossible. But Brihat Sena wanted the best even better than Arjuna he wanted somebody and so therefore he made this contest and then he sent out invitations all over the world. So, he won. Kings from different parts of the world converged on Madhra Desha and they all came to win the hand of Lakshmana. Many many stalwart kings came. Even Karna had come, Duryodhana had also come, Arjuna was there of course. Other kings like Shishupala, Jayadratha they had all come. And now who? Who? Who? Who? Who could win this impossible contest and win the hand of Lakshmana? Please join us in our next episode to know about this.
+
+---
+### general
+**Timestamp:** https://youtu.be/IOh1mP14DVc?t=1962
+**Verse References:** —
+**Content Type:** story
+**Audience:** —
+**Key Quote:** ""
+**Summary:** 
+
+Guru Shaila Prabhupada ki jai. Nithayagor Premanande Hari Haribol.
+
+---
+
+## Mahabharata l Part 19 | Story of Jarasandha
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### prayer, mantra, devotion
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Om Adhyanati Mirandasya Jnananjana Salakaya Chaksharunmi Litangena Tasmai Sri Gurave Namaha"
+**Summary:** The lecture begins with prayers and mantras, expressing devotion and gratitude to the spiritual master.
+
+Thank you for watching. Om Adhyanati Mirandasya Jnananjana Salakaya Chaksharunmi Litangena Tasmai Sri Gurave Namaha Namavo Krishna Padaya Krishna Preshtaya Bhutale Srimate Bhaktivedo Anta Swamin Nithinamine Namaste Saraswate Deve Gauravani Pracharine Nirvishersha Sunyavari Pashatya Deshatarine Jai Sri Krishna Chaitanya Prabhu Nithyananda Sri Advaita Gadadhara Sri Vasadi Gauravatta Vrinda Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare Mokam Karoti Vachalam Bangum Langhayate Girim Yad Krupata Mahamande Sri Gurum Deena Taranam
+
+---
+### lineage, kings, history
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=84
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "we begin today's episode by taking you first to Magadha Desha Magadha Desha which is modern day Bihar"
+**Summary:** The speaker transitions to the main topic, introducing the history of Magadha Desha and the lineage of King Brihadratha, a stepbrother of Satyavati.
+
+Hare Krishna and welcome back to today's episode. In the last episode, we have seen how the king of Madhra Desha had organized a swayamvara for his daughter Lakshmana on the lines of what Drupada had organized for Draupadi, only difference being that the king of Madhra Desha had increased the level of difficulty over and above what Drupada had organized for Draupadi by introducing one more element: a covering over the fish, so that the person who would look at the image of the fish in the rippling waters below it would have to shoot through the eye of the fish which was kept covered. So it was a really tough task. We begin today's episode by taking you first to Magadha Desha. Magadha Desha, which is modern day Bihar. In the beginning episodes, we had described how one of the descendants of king Kuru was Uparichara Vasubh, whose daughter through Matsya Garba, a fisher woman, was Satyavati. This Satyavati later on married Shantanu, and from him and Satyavati came Chitravirya, and further there were Dhritarashtra and Pandu, and we know that is how the dynasty of the Kauravas and the Pandavas have come forward. This Uparichara Vasubh through another wife had a son by the name Brihadratha. This Brihadratha was the stepbrother of Satyavati, the wife of Shantanu. This Brihadratha was the king of Magadha of Bihar.
+
+---
+### marriage, children, divine intervention
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=222
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Brihadratha also became very disappointed he decided to retire to the forest"
+**Summary:** The story continues with Brihadratha's disappointment at not having children and his subsequent journey to the forest where a sage gives him a mango fruit.
+
+He married two daughters of the king of Kashi. Brihadratha was quite powerful and the kingdom was quite flourishing during his times. But then, even after several years of marriage, unfortunately both his queens could not bear any children. It is natural that when a husband and wife, they yearn for a child, but somehow they are not able to give birth to children, they become frustrated, they become a little disappointed, they become depressed even. Brihadratha also became very disappointed. He decided to retire to the forest. He along with his two queens went away to the forest and there he decided to carry out various tapasyas, various austerities by which eventually he may be able to get some children. It so happened that in the forest where Brihadratha had gone with his two wives, there was a sage living there by the name Chandrakoushika Rishi. This Chandrakoushika Rishi when he heard that king Brihadratha along with his two queens was in the forest carrying out austerities for want of a child, the rishi approached the king and he gave him a mango fruit and told the king, "Please give this to your queen, and if the queen eats this fruit, then eventually because this fruit has been surcharged with some spiritual potency, in due course of time he will be able to bear a child." Like this Chandrakoushika Rishi taking compassion on the king gave him the fruit.
+
+---
+### dilemma, pregnancy, unborn child
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=354
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "the king when he saw that just two lumps of flesh have been born he again became very disappointed"
+**Summary:** Brihadratha divides the mango between his wives, leading to the birth of two halves of a child, causing further disappointment.
+
+Now the king was in a dilemma. To keep the fruit, if he gives the fruit to one of the queens and the other queen he does not give it, it will become partiality on his side. To keep both his queens pacified, king Brihadratha cut the mango fruit into two pieces and he gave one half each to both the queens. The queens ate the fruit and then in due course of time both the queens became pregnant. King Brihadratha was very happy, the queens were also very happy, the citizens of the kingdom were very happy that soon there is going to be the king's successor who is going to be born. After some time when both the queens gave birth, unfortunately when they gave birth they did not give birth to children, they gave birth to two lumps of flesh which were one half of a child because the king had cut the mango fruit into half and given each of the queens gave birth to one half of the child. The king when he saw that just two lumps of flesh have been born he again became very disappointed and he told his servants to go and dispose the two lumps of flesh in the forest. The servants of the king they went to the forest and they threw the two lumps of flesh somewhere in the forest and came away. Now in that very forest there used to live a rakshasi. Rakshasas, as we have seen, are man eaters. This rakshasi, this female man eater, she came across these two lumps of flesh and when she looked at these two lumps of flesh her mouth started watering, "Oh, some tender baby has been thrown away, somebody has discarded a tender newborn baby, so the flesh will be very tender and it will be very sweet."
+
+---
+### rakshasi, divine grace, birth
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=494
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "suddenly the child came to life and the child naturally when a child takes birth what does it do it starts crying"
+**Summary:** A rakshasi finds the two halves, joins them, and the child comes to life, named Jarasandha after the rakshasi Jara.
+
+And when she picked up the two lumps of flesh her curiosity was aroused and she kept the two of the of the two halves of the stillborn baby and she joined them together and when she joined them together suddenly the child came to life and the child naturally when a child takes birth what does it do it starts crying and when this rakshasi she saw the baby suddenly come to life and it started crying her heart melted and she did not want to kill the child and she came to know that this child actually belongs to king Brihadratha so she took the child and went to Brihadratha's court and she handed over the infant baby to king Brihadratha and told him what all had happened when Brihadratha got the child back he was extremely happy you can imagine his state first he was very depressed when he got married he would have had lot of expectations and then when those expectations of having a child having a successor to the throne having an heir after him when that did not materialize he became very disappointed and then somehow when the sage gave him the fruit and the queens became pregnant again his hopes were revived and when the queens gave birth to two pieces of flesh his hopes were again dashed so it was a real roller coaster ride for him and when he had lost all hope this rakshasi brought back his child alive naturally his happiness knew no bounds and he then asked the rakshasi that you please ask me for something I want to reward you for having brought my child back to life and bringing it back safely and giving it to me so I want to give you some reward please ask whatever you want you can ask so this rakshasi she said I don't want anything just since you are asking me you please name your son after me that much honor if you give me that is more than enough for me I will be very happy the king also said ok the name of that rakshasi was Jara and because the child came to life by the joining of the two still born halves by this rakshasi Jara the child was named Jara Sandha Sandhi means combining joining and because the baby was combined or joined by Jara his name became
+
+---
+### kings, swayamvara, competition
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=676
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "this Jara Sandha grew up and he also became a very powerful king very opulent kingdom he inherited from his father"
+**Summary:** Jarasandha grows up to be a powerful king and attends the swayamvara of Lakshmana, where many kings fail to string the bow.
+
+Jara Sandha and in due course of time this Jara Sandha grew up and he also became a very powerful king, very opulent kingdom he inherited from his father and he grew up to be a great devotee of Mahabhairava or Kalabhairava. Generally we see even today in Bihar there are many devotees of Kalabhairava. Kalabhairava is one of the forms of Lord Shiva and so this Jara Sandha became the ruler of Magadha Desha. So this Jara Sandha when he heard about the swayamvara of Lakshmana in the Madra Desha he also became eager to participate and he also travelled and came and sat in that assembly of the kings who had assembled to attend the swayamvara of Lakshmana. Karna had already arrived there, Duryodhana had also come, other kings like the king of Chedi Shishupala was also present and even Arjuna was also there because this was such a wonderful contest it was very prestigious to be able to win this contest practically every king worth his name was present in that swayamvara. Now one by one the king started coming and started picking up the bow to shoot the fish down. Many of them could not even lift the bow it was so heavy it was such a strong bow. The major kings like Duryodhana, Karna etc. they were able to lift the bow and they were able to string the bow. Duryodhana came he strung the bow and then he looked at the image in the water and he shot the arrow but the arrow missed the target. Jarasandha came forward very confidently he picked up the bow strung it and then took careful aim and he shot the arrow but even his arrow failed to find the target.
+
+---
+### caste, discrimination, skill
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=814
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "when practically everybody else had failed Karna stepped forward"
+**Summary:** Karna attempts the challenge, highlighting the difference in acceptance compared to Draupadi's swayamvara, but ultimately fails.
+
+When practically everybody else had failed, Karna stepped forward and Karna picked up the bow and he managed to string it, fixed the arrow to the bow and then he looked down upon the trembling image of the fish which was covered that image in the water he looked at it carefully to came so in when the same Karna had gone to the Swayamara of Draupadi, Draupadi had refused to allow him to participate in the Swayamara saying that he was born of a charioteer and she did not want to marry a charioteer but here we can see nobody objected to his participating in the Swayamara so actually we can understand from this that birth was not the real criterion for the person's caste. Draupadi knowing the poor character of Karna not wanting to marry him found an excuse and somehow managed to keep him away but here nobody objected so Karna could go ahead with the participation in the contest so he had fixed his bow took careful aim and then he shot the arrow the arrow sped forth from his bow passed through the revolving spokes and then it missed the target by a few millimeters Karna had missed Karna.
+
+---
+### divine intervention, supreme power, victory
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=918
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "our great and wonderful supreme personality of Godhead Lord Krishna"
+**Summary:** Arjuna fails, and finally, Lord Krishna steps forward and wins the contest, marrying Lakshmana.
+
+Walked back defeated and finally after everyone had tried their hand Karna came forward the greatest in fact the greatest archer of the time Arjuna Arjuna came forward already he had won the similar contest in Panchala Desha so naturally his confidence was very high and all the people in the assembly the kings everybody were expectant that Arjuna will be able to do this none of us could do it but Arjuna will still be able to do it so they were waiting with bated breath Arjuna stepped forward picked up the bow strung it fitted the arrow then carefully took aim and looking at the shivering image of the covered fish in the water he shot his arrow the arrow sped forth from the bow passed through the revolving spokes and then it came towards the target it inched closer towards the target came closer closer closer finally it touched the fish but instead of piercing it it simply grazed it and passed on upward even Arjuna had failed the greatest archer of the time had failed so what was the hope now now at last stepped forward the real hero of the Mahabharata our great and wonderful supreme personality of Godhead Lord Krishna so Lord Krishna stepped forward now when everybody including Arjuna had failed Krishna came forward again he too very quickly picked up the bow strung it fitted the arrow and he just looked once at the image and he released his arrow the arrow shot forth from the shaft passed through the revolving spokes and then it went and pierced the eye of the fish exactly where it was meant to be pierced and thus Lord Krishna won the contest which nobody could win not even Arjuna even what Karna had missed what Arjuna had managed just to graze but even Arjuna had failed and that contest was won by Krishna and like this Lakshmana's hand was won by Krishna.
+
+---
+### desire, devotion, divine grace
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1070
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Lakshmana in her heart of hearts she was constantly desiring to become the wife of Krishna the supreme lord"
+**Summary:** The speaker explains that Krishna participated in Lakshmana's swayamvara because she desired to marry him and prayed for it.
+
+So you can see Krishna participated in this swayamvara but he did not participate in the swayamvara of Draupadi because Lakshmana in her heart of hearts she was constantly desiring to become the wife of Krishna the supreme lord she did not want to marry anyone else and she would everyday pray to the supreme lord and she would everyday carry out various austerities and tapasyas and follow various vratas to get Krishna as her husband knowing her heart Krishna had come to win her hand in that swayamvara and so Krishna displayed how nobody could match Krishna's prowess not even Arjuna was a match for him and thus Krishna won the hand of Lakshmana and he married her with great celebrity and he took her to Dwaraka. Now it so happened that at the same time there was a king in who was ruling over the eastern Uttar Pradesh around the area of Ayodhya. Ayodhya was the capital of the Kosala kingdom. The name of this king was Nagnajith and this Nagnajith also had a very young and beautiful daughter by the name Satya. Now this Nagnajith also had a novel contest to win the hand of his daughter Satya.
+
+---
+### bulls, challenge, hospitality
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1174
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "this king Nagnajith had seven very strong and powerfully built bulls"
+**Summary:** The narrative shifts to King Nagnajith and his daughter Satya, introducing a contest involving seven powerful bulls.
+
+This king Nagnajith had seven very strong and powerfully built bulls. Any suitor, any prince who would come to seek the hand of Satya would have to defeat these seven bulls under the condition that king Nagnajith had set forth. Many kings came forward and tried to subdue the seven bulls but then they would all go back with broken ribs and bones. Nobody could subdue the bulls they were so fierce they were so wild and they were so strong it was impossible for any king to win over the bulls. So this news had spread all over and the all the kings from various places would come and as a matter of prestige try to win to to show to exhibit their power but all of them would get humiliated and go back. The news finally reached Krishna's ears so Krishna along with Arjuna came to king Nagnajith along with a small retinue of his army. The moment Nagnajith saw Krishna coming forward he became extremely pleased because at heart he was a great devotee of Lord Krishna. Seeing the supreme personality of Godhead himself come to his place he immediately got up and offered him lots of respect and welcomed him with various fruits and jewels and various kinds of gifts he placed before Lord Krishna worshipped him and welcomed him.
+
+---
+### humility, devotion, divine love
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1280
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna is more interested in the feelings behind our offering rather than the value of our offering"
+**Summary:** Krishna arrives, seeking Satya's hand, and the speaker emphasizes the importance of humility and devotion over material offerings.
+
+Very suitably and then Lord Krishna being very pleased with Nagnajith's reception and his devotion he informed Nagnajith that I have heard that you are looking for a suitable husband for your daughter and I have come here seeking her hand although Kshatriyas are not supposed to ask anything from anyone Kshatriyas can never beg or seek in gift or charity anything from anyone else it is only the Brahmanas who can seek in charity Kshatriyas cannot that is a very strict rule Krishna informed Nagnajith although this is a very strict rule for the Kshatriyas still I am breaking the rule for you and I am asking for the hand of your daughter when Satya heard that Krishna himself has come to ask her hand in marriage she was thrilled she thought to herself Krishna is the husband of Lakshmi Devi Lakshmi Devi always aspires to serve the lotus feet of Krishna and that Krishna has come asking for my hand what greater fortune can I have than this Krishna is the supreme person who is respected by even Lord Shiva Lord Brahma Devi Parvati Devi everybody respects and worships Krishna and I am going to get that Krishna as my husband how will I serve him how will I please him in fact Krishna is such a great person I don't know how to please him I can try my best to serve him in whatever way I know how to serve him but then I am such an insignificant person how can I please him with my service with my miniscule service so in this manner she was thinking very humbly to herself actually Krishna had come there because he knew Satya's heart Krishna is Paramatma he is there in everyone's heart and he knows each and every living entity's desire actually Krishna is pleased Krishna is never pleased by ostentation or by pride or arrogance it doesn't matter what we offer to Krishna Krishna is more interested in the feelings behind our offering rather than the value of our offering we may offer something very valuable something very priceless something like the Kohinoor diamond but when Krishna looks at us he sees with what emotion with what intention with what desire we are making that offering if we are doing it for a show for some ostentatious pomp then Krishna will not accept that.
+
+---
+### devotion, love, humility
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1476
+**Verse References:** BG 9.26
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna says in the Bhagavad Gita patrampushpam phalam toyam yome bhaktya prayatchati"
+**Summary:** The speaker quotes the Bhagavad Gita, emphasizing that Krishna values love and devotion over material wealth, and highlights the importance of humility.
+
+On the other hand Krishna says in the Bhagavad Gita patrampushpam phalam toyam yome bhaktya prayatchati whatever you may offer to me with love and devotion whether it may be a simple leaf or a fruit or a flower or it may be even just water patrampushpam phalam toyam it may be just plain water Krishna says yad me bhaktya prayatchati whatever you offer to me with love and devotion I will accept it so Krishna is not impressed by by a show of grandeur by offering something very valuable and in the eyes of the world something very glittering and precious to Krishna Krishna is more interested in our heart whether we are offering with a lot of love and devotion of course this does not mean that somebody who is very capable and who is very wealthy he should offer only one glass of water to Krishna what it means is that according to one's capacity one should offer the best thing that one can afford for Krishna's service if one is not able to afford anything valuable so what is within one's power one can offer a fruit or a flower or at least a glass of water if that is the only thing that is possible for us offer it with love and devotion to Krishna Krishna will be satisfied with that so Krishna is looking forward to our humility and our devotion that is why Chaitanya Mahaprabhu also in his Sikshashtaka Chaitanya Mahaprabhu sings Chaitanya Mahaprabhu prayed to Krishna that oh my lord somehow I am your servant I am your eternal servant somehow or the other I have fallen into this material world of repeated birth and death kindly please mercifully pick me up and place me as a speck of dust at your lotus feet this mood of humility is what we should approach
+
+---
+### promise, devotee, divine will
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1620
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna also does not want a devotees promise to be broken at any point of time"
+**Summary:** Krishna is asked to fulfill the vow of defeating the bulls, and the speaker explains that Krishna prioritizes his devotees' promises.
+
+Krishna with we should not approach Krishna with any big demands Krishna I gave you all this valuable offering so please give me this in return Ek so aad nariyal poordunga I will break 108 coconuts for you you please ensure that I get good marks in the examination so these things are all not pleasing to Krishna we cannot place demands before Krishna so similarly Satya was also extremely humble and she had no demands from Krishna and that is why Krishna became pleased to personally come and ask for her hand from her father then Krishna informed when Krishna informed Nagmajith like this Nagmajith became extremely happy and he said oh my supreme lord what greater fortune can there be for me and my daughter than for her to be married to you I will be the most fortunate person for this then Krishna informed Nagmajith it is not in our custom in the Yadava family to be to fulfill any condition or criteria I have come to ask your daughters and you please hand over her hand to me so in other words Krishna was saying don't ask me to fight the bulls and all without any condition unconditionally you hand over your daughter to me then Nagmajith he prayed to lord Krishna oh my lord you are Narayana himself you are the supreme most powerful personality there can be no greater personality than you in this entire creation even lord all the devatas including lord Brahma lord Shiva everybody bows down at your lotus feet I have given a vow that anybody who defeats the bulls will win the hand of my daughter and this is known to everyone else so I am confident that what nobody else could do you will be able to easily achieve because of your promise so I am humbly requesting you please fulfill my vow Krishna also understood that Nagmajith does not want to break his promise Krishna also does not want a devotees promise to be broken at any point of time Krishna may break his promise but he will not allow his devotees promise to be broken there are instances where Krishna has displayed this we will see when we come to the descriptions of the battle of Kurukshetra how Krishna displayed this trait of his.
+
+---
+### divine power, expansion, marriage
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1776
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Krishna immediately tightened his belt and then walked into the field where the seven bulls were there and he immediately expanded himself into seven forms"
+**Summary:** Krishna expands himself into seven forms, easily defeats the bulls, and marries Satya, assuring her of his constant presence.
+
+When Nagmajith said like this Krishna immediately tightened his belt and then walked into the field where the seven bulls were there and he immediately expanded himself into seven forms and very easily he caught the bulls and put a put a ring through their nose and started pulling them just like a child pulls a wooden doll and like this very easily Krishna conquered the bulls and claimed them by expanding himself in seven forms Krishna wanted to assure Satya that I have so many queens already in my palace in Dwaraka I have Rukmini Devi Satyabhama so many Lakshmana so many queens are there so you should not think that you will very rarely get to see me Krishna has to everyday spend one one day with each of the queens finally when he comes to me I don't know when he will come no it's not like that Krishna is the supreme personality of God and simultaneously he expands himself and he is present with all his thousands of queens simultaneously this is the opulent the supreme potency of the supreme lord and like this Krishna won the hand of Satya and he started taking back her to Dwaraka and when he was taking her back to Dwaraka the various other kings who had been defeated the bulls they became very envious and they attacked Krishna and when they attacked Krishna Arjuna came forward and assured Krishna Krishna my dear friend you don't worry I am there now I will take care of them so Arjuna all alone he very easily fought and he defeated all the kings and they all ran away from there and like this Arjuna and Krishna took back Satya to Dwaraka and she also became one of the 16000 queens of Krishna in Dwaraka.
+
+---
+### revenge, enmity, family
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=1892
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Jarasandha started planning to take revenge against Krishna"
+**Summary:** The narrative shifts to Jarasandha, who seeks revenge against Krishna for killing Kamsa, his son-in-law.
+
+So in this manner Krishna was ruling over Dwaraka and actually what had happened that when Krishna was in Vrindavan and he had come to Mathura to release his parents as well as all the other members of the Yadava dynasty from the clutches of Kamsa Krishna had to kill his own uncle when Kamsa was killed his wives became widows Kamsa had two wives Asti and Prapti and their children were still too young they did not have grown up children so this Asti and Prapti they took their young children upon the death of Kamsa when they became widows and they went back to their maternal home they went back to their father's home and when they reached their father's home they were grieving very bad days sadly they were crying and when their father came to know that his daughters had been widowed he also became very aggrieved and when he heard that Krishna was the person who had killed his son-in-law he became very vengeful towards Krishna and this king who was the father of Asti and Prapti was none other than Jarasandha and so Jarasandha started planning to take revenge against Krishna.
+
+---
+### cliffhanger, anticipation, invitation
+**Timestamp:** https://youtu.be/wODzuJO1Yns?t=2002
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "now what did Jarasandha do to take revenge against Krishna please join us again in our next episode of the Mahabharata to learn about this"
+**Summary:** The speaker ends the episode with a cliffhanger, inviting viewers to join the next episode to learn about Jarasandha's revenge plans.
+
+Now what did Jarasandha do to take revenge against Krishna? Please join us again in our next episode of the Mahabharata to learn about this. Thank you Hare Krishna Krishna my dear friend you don't worry I am there now I will take care of them so Arjuna all alone he very easily fought and he defeated all the kings and they all ran away from there and like this Arjuna and Krishna took back Satya to Dwaraka and she also became one of the 16000 queens of Krishna in Dwaraka so in this manner Krishna was ruling over Dwaraka and actually what had happened that when Krishna was in Vrindavan and he had come to Mathura to release his parents as well as all the other members of the Yadava dynasty from the clutches of Kamsa Krishna had to kill his own uncle when Kamsa was killed his wives became widows Kamsa had two wives Asti and Prapti and their children were still too young they did not have grown up children so this Asti and Prapti they took their young children upon the death of Kamsa when they became widowed and they went back to their maternal home they went back to their father's home and when they reached their father's home they were grieving very badly they were crying and when their father came to know that his daughters had been widowed he also became very aggrieved and when he heard that Krishna was the person who had killed his son-in-law he became very vengeful towards Krishna and this king who was the father of Krishna the father of Asti and Prapti was none other than Jarasandha and so Jarasandha started planning to take revenge against Krishna now what did Jarasandha do to take revenge against Krishna please join us again in our next episode of the Mahabharata to learn about this thank you Hare Krishna Jagat Guru Shri La Prabhupada Ki Jai Nithayagur Premanande Hari Hari Bol for more information.
+
+---
+
+## Mahabharata l Part 20 | Jarasandha attacks mathura
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, guru parampara, Krishna consciousness
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Mokam Karoti Vachalam Bangun Langayate Girim Yad Kripata Maham Vande Sri Gurum Deena Taranam"
+**Summary:** The lecture begins with traditional Vaishnava prayers and mantras, offering obeisances to the spiritual master and the Lord.
+
+Thank you for watching. Om Ajnana Timirandhasya Jnananjana Shalakaya Chakshurunmilitam Yena Tasmai Sri Gurave Namaha. Namo Vishnu Padaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Itinamini. Namaste Saraswati Devai Gauravani Pracharine Nirvisesha Sunyavadi Pasha Dhyadeshatarine. Jai Sri Krishna Chaitanya Prabhu Nityananda Sri Advaita Gadadhara Sri Vasadi Gauravatta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mukam Karoti Vachalam Pangum Langayate Girim Yat Kripata Maham Vande Sri Gurum Deena Taranam. Hare Krishna and welcome back to today's episode of the Mahabharata.
+
+---
+### Krishna's protection, Jarasandha's persistence, divine power
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=87
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "With a very small army, they were able to very easily conquer Jarasandha's huge well-equipped army."
+**Summary:** The speaker recounts Jarasandha's initial attack on Mathura after Kamsa's death and how Krishna and Balaram easily defeated his large army.
+
+As we have seen last time, after Lord Krishna vanquished the evil Kamsa, his two wives became widowed, and Kamsa's two widowed wives, Asti and Prapti, went back to their father's home and their father, Jarasandha. When he heard that Krishna had killed Kamsa, because of which his daughters had become widows, he became very angry, and he decided to take revenge. Thus, he collected a very huge army consisting of several Akshavanis, and he attacked Mathura. When he attacked Mathura, Krishna and Balaram, they repulsed Jarasandha's huge army with their own small army. With a very small army, they were able to very easily conquer Jarasandha's huge, well-equipped army. Within a short period of time, the entire army of Jarasandha was completely routed.
+
+---
+### perseverance, influence of association, Krishna's victory
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=186
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Again Jarasandha was defeated very easily by Krishna and Balarama and then again he was set free."
+**Summary:** Despite initial defeat, Jarasandha is encouraged by his demonic friends to attack again, leading to a second defeat by Krishna and Balaram, highlighting Jarasandha's perseverance.
+
+Jarasandha was alive, and they set him free. On Jarasandha's side, his entire army was completely routed; all his army, soldiers, horses, elephants, all of them were killed. But the army manned by Krishna and Balaram, not even one person died. When Jarasandha was defeated so completely like this, he became completely depressed, and he thought, "Let me give up my kingship, let me give up my kingdom, let me take sannyas and go away." But then his demoniac other friends, they all gathered, and they inspired him, encouraged him, and asked him to think positively, and told him, "These victory and defeat are part of the game in every warfare." So they told him, "Don't take all this very seriously. You go back, and you consolidate your army once again, take another opportunity, try again." Then Jarasandha took heart, and then he went back to Magadha, and after a little amount of time, he managed to organize another huge army, and again he attacked Mathura. The result was no different. Again, Jarasandha was defeated very easily by Krishna and Balarama, and then again he was set free.
+
+---
+### determination, divine plan, karma
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=278
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "He attacked Mathura like this, not once, not twice, not thrice, but seventeen times he attacked Mathura."
+**Summary:** Jarasandha's relentless attacks on Mathura, totaling seventeen attempts, are contrasted with the emergence of Kala Yavana, a powerful warrior created due to an insult to Gargamuni.
+
+Now, Jarasandha was a very perseverant person. He attacked Mathura like this, not once, not twice, not thrice, but seventeen times he attacked Mathura. Every time the result was the same, but still he never gave up. After being defeated the seventeenth time, he went back and again started consolidating and creating a new army. In the meantime, what had happened was, Gargamuni was the family priest of the Yadavas, and one time it so happened that Gargamuni's brother-in-law taunted him for something. Now, the Yadava princes, they heard about the taunt, and they also laughed at Gargamuni. When Gargamuni became very insulted like this, he decided, "I will produce a king who will be very fearful to the Yadavas," and like this, he begot a son in a Yavana princess.
+
+---
+### divine arrangement, devotee protection, overcoming obstacles
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=390
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So he decided, let me pick up a fight with them. And he came and attacked Mathura."
+**Summary:** Kala Yavana, hearing of Krishna and Balaram's power, attacks Mathura, coinciding with Jarasandha's planned 18th attack, creating a dire situation for the city.
+
+are people who do not follow the Vedic rules and regulations. They are meat eaters, and such people are called Yavanas. So the Gargamuni begot a son in a Yavana princess, and this son grew up to become a powerful Yavana warrior. He became a powerful Yavana king called Kala Yavana, and he was so powerful that nobody could stand before him in battle. So in time, he heard about the opulence of Mathura, and he heard that Krishna and Balaram are very powerful warriors. So he decided, "Let me pick up a fight with them." And he came and attacked Mathura. By then, Krishna and Balaram got news that Jarasandha is planning to attack Mathura for the 18th time. In another two days, he is going to reach there. Already Mathura was besieged by this Kala Yavana with his 30 million soldiers. Such a huge army. Mathura was hemmed in from all sides. And now if Jarasandha also attacks Mathura, it is going to be a very serious affair. So Krishna consulted with Balaram, and he said, "This kind of happened, these attacks by Jarasandha is disturbing the peace of the Yadavas. Although for us to defeat him and send him out is not a big deal, but then for the citizens it is a constant harassment. It's actually not even a harassment. It was a nuisance. So to solve this problem of Jarasandha repeatedly attacking Mathura..."
+
+---
+### divine architecture, devotee contributions, protection
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=477
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And therefore he called Vishwakarma, the chief engineer of the Devatas and he instructed him to build a very well fortified city in the middle of the sea off the coast of Gujarat and that is how the Dwarka fort was built across an area of 96 square miles."
+**Summary:** To end Jarasandha's attacks, Krishna commissions Vishwakarma to build the fortified city of Dwarka, with various Devatas contributing gifts, showcasing divine cooperation.
+
+Krishna decided to build a very fortified city. Mathura simply lost all his power. If he wants to help Martin, he will do dele obedience. And therefore, he called Vishwakarma, the chief engineer of the Devatas, and he instructed him to build a very well fortified city in the middle of the sea off the coast of Gujarat, and that is how the Dwarka fort was built across an area of 96 square miles. Vishwakarma, because he is the chief engineer of the Devatas, he could build this city in record time within a couple of days, unlike today's government projects which take years together and have lot of cost overruns, schedule overruns, budget overruns, coupled with so many scams and scandals, there was no such thing during those times. And when the Devatas heard that Krishna is building a new city, so all of them came forward with various gifts. Indra gifted Krishna a wonderful assembly hall called Sudharma. The specific characteristic of this Sudharma hall was such that anybody who would enter this assembly hall, he would not be disturbed by the infirmities of old age, and with full intellect and wisdom, the people could participate in the assembly hall, the assembly proceedings of the government. So like this different Devatas came forward, and they all gifted various things for the building of this mega city because he is the master of all the Devatas.
+
+---
+### supreme controller, sacrifice, divine authority
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=575
+**Verse References:** BG 5.29
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "He is the supreme control. He is the controller of all the planets including the Svarga Loka's where the Devatas reside."
+**Summary:** Krishna's position as the master of the Devatas and the supreme enjoyer of all sacrifices is explained, emphasizing his control over all planetary systems.
+
+He is the owner of all the different planetary systems, as Krishna himself says in the Bhagavad Gita, Sarva Loka Maheshwaram. He is the supreme control. He is the controller of all the planets including the Svarga Lokas where the Devatas reside. And Bhoktaram Yajna Tapasam. He is the chief enjoyer of all the sacrifices which one may perform for any Devata. Any sacrifice we may perform, Yajna we may perform either for Ganesha or Lord Shiva or for Indra, Brahma, whomever we may want to appease with a Yajna. The Yajna Pati, the chief. The chief enjoyer of the Yajna has to be Vishnu. Then only that sacrifice for that particular Devata becomes fulfilled. So Krishna is the supreme enjoyer, is the supreme controller, he is the master of all the Devatas. So naturally when he was building a city, all the Devatas came forward to contribute their might for building the city.
+
+---
+### divine strategy, codes of conduct, illusion
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=645
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "He immediately understood that this Vishnu is the person whom I have come to attack. But he is unarmed."
+**Summary:** Krishna, in his four-handed Vishnu form, leads Kala Yavana unarmed to a cave, adhering to the codes of conduct in battle, setting the stage for Kala Yavana's demise.
+
+And then Krishna, what he did was he assumed the four handed Vishnu form, and he walked out of the fort. He was walking out of the fort, and he saw the court of Mathura unarmed. And when Kalayavana saw that this four handed Vishnu looking very beautiful, having the complexion of a dark rain bearing cloud, wielding a lotus in his hand, and he is walking like this, he immediately understood that this Vishnu is the person whom I have come to attack. But he is unarmed. So I cannot attack him with my arms like this. I cannot attack him with my arms like that. So he also, following the codes of conduct of battle, he got down from his chariot, and he also started following Vishnu on foot. And he kept calling out, "Hey, where are you going away? Turn back and fight with me." He started challenging like this, and he ran behind Vishnu trying to catch him. But Vishnu is the Supreme Personality of Godhead. He cannot be caught by any material person. Although Vishnu was very peacefully walking, Kalayavana was running behind him, but Vishnu was faster than Kalayavana, and slowly Vishnu led him, Kalayavana, to a cave, and he entered that cave, and he disappeared. And when this Kalayavana entered the cave, he found one person lying inside the cave, and he thought, "Oh, this Vishnu has now... He is pretending to be Vishnu. He is pretending to be sleeping because he is afraid of me." Thinking like this, he kicked that man who was sleeping and told him, "Wake up. What are you pretending to sleep? Get up and fight with me."
+
+---
+### divine arrangement, benediction, liberation
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=753
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So please bless me that I will be able to have a very long rest as long as I want to and if anybody disturbs my sleep, he should be immediately killed."
+**Summary:** Kala Yavana disturbs Mucukunda, a king blessed with undisturbed sleep and the power to burn anyone who awakens him, leading to Kala Yavana's death and Mucukunda's subsequent liberation by Vishnu.
+
+And that sleeping person was actually a king by the name Mucukunda. This Mucukunda had in very earlier times, he had assisted the Devatas in fighting with the demons. The fight between the Devatas and Asuras keeps happening at various times. In one of those fights, the Devatas had enlisted the support of Mucukunda because he was a very powerful king. He was a very powerful king at that time on earth, and he also participated in that battle and helped them. And after the battle, he was feeling very tired. And when the Devatas asked him, "Do you want any benedictions from us?" because he has assisted us very nicely. Mucukunda said, "I want to take a lot of rest. So please bless me and thank you so much." Mucukunda accepted. Mucukunda said, "I want to take a lot of rest. You please bless me and thank me." Then Mucukunda had thuszejid him to to die. Mucukunda said, "So please bless me that I will be able to have a very long rest as long as I want to, and if anybody disturbs my sleep, he should be immediately killed." So therefore the devatas bless him, "We bless you that you can have a very long rest to your heart's content, and if anybody disturbs your sleep, then when you look upon him, he will get burned to death." So when this Mucukunda was kicked by Kala Yavana, Mucukunda woke up, and the first person he saw was this Kala Yavana, and because Kala Yavana had disturbed his sleep, he immediately burned to death, and then Vishnu appeared before Mucukunda, and the moment Mucukunda saw Lord Vishnu, he immediately understood, "Oh, the Supreme Lord Vishnu," immediately offered his obeisances and prayed to him to please him. And then Lord Vishnu blessed him saying that he would get liberated from this material world of birth and death very quickly, and so then he came out of the cave, and he went to the Gandhamadana hills in Himalayas near Badrinath, and there he performed lot of austerities, and he went back to Godhead. So like this the threat of Kala Yavana was neutralized by Krishna.
+
+---
+### divine transcendence, unconventional action, devotion
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=883
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "His act of leaving the battlefield without fighting is celebrated and he is known as Rannachor."
+**Summary:** Krishna relocates the Yadavas to Dwarka and then leaves the battlefield against Jarasandha, an act considered cowardly for a Kshatriya, but glorified because it is Krishna, highlighting his transcendental nature.
+
+And now when Krishna came back to Mathura, he shifted all the Yadava family to Dwaraka, and then for the 18th time when Jarasandha attacked Mathura, Krishna and Balarama came out of the Mathura fort, and then Krishna left the battle without fighting. So for a Kshatriya war, it was a very difficult battle. For a Kshatriya, to leave the battlefield and run away is considered an act of cowardice, and it is never appreciated. It is the greatest insult for a Kshatriya. A Kshatriya by nature and the dharma of a Kshatriya also dictates that you should never turn his back on a battlefield. But then Krishna is a transcendental personality. He is never bound by these material laws and principles. So if an ordinary mortal king would flee from the battle, he would get humiliated for entire life. But then Krishna left that battlefield and went away. His act of leaving the battlefield without fighting is celebrated, and he is known as Rannachor. Rannachor means a person who left the battlefield and ran away. So you see how whatever act Krishna does, it becomes highly glorified.
+
+---
+### divine purpose, transcendental activities, devotion
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=976
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna's stealing, Krishna's running away from the battlefield. These are all highly glorious acts."
+**Summary:** Krishna's actions, even those that seem immoral, are glorified because they are transcendental, exemplified by his stealing butter and fleeing the battlefield to attend to Rukmini's wedding.
+
+Just like if we steal something, then it is considered an immoral act, and we will be punished for that. But Krishna stole the butter and ghee and the curd from the Gopis, and that is glorified. Various Acharyas, the scriptures, they all glorify Krishna's stealing. Krishna's stealing, Krishna's running away from the battlefield. These are all highly glorious acts. Krishna's every activity is transcendental and worth glorifying. So why Krishna and Balaram left the battlefield and went away is because Krishna had another business to attend to. Krishna had to attend to the wedding of Rukmini. Rukmini's wedding had been held in the morning. Rukmini's wedding had been organized against her wishes by her brother Rukmi with Shishupala, and Rukmini had sent a letter to Krishna to come and take her away from her unwanted wedding. So Krishna wanted to go and abduct Rukmini Devi, and so therefore he went away from the battlefield.
+
+---
+### divine escape, devotee rescue, marriage
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1058
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So Krishna wanted to go and abduct Rukmini Devi and so therefore he went away from the battlefield."
+**Summary:** Krishna and Balaram escape Jarasandha's pursuit by climbing a hill and jumping off, leading Jarasandha to believe they are dead, while Krishna proceeds to abduct and marry Rukmini in Dwarka.
+
+When Krishna left the battlefield, Jarasandha also pursued him. But then Krishna and Balaram, after some time when they saw that Jarasandha was continuously pursuing them, they climbed on top of a hill, and when they climbed the hill, Jarasandha surrounded that hill with lot of inflammable material, and he set it on fire. And when Krishna and Balaram saw this, they jumped from the top of the hill, and they escaped unseen. Well, Jarasandha and his troops, they thought that, "Oh, now Krishna and Balaram have burned to death," and they went back to Magadha. In the meantime, Krishna went, Krishna and Balaram went to the wedding of Rukmini Devi, and from there Krishna abducted Rukmini Devi and brought her to Dwaraka where he married her in a suitable manner.
+
+---
+### divine marriage, devotee's jewel, misunderstanding
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1114
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "The unique characteristic of this Syamantaka Mani was that every day it would produce one mound of gold."
+**Summary:** Krishna marries Satyabhama, daughter of Satrajit, who possesses the Syamantaka Mani, a jewel that produces gold daily. A misunderstanding arises when Satrajit suspects Krishna of stealing the jewel after his brother Prasenjit is killed.
+
+After this, Krishna married Satyabhama. Satyabhama was the daughter of one of the three sisters of the kings under the Yadava rule by the name Satrajit. This Satrajit, he was a great devotee of the sun god Surya, and he had as a benediction got a very valuable jewel called the Syamantaka Mani. The unique characteristic of this Syamantaka Mani was that every day it would produce one mound of gold. Such a, you can imagine such a valuable jewel, every day it will produce one mound of gold. So this Syamantaka Mani was very valuable, and it was possessed by Satrajit. But due to some misunderstanding, some miscommunication, Satrajit came under the misconception that Krishna had stolen the Satrajit and the Surya. But due to some misunderstanding, some miscommunication, Satrajit came under the misconception that Krishna had stolen the Syamantaka Mani from his brother Prasenjit. Actually, Prasenjit had taken the jewel, and he had gone to the forest, and he had been killed by a lion, and when Prasenjit was killed by the lion, the lion caught hold of that Syamantaka Mani, but then later Jambavan who had who Jambavan was a personality who had assisted Lord Ramachandra in his fight against Ravana, so Jambavan was a very old personality, he was still living even during the time of Lord Krishna, so this Jambavan came across this lion possessing this Syamantaka Mani, and then Jambavan had a hand-to-hand combat with the lion, and he killed the lion, and he took possession of the Syamantaka Mani, but Jambavan is a great devotee of Lord Ramachandra, he was not very much attached to that jewel, so he gave it to his child to play around with the jewel, he did not attach much importance to it, but then Satrajit he started
+
+---
+### divine play, devotee recognition, humility
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1243
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And if this person whom I am fighting with, he is able to withstand my strength and he is able to win over me, then it has to be the Supreme Personality of Godhead."
+**Summary:** To clear his name, Krishna searches for the jewel, leading to a fight with Jambavan, who eventually recognizes Krishna as Lord Ramachandra and surrenders the jewel.
+
+spreading the rumor that Krishna has killed Prasenjit and taken away the jewel. So now Krishna had to satirize his reputation, so Krishna went to the forest, and after searching out in the forest, he came across this jewel being played with by Jambavan's child, and then Krishna when he wanted to take the jewel away, Jambavan came and stopped him. Jambavan did not recognize who was Krishna, and so he challenged him, "If you want to take this gem, you have to fight with me," and there was a mega fight between Jambavan and Krishna, both of them punching each were hitting each other, wrestling, fighting, rolling on the ground, all these things was going on. And Jambavan was a very powerful personality. You can imagine he killed a lion with his bare hands. But still because Krishna is the Supreme Personality of Godhead, as the fight progressed, slowly Krishna's punches were so powerful that slowly Jambavan started tiring, and he felt that he was not able to fight to his full capacity. So actually this Jambavan is a great devotee of Lord Ramachandra. So the question arises, why did he not recognize Lord Krishna? The reason is because Krishna wanted to have a mock fight with his devotee, and so therefore Krishna did not allow that realization to come into Jambavan's heart. But then having fought with Krishna for so long, and Krishna had become pleased with the Jambavan's fighting, and so therefore when Krishna became pleased with Jambavan's fighting, Jambavan realized, "Oh my God, I am such a powerful person, nobody on this earth can match my strength. And if this person whom I am fighting with, he is able to withstand my strength, and he is able to win over me, then it has to be the Supreme Personality of Godhead."
+
+---
+### divine grace, devotee surrender, marriage
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1373
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And then Krishna smiled and revealed his true personality."
+**Summary:** Jambavan recognizes Krishna, surrenders the Syamantaka Mani, and offers his daughter Jambavati in marriage, which Krishna accepts.
+
+So when this realization dawned upon him, Jambavan stopped fighting, and then he looked at Krishna, and he said, "Are you not the same Lord Ramachandra, my Supreme Lord?" And then Krishna smiled and revealed his true personality. Then Jambavan very happily gave back that Syamantaka Mani to Krishna, and he also had a grown up daughter, Jambavati. He requested Krishna to marry her also, and this is how Krishna married Jambavati, and he brought her back to Dwaraka.
+
+---
+### repentance, divine acceptance, condolences
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1462
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So then Satrajit thought that if I have to repent for my wrongful action, then only way is let me hand over my daughter in marriage to Krishna."
+**Summary:** Krishna returns the Syamantaka Mani to Satrajit, who, feeling repentant, offers his daughter Satyabhama in marriage, which Krishna accepts. Later, Krishna and Balaram visit Hastinapura to offer condolences for the supposed death of the Pandavas.
+
+This is how Krishna came to marry Satyabhama. Satrajit presented the Syamantaka Mani also to Krishna. Satrajit accepted the hand of Satyabhama, and he married her. This is how Krishna came to marry Satyabhama. But then at his heart, he was not very willing to give away that Syamantaka Mani. And Krishna, because he is Paramatma, he knows every living entity's heart. So Krishna also, he accepted the jewel and gave it back to Satrajit, and he said, "I have no desire to possess this, you can keep it." And so like this, then Satrajit was also happy, and he continued keeping the Syamantaka Mani in his possession. It was around this time that the Yadavas got the news that the Pandavas had been burned down in the house of Shalak. Although Krishna is the omniscient Supreme Personality of Godhead, nothing is hidden from his view, still, he felt it is inappropriate for him to not go to Hastinapura and express his condolences. So therefore, Krishna and Balaram went to Hastinapura and met Bhishma Dev, Dronacharya, Gandhari, Dhritarashtra, and Gopal.
+
+---
+### grief, divine presence, mystery
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1523
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Looks like some big calamity has come upon Dwaraka."
+**Summary:** Krishna and Balaram express condolences in Hastinapura, but Satyabhama's sudden arrival in a grieving state creates a mystery, prompting Krishna to inquire about the calamity in Dwaraka.
+
+They met all of them and expressed their condolences and participated in the grieving. Of course, personalities like Gandhari, Bhishma Dev, Dronacharya, they were all genuinely grieving over the perceived death of the Pandavas. Dhritarashtra, Duryodhana, and other words, they were putting up a show. But then Krishna and Balaram stayed for some time in Hastinapura to share their grief with the Kaurava household. And while Krishna and Balaram were there in Hastinapura like this, suddenly one day Satyabhama came to Hastinapura. So Krishna and Balaram were surprised. Satyabhama was supposed to be in Dwaraka, but suddenly she has landed up in Hastinapura, and she was very grieving. She was crying, and she was in a very aggrieved state. So when Krishna saw this, he asked Satyabhama, "What has happened? Why have you suddenly left Dwaraka and come to Hastinapura? What has happened there? Looks like some big calamity has come upon Dwaraka. Please tell what has happened." So what had happened? Why did Satyabhama rush from Dwaraka to Hastinapura? And why was she aggrieved? Please join us in our next episode of the Mahabharata to know about this. Thank you.
+
+---
+### conclusion, recap, devotion
+**Timestamp:** https://youtu.be/R_ef-qRnCuQ?t=1628
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Please join us in our next episode of the Mahabharata to know about this."
+**Summary:** The lecture concludes with a recap of the events leading to Satyabhama's arrival in Hastinapura and an invitation to join the next episode to uncover the mystery.
+
+Hare Krishna Jagat Guru Shri La Prabhupada Ki Jai, Netai Gor, Prem Anand, Hari Hari Vor. Well, I gave it back to Satrajit and he said, "I have no desire to possess this, you can keep it." Satyabhama said, "I have no desire to possess this, you can keep it. I have no desire to possess this." And so like this, then Satrajit was also happy and he continued keeping the Syamantaka Mani in his possession. It was around this time that the Yadavas got the news that the Pandavas had been burned down in the House of Shalaka. Although Krishna is the Omniscient Supreme Personality of Godhead, nothing is hidden from his view. Still. He felt it is inappropriate for him to not possess the Samantaka. So he took it from him. want to go to Hastinapura and express his condolences. So therefore Krishna and Balaram went to Hastinapura and met Bhishma Dev, Dronacharya, Gandhari, Dhritarashtra. They met all of them and expressed their condolences and participated in the grieving. Of course, personalities like Gandhari, Bhishma Dev, Dronacharya, they were all genuinely grieving over the perceived death of the Pandavas. Why Dhritarashtra, Duryodhana and others, they were putting up a show. But then Krishna and Balaram stayed for some time in Hastinapura to share their grief with the Kaurava household. And while Krishna and Balaram were there in Hastinapura like this, suddenly one day Satyabhama came to Hastinapura. So Krishna and Balaram were surprised, Satyabhama was supposed to be in Dwaraka, but suddenly she has landed up in Hastinapura and she was very grieving, she was crying and she was in a very aggrieved state. So when Krishna saw this, he asked Satyabhama, what has happened, why have you suddenly come to left Dwaraka and come to Hastinapura? Why? What has happened there looks like some big calamity has come upon Dwaraka, please tell what has happened. So what had happened, why did Satyabhama rush from Dwaraka to Hastinapura and why was she aggrieved? Please join us in our next episode of the Mahabharata to know about this. Thank you. Hare Krishna, Jagat Guru, Shri Ila Prabhupada. Thank you. Netai Gaur, Premanande, Hari Hari Gaur. Thank you. Hare Krishna, Jagat Guru, Shri Ila Prabhupada. Thank you. Hare Krishna, Jagat Guru, Shri Ila Prabhupada. Thank you.
+
+---
+
+## Mahabharata l Part 21 |  Duryodhana becomes Lord Balarama's disciple
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### crime, retribution, divine justice
+**Timestamp:** https://youtu.be/8sx_jKkKAuU?t=270
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Each one of them refused. They said Krishna and Balaram sorry even the devatas cannot stand in front of them we are nobody we cannot give your protection."
+**Summary:** The story of Satrajit's murder by Shatadhanva, Satyabhama's grief, and Krishna and Balaram's pursuit of the murderer is narrated.
+
+Towards Satrajit, they all got together and because of the shared grief, all of them were thinking how to teach this Satrajit a good lesson. Finally, all of them got together and they decided one of them should attack Satrajit and murder him. And so amongst all of these people, one of them was a person called Shatadhanva. This Shatadhanva was already known to be a rogue. He was a kind of outlaw kind of person. So you can say in one way Shatadhanva was given the supari, the contract to kill Satrajit. And so this Shatadhanva, armed with various knives and daggers and all that, he broke into the house of Satrajit in the middle of the night. And when Satrajit was sleeping, he slaughtered him in his sleep. And then he captured the Samantakamani and took it away. In the morning when his body was discovered, Satyabhama was completely distraught. And everybody knew that Satrajit had been murdered and Satyabhama wanted that whoever did this grievous, sinful act, whoever committed this grievous crime, should be suitably punished and she knew that Krishna, her husband, was eminently capable of meeting out just punishment. So what did she do? She took the body of Satrajit and preserved it in a tank of oil because she wanted Krishna to see the body of her father, how he had been mercilessly slaughtered in his sleep. And having made this much arraignment, Satyabhama set out from Dwaraka to Hastinapura herself. And this is how Krishna and Balaram saw Satyabhama suddenly appearing in Hastinapura in a distraught condition. Satyabhama narrated whatever had happened to Krishna and immediately Krishna and Balaram took leave of Hastinapura, took leave of the Kaurava household people and they immediately returned to Dwaraka. And in Dwaraka when Krishna saw the body of Satrajit and how all the women folk were weeping over him and they were lamenting very badly, Krishna did his investigations and he found out that Shatadhanva was the person who had murdered Satrajit. And so then, by then what had happened? By then Shatadhanva had got the news that Krishna and Balaram had returned and suddenly a fear, deep fear gripped his heart. Now, if I am identified and if I am captured what will happen to me? I will lose my life. So what he thought, he went back to all the co-conspirators, those who had commissioned him to commit the murder and he approached each one of them and he told them, please give me your protection, somehow you protect me from Krishna and Balaram. Each one of them refused. They said, Krishna and Balaram, sorry, even the devatas cannot stand in front of them, we are nobody, we cannot give your protection. Finally, Shatadhanva went to Akrura who was Krishna's uncle and he handed over the Samantaka money to him and even Akrura refused to protect him and so this Shatadhanva took a horse and he left Dwaraka and he tried to flee as far as possible. But by then Krishna and Balaram had already got the news.
+
+---
+### divine justice, friendship, duty
+**Timestamp:** https://youtu.be/8sx_jKkKAuU?t=490
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So at that time, Balaram informed Krishna that Krishna, it is better that you go on to Dwarka because the Samantakamani is not here with Chattadhanva and on the way there is no chance that he could have stopped anywhere because continuously we also have been pursuing him."
+**Summary:** Krishna and Balaram pursue Shatadhanva, ultimately killing him, but the jewel is missing. Balaram then decides to visit his friend King Janaka in Mithila, while Krishna returns to Dwarka.
+
+They had determined who was the culprit and so having found out that Chattadhanva was the criminal who had murdered Shatrajit in his sleep and that now he had fled on a horse, immediately Krishna and Balaram also got on horses and they also started pursuing him. For a long distance, Chattadhanva went on his horse and how long will the horse also go on? For a long time, the horse gave up and it fell down, it dropped dead. So then from there, Chattadhanva started running on foot and Krishna and Balaram who were pursuing, at one point of time they came and they saw Chattadhanva's horse lying dead. In honor of and being very righteous people, according to the laws of Dharma, Krishna and Balaram to give their opponent an equal opportunity to kill him, they got down from their horses and they also started pursuing Chattadhanva on foot. And this pursuit went over a very long distance. By the time Krishna and Balaram caught up with Chattadhanva, they had reached the outskirts of Mithila. Mithila is where current day Jharkhand and some portions of Nepal are there. You can imagine from Dwarka all the way they had reached to the Mithila. And so then finally having caught up with Chattadhanva, Krishna and Balaram captured him and they killed him right there. And then having killed him, Krishna searched Chattadhanva but he could not find the Samantakamani. Now what to do? So at that time, Balaram informed Krishna that Krishna, it is better that you go on to Dwarka because the Samantakamani is not here with Chattadhanva and on the way there is no chance that he could have stopped anywhere because continuously we also have been pursuing him. So most likely that he would have left the Samantakamani with someone in Dwarka itself. So better you go back to Dwarka. I know, happen to know the king of Mithila. His name is Janaka. Of course, this is not the same Janaka as the mother of Sita. But at that time, when Krishna and Balaram came to Mithila, Krishna and Balaram came to Mithila. Balaram was present on this earth 5000 years ago. The king of Mithila at that time also happened to be named Janaka. So Balaram informed Krishna, this Janaka who is ruling over Mithila is a very close friend of mine. Since we have already come all the way here, I will pay him a visit, stay for a few days and then I will come back. So Krishna went back to Dwarka.
+
+---
+### devotion, skill, knowledge
+**Timestamp:** https://youtu.be/8sx_jKkKAuU?t=662
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And so Duryodhana immediately took that opportunity, he came to Mithila and spent several months learning the art of Gada Yudha, how to fight with a mace from Balaramaji."
+**Summary:** Krishna returns to Dwarka and Akrura is summoned back. Balaram visits King Janaka in Mithila, where Duryodhana becomes his disciple to learn the art of Gada Yudha.
+
+Now when Krishna went back to Dwarka, Akrura left Dwarka because Akrura had the Samantakamani. So Krishna went back to Dwarka. And he was afraid that he will also get implicated in this crime which Chattadhanva had committed. So he left Dwarka and he went to some other place. But then Krishna, because he knows everything, he sent word for Akrura in a very pleasing tone, asking him, requesting him to come back. And when Akrura came back, Krishna informed Akrura that he was very well aware that the Samantakamani was in his possession. But then Krishna told Akrura that if the Samantakamani was in his possession, then Krishna would not come back. So Krishna went back to Dwarka. So Akrura told Akrura that if the Samantakamani is not recovered, then there will always be questions raised. Already Krishna had been, there had been lot of rumors which had been generated about Krishna, about having stolen the Samantakamani even during the time of when Satrajit was alive. Krishna did not want a repeat of that. So he told Akrura, I have no desire to possess the Samantakamani. But for once, just once, in front of all the elders in the palace, you please show that this money is in your possession, and then you can retain it. And so Akrura also displayed the money saying that Satadhanva had given it to him before he fled. And so like this Akrura kept the Samantakamani with him. And in this way, the matter was closed out. Now, Balanam having reached the palace of the king of Mithila, was welcomed very warmly. And he was accorded all sorts of respects, because the king Janaka of Mithila was a great friend of Balanam and he was also a great devotee, he was a great Vaishnava. So to please him, to please that king, Balanam stayed for several months in Mithila. And it was during this time that Duryodhana took advantage of, the news had reached Duryodhana, that Balanam was dead. And Balanam was staying in Mithila. And so Duryodhana immediately took that opportunity, he came to Mithila and spent several months learning the art of Gada Yudha, how to fight with a mace from Balaramaji. Because Balaramaji is the greatest proponent of Gada Yudha. His favorite two instruments, weapons are the Gada and the plow. So nobody can be more expert than Balanam. None other than the Supreme Personality of Godhead himself. And so Duryodhana came and became a disciple of Balanamji to learn Gada Yudha from him. And so this is how Duryodhana became a highly skillful warrior in the use of the mace. Bhima was also a great warrior in terms of fighting with the Gada, fighting with the mace. Bhima relied more on his power, on his strength. Whereas Duryodhana, although he was far less powerful, far less stronger compared to, he was far weaker to Bhima, still Duryodhana was much more skillful than Bhima. And so this is how Duryodhana became a very skillful person as far as Gada Yudha was concerned.
+
+---
+### justice, governance, competence
+**Timestamp:** https://youtu.be/8sx_jKkKAuU?t=870
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "If the judge is inefficient and is incompetent, no matter the, whatever the amount of evidence and witnesses present, he may still give a wrong judgment."
+**Summary:** Arjuna visits Dwaraka and the lecture shifts to a discussion of the judicial system in ancient times, contrasting it with the modern system and emphasizing the importance of a competent and empowered judge.
+
+Once Arjuna happened to be in Dwaraka. He was visiting Dwaraka to spend a few days with Lord Krishna. And he was staying along with all the Yadavas in their household. And in those days, the custom used to be that if anybody had some complaint, any of the citizens, any of the common men had any complaints, they had any problems to be solved, they could directly come to the court of the king and present their problems. And the king would try to resolve the problems expeditiously. There were no courts. There were no multiple layers of judiciary to go through. So justice was all very instantly served out. And the kings were eminently capable of giving out proper justice. Just like today's world. It may be very difficult to come to justice. Is it difficult to comprehend how, without the assistance of an entire judiciary where you have advocates and there is a court procedure, and there is a process of presenting evidence, evaluating witnesses, and then finally the judge comes to a conclusion. Still sometimes the judgments go awry. Then the people have the opportunity to appeal in a higher court. There also, in the higher court, if the people are not satisfied with the verdict, they can go and appeal to the Supreme Court. Supreme Court, all these opportunities are available. So this is the modern day way of administering justice. So having been exposed to this kind of culture, it may be very difficult to us to comprehend how a king, a single person sitting all alone, how can, if somebody brings a matter of some crime to him, how will he be able to mete out justice in a very short span of time? The fact is that to be able to mete out justice, it's not only evidence and the witnesses which matter, but it is also the capability of the person who is sitting in the position of the judge. If the judge is inefficient and is incompetent, no matter the, whatever the amount of evidence and witnesses present, he may still give a wrong judgment. That's what happens, even today. Even the most efficient judges make a lot of mistakes, but if the judge is very competent and he's very intelligent and capable, then even in the absence of sufficient evidence, he can give very proper judgments.
+
+---
+### leadership, devotion, efficiency
+**Timestamp:** https://youtu.be/8sx_jKkKAuU?t=1039
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So you can imagine how efficient and capable Bhaktivinoda Thakur was. This was because he was empowered by the Supreme Personality of Godhead."
+**Summary:** The speaker provides the example of Srila Bhaktivinoda Thakur as a district magistrate to illustrate how a competent and empowered individual can administer justice efficiently and effectively.
+
+The example of this is Srila Bhaktivinoda Thakur. Srila Bhaktivinoda Thakur was one of the Acharyas in the Vaishnava Sampradaya. Although he was a great Vaishnava, greatly liberated soul, he was an Acharya in the Sampradaya, still externally he acted like a normal citizen, and he was acting as he had, he was a district magistrate under the British government. So as a district magistrate, there would be many cases which would be brought to his table. He was a great Vaishnava, greatly liberated soul. He was an Acharya in the Sampradaya. Still, externally he acted like a normal citizen. Generally, in those days, in the British times, only the Britishers would be given opportunity to become district magistrates. Indian born people would all be given posts which were lower than district magistrates. But then the Britishers of that time recognized the special capability of Bhaktivinoda Thakur and they gave him the position of a district magistrate. And it is said that as a district magistrate, Bhaktivinoda Thakur, in a matter of one hour, he would dispose about 25 cases. People just could not comprehend, they could not believe that one person could dispose of so many cases in such a short span of time. Cases which normally, if they would go to any other district magistrate, which would run on for years together, would be filled with so many cases in such a short span of time. But Bhaktivinoda Thakur finished off in a few minutes time by Bhaktivinoda Thakur. So somebody may think, okay, simply just to maintain a record, he must have been simply, without paying any attention, he must have been left, right and center throwing the cases out. But that was not the case, because many of his judgments were taken to the superior courts by the people, because even those days, that process of appealing to the higher courts were there. But it is a record that not even one judgment of Bhaktivinoda Thakur was taken to the higher courts. No judgment of Bhaktivinoda Thakur was ever overturned by the higher courts. All the higher courts found every judgment of his to be extremely sound and logical and watertight. There was no question of overturning the judgment in any manner. So you can imagine how efficient and capable Bhaktivinoda Thakur was. This was because he was empowered by the Supreme Personality of Godhead. Because he was not an ordinary person. He was not an ordinary person. He was not an ordinary Jeeva. He was an Acharya. He was a representative of the Supreme Lord. So if the person sitting in the post of the judge is empowered by the Supreme Personality of Godhead, then very quickly he can see through what the people are saying, whether they are speaking lies or whether they are speaking the truth, and he can very quickly be guided towards the truth by the Supreme Personality of Godhead himself. And that is how, during the olden times, the kings used to be able to meet out justice in a very short span of time.
+
+---
+### responsibility, governance, criticism
+**Timestamp:** https://youtu.be/8sx_jKkKAuU?t=1236
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "You can imagine the king is responsible to ensure that the rains come on time and the seasons are properly coming and going."
+**Summary:** The lecture describes the responsibilities of kings in Vedic times, contrasting them with modern perceptions of kings, and then recounts an incident where a brahmana criticizes the Yadava kings.
+
+So like this, this used to be the system that the citizens would come to the court of the king and present whatever problems they had to be solved by the king. The king, the role of the king in those days was very, very responsible. In today's world, the kind of impression that we have about kings is, they are not responsible. They were all people who are into all sorts of illicit activities, simply enjoying the wealth, which is not theirs, engaging in wine and women, and they were all people of loose moral character. This is the kind of impression we have of kings today. But in the Vedic times, at least 5000 years ago, the role of a king was very, very responsible. So much so that if there is any climate change in the world, the king will be very, very systematic disturbance in the kingdom, the citizens would accuse the king of being adharmic. You can imagine the king is responsible to ensure that the rains come on time and the seasons are properly coming and going. Even excessive heat in summer and excessive cold in winter was also not to come about. That was the responsibility of the king. You can imagine the person who sits on the throne, these are the expectations from him. Not that he will sit there and womanize and he will waste away all the wealth in all sorts of gambling and other such frivolous activities, no. The expectation from the citizens was the king will ensure there are no earthquakes, he will ensure there are no floods, he will ensure there is no excessive heat during summer, he will ensure there is no excess cold during winter. He will ensure proper rains during winter. He will ensure proper rains during winter and make sure that at least stages of commerce during summer, he made sure that both the airports and the halls meet properly, he made sure during the rainy season, sufficient enough for the crops to grow nicely, etc, etc. These were the kind of this one. So when Arjuna was sitting along with the Yadava kings in the palace, one brahmana, poor brahmana, he came to the court of the Yadava kings and he was very angry and disturbed and he started accusing Ugarasena, who was supposed to be the king of the Yadavas during that time, and he started accusing him left, right and center. He said, you kings are all kings only in name. You have lost the sense of your duty. You have, you are simply spending your time in sense gratification. You have no botheration about the citizens. Otherwise, how is it possible that so much irregularities are happening? In the presence of the king, the citizens are being afflicted by irregularities. This kind of, this kind of misruling by your dynasty is not at all suitable. You're all not fit to be kings. You know, like this, he went on, he ranted and raved for some time and then he walked away. So Arjuna was watching what was happening. Actually, Arjuna was not at the receiving end, because he was just a guest. He had come from Indraprastha for a few days to spend a few days with his friend Krishna and with the Yadavas. After all, they were all close family members. This entire tirade by this Brahmana was directed against Ugarasena, Krishna, Balaram and all these people. So Arjuna was curious. He wanted to know what had happened. So Arjuna asked Krishna and Balaram, why is this Brahmana ranting and raving like this? Why is he throwing such wild accusations at you like this? So, what was the reason for that Brahmana to become wild and accuse the Yadavas including the Supreme Lord Krishna and Balaram in front of everyone as being sins gratifiers and as people who did not lack the qualification to become kings? Why was he throwing accusations like this?
+
+---
+
+## Mahabharata l Part 23 l Arjuna defeats Lord Shiva
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### Mahabharata, Krishna, Arjuna, Pashupatastra
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=89
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So how did he get the Pashupatastra weapon is a pastime in itself."
+**Summary:** The lecture transitions from the previous episode's events to the story of how Arjuna obtained the Pashupatastra weapon.
+
+Welcome to this episode of the Mahabharata. In the last episode, we have seen how Krishna and Arjuna got back the ten sons of the Brahmana in Dwaraka, having gone to Maha Vishnu's abode. Maha Vishnu had enacted this pastime simply because he wanted to have darshan of Krishna and Arjuna. Now after that, we also saw during that whole pastime that was going on, how Arjuna had flaunted his possession of the Pashupatastra weapon. So how did he get the Pashupatastra weapon is a pastime in itself.
+
+---
+### Pandavas, Indraprastha, Pilgrimage, Marriage
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=143
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Even the king, the royal king at that time in Manipur 5000 years ago was also a great Vaishnava."
+**Summary:** The segment describes the Pandavas' prosperous rule in Indraprastha, the birth of their sons, and Arjuna's pilgrimage, including his marriages to Ulupi and Chitrangada.
+
+Today's session, we begin with the Pandavas. In Indraprastha, the Pandavas staying in Indraprastha, they along with Draupadi, they were ruling over Indraprastha and Indraprastha was turning out to be quite prosperous. Citizens were very happy and in due course of time, the five Pandavas begot five sons in Draupadi. Yudhishthira begot a son by the name Pratibhit and Bhima begot a son Suta-Soma in Draupadi whereas Arjuna begot a son by the name Suta-Kirti. Nakula and Sahadeva begot sons respectively by the names Shatanika and Suta-Karma. So like this, five sons were born to Draupadi. Now during their stay in Indraprastha, once it so happened that Arjuna had to undertake a pilgrimage for about a year. So Arjuna taking this pilgrimage all alone travelled to different parts of the country. He happened to visit Haridwar and in Haridwar, he happened to meet a girl by name Ulupi who was from the Nagalokas and he married Ulupi and in Ulupi, he begot a son by the name Irawan. Then Arjuna continued his pilgrimage. He came to Manipur. The state of Manipur is even today famous for its Vaishnava citizens. Even the king, the royal king at that time in Manipur 5000 years ago was also a great Vaishnava. So there Arjuna married Chitrangada who was the daughter of the Manipur king at that time. Arjuna begot a son by the name Babruvahana.
+
+---
+### Swargaloka, Indra, Urvasi, Lifespan
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=271
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Whereas, Uruvashi being in the heavenly planet, she had a long, much longer lifespan and also in the heavenly planets like Swargaloka, people do not become old, wrinkled face and all those kind of things."
+**Summary:** Indra invites Arjuna to Swargaloka, gifts him the Vajra Astra, and Arjuna encounters Urvasi, leading to a discussion about the lifespan and conditions in the heavenly planets.
+
+And then further, what happened was Indra, he invited Arjuna to come to the Swargaloka. He wanted him to visit Swargaloka because after all, Arjuna was begotten by Kunti Devi by the blessings of Indra. So in one sense, Arjuna was the son of Indra. So Indra invited Arjuna to the Swargalokas. And when Indra went to Swargaloka, Indra was taking care of his hospitality and he introduced him to all his assembly. So Arjuna was getting accustomed to all this. And Indra gifted him his Vajra Astra which Arjuna could use whenever required. And so Arjuna got a divine weapon called the Vajra Astra. And there, it so happened that Arjuna also happened to see Urvasi. So this Urvasi had married Pururava who was one of the... very long back, you know, the Pururava was one of the forefathers in the dynasty of Arjuna. So when Arjuna saw Urvasi, he remembered how she was one of the wives of... she was the wife of Pururava, one of his ancestors. But of course, Pururava had long back, he had passed away, being a human being on this earthly planet. Whereas, Uruvashi being in the heavenly planet, she had a long, much longer lifespan and also in the heavenly planets like Swargaloka, people do not become old, wrinkled face and all those kind of things. The physical body does not age like it does in this material world, in this earthly planet. Whereas, of course, the problems of death, disease and these kind of things exist even in Swargaloka also.
+
+---
+### Swargaloka, Karma, Devotion, Urvasi, Arjuna's Character
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=393
+**Verse References:** BG 9.21
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So Lord Krishna explained this very nicely in the Bhagavad Gita."
+**Summary:** The speaker explains that residents of Swargaloka have long lifespans but are not eternal, referencing the Bhagavad Gita. He then describes Urvasi's attraction to Arjuna and Arjuna's rejection of her advances due to her being the wife of his ancestor.
+
+It is not that they are eternal. The people, the residents of Swargaloka also have a certain lifespan. Lord Krishna says in the Bhagavad Gita, tam usitva punyalokam, the people who have lot of Punyakarma, they get elevated to Swargaloka. And once they are elevated to Swargaloka, they become eternal. Punya, whatever pious credits they have gained by their pious activities in the past, once that gets used up, then they have to again take birth on this earthly planet. So Lord Krishna explained this very nicely in the Bhagavad Gita. And so, the people, personalities who are there in the Swargaloka, they may have very long lifespans. But then, eventually one day, their tenure in the Swargaloka, in the heavenly planets will come to an end. And then they will have to again take birth like normal human beings on this earth. So anyway, so Urvashi, although she had been married to Puru Rama long, long, long ago, several thousands of years ago, but still, she was quite young and she had retained her youth and her beauty and all that. When Urvashi saw Arjuna, she got attracted to him. And so, she wanted to associate with Arjuna. So one may question that how Urvashi is one of the wife... She is the wife of one of the ancestors of Arjuna. So practically, Arjuna is like... She is equivalent to her son, in that sense, because he is one of the descendants in her own, you know, dynasty, through Puru Rama. Okay. In heavenly kingdoms the rules are not so much strict with regard to these kind of things as we have on the earthly planet and there the intermingling of the women and the men is not so much strictly bound up like on the earthly planet. There their rules and regulations are different so different set of rules apply there so it was not unnatural for Urvashi to get attracted to Arjuna like that so she approached Arjuna in his chambers all alone and she expressed her desire she said that I have got attracted to you and I want to associate with you I want to marry you like that she mentioned to Arjuna but Arjuna folded his hands and he bent his head and he told her Urvashi that kindly excuse me I will not be able to fulfill your desire because you are the wife of my ancestors and therefore I look upon you like my mother and so therefore I cannot fulfill your desire of this.
+
+---
+### Arjuna's Character, Sense Control, Devotion, Krishna
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=565
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So therefore, if a person is a devotee of Krishna, doesn't matter whether he is a Kshatriya or he is a Vaisya or he is a Brahmachari or he is a Grihasta, no matter what varna or asana he is situated in, he is much higher than even a sanyasi of some other yoga system such as a Jnana Yogi or an Ashtanga Yogi."
+**Summary:** The speaker emphasizes Arjuna's noble character and his ability to control his senses due to his devotion to Krishna, contrasting him with even great rishis and munis who succumbed to temptation. He asserts that a devotee of Krishna is superior to practitioners of other yoga systems.
+
+So you look at the unimpeachable character of Arjuna, a heavenly Apsara so beautiful she is coming and proposing to Arjuna whereas these Apsaras when they came in front of great rishis and munis like Vishwamitra Muni they could not control themselves they immediately gave up their practice of yoga dhyana and all that and they were not able to control themselves and all that saying you are having a deep dream is gonna come continue to keep you busy and pulse but in the case of Arjuna he was not a yogi he was not deep in meditation he was a Kshatriya who is a king and he was allowed to have multiple wife's who are mesmerized he was...! did you see this feeling likes a mesmerized he was the priest but look at him he very clearly said you're like my mother I cannot look at you in any other way and so you can see how Arjuna was a person of very noble character how was he able to control his senses so well such that he couldn't Samantha came and ask for any help and Arjuna said you are in doubt or let him come and see you his которая came and said you ought to give Sar rely to help let me help him how has he been able to control his senses so well because Seva had very good Autumn and he was in a nice because he was a great devotee of Krishna. So therefore, if a person is a devotee of Krishna, doesn't matter whether he is a Kshatriya or he is a Vaisya or he is a Brahmachari or he is a Grihasta, no matter what varna or asana he is situated in, he is much higher than even a sanyasi of some other yoga system such as a Jnana Yogi or an Ashtanga Yogi. Externally it might look like that a Jnana Yogi or an Ashtanga Yogi is far more renounced than a person in a royal order of life like Arjuna. But in the heart, the degree of purity and the degree of ability to control their senses, as far as that was concerned, a person like Arjuna who was a devotee of Krishna is far far higher than even an Ashtanga Yogi like Vishwamitra Muni.
+
+---
+### Curse, Acceptance, Lord Shiva, Arjuna's Character
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=672
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "He folded his hands and he said, Oh mother, I gladly accept this as your blessing."
+**Summary:** Urvasi curses Arjuna to become a eunuch for one year, which Arjuna accepts without complaint. Later, Lord Shiva hears about Arjuna's great character and exploits.
+
+Arjuna refused. Then Uruvesi became very unhappy. And she, therefore she cursed Arjuna that because you rejected me, because you refused my proposal, therefore I curse you that you will become a eunuch. You will become a eunuch for one year's time. So like this she cursed Arjuna. And what was Arjuna's response? He folded his hands and he said, Oh mother, I gladly accept this as your blessing. Like that he accepted it without any complaint or any feeling of bitterness or anger in his heart. This again shows the greatness of Arjuna. So then eventually after spending some time there, Arjuna came back to the earth and he was on his pilgrimage. And it so happened that while he was traveling through a forest, it so happened that Lord Shiva heard about Arjuna and his great character and his exploits, how he was such a great warrior and he was the greatest archer. So Lord Shiva was very happy.
+
+---
+### Lord Shiva, Arjuna, Test, Battle, Mahadeva, Vaishnava
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=735
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So all the devatas are afraid of and they respect Lord Shiva very much because of his prowess, because of his austerities, because of his Vaishnava qualities, because he is such a great devotee of Krishna."
+**Summary:** Lord Shiva, wanting to test Arjuna, disguises himself as a hunter and engages Arjuna in a battle. The speaker emphasizes Lord Shiva's greatness, prowess, and Vaishnava qualities.
+
+Lord Shiva wanted to test Arjuna. So Lord Shiva disguised himself like a hunter and he came to the forest where Arjuna was going through at that point of time. So when Lord Shiva came across Arjuna, it so happened that at that point of time, a wild boar attacked Arjuna. Arjuna immediately took up his bow, Gandiva, and he shot an arrow and he killed the boar. Simultaneously, also, in the disguise of the hunter, he also released an arrow and the boar was killed. Now between Arjuna and this hunter, there was a big argument about who had killed, actually killed the boar. Arjuna was claiming, it was my arrow which killed the boar. Lord Shiva was saying, no, it was my arrow which killed him. So like this, this argument went on and then Lord Shiva, in the disguise of the hunter, Arjuna could not recognize him. He, the hunter, challenged Arjuna, if you are such a great warrior, if you are such a great archer, let us have a competition, let us fight with each other and see who wins. And so like this, then Arjuna also took up the challenge and then he took his Gandiva and both of them started throwing arrows at each other. And eventually, after a big battle between Lord Shiva and Arjuna, because Lord Shiva is Mahadeva. He is also... Nobody can match him in prowess. None of the devatas can match him in prowess. That is why he is called Mahadeva. He is greater than all the devatas. So all the devatas are afraid of and they respect Lord Shiva very much because of his prowess, because of his austerities, because of his Vaishnava qualities, because he is such a great devotee of Krishna. So Lord Shiva is endowed with many such wonderful qualities.
+
+---
+### Lord Shiva, Arjuna, Pashupatastra, Divine Weapons, Krishna's Arrangement
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=844
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So I want to gift you the Pashupatha Astra."
+**Summary:** Arjuna battles Lord Shiva, unaware of his identity, and eventually gains the upper hand. Lord Shiva, pleased with Arjuna's prowess, reveals himself and gifts Arjuna the Pashupatastra. The segment also mentions other divine weapons Arjuna received.
+
+Arjuna, unaware that he was battling with Lord Shiva. He let loose a volley of arrows and then Lord Shiva was also countering him and this went on between the two of them. Finally Arjuna gained the upper hand and he managed to cover this hunter fully with arrows. And then Lord Shiva became very pleased with Arjuna and then he stopped the fight and he revealed himself that Arjuna, I am Lord Shiva. And so immediately when Arjuna came to know that this is Lord Shiva. He was very happy. He immediately fell at his feet and then begged forgiveness and unknowingly, you know, all this happened. But Lord Shiva said, no, no, no, this was my pastime. I just wanted to test you and very happy with the way you have responded to my challenge. And I'm pleased with your prowess and your abilities. So I want to gift you the Pashupatha Astra. That is how Arjuna got the Pashupatha Astra. So like this, Arjuna got not only the Vajra Astra from Indra and the Pashupatha Astra from Lord Shiva. He also got from Yama Raj, the Dandashtra and from Lord Varuna, he got the Pashashtra and from Kuvera, he got the Antaradhanashtra. Antaradhanashtra means by which you can make, you know, you can disappear. So that is Antaradhana means disappearance. So that's an Astra by which you can disappear. Pashashtra, Varunas Pashashtra is something when you release that arrow, it will go and bind a person in ropes. And the person cannot get out. He cannot free himself. So these are all the different kinds of Astras, divine Astras that Arjuna got. So it was Krishna's arrangement that Arjuna go on this pilgrimage, meet all these personalities and get all these Astras because Krishna knew that in the future there is going to be the Kurukshetra war and Arjuna has to face great generals like Bhishma and Dronacharya who already were in possession of such divine weapons. So if Arjuna had to fight them. If he had to fight them and counter them, he also needed divine weapons. And so that is all by Krishna's arrangement, Arjuna undertook this pilgrimage.
+
+---
+### Pilgrimage, Marriage, Subhadra, Duryodhana, Balaram
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=974
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So when he reached, when Arjuna reached Prabhasakshetra, from all the sages who were there, he got a news."
+**Summary:** Arjuna continues his pilgrimage, marries Ulupi and Chitrangada, and reaches Prabhasakshetra where he learns about Subhadra and Balaram's plan to marry her to Duryodhana.
+
+And like this, he undertook a pilgrimage, he met many people, he got many divine Astras like this. And he also married Ulupi and Chitrangada. And like this, Arjuna continued his pilgrimage and finally he came to Prabhasakshetra. This Prabhasakshetra is what is currently known as Somnath. And this Prabhasakshetra or Somnath as it is today known as, has been a place of pilgrimage since times of yore. So when he reached, when Arjuna reached Prabhasakshetra, from all the sages who were there, he got a news. What was this news? He got a news from Dwaraka. So the news that he got was that Krishna and Balaram had a sister by name. And she had, she was of marriageable age. She was also extremely beautiful, highly qualified. She is the younger sister of Krishna and Balaram, the Supreme Personality of Godhead. So naturally, she was endowed with all wonderful qualities. So Balaram had decided because Duryodhana had become his disciple and he had learnt the art of fighting with the mace from Balaram, Balaram had decided that he wanted to give Subhadra's hand in marriage. So he got married to Duryodhana. Now this news that Subhadra is going to get married to Duryodhana reached the ears of Arjuna when he was at Prabhasakshetra. So when Arjuna heard about this arrangement that Balaram had made to hand over Draupadi to Duryodhana, the sages also described to him about the beauty and the wonderful qualities of Subhadra. So naturally, Arjuna's heart had changed. Subhadra was very happy. His heart and mind got attracted to Subhadra and he developed a desire to win the hand of Subhadra.
+
+---
+### Subhadra, Duryodhana, Balaram, Krishna, Disguise, Sanyasi
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=1094
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So Arjuna thought okay, let me disguise myself and then go to Dwaraka."
+**Summary:** Arjuna desires to marry Subhadra but faces the obstacle of Balaram's decision to marry her to Duryodhana. He decides to seek Krishna's advice and disguises himself as a sanyasi to travel to Dwaraka unnoticed.
+
+But now, how can he win the hand of Subhadra when Lord Balaram, the Supreme Personality of Godhead, he has decided that he is going to hand over, he has fixed up in his mind that Subhadra will be wedded to Duryodhana. Who can go against his will? How Arjuna could convince him? So Arjuna thought what to do? Now, Arjuna was also in a quandary. He did not know what to do. So he thought, let me go to Dwaraka. Let me go to Dwaraka and consult Krishna. Krishna is anyway my friend. Let me go there and visit and let us see what Krishna has to say. So thinking like that, Arjuna decided to go to Dwaraka. But now, if he openly, he would go to, he could not openly go to Dwaraka. And as you know, as Arjuna himself, if he would go, then naturally, everybody would question, Why have you come here? Then he would have to tell that I have come here to win the hand of Subhadra. So how can he say that? He cannot say that. So now, what to do? So Arjuna thought okay, let me disguise myself and then go to Dwaraka. So Arjuna took on the disguise of a sanyasi because in those days, sanyasis could go anywhere and at any Grahastas house they would go. The duty bound to invite him to the house and take care of him without any questions asked. Arjuna could not go as a Kshatriya or disguised as some other prince or something like that because then lot of questions would be raised. But as a sanyasi, he would have a free entry into any place he wished to enter. So Arjuna dressed himself as a sanyasi and he dressed himself as a Tridandi sanyasi. There are two kinds of sanyasis. One is an Ekadandi sanyasi, another is a Tridandi sanyasi. Ekadandi sanyasi means he follows the Mayavada Sampradaya under Shankaracharya's philosophy of oneness between the Jeeva and the Absolute Truth, Brahman. So the Mayavadis have the philosophy that we under illusion are currently thinking we are all individual souls. But when that ignorance is gone, we are all human beings. When the veil of ignorance is removed, when we come to knowledge, we understand that we are the Supreme Absolute Truth and then we merge into the Supreme Absolute Truth and our existence will get finished. This is their philosophy.
+
+---
+### Vaishnava, Sanyasi, Tridanda, Tilak, Disguise
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=1249
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So this Tridanda actually signifies that the Vaishnava sanyasi is surrendered to Krishna – Taya, Manasa, Vacha by his body, by his mind and by his words."
+**Summary:** Arjuna, being a Vaishnava, chooses to disguise himself as a Tridandi sanyasi, explaining the significance of the Tridanda and the Vaishnava Tilak, contrasting it with the Mayavadi tradition.
+
+But Arjuna was always a Vaishnava. He is a great devotee and so he cannot follow the path of Mayavada. So he took up the role of a Tridandi sanyasi. Mayavadi sanyasis always has an Ekadanda, which is a single danda. It is a single stick which he carries in his hand wherever he goes. Whereas Vaishnava sanyasi, he takes a Tridanda which is a stick which is made up of three separate pieces combined into one single stick. So this Tridanda actually signifies that the Vaishnava sanyasi is surrendered to Krishna – Taya, Manasa, Vacha by his body, by his mind and by his words. He is dedicated completely to Krishna and Krishna's devotional service. This is what a Vaishnava sanyasi Tridanda indicates. Arjuna got hold of Tridanda and dressed himself like a Vaishnava sanyasi, put Tilak also, which was appropriate to a Vaishnava sanyasi. Normally the Mayavadi sanyasis, they apply ash horizontally across the forehead, whereas Vaishnava sanyasis, they wear a Tilak which is mainly Thilak. There's no secret driving this samyasis, what's important, it's about rolling the vertical and Vaishnavas also different kinds of Tilaks are there. Sri Vaishnavas wear one kind of Tilak and we have Shamananda Sampradaya, they have a different kind of Tilak. Gaudiya Vaishnavas, they have another kind of Tilak like what you know the two lines which represent the lotus feet of Krishna and the leaf of Tulasi Maharani which is depicted on the nose which indicates the Tulasi leaf at the lotus feet of Lord Krishna. So, Arjuna dressed himself like a Vaishnava Sanyasi, wearing a proper Vaishnava Tilak, having a Tridanda and the Vaishnava dress also, Sanyasi dress also he was wearing was appropriate to that of Vaishnava Sanyasis. And like this, Arjuna disguised himself and set out and reached Dwaraka.
+
+---
+### Krishna, Subhadra, Balaram, Duryodhana, Next Episode
+**Timestamp:** https://youtu.be/Scu4Twkuv98?t=1376
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "To know about this, kindly join us in our next episode."
+**Summary:** The speaker concludes the episode by posing questions about Arjuna's meeting with Krishna, Krishna's advice, and the potential conflict with Balaram's decision regarding Subhadra's marriage, inviting viewers to join the next episode.
+
+So, once Arjuna reached Dwaraka, what did he do? And what was done? What was his, how did his meeting with Lord Krishna go? What was Krishna's advice? And was Krishna ready in the first place to accept Arjuna's request to marry Subhadra to him because Krishna's elder brother Balaram had already decided to give Subhadra's hand to Duryodhana and Krishna could never go against his elder brother's decision. So, would Krishna be ready to go ahead with Arjuna's request? To know about this, kindly join us in our next episode. Thank you for joining us today. Hare Krishna. Jagat Guru Shri La Pravupada Ki Jai. Nitaayi Gor Trena Nande Hari Hari Bol.
+
+---
+
 ## Mahabharata l Part 24 l Arjuna Kidnaps Subhadra
 **Speaker:** HG Suvyakta Narasimha Dasa
 
@@ -1696,7 +2457,7 @@ Om Adhyanathim Ramdhasya, Jnananjana Salakaya, Chaksharanmeelitham Jena, Tasmai 
 **Key Quote:** "Because he did not want to openly announce that he has come there looking for the hand of Subhadra."
 **Summary:** The speaker introduces the story of Arjuna's desire to marry Subhadra and his arrival in Dwaraka disguised as a Vaishnava Sanyasi.
 
-And this news reached Arjuna, who happened to be on a pilgrimage and had reached Prabhasa Kshetra, which is today we know as Somnath, as part of his pilgrimage. When he reached there, he happened to hear that Subhadra's marriage is going to get fixed with Duryodhana. And so, Arjuna himself had a desire to marry Subhadra. And so, therefore, he decided to go to Nagasubhadra, Dwaraka, which was not very far away from Prabhasa Kshetra. And he decided to go disguised as a Vaishnava Sanyasi with a tridanda, because he did not want to openly announce that he has come there looking for the hand of Subhadra. So, that is how Arjuna went to Dwaraka. And what happened there is what we will see today. Today's episode, we begin with the story of Arjuna.
+And this news reached Arjuna, who happened to be on a pilgrimage and had reached Prabhasa Kshetra, which today we know as Somnath, as part of his pilgrimage. When he reached there, he happened to hear that Subhadra's marriage was going to get fixed with Duryodhana. And so, Arjuna himself had a desire to marry Subhadra. And so, therefore, he decided to go to Dwaraka, which was not very far away from Prabhasa Kshetra. And he decided to go disguised as a Vaishnava Sanyasi with a tridanda, because he did not want to openly announce that he had come there looking for the hand of Subhadra. So, that is how Arjuna went to Dwaraka, and what happened there is what we will see today. Today's episode, we begin with the story of Arjuna.
 
 ---
 ### King Raivatha, Revathi, Time
@@ -1707,7 +2468,7 @@ And this news reached Arjuna, who happened to be on a pilgrimage and had reached
 **Key Quote:** "So without being aware of it king raivata had spent so much time when the singing of the gandhar was going on in brahma's lord brahma's assembly on the earth by that time what had happened satya yuga had got over satya yuga itself lasts for more than seventeen lakh years."
 **Summary:** The speaker narrates the story of King Raivatha and his daughter Revathi, who travel to Brahmaloka to seek advice on finding a suitable husband, highlighting the vast difference in time scales between Brahmaloka and Earth.
 
-The story of King Raivatha. King Raivatha was the son of King Revatha. And this King Raivatha was ruling over a kingdom in which the main city of his was located on a hill. And because of he being the ruler of that kingdom, that hill or that mountain came to be known as Raivathaka mountain or Raivathaka hill. This Raivatha had a daughter by the name Revaethi. When this Revathi grew up, she was beautiful and well qualified girl. King Raivatha thought that I have to look for a suitable groom for my daughter. Now, this King Raivatha was ruling over his kingdom in the Satya Yuga, Satya Yuga. So this is many millions of years before the current proceedings which we are discussing which happened in the Mahabharata. So this King Raivata thought, now for me to find a suitable husband for my daughter, I have to take the advice of somebody superior. So he thought, let me take the advice of Brahmaji himself. Because Brahmaji is the progenitor of everyone, he is the creator, the secondary creator of this universe. So let me, because he is the oldest personality, let me go and ask him. So King Raivata along with his daughter Revati, he went to Brahmaloka. When he approached Brahmaloka and he came to the assembly of Lord Brahma, he said, I want to meet you. At that time, it so happened that Brahmaji was witnessing a song performance by some Gandharvas. Actually, in the Gandharvaloka, there are five very important or most important chief Gandharvas. One of them is Kumbhuru. And so like that, there are five people of which two of them are haha and who who so it so happened that at that assembly of brahma ji haha and who who were performing some musical glorification of lord vishnu lord krishna in front of brahma ji and brahma ji was witnessing this he was participating in this so when king raivata entered brahma ji asked him to sit down and wait till this performance gets over so king raivata along with his daughter into they both of them sat down and for some time haha and who who were singing the glories of krishna vishnu and once they finished then king raivata came forward to brahma ji paid his obeisance offered him his respects and then he asked brahma ji that i want a suitable husband for my daughter raivati so i have come seeking your advice about who is the most appropriate most suitable greatest person whom i can give my daughter in marriage too so in brahma loka the time span is very large as we have seen twelve hours of brahma ji is equal to forty three lakh twenty thousand into one thousand years of our lives on this earth so without being aware of it king raivata had spent so much time when the singing of the gandhar was going on in brahma's lord brahma's assembly on the earth by that time what had happened satya yuga had got over satya yuga itself lasts for more than seventeen lakh years. So, Satyuga got over, then next was Treta Yuga which lasted for about 12 lakh years, more than 12 lakh years, that also got over and Dwapara Yuga had almost, was almost coming to its close, that means another almost more than 8 lakh years had already passed by. But Raivata was not aware of this because he was sitting in Brahmaloka, the passage of time you cannot make out. So he was not aware of what is going on on the earth. So Brahmaji told Raivata, the most suitable person for your daughter right now is Lord Balarama who is an incarnation of the Supreme Lord Krishna. So you can go and hand over your daughter in marriage to Balaramaji.
+The story of King Raivatha. King Raivatha was the son of King Revatha. And this King Raivatha was ruling over a kingdom in which the main city was located on a hill. And because of him being the ruler of that kingdom, that hill or that mountain came to be known as Raivathaka mountain or Raivathaka hill. This Raivatha had a daughter by the name Revaethi. When this Revathi grew up, she was a beautiful and well-qualified girl. King Raivatha thought that I have to look for a suitable groom for my daughter. Now, this King Raivatha was ruling over his kingdom in the Satya Yuga. So this is many millions of years before the current proceedings which we are discussing, which happened in the Mahabharata. So this King Raivata thought, now for me to find a suitable husband for my daughter, I have to take the advice of somebody superior. So he thought, let me take the advice of Brahmaji himself, because Brahmaji is the progenitor of everyone, he is the creator, the secondary creator of this universe. So let me, because he is the oldest personality, let me go and ask him. So King Raivata along with his daughter Revati, he went to Brahmaloka. When he approached Brahmaloka and he came to the assembly of Lord Brahma, he said, I want to meet you. At that time, it so happened that Brahmaji was witnessing a song performance by some Gandharvas. Actually, in the Gandharvaloka, there are five very important or most important chief Gandharvas. One of them is Kumbhuru. And so like that, there are five people of which two of them are Haha and Hu Hu. So it so happened that at that assembly of Brahmaji, Haha and Hu Hu were performing some musical glorification of Lord Vishnu, Lord Krishna in front of Brahmaji and Brahmaji was witnessing this, he was participating in this. So when King Raivata entered, Brahmaji asked him to sit down and wait till this performance gets over. So King Raivata along with his daughter, they both of them sat down and for some time Haha and Hu Hu were singing the glories of Krishna Vishnu and once they finished, then King Raivata came forward to Brahmaji, paid his obeisance, offered him his respects and then he asked Brahmaji that I want a suitable husband for my daughter Raivati, so I have come seeking your advice about who is the most appropriate, most suitable, greatest person whom I can give my daughter in marriage to. So in Brahmaloka, the time span is very large. As we have seen, twelve hours of Brahmaji is equal to forty-three lakh twenty thousand into one thousand years of our lives on this earth. So without being aware of it, King Raivata had spent so much time when the singing of the Gandharvas was going on in Lord Brahma's assembly. On the earth by that time what had happened? Satya Yuga had got over. Satya Yuga itself lasts for more than seventeen lakh years. So, Satyuga got over, then next was Treta Yuga which lasted for about 12 lakh years, more than 12 lakh years, that also got over and Dwapara Yuga had almost, was almost coming to its close, that means another almost more than 8 lakh years had already passed by. But Raivata was not aware of this because he was sitting in Brahmaloka, the passage of time you cannot make out. So he was not aware of what is going on on the earth. So Brahmaji told Raivata, the most suitable person for your daughter right now is Lord Balarama who is an incarnation of the Supreme Lord Krishna. So you can go and hand over your daughter in marriage to Balaramaji.
 
 ---
 ### Yugas, Lifespan, Size
@@ -1740,7 +2501,7 @@ Everything keeps reducing. People's Mrithi Shakti, their ability to remember, ke
 **Key Quote:** "So Subhadra came forward and Subhadra was also very beautiful, very intelligent, but at the same time she was simple at heart."
 **Summary:** The speaker returns to the main narrative, describing Arjuna's arrival in Dwaraka, his meeting with Krishna, and his interactions with Subhadra while disguised as a sanyasi.
 
-Now we come back to our story. Our original narration of what Arjuna was doing now that Balaram and Krishna were there in Dwaraka. Arjuna approached Dwaraka disguised as a sanyasi and he approached Krishna and divulged to him that he was Arjuna and that he had come there in disguise because he in his heart he wanted to marry Subhadra. Now Krishna in his heart also was not keen on Subhadra marrying Duryodhana because Duryodhana's character was not so good and Krishna, when he heard from Arjuna, Krishna was also keen that Arjuna should marry Subhadra. So now what to do? It was the Chaturmasya time. So Krishna said, you stay in Dwaraka, let us see how things develop. So then Arjuna, once it happened, Balaram came to know that there is a travelling man. He said, you stay in Dwaraka. Let us see how things develop. So then Arjuna, once it happened, Balaram came to know that there is a travelling man. He said, you stay in the temple. He said, you stay in the temple. Brilliant! Loving Tendulノ Brother Vapшi. For Indian Sentiment, there is a travelling sanyasi Paribhrajaka who has come to our place. He is staying with Krishna in his palace. So he invited him the sanyasi to his palace. Balaram ji did not know that it was Arjuna, he was in this disguise. So Balaraj came to his. So Arjuna, in the disguise of the sanyasi, came to Balaram s palace and Balaram had made lot of arrangements to receive him, and he had prepared a big feast, Prasadam, for feeding the sanyasi. And then Balaram being very affectionate towards his sister, younger sister Subhadra, he called her to serve the sanyasi, the prasadam, so that she could get the blessings of the sanyasi by serving him. So Subhadra came forward and Subhadra was also very beautiful, very intelligent, but at the same time she was simple at heart. So she came following her elder brother's instructions and she served the various kinds of prasadam to this sanyasi. But while serving the sanyasi, Subhadra noticed that this sanyasi was constantly staring at her from the corner of his eyes. And she could also see that this sanyasi was quite young and his body was also quite well built and he was very beautiful to look at. Although there was beard, moustache. He had long matted hair and all that, but still she could make out his features are very beautiful and he was looking quite bright. So she also got a little attracted to him and she was also smiling. Now when Arjuna saw this, Arjuna understood, okay, Subhadra is definitely, she appreciates me, she will not mind marrying me.
+Now we come back to our story. Our original narration of what Arjuna was doing now that Balaram and Krishna were there in Dwaraka. Arjuna approached Dwaraka disguised as a sanyasi and he approached Krishna and divulged to him that he was Arjuna and that he had come there in disguise because he in his heart he wanted to marry Subhadra. Now Krishna in his heart also was not keen on Subhadra marrying Duryodhana because Duryodhana's character was not so good and Krishna, when he heard from Arjuna, Krishna was also keen that Arjuna should marry Subhadra. So now what to do? It was the Chaturmasya time. So Krishna said, you stay in Dwaraka, let us see how things develop. So then Arjuna, once it happened, Balaram came to know that there is a travelling man. He said, you stay in Dwaraka, let us see how things develop. So then Arjuna, once it happened, Balaram came to know that there is a travelling man. He said, you stay in the temple. He said, you stay in the temple. Brilliant! Loving Tendulノ Brother Vapшi. For Indian Sentiment, there is a travelling sanyasi Paribhrajaka who has come to our place. He is staying with Krishna in his palace. So he invited him the sanyasi to his palace. Balaram ji did not know that it was Arjuna, he was in this disguise. So Balaraj came to his. So Arjuna, in the disguise of the sanyasi, came to Balaram's palace and Balaram had made lot of arrangements to receive him, and he had prepared a big feast, Prasadam, for feeding the sanyasi. And then Balaram being very affectionate towards his sister, younger sister Subhadra, he called her to serve the sanyasi, the prasadam, so that she could get the blessings of the sanyasi by serving him. So Subhadra came forward and Subhadra was also very beautiful, very intelligent, but at the same time she was simple at heart. So she came following her elder brother's instructions and she served the various kinds of prasadam to this sanyasi. But while serving the sanyasi, Subhadra noticed that this sanyasi was constantly staring at her from the corner of his eyes. And she could also see that this sanyasi was quite young and his body was also quite well built and he was very beautiful to look at. Although there was beard, moustache. He had long matted hair and all that, but still she could make out his features are very beautiful and he was looking quite bright. So she also got a little attracted to him and she was also smiling. Now when Arjuna saw this, Arjuna understood, okay, Subhadra is definitely, she appreciates me, she will not mind marrying me.
 
 ---
 ### Krishna, Arjuna, Subhadra, Abduction
@@ -1751,7 +2512,7 @@ Now we come back to our story. Our original narration of what Arjuna was doing n
 **Key Quote:** "That you see, best is that you kidnap Subhadra."
 **Summary:** Krishna advises Arjuna to kidnap Subhadra because Balaram is unwilling to allow the marriage and favors Duryodhana.
 
-Now after honoring the prasadam and all that, Arjuna again went back to his residence. And then Arjuna and Krishna consulted Vasudeva and Devaki that Arjuna has come here in the disguise of a sanyasi and he wants to marry Subhadra, but Balaramji is unwilling. So Vasudeva and Devaki said, we are very happy if Subhadra marries you, but then Balaram has already decided that she should be wedded to Duryodhana and we cannot go against him. So now what to do? So then Krishna advised Arjuna. That you see, best is that you kidnap Subhadra. You take her away by force. Because otherwise to convince Balaramji, not possible. Dauji is not going to listen to anyone. He has made up his mind. So better is, you abduct Subhadra. Now how to abduct her? Because Dwaraka is such a fortified place, it is in the middle of the sea, nobody can enter, nobody can go without proper permission. And the notice of all the elders. So Krishna said, you wait for a little while. After a few days, there is some pooja in some temple at a certain location outside Dwaraka, which Subhadra is going to visit. When she is on the way there, you can abduct her.
+Now after honoring the prasadam and all that, Arjuna again went back to his residence. And then Arjuna and Krishna consulted Vasudeva and Devaki that Arjuna has come here in the disguise of a sanyasi and he wants to marry Subhadra, but Balaramji is unwilling. So Vasudeva and Devaki said, we are very happy if Subhadra marries you, but then Balaram has already decided that she should be wedded to Duryodhana and we cannot go against him. So now what to do? So then Krishna advised Arjuna. That you see, best is that you kidnap Subhadra. You take her away by force, because otherwise to convince Balaramji, not possible. Dauji is not going to listen to anyone. He has made up his mind. So better is, you abduct Subhadra. Now how to abduct her? Because Dwaraka is such a fortified place, it is in the middle of the sea, nobody can enter, nobody can go without proper permission. And the notice of all the elders. So Krishna said, you wait for a little while. After a few days, there is some pooja in some temple at a certain location outside Dwaraka, which Subhadra is going to visit. When she is on the way there, you can abduct her.
 
 ---
 ### Abduction, Balarama's Anger, Yadava Reputation
@@ -1762,7 +2523,7 @@ Now after honoring the prasadam and all that, Arjuna again went back to his resi
 **Key Quote:** "The Yadava reputation, the reputation of the Yadava dynasty is at stake."
 **Summary:** Arjuna abducts Subhadra on her way to the Raivathaka mountain (Girnar), leading to Balaram's intense anger and his determination to retaliate.
 
-So then on the scheduled day, Subhadra set out to visit a temple in the Raivathaka mountain. This is the same Raivathaka mountain over which King Raivatha had ruled over. And this Raivathaka mountain, today it is known as Girnar. So this Girnar, today it is in Gujarat. It is about 200-250 kilometers from Dwaraka. So you can, it is about 3-4 hours journey from Dwaraka to this Girnar or that day it was called as Raivathaka hill. So Subhadra was going on the way to Raivathaka hill. And taking that opportunity, Arjuna removed his disguise. He also came on a chariot and he forcibly took away Subhadra. And Subhadra was also very happy to go with Arjuna. Now after this incident happened, those who were accompanying all the other women who were accompanying Subhadra, they all went back to Dwaraka. And they informed everyone that like this, when we were on the way to Raivathaka along with Subhadra to the temple, Arjuna came and abducted Subhadra. So when Krishna heard this, Vasudeva heard this, Devaki heard this, they were all quite happy. But Balaram's anger came out with full force. His eyes became red, he became angry. He took up his weapons and called all the army and said, Come on, let us go. This Arjuna, how emboldened he has become. How can he become so bold enough to abduct my sister like this? The Yadava reputation, the reputation of the Yadava dynasty is at stake. We will not allow this to happen. Come, we will kill Arjuna and bring back Subhadra. Like that, Balaramji got up and fully lived.
+So then on the scheduled day, Subhadra set out to visit a temple in the Raivathaka mountain. This is the same Raivathaka mountain over which King Raivatha had ruled over. And this Raivathaka mountain, today it is known as Girnar. So this Girnar, today it is in Gujarat. It is about 200-250 kilometers from Dwaraka. So you can, it is about 3-4 hours journey from Dwaraka to this Girnar or that day it was called as Raivathaka hill. So Subhadra was going on the way to Raivathaka hill. And taking that opportunity, Arjuna removed his disguise. He also came on a chariot and he forcibly took away Subhadra. And Subhadra was also very happy to go with Arjuna. Now after this incident happened, those who were accompanying, all the other women who were accompanying Subhadra, they all went back to Dwaraka. And they informed everyone that like this, when we were on the way to Raivathaka along with Subhadra to the temple, Arjuna came and abducted Subhadra. So when Krishna heard this, Vasudeva heard this, Devaki heard this, they were all quite happy. But Balaram's anger came out with full force. His eyes became red, he became angry. He took up his weapons and called all the army and said, Come on, let us go. This Arjuna, how emboldened he has become. How can he become so bold enough to abduct my sister like this? The Yadava reputation, the reputation of the Yadava dynasty is at stake. We will not allow this to happen. Come, we will kill Arjuna and bring back Subhadra. Like that, Balaramji got up and fully lived.
 
 ---
 ### Krishna, Balarama, Devotee Relationship, Humility
@@ -1818,6 +2579,1105 @@ This used to be the focus of Jarasandha. Actually, in the Vedic times, a Dharmic
 **Summary:** The speaker reveals Jarasandha's nefarious plan to conduct a mass human sacrifice of the 20,000 imprisoned kings to appease Kalabhairava and gain fearful powers, highlighting the kings' suffering and their desperate search for a way to escape.
 
 Now, behind the imprisoning of these 20,000 kings, it was, Jarasandha's intention was not just some political thing, that let me catch them and imprison them, keep them in the dungeon because they are not allying with me, they are inimical to me. That was not the, just that much was not the intention. That was not the intention of Jarasandha. Jarasandha had a much bigger nefarious plan. His intention was, Jarasandha wanted to conduct a mass human sacrifice for Kalabhairava. And so for that, he was collecting all these kings and imprisoning them. And because his intention was 20,000 kings, he wanted to sacrifice to Kalabhairava. And by this, he wanted to appease him and get different kinds of various fearful powers by which he could terrorize the whole world. That was Jarasandha's larger plan. Such an evil plan it was. So now, all these 20,000 kings who were in the dungeons of Jarasandha, they were highly mistreated. They were tortured. They were kept in inhuman conditions. And they were all suffering like anything. And because of being in such conditions, they had become diseased. Their bodies had become frail. They were not able to think properly. They were not getting proper food. And they were really distressed. So all these 20,000 kings who were in the dungeon, they started, they started discussing amongst themselves how to become free from Jarasandha's grip. How to escape from his clutches. So what did the kings think of? They came up with a plan how they could become free from the clutches of Jarasandha. Actually none of them could stand in front of Jarasandha in warfare. They were not powerful enough. So they had to find somebody who would be powerful enough to defeat Jarasandha and free themselves. So what did the kings do? What plan did they think of to gain their freedom? Please join us in the next session of the Mahabharata to know about this. Thank you. Hare Krishna.
+
+---
+
+## Mahabharata l Part 25 | Prayers of Kings Imprisoned by Jarasandha
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### devotion, service, leadership
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=90
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "They always think of how to utilize it in the service of the Supreme Lord Krishna and how to give Him happiness."
+**Summary:** Pure devotees, unlike materialistic people, utilize their resources and positions to serve Krishna and bring Him happiness, as exemplified by Yudhishthira Maharaj's desire to glorify Krishna after becoming king.
+
+Hare Krishna and welcome back to today's episode of Vimahabharata. It is the nature of all pure devotees to always glorify Krishna with whatever resources they have at their disposal. Generally, we see that if somebody becomes very wealthy or he becomes very powerful, he is very beautiful or he is very famous, the people bask in their own glories, and they feel they have a right to enjoy whatever they have earned or they have got by way of destiny in their favor. But the devotees, the pure devotees of the Supreme Lord Krishna, no matter whatever resources they have, they never think of enjoying it themselves. They always think of how to utilize it in the service of the Supreme Lord Krishna and how to give Him happiness. Yudhishthira Maharaj, he had become the king of Indraprastha, a very vibrant city, and the citizens were all very happy with his ruling, and Indraprastha had become a very opulent place. It had become a very opulent kingdom. And Yudhishthira and his brothers, although they were ruling over Indraprastha, and the other subordinate kings, whoever were associated with their kingdom, still, their motive for ruling over or remaining as kings was not their own personal enjoyment or their own personal conveniences. Yudhishthira Maharaj, after he became king, he was thinking how he could utilize his position as a king to glorify Krishna, to please Krishna. So, after consulting with others and in consonance with his brothers, Yudhishthira Maharaj thought that the best way to glorify Krishna would be to create a platform for it, where all the Devatas of the universe would assemble, along with all the other prominent kings of the world.
+
+---
+### sacrifice, supremacy of Krishna, Rajasuya Yajna
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=239
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Yudhishthira Maharaj thought that this Rajasuya Yajna I have to perform, which is the best way to glorify Krishna with the resources and with the position that I have obtained today, which is all by the mercy by the grace of that same Supreme Personality of Godhead Krishna."
+**Summary:** Yudhishthira Maharaj decided to organize a Rajasuya Yajna to declare Krishna's supremacy by offering Him the Agra Puja, the first worship, in the presence of prominent kings, sages, and devatas, seeing it as the best way to utilize his position to glorify Krishna.
+
+Of the earth. So, to create this kind of platform, what had to be done? Yudhishthira Maharaj thought of organizing a Rajasuya Yajna. This Rajasoya Yajna is conducted by a king to declare his supremacy over other kings in his kingdom. And, in this kind of platform, Yudhishthira Maharaj, thought of putting together a Rajasuya Yajna, of sacrifice all the prominent people of the whole world of the society, not only kings but even sages and rishis and all such eminent personalities of that time were invited and in that Rajasuya Yajna the unique thing was that as part of that sacrifice it was accustomed to select the most prominent person in that assembly and offer him the Agra Puja or the first worship. So Yudhishthira Maharaj thought the Rajasuya Yajna is the right platform where if he had invited all the kings of the world as well as all the devatas and rishis and sages to that fire to that sacrifice in the midst of all of them he could select Krishna as the most worshipable personality which would establish Krishna supremacy over everyone else. Thinking like this Yudhishthira Maharaj thought that this Rajasuya Yajna I have to perform, which is the best way to glorify Krishna with the resources and with the position that I have obtained today, which is all by the mercy by the grace of that same Supreme Personality of Godhead Krishna.
+
+---
+### devotion, messenger, humility
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=373
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "It was also a wonderful opportunity for Narada Muni to visit Dwaraka and have an audience, have darshan of Lord Krishna, his most dear worshipable Supreme Lord."
+**Summary:** Narada Muni happily agreed to carry Yudhishthira Maharaj's message to Krishna in Dwaraka, seeing it as an opportunity to glorify Krishna and to have darshan of the Lord.
+
+Now it so happened that Narada Muni happened to come to Indraprastha and so Yudhishthira Maharaj requested Narada Muni to take his message to Dwaraka to Lord Krishna expressing his desire to conduct a Rajasuya Yajna to glorify Krishna and if Krishna were to accept this proposal then Yudhishthira Maharaj could go ahead and organize this event. Narada Muni was very happy to take Yudhishthira Maharaj's message because not only was he taking a wonderful message of an opportunity to glorify Krishna by his pure devotees the Pandavas, it was also a wonderful opportunity for Narada Muni to visit Dwaraka and have an audience, have darshan of Lord Krishna, his most dear worshipable Supreme Lord so Narada Muni very happily agreed to Yudhishthira Maharaj's proposal and he took Yudhishthira Maharaj's message to Dwaraka as soon as Narada Muni reached Dwaraka Krishna was seated in his assembly known as Surya Dwaraka.
+
+---
+### humility, example, respect
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=475
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna wanted to set an example about how even the most powerful king, when he comes across a highly renounced spiritualist like Narada Muni, he should forget his position and that renounced person should be given a higher pedestal than even a king and he should accord the highest welcome to that spiritual personality."
+**Summary:** Krishna washed Narada Muni's feet to set an example of humility and respect for renounced spiritualists, demonstrating that even a powerful king should offer the highest welcome to such personalities.
+
+Welcoming great rishis and sages and renounced personalities, Krishna washed the lotus feet of Narada Muni. Actually Krishna is the supreme personality of Godhead. Narada Muni is his eternal devotee. Narada Muni always constantly worships the lotus feet of Krishna. It would have been appropriate for Narada Muni to wash the lotus feet of Krishna. But then Krishna wanted to set an example about how even the most powerful king, when he comes across a highly renounced spiritualist like Narada Muni, he should forget his position and that renounced person should be given a higher pedestal than even a king and he should accord the highest welcome to that spiritual personality. With all humility, he should forget his position and that renounced person should be given a
+
+---
+### divine purpose, omniscience, pastime
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=532
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "You are the supreme proprietor of the whole world, of the whole material creation. You are the creator, maintainer and annihilator of this material universe."
+**Summary:** Narada Muni understood Krishna's purpose in setting an example and played along, acknowledging Krishna's supreme position as the creator, maintainer, and annihilator, while recognizing that Krishna's questions were a pastime despite His omniscience.
+
+Humility expressed by touching the lotus feet and washing the lotus feet of that great personality. Narada Muni also understood Krishna's desire to set an example and so he also played along. Although in his heart he knew that Krishna is a supreme person, he is my worshipable Lord, but then the Lord has certain purpose in his activities and so Narada Muni also went along with Krishna's activity and then once Narada Muni was comfortably seated, he had been welcomed properly, then Lord Krishna put forth before Narada Muni his questions that how are you Narada Muni, is your purpose being met in executing various penances to progress spiritually, is wherever you have gone, have you found that all auspicious activities of dharma are being carried out and do you have any news of the Pandavas? Then Narada Muni was questioned like this, he smiled and replied to Krishna, Krishna, you are the supreme proprietor of the whole world, of the whole material creation. You are the creator, maintainer and annihilator of this material universe. You are the supreme personality of God and you are the all-pervasive, super-soul present within every atom and in everyone's heart. So nothing is hidden from you, you are omniscient, you are knowledgeable about everything, but still you are asking as a pastime this question from me as if you do not know anything.
+
+---
+### Rajasuya Yajna, proposal, Yadavas' reluctance
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=652
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Narada Muni informed Lord Krishna about his visit to Indraprastha and how Yudhishthira Maharaja had sent a proposal to conduct a Rajasuya Ejna where Lord Krishna would be the person who would be accorded the Agra Puja, the first worship as the most worshipable personality."
+**Summary:** Narada Muni conveyed Yudhishthira Maharaj's proposal for the Rajasuya Yajna, where Krishna would receive the Agra Puja, but the Yadavas were not in favor of Krishna immediately leaving for Indraprastha.
+
+And so saying, Narada Muni informed Lord Krishna about his visit to Indraprastha and how Yudhishthira Maharaja had sent a proposal to conduct a Rajasuya Ejna where Lord Krishna would be the person who would be accorded the Agra Puja, the first worship as the most worshipable personality. So when Narada Muni put this proposal before Lord Krishna and he said, now that Yudhishthira Maharaja has invited that you should please accept this proposal and immediately start for Indraprastha. When this proposal was put by Narada Muni before Lord Krishna, all the other Yadava members who were present in that assembly, they were not very favorable for this proposal. They did not like this proposal that Krishna should immediately leave for Indraprastha. Why? Why were the Yadavas not amenable to Krishna going to Indraprastha where Krishna would only be glorified? Yadavas are also the devotees of Krishna. So if Krishna is glorified, Yadavas will be the happiest people. But still, to this proposal, they were not agreeable. Why?
+
+---
+### Jarasandha, imprisonment, message
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=735
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Just before Narada Muni had reached that spot, the Yadavas had been discussing with Krishna about an imminent attack that they had to carry out on Jarasandha, on Magadha."
+**Summary:** The Yadavas' reluctance stemmed from their ongoing discussions about an imminent attack on Jarasandha in Magadha to free 20,000 imprisoned kings, a plan that would be disrupted if Krishna left for Indraprastha.
+
+What was the reason? Because, just before Narada Muni had reached that spot, the Yadavas had been discussing with Krishna about an imminent attack that they had to carry out on Jarasandha, on Magadha. Now, if with Narada Muni's proposal, if they had to... Krishna had to leave them and go to Indraprastha, then that plan could not be put into action. Now, what was so pressing? Nothing about that, that plan that they should go and attack Magadha, that it could not wait for the Rajasuya Yajna to get over. So, in the last episode, we had seen how Jarasandha had attacked and imprisoned 20,000 kings. Now, these kings desiring to be freed from the clutches of Jarasandha, they managed to somehow get the support of one person from outside and sent a message through him to Dwaraka. This man, carrying the message of the 20,000 kings, came to the assembly of the Yadavas, came to Dwaraka and he presented the message before Krishna. So, the Yadavas did not know who this person was. He has brought a message and then he explained, that he had come from Magadha carrying the message of the kings who had been imprisoned by Jarasandha.
+
+---
+### Krishna's glories, liberation, devotional service
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=837
+**Verse References:** BG 4.9
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "One who simply understands that Krishna, his birth and his activities are not like that of ordinary mortals, but they are divine, simply if one understands this much, he doesn't even need to know all the Vedas, Upanishads... that person is immediately liberated."
+**Summary:** The imprisoned kings' message praised Krishna's glories as Sat, Chit, and Ananda, emphasizing that even a fraction of understanding His divine nature leads to liberation and unmotivated devotional service.
+
+What was this message? The messenger informed the Lord Krishna that these kings were saying that Krishna is the embodiment of Sat, Chit and Ananda. He is the embodiment of eternity, all knowledge and all bliss. As such, nobody can know the glories of the Supreme Lord Krishna. It is impossible to measure the limitless glories of Krishna. Krishna is the infinite personality. So, who can know his glories? But still, those who are surrendered fully to the lotus feet of Krishna, those who are pure devotees, can know a fraction of his glories. And one who has understood, even a fraction of Krishna's glories, immediately becomes liberated from this material world of repeated birth and death. In fact, Lord Krishna himself says in the fourth chapter of the Bhagavad Gita, janma karma chame divyam evam yo janati tatvatah kyatva dehyam punar janma naiti svarjuna. One who simply understands that Krishna, his birth and his activities are not like that of ordinary mortals, but they are divine. Simply if one understands this much, he doesn't even need to know all the Vedas, Upanishads, he doesn't need to be a big scholar, he doesn't have to be a highly renounced person, he doesn't have to execute severe tapasya, none of these things are required. Simply if he accepts on the strength of Krishna's words, that his birth and activities are all transcendental, divine, and they are not at all like our birth and activities, that person is immediately liberated. So the king said that anybody who knows even a fraction of your glories immediately becomes liberated. And such personalities render unmotivated loving devotional service to the lotus feet of Krishna.
+
+---
+### devotional service, material distress, time factor
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=956
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Despite this, people are averse to becoming devotees of Krishna, they don't want to have anything to do with devotional service to Krishna... But because they are averse to the devotional service of Krishna, the force of Kala enforces various kinds of miseries in a person's life."
+**Summary:** Despite the pleasure derived from devotional service, people avoid it, leading to material distress enforced by the time factor (Kala), which frustrates attempts at material enjoyment.
+
+So although loving service to Krishna is very pleasing to the heart, anybody who renders devotional service to Krishna, anybody who takes up the process of rendering devotional service to Krishna, beginning with chanting his holy name, Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare, that whole process, even the chanting of Krishna's holy name is so pleasing to the heart, that one will forget all one's material distresses. Despite this, people are averse to becoming devotees of Krishna, they don't want to have anything to do with devotional service to Krishna, they are involved in their own plans for increasing their enjoyment and keeping away distress in their life. But because they are averse to the devotional service of Krishna, the force of Kala enforces various kinds of miseries in a person's life. And that force of Kala, that force of time, it frustrates all one's plans and attempts and desires to enjoy in this material world. And therefore everybody becomes filled with anxiety in this material world. The time force never allows one to unlimitedly, unrestrictedly enjoy material happiness in this world.
+
+---
+### Kala, surrender, atheism
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=1075
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "The time factor is but a partial representation of Krishna. Kala is a portion, is an insignificant portion of the Supreme Lord Krishna."
+**Summary:** The kings surrendered to Krishna's feature as Kala, recognizing its all-powerful and indomitable force, and questioned how Jarasandha, an atheist, could flout Krishna's laws while devotees suffer.
+
+And that time factor, the kings say, that the time factor is but a partial representation of Krishna. Kala is a portion, is an insignificant portion of the Supreme Lord Krishna. And therefore the kings said, we surrender to your feature as Kala, because Kala is all-powerful. Kala is that indomitable force, which brings about change, whether we like it or not in our lives. And so the kings, all the kings said, we are surrendering to your feature of Kala. And not only this, the kings said, Krishna, you are the proprietor of all the universes. You are the proprietor of the whole creation. You are the Supreme Lord. But still you have descended from your spiritual abode, Goloka Vrindavan, to this material universe, simply to protect your devotees and to chastise, to punish, to annihilate those atheistic demons who do not accept your sovereignty. So the kings said, so you are the Supreme Lord, you have invented to punish the atheists and to protect your devotees. So it is bewildering to us, how is it that this Jarasandha, who is such an atheist, he is able to unrestrictedly flout your laws and remain in a powerful position despite being such a great atheist and not accepting your position as a Supreme Personality of Godhead.
+
+---
+### karma, surrender, dependence
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=1163
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Therefore, we are giving up everything and we are surrendering ourselves totally unto your lotus feet."
+**Summary:** The kings attributed their suffering to past sinful activities and their former positions to past pious deeds, surrendering entirely to Krishna's lotus feet, seeking liberation from material distress and dependence on Him.
+
+And how is it that we, who are your devotees, we are having to suffer in your presence. The only way we can understand this, the kings said, is that all the position of the kings that we used to enjoy, was the result of our past pious activities and whatever we are suffering in the imprisonment of Jarasandha undergoing so many tortures, is also the result of our past sinful activities. So but then, the kings said, anybody who surrenders to your lotus feet Krishna, he immediately becomes freed from all past happiness and distress, all kinds of material happiness and distress, goes out of a person's life if he surrenders to your lotus feet and he enjoys supreme, eternal, transcendental bliss. Therefore, because we are in this kind of material anxiety and distress, and we have got fed up with the kind of temporary happiness and distress that is available in this material world, which keeps coming and going in our life although we may not want it. Therefore, we are giving up everything, giving up everything and we are surrendering ourselves totally unto your lotus feet and we are completely dependent upon you.
+
+---
+### decision, dilemma, devotion
+**Timestamp:** https://youtu.be/dv-rEk0EObE?t=1261
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna was torn between these two proposals. Where should Krishna go?"
+**Summary:** The messenger presented the imprisoned kings' plea to Krishna, who then faced a dilemma between fulfilling Yudhishthira Maharaj's desire for the Rajasuya Yajna and rescuing the imprisoned devotee kings from Jarasandha.
+
+And so like this, the messenger presented the imprisoned king's message before Lord Krishna and then he told Krishna, now I have presented before you those kings who are suffering because of Jarasandha's torture. Now you may please decide what is the suitable action to be taken. So when the messenger said like this, immediately Krishna started consulting with all the Yadavas that we should attack Magadha immediately and free all these kings who are suffering for no fault of theirs. Just because they are devotees of Krishna, Jarasandha has imprisoned them. And he is thinking of conducting a mass human sacrifice for Kalabhairava by which he will become even more powerful and he will inflict even more suffering on the people. So it was in the midst of this discussion that Narada Muni landed up on the spot. And therefore, the Yadavas were not happy with Narada Muni's proposal that Krishna should immediately go to Indraprastha. Now on the one side, the pure devotees of Krishna, the Pandavas, are calling him to come to Indraprastha immediately. And on the other side, there are these kings who are also devotees of Krishna and who want Krishna to come and save them from the clutches of Jarasandha. So Krishna was torn between these two proposals. Where should Krishna go? Now what to do? How did Krishna resolve this? What was Krishna's response? Please join us in our next episode to learn about the decision of Krishna. Which way did he choose? Did he go to Indraprastha to satisfy Yudhishthira Maharaj? Or did he go and attack Magadha to free the kings from the clutches of Jarasandha? So please join us in our next episode. Thank you for joining us today. Hare Krishna
+
+---
+
+## Mahabharata l Part 26 | When Bhima wrestled with Jarasandha
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### mantras, prayers, devotion
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=30
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare"
+**Summary:** The lecture begins with the chanting of various Vaishnava mantras and prayers.
+
+Om Ajnana Timirandhasya Jnananjana Salakaya Chakshurunmilitam Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Itinamine. Namaste Saraswate Deve Gauravani Pracharine Nirvisesha Sunyavadi Paschatya Desha Tarine. Jaya Shri Krishna Chaitanya Prabhu Nityananda Shri Advaita Gadadhara Shri Vasadi Gaura Bhakta Vrinda Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare.
+
+---
+### lineage, Uddhava, Krishna
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=119
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Uddhava was more or less the same age as Lord Krishna and in features also he resembled Krishna very much."
+**Summary:** The speaker introduces Uddhava, a cousin and close devotee of Krishna, highlighting his intelligence and devotion.
+
+The Yadava dynasty in which King Suresena appeared, if we all recollect, Suresena had ten sons who were headed by Vasudeva, and eventually Vasudeva got the great fortune of becoming the father of the Supreme Lord Krishna. Now, Vasudeva had a brother by the name Devabhaga. This Devabhaga had a son by the name Uddhava. So this Uddhava was the cousin brother of Lord Krishna. Uddhava was more or less the same age as Lord Krishna, and in features also he resembled Krishna very much. In fact, sometimes people, when they would see Uddhava, they would mistake him for Krishna, so closely his facial features would resemble that of Krishna. And this Uddhava from his childhood, he was a very sober child and very intelligent, so much so that when he grew up, he was handed over to Brihaspati to become his student. You can imagine Brihaspati is the teacher for all the Devatas, and Uddhava was so intelligent, his intelligence was on the level of that of the Devatas, the demigods. And so Brihaspati accepted him, Uddhava, as his disciple. Thus, Uddhava was highly learned, very intelligent, sober, and a great devotee of Lord Krishna. Although age-wise, he was almost the same age as Krishna, and because of that you could consider that they were peers, but still Uddhava very well knew the glories of the Supreme Personality of God
+
+---
+### devotee, Rajasuya Yajna, Jarasandha
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=236
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So everyone will be happy if Krishna goes to the Rajasohya Edna being conducted, being organized by Yudhishthira Maharaj."
+**Summary:** Uddhava advises Krishna on the dilemma of attending the Rajasuya Yajna versus freeing imprisoned kings, suggesting a battle with Jarasandha as a solution.
+
+at Krishna. And so therefore, in his heart of hearts, he was a great devotee of Lord Krishna. And so when Krishna came over to Mathura and then finally Krishna went to Dwaraka, Uddhava being a great devotee of Krishna, Krishna considered him as a very close friend. And because of Uddhava's great intelligence, Krishna used to consult him on many affairs. So Uddhava became like an advisor to Krishna. Now when this dilemma came before Krishna to choose between the Rajasohya Edna and going to Magadha to free the kings, he called for Uddhava and sought his advice on what has to be done. So now Uddhava gave his very, you know, wise opinion. Uddhava told Lord Krishna that for all his devotees, the thing which they are all most eagerly looking forward to is the glorification of Krishna. So everyone will be happy if Krishna goes to the Rajasohya Edna being conducted, being organized by Yudhishthira Maharaj. And there, in that assembly of great personalities like sages, the prominent kings of the world, the devatas, in front of all of them, if Krishna is glorified, then it will be very prosperous. It will be very pleasing to all the devotees. So Uddhava being a great devotee, he said, we are all eagerly looking forward to this Rajasohya Edna which has been proposed by Yudhishthira Maharaj and the message of which has been brought to our assembly now by Narada Muni himself. At the same time, we cannot neglect those kings also. So this dilemma can be solved by understanding that the Rajasohya Edna can be performed by Yudhishthira Maharaj only if he conquers all the kings. All the kings should accept Yudhishthira Maharaj's sovereignty, his supremacy. Then only the Rajasohya Edna can be performed. And surely Jarasandha is not going to accept Yudhishthira Maharaj, the Pandavas, to be superior to him.
+
+---
+### war, resources, charity
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=375
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And to conduct the Rajasohya Edna, it was very essential for Yudhishthira Maharaj also to preserve his resources."
+**Summary:** The speaker explains the importance of preserving resources for the Rajasuya Yajna and the tradition of giving charity to qualified Brahmanas.
+
+So this gives us an opportunity to engage in a battle with Jarasandha. But then, Jarasandha and his army, if we go and attack them, then there will be large scale war. There will be large scale loss of life and it is going to take several days. It is going to be a long drawn out affair. It will require lot of money. There will be lot of loss of resources on both sides. And to conduct the Rajasohya Edna, it was very essential for Yudhishthira Maharaj also to preserve his resources. And there huge amount of charity had to be given in the Rajasohya Edna. Formerly, in those times when Ednas would be conducted, they would not have the variety of resources. When Yudhishthira Maharaj was going to conduct the Rajasohya, every ajna would be considered complete only if the performer of the ajna would distribute charity in huge quantities. Tons of gold had to be given in charity, thousands of cows had to be given in charity, land had to be given in charity like this. And this charity would be given not to some unqualified beggars in the street. Those days there were no beggars at all. Everybody would have his particular occupation and this charity would be given to people who were Brahmanas, who were qualified Brahmanas, whose only job was to engage in study of the Vedas and advise the Kings how to conduct the affairs. Not only this, the Brahmanas were repositories of knowledge, knowledge related to the art of warfare, knowledge related to the art of astrology, knowledge related to the art of politics, knowledge related to the science of medical science of Ayurveda, practically any knowledge. The Brahmanas are the repositories and so these Brahmanas wherever they would go people would give them charity wholeheartedly and in return these Brahmanas would share whatever knowledge they wanted. Like for example somebody's house they went, they made some rice or dal, simple things and the people would give them in charity and then they would say my son is suffering from some disease please advise us what medicine to give him and the Brahmana would immediately check him and he would recommend to the householder this kind of herb and this kind of concoction you have to make and you have to feed it to him and the Brahmana would go away and people those times had the knowledge of all these herbs also so they would go they would pick up those herbs and administer it to their to the patients and they would get cured so there were no need of expensive multi speciality hospitals and very you have to sit in a long queue take appointment and pay big fees to a big specialist doctor who will refer you to another specialist who will refer you to another specialist and then go and take hundreds of scans and then some expensive medicines are written hospitalization you have to have a medical insurance so many
+
+---
+### Brahmanas, knowledge, simplicity
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=559
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "The medical system was completely it was decentralized and Brahmanas wherever they would go whenever anybody would require they would immediately tell them this is what you have to do"
+**Summary:** The speaker describes the role of Brahmanas in ancient society as repositories of knowledge and providers of decentralized healthcare and education, emphasizing their simple living and dependence on the Supreme Lord.
+
+things come into picture today. The medical system was completely, it was decentralized and Brahmanas wherever they would go whenever anybody would require they would immediately tell them this is what you have to do and the people would go and forage in the gardens and the jungles everywhere they would get all their medicines and like this people used to take care of their health also similarly any kind of knowledge the children had to learn the people of the village or the city they would send the children to the hospital. The teacher would accept everyone who comes without asking for any fee at the end of the education it was left to the students to give a guru dakshina. Guru dakshina means it's not a fixed fee oh you have to now get entrance into engineering so you have to go and pay hefty sum as the upfront fees and then every year you have to go on paying so much fees those kind of things were not there at all according to each person's capacity. They would come and give some small dakshina to the Brahmana and you would be happy with that because the Brahmanas were also not interested in increasing their comforts in life having big big bungalows big big cars none of these things they would live a very simple life a simple living high thinking was the philosophy so they would voluntarily maintain very simple lifestyle whenever they would accumulate money or food grains in excess of what they need they would immediately have a feast and distribute it off to everyone Brahmana will never save for the future for tomorrow let me keep aside some grains for my future let me keep aside some money no their life was day to day today I have got money this much grains today it must be finished tomorrow I should start my day with a clean slate empty hand this is the way the Brahmanas would exert their total dependence on the supreme law.
+
+---
+### kings, charity, Rajasuya Yajna
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=683
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So, the Rajasuya Ejna would require a lot of resources."
+**Summary:** The speaker contrasts ancient kings' charitable activities with modern secular governments and emphasizes the need to avoid unnecessary expenses for the Rajasuya Yajna.
+
+The Brahmans would exert their total dependence on the supreme law. So the kings would, it was the duty of the kings to conduct yajna from time to time to please the Supreme Personality of God at Krishna and to please Krishna so much amount of charity would be given to all such qualified Brahmanas. Unlike today, the government is very secular, government will not engage in any sacrifice, they will not engage in any charitable activity. Charity has to be done by the god of the world. Charity has to be done by NGOs. Charity has to be done by the CSR program of the companies. The government will not spend on charity. But in the olden days, the charity was done on a big scale by the kings, by the royal households through the performance of Ejnas. They would please the Supreme Personality of God, Krishna and the welfare of the citizens would also be taken care of. So, the Rajasuya Ejna would require a lot of resources. They would require a lot of gold, a lot of cows to be given away in charity, land to be given in charity. Now, if all that money is spent on a war with Jarasandha, it will not be beneficial. So, Uddhava said, therefore, and also we have to understand that to avoid this kind of unnecessary expense of resources, we should engage in a one-to-one business.
+
+---
+### Jarasandha, Bhima, one-on-one battle
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=767
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So, Uddhava said, there is only one person who has as much strength as Jarasandha has and that is Bhima Sena."
+**Summary:** Uddhava suggests a one-on-one battle between Bhima and Jarasandha, highlighting Jarasandha's hypocrisy and desire for fame.
+
+We should engage in a one-to-one business. So, as a result he has started a chain battle with Jarasandha. Now, Jarasandha was renowned for being very powerful. He was said to have the strength of 10,000 elephants. Now, there was no king who could equal him in terms of strength to be able to have a one-on-one fight with Jarasandha. So, Uddhava said, there is only one person who has as much strength as Jarasandha has and that is Bhima Sena. And so, we should create a situation where Jarasandha will accept a one-on-one battle with Bhimasena and by this, and if Krishna, you personally are present, then by your grace, Bhimasena will, without doubt, he will be victorious. So, Jarasandha is not going to accept a one-on-one battle simply like that. If any of the Pandavas or Yadavas would approach Magadha, he would immediately send his soldiers and there would be an all-out battle. Therefore, Uddhava suggested to Krishna, therefore, you should go in disguise as Brahmanas because this Jarasandha is known to be very charitable towards Brahmanas. Why? Because Jarasandha was not interested in satisfying Bhimasena. He was not interested in satisfying Supreme Lord Vishnu or Krishna. He was totally an atheist. He was against Krishna. His idea was, do this lot of charity so that I can become famous. That was his motivation. So, he had built up a reputation for himself as being a very charitable person. Whereas, on the other hand, he was also capturing innocent kings and organizing a mass human sacrifice. So, at heart, it was not that he was some good person and he had noble intentions. His main motivation was, by being charitable, people will glorify me, people will praise me and I will become famous. So, that is why we see the hypocrisy in the actions of Jarasandha.
+
+---
+### disguise, charity, Narada Muni
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=890
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So Narada Muni in his heart, in his mind, he offered his dandavats, his prostrated obeisances to Lord Krishna and then with great humility he accepted whatever worship Krishna was offering him."
+**Summary:** Uddhava proposes that Krishna, Arjuna, and Bhima disguise themselves as Brahmanas to ask Jarasandha for a one-on-one battle as charity; Narada Muni departs on his usual tour.
+
+So, Uddhava suggested, we should go in disguise, you should go in disguise as a Brahmana and then ask Jarasandha for charity and when he will promise charity, we ask for one-on-one battle with him. Then he cannot refuse. So, by doing this, the kings will also be rescued and Krishna, because you are the Supreme Personality of Godhead and the time factor is just a small portion of yourself, so you are the most powerful person, if you wish then very easily Bhimasena can defeat Jarasandha. Not only that, just like Uddhava told Krishna, just like you saved Gajendra from the crocodile, just like you saved mother Sita from Ravana and like this you have saved many many personalities in the past. So similarly these 20,000 kings will also be saved by your grace. When Uddhava made this proposal, all the Yadava people present, they were immediately, they were all totally for it. They gave their acceptance to it and then Krishna finding that this is a very suitable advice given by Uddhava, he took leave of Vasudeva, Ugrasena and all the other prominent elderly personalities of the Yadava dynasty. And then he worshipped Narada Muni in various ways and then he bid farewell to Narada Muni also. Narada Muni wanted to fall at the lotus feet. He wanted to fall at the lotus feet of Krishna but then externally he knew that it was not appropriate for him to do that in the presence of so many other people. And Krishna wanted to set an example to the people also. So Narada Muni in his heart, in his mind, he offered his dandavats, his prostrated obeisances to Lord Krishna and then with great humility he accepted whatever worship Krishna was offering him. And then Narada Muni left on his usual tour. Everywhere, everywhere he would go around singing Krishna's glories and spreading the message of Krishna consciousness.
+
+---
+### journey, Indraprastha, festive mood
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1029
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now Krishna immediately made arrangements to go to Indraprastha."
+**Summary:** Krishna makes arrangements to travel to Indraprastha with his queens, sons, and soldiers, and the city welcomes them with a festive atmosphere.
+
+Now Krishna immediately made arrangements to go to Indraprastha. He took all his 16,108 queens along with all his sons and with a lot of soldiers accompanying him for their protection and they started from Dwaraka in a big group. So this group... All the male personalities, they were seated on chariots, horses, elephants and the women were all sitting in palanquins and then there were the soldiers who were carrying various kinds of weapons in order to protect the entire group and there were many other horses and buffaloes and other such animals which were being used to carry all the tents and food grains and all those things because this journey from Dwaraka to Indraprastha was going to take many years. And so everywhere at evening they would set camp and they would cook there and they would have the prasadam and then next day early morning they would again set out. So like this they went from place to place. They crossed over Gujarat, they crossed over Rajasthan, they crossed over Haryana and finally they reached Indraprastha. And when they reached Indraprastha and Yudhishthira heard the news that Krishna has come, he was so overjoyed. He personally ran to the entrance of the city and he welcomed Krishna in various ways with lot of paraphernalia, gifts and all that. And all the people accompanying Krishna were also taken into Indraprastha and Krishna could see everywhere in Indraprastha there was a big festive mood welcoming Krishna. And practically every house there were lamps and it was practically like Diwali. Every house was lit up with lamps and there were golden arches created, lot of flowers, festoons, all those things decorating the whole city to welcome the group. So this group, all the male personalities, they were seated on chariots, horses, elephants and the women were all sitting in palanquins.
+
+---
+### Yudhishthira, Krishna, devatas
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1224
+**Verse References:** BG 7.20
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "My whole purpose is that I want your glorification to happen."
+**Summary:** Yudhishthira expresses his desire for Krishna's glorification during the Rajasuya Yajna, emphasizing Krishna's supremacy over the devatas.
+
+And all the following Krishna came to Indraprastha and they were all accommodated very nicely. And then Yudhishthira Maharaj sat with Krishna and he started telling him that oh my lord Krishna I am very happy that you have accepted my proposal for the Rajasuya Yajna. As far as I am concerned I have nothing, I have no desire at all for myself. I am not interested in pleasing the devatas. If you are there then what is the need for me to please any of the devatas by doing this Rajasuya Yajna. My whole purpose is that I want your glorification to happen. I want that in this Rajasuya Yajna all the devatas should be called, all the sages should be called. And in front of all of them we should offer you the greatest worship as the greatest person in that entire assembly. Then people will understand your position and how all the devatas are subordinate to you. In fact Lord Krishna says in the Bhagavad Gita that the people of lesser intelligence they worship the devatas. Their intelligence having been captured, having been taken away by the desires for sense gratification. Those whose knowledge has been destroyed, has been captured, has been taken away by the desires for sense gratification. They go and worship various devatas. And foolish people they think Krishna is some ordinary person. Krishna is also like one of the other devatas. There is no difference between all of them. These are all foolish proposals made by ignorant people. Whereas Krishna is the original supreme personality of Godhead. The souls of all the devatas. The worshipful Lord for all the devatas. So Yudhishthira Maharaj said, therefore I want to establish this and people should understand your true position. This is my desire.
+
+---
+### Pandavas, senses, subordination
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1349
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "They were completely free from Kama, Krodha, Lobha, Mata, Moha and Matsya."
+**Summary:** The speaker describes the Pandavas' control over their senses and their devotion to Krishna, leading to Krishna's acceptance of Yudhishthira's proposal.
+
+Now because the Pandavas were all highly devoted personalities, they were fully surrendered souls to the lotus feet of Krishna. They were completely in control of all their senses. They had no material sense gratificatory desires. They were completely free from Kama, Krodha, Lobha, Mata, Moha and Matsya. These six enemies which are ruling over the hearts of all of us. They had no jurisdiction over the hearts of the Pandavas. And so therefore people who have completely controlled their senses are very dear to Krishna. And so the Pandavas were extremely dear to Krishna. And so Krishna was very pleased to accept the proposal of Yudhishthira Maharaj. And then Krishna told Yudhishthira Maharaj, so now for conducting the Rajasuya Yajna, we have to subordinate all the other kings. So please send your brothers in different directions and get the agreement of all the kings to be subordinate to you. And so like this, Sahadeva was sent in one direction, in the western direction. Nakula went in the southern direction. Arjuna went in the eastern direction and Bhimasena went in the northern direction. Like this they went from kingdom to kingdom informing the kings, like this Rajasuya Yajna we are organizing, Yudhishthira Maharaj is organizing and so we want you to pay taxes accepting the supremacy of Yudhishthira Maharaj and you are also invited to come and attend the Rajasuya Yajna. So all the kings they knew the glories of Yudhishthira Maharaj and the Pandavas. They all gladly accepted to become the subordinate to
+
+---
+### Jarasandha, refusal, disguise
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1455
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Only Jarasandha refused to accept."
+**Summary:** The Pandava brothers travel to different kingdoms to gain subordination for Yudhishthira's Rajasuya Yajna, but Jarasandha refuses, leading Krishna to narrate Uddhava's plan.
+
+to subordinate themselves to Yudhishthira Maharaj. Of course one or two here and there who did not agree, then there would be a small fight by the small army which each of the Pandava brothers had taken. They subdued all the kings and finally after some time all the four brothers came back to Indraprastha and submitted the subordination of all the kings and whatever taxes they had collected for the welfare of the kingdoms. Now out of all the kings, Yudhishthira Maharaj when he received the news, only Jarasandha refused to accept. And Yudhishthira Maharaj came to Lord Krishna with great anxiety and he told like this he has the king of Magadha, Jarasandha has refused to subordinate himself. Now what should be done. So Krishna narrated to Yudhishthira Maharaj the whole plan which was formulated by Uddhava and he, and Krishna told Yudhishthira Maharaj, so now Arjuna, Bhimasena and myself we should disguise ourselves and go to Magadha. And so Krishna, Arjuna and Bhimasena disguised themselves as Brahmanas and set out to Magadha which is modern day Bihar and they approached the capital of Magadha which was Girivraja. Those days it was known as Girivraja. Today it is known as Patna. So when they approached this capital of Girivraja, the capital of Magadha which was Girivraja, they approached Jarasandha's court and they presented themselves as Brahmanas who had come there seeking charity from him. And Krishna took the lead in speaking to Jarasandha. He told Jarasandha that you see we are poor Brahmanas. We have come here seeking some charity from you and you are a great king. We have heard a lot about your being a very charitably disposed king.
+
+---
+### charity, fame, hypocrisy
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1582
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So even at the cost of your life you should be ready to give in charity."
+**Summary:** Krishna, Arjuna, and Bhima disguise themselves as Brahmanas and approach Jarasandha, seeking charity and emphasizing the eternal fame gained through unrestricted giving.
+
+And please understand that a king who gives charity without any restriction, without any hesitation, whatever is asked of him, his glory, his fame gets extended over eternally. It gets extended eternally and people will always talk of his fame and reputation. On the other hand if a king refuses to give charity to a suitable person, then he will become infamous and people will all speak very poorly of him. So even at the cost of your life you should be ready to give in charity. And so we have come expecting with great expectations that you will not disappoint us. Now Jarasandha was no fool. He was also very intelligent. When these three people were standing in front of him and talking to him, Jarasandha was keenly observing. Somewhere I have seen these people. Their faces seemed familiar. But then they were in disguise. Krishna, Arjuna and Bhima Sena. So he could not immediately make out. But somewhere a bell was ringing. Somewhere I have seen these people. And then he saw their body also. Normally Brahmanas because they are always engaged in austerity, they live very simply and all that, their bodies are very skinny and they are very weak and you know they are like that. But these three people they were very well built and they looked very healthy and very strong people. And he also observed on their shoulders. Kshatriyas normally they carry the bow on the shoulder and because of that some mark is created on the shoulder. So Jarasandha could see clearly all three of them had the marking of bow on their shoulder. So it looks like these people are Kshatriyas. But then Jarasandha thought, anyway these people even though they may be Kshatriyas, they have disguised themselves as Brahmanas and they have come before me. So they have already lowered their status. So what is there? Whatever they ask I will give. And suppose they ask for my head also, I will not hesitate to give them because by doing that I will become very famous. People will always talk of me Jarasandha like this. Some Kshatriyas they could not defeat him and they came in disguise and they had to cheat him and ask him for charity and still Jarasandha did not refuse and very bravely very courageously he kept his word. So people will always glorify me.
+
+---
+### challenge, battle, choice
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1734
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "You please I am ready to give you whatever you want to ask."
+**Summary:** Jarasandha, aware of their true identities, agrees to grant their request, leading Krishna to reveal their identities and ask for a one-on-one battle, which Jarasandha accepts, choosing Bhima as his opponent.
+
+So anyway these people have lowered their status. So what is there? So Jarasandha smiled at them and he said, you please, I am ready to give you whatever you want to ask. I am ready to give you please ask. What do you want? You want my life? You want my kingdom? What do you want? Now Krishna could have at that point asked that we want your head. But then that is not the Kshatriya spirit. Kshatriyas don't want anything simply free of cost. So they also have certain self-esteem. So Krishna then told Jarasandha that is very nice that you have given your word that you will give us in charity whatever we ask for. Please know Jarasandha that I am Krishna, the son of Vasudeva and this is Arjuna the Pandava and this is Bhima Sena. So we have come here seeking from you in charity a battle. One on one battle. You may choose among the three of us any one person whom you want to combat with. When Jarasandha heard this he started laughing. He said, oh you are Krishna and the Pandavas. Krishna who will fight with you? You ran away in fear from me in the battlefield. You are a coward. What is this? Out of great fear of me you ran away from Mathura and built one city in Dwaraka. I should fight with you? No no no. I will not fight with you. And as far as Arjuna is concerned he is very junior to me. He doesn't match my strength and my capability. He is a straw in my comparison. Bhima Sena is my equal. I will fight with him. I am ready to fight with him. So Jarasandha accepted the challenge.
+
+---
+### hospitality, Vedic principle, fight
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1836
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "If even your enemy comes to your house you have to treat him like a very good friend."
+**Summary:** Jarasandha arranges for their comfortable stay, adhering to Vedic principles of hospitality, and a suitable place is chosen for the battle between Bhima and Jarasandha, with specific rules and conditions.
+
+Like this. And so Jarasandha made arrangements for them to stay very nicely. And because it is a Vedic principle that if even your enemy comes to your house you have to treat him like a very good friend so that he will forget all the hostility. Whatever hostility is there outside the house. Inside the house everybody is a guest. Everybody is treated with the best possible hospitality. So Jarasandha made all the suitable arrangements for their hospitality. And then a suitable place was chosen for the battle. And then Jarasandha gave club to Bhima Sena, gatha to Bhima Sena. He also took up a gatha and the fight started. So the arrangement was the fight, it was a fight to death and it will happen during the day time and evenings all the hostilities will be suspended and the three guests were free to live very comfortably and peacefully in the palace. Now the fighting started in great earnest. Bhima Sena with all vigor and with great motivation, he wanted to finish Jarasandha because only then the Rajasuya Ejna could be performed and Krishna could be glorified. And Jarasandha his enmity towards Krishna, his enmity towards the Pandavas, his own arrogance, he wanted to show that he is the most powerful person and he also started fighting with Bhima Sena with the gatha, with the club and both of them were hitting each other on the collar bone, on the hand, on the leg, on the shoulder and fight is going on like this and by the end of the day neither were, both of them were equally placed because Bhima Sena and Jarasandha were equally matched in terms of strength as well as skill in fighting.
+
+---
+### strength, skill, stalemate
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=1958
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "This fight went on for 27 days."
+**Summary:** The intense fight between Bhima and Jarasandha continues for 27 days, with both equally matched in strength and skill, leading to a stalemate.
+
+So in the evening the fight was suspended. It was taken over to the next day. Next day again the fight resumed and like this both of them hitting each other, hitting each other. Normally if somebody hits us with the gatha what will happen? Our hands and legs will get broken. But then Jarasandha and Bhima Sena were ordinary people. The gathas got broken and these people are still fighting. So they took up another set of gathas and started fighting. Like this every day this fight went on. They would break all the gathas and they would take up new gathas. Finally what happened? All the gathas were exhausted. Then they started hitting each other with their bare fists. Hitting, pummelling, ruzzling and those days the Kshatriyas were all very expert in ruzzling. So like you will see MMA fights happening in various forums in today's world. Those days it used to be real fights. Today's fights are all mock fights. Those days it was real fights and they were highly expert and both of them are fighting with their full energy and it was a real fight to the very end. So one day, two days, three days, one week, two weeks. This fight went on for 27 days. Can you imagine this? 27 days the fight went on continuously and neither is this and neither is gaining an upper hand. Both of them are equally matched. On the 28th day Bhima Sena came to Krishna and Arjuna and he told Krishna, Krishna I don't think I can win. Jarasandha is equally matched with me in terms of strength as well as skill. I don't see any way I can defeat him. So now what to do? What did Krishna do? Please join us in our next session to understand what happened next in the fight between Bhima Sena and Jarasandha.
+
+---
+### hospitality, Vedic principle, fight
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=2180
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "If even your enemy comes to your house you have to treat him like a very good friend."
+**Summary:** Jarasandha arranges for their comfortable stay, adhering to Vedic principles of hospitality, and a suitable place is chosen for the battle between Bhima and Jarasandha, with specific rules and conditions.
+
+Like this. And so Jarasandha made arrangements for them to stay very nicely. And because it is a Vedic principle that if even your enemy comes to your house you have to treat him like a very good friend. So that he will forget all the hostility. Whatever hostility is there outside the house. Inside the house everybody is a guest. Everybody is treated with the best possible hospitality. So Jarasandha made all the suitable arrangements for their hospitality. And then a suitable place was chosen for the battle. And then the Jarasandha gave club to Bheemasena. Gatha to Bheemasena. He also took up a gatha. And the fight started. So the arrangement was the fight. It was a fight to death. And it will happen during the day time. And evenings all the hostilities will be suspended. And the three guests were free to live very comfortably and peacefully in the palace. Now the fighting started in great earnest. Bheemasena with all vigor and with great motivation. He wanted to finish Jarasandha. Because only then the Rajasuya Ejna could be performed. And Krishna could be glorified. And Jarasandha his enmity towards Krishna. His enmity towards the Pandavas. His own arrogance. He wanted to show that he is the most powerful person. And he also started fighting Bheemasena with the gatha. With the club. And both of them were hitting each other on the collar bone. On the hand. On the leg. On the shoulder. And fight is going on like this. And by the end of the day. Neither were. Both of them were equally placed. Because Bheemasena and Jarasandha were equally matched. In terms of strength. As well as skill in fighting.
+
+---
+### strength, skill, stalemate
+**Timestamp:** https://youtu.be/JPwDQe7xztw?t=2302
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "This fight went on for 27 days."
+**Summary:** The intense fight between Bhima and Jarasandha continues for 27 days, with both equally matched in strength and skill, leading to a stalemate.
+
+So in the evening the fight was suspended. It was taken over to the next day. Next day again the fight resumed. And like this both of them hitting each other. Hitting each other. Normally if somebody hits us with a gatha what will happen? Our hands and legs will get broken. But then Jarasandha and Bheemasena were no ordinary people. The gathas got broken. And these people are still fighting. So they took up another set of gathas and started fighting. Like this every day this fight went on. They would break all the gathas. And they would take up new gathas. Finally what happened? All the gathas were exhausted. Then they started hitting each other with their bare fists. Hitting. Pummelling. Ruzzling. And those days the Kshatriyas were all very expert in ruzzling. So like you will see MMA fights happening in various forums in today's world. Those days it used to be real fights. Today's fights are all mock fights. Those days it was real fights. And they were highly expert. And both of them are fighting with their full energy. And it was a real fight to the very end. So one day, two days, three days, one week, two weeks. This fight went on for 27 days. Can you imagine this? 27 days the fight went on continuously. And neither is gaining an upper hand. Both of them are equally matched. On the 28th day. Bhima Sena came to Krishna and Arjuna. And he told Krishna. Krishna I don't think I can win. Jarasandha is equally matched with me in terms of strength as well as skill. I don't see any way I can defeat him. So now what to do? What did Krishna do?
+
+---
+
+## Mahabharata l Part 27 | The duel to death between Jarasandha & Bhima
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### general
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Mokam Karoti Vachalam Pangum Langhayate Girim Yad Krupada Maham Vande Shri Gurum Deena Taranam"
+**Summary:** The speaker begins with prayers and mantras, invoking Krishna, Chaitanya, Nityananda, and offering respects to the spiritual master.
+
+Thank you for watching. Om Adhyam Timrandasya Jnananjana Sarakaya Chakshurun Meritam Jena Tasmai Shri Durave Namaha. Namah Om Vrishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswati Deve Gauravani Pracharine Nirvishesha Sunyavadi Asha Tileshataarine Jaya Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gatadhara Shri Vasadi Gauravatta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pangum Langhayate Girim Yad Krupada Maham Vande Shri Gurum Deena Taranam. Hare Krishna.
+
+---
+### divine intervention, devotion
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=91
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And in this manner by Krishna's grace Bhimasena managed to kill Jarasandha."
+**Summary:** The speaker recounts the duel between Bhima and Jarasandha, highlighting Krishna's role in guiding Bhima to victory by revealing the secret of Jarasandha's birth and death.
+
+In the last episode, we have seen how Bhima Sena and Jarasandha were fighting a duel to the death. This duel lasted for more than 27 days, and on the 28th day, Bhima Sena approached Lord Krishna and confided in him that the way Jarasandha and Bhima Sena were equally matched in terms of both physical strength as well as their skill in hand-to-hand combat, it was not possible for either of them to gain victory. Now, Krishna was aware of the birth of Jarasandha, how he had been born from two mothers in two halves, and later he had been joined by the Rakshasi by the name Jara, because of which he got the name Jarasandha. Knowing this, Krishna knew that Jarasandha could not be killed by any ordinary means. So Krishna hinted to Bhima Sena how he could be killed. Krishna took a twig, a piece of small twig, he took, and then in front of Bhima Sena, he bifurcated that twig into two and threw the two parts aside. By this, Bhima Sena understood what was the process to kill Jarasandha. The way he had been born was by combining the two stillborn halves. Now, if his body was bifurcated again into those two halves, he would be dead. Not only this, Bhima Sena would also require some extra strength. Knowing the concept of a son who gives a daughter the bangles to hit the four dismantle the police force. Now, Brahma Sena was a much stronger man. The current moment, the way things were, both Jarasandha and Bhima were equally matched. So Krishna invested a special power in Bhimasena, and armed with this special power, Bhimasena entered into the arena, and the duel again started on the 28th day between Jarasandha and Bhimasena. And as the fight progressed, Bhimasena quickly captured Jarasandha and threw him on the ground, and then holding one foot of Jarasandha with his foot down firmly, Bhimasena caught hold of the other foot of Jarasandha and pulled it apart in such a way that from his rectum up to his head, his whole body got bifurcated into two halves. And then these two halves were thrown apart by Bhimasena. And all the citizens of Magadha who had taken them in their hands, they were thrown by the way of Krishna, and and took them to the arena of the matramar. And the crowd of the matramar was not able gathered to witness this fight between Bhimasena and Jarasandha, they saw that their king was lying before them, bifurcated into two halves such that each half had one leg, one thigh, one eye and one ear, and the chest was split into half, the stomach was in half, the whole face was divided into half like this. And in this manner, by Krishna's grace, Bhimasena managed to kill Jarasandha.
+
+---
+### leadership, compassion
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=291
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "The whole intention was to remove the demoniac rule of Jarasandha who was simply creating disturbance for others."
+**Summary:** The speaker explains that the Pandavas and Krishna did not seek to annex Magadha after Jarasandha's death, but instead reinstated Jarasandha's son, Sahadeva, as king and freed the 20,800 imprisoned kings, emphasizing their intention to remove demonic rule and establish dharma.
+
+Now what happened further next is very interesting. Now that Jarasandha had been killed, what did Arjuna and Bhimasena do? Did they occupy the throne and take over the kingdom of Magadha, annex it into part of Indraprastha? No. Actually, Krishna and the Pandavas, their intention was not to annex Magadha or to increase their kingdom. They were satisfied with Indraprastha, whatever they had. The whole intention was to remove the demoniac rule of Jarasandha who was simply creating disturbance for others. And so therefore, once Jarasandha was killed, neither Arjuna nor Bhima nor Lord Krishna staked claim on the throne of Magadha. On the other hand, they called forth the son of Jarasandha whose name was Sahadeva. This is not to be confused with the Pandava Sahadeva. Jarasandha's son was also named Sahadeva. They called him and they made him the king. They anointed him the king and handed over the throne to him. And Lord Krishna advised Sahadeva that all those 20,800 kings who had been imprisoned by Jarasandha should be freed by Sahadeva and Sahadeva should rule the kingdom in a Dharmic way, in a righteous way, in a peaceful manner and without trying to harass the other kings. So like this, Krishna appeared in front of all those kings, 20,800 kings, who had been imprisoned by Jarasandha. And how had Jarasandha imprisoned them? Jarasandha had found a large cave and he had improvised that into a dungeon and he had put all these kings into that huge cave and he had closed the mouth of the cave and he had imprisoned them like this. And these kings, because they had been deprived of proper food, clothing, no amenities for cleanliness and all that, they were very haggardly and they were very, they had become very thin, weak and they were looking very unkempt. And in this manner, Krishna appeared before them in his four-handed form, in his chaturbhaja form. And suddenly the king saw in front of them the beautiful, blackish, like the rain-bearing cloud with that complexion, the four-handed form of the Supreme Lord with chanka, chakra, gada and padma in his hands with his beautiful smile, the brilliant. And he saw the Kaustubha jewel hanging on his neck and with a beautiful crown which was bedecked with the valuable, most valuable, the Vaidurya gem and garlanded by beautiful Vajayanti garland reaching up to his knee and his whole, his neck having three lines like that of a conch, beautiful conch. And like this, they saw the beautiful form of the Lord.
+
+---
+### surrender, humility, divine grace
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=492
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Only please bless us that life after life we should never forget your lotus feet. This is our only prayer to you!"
+**Summary:** The speaker describes how the imprisoned kings, upon seeing Krishna, were overwhelmed with devotion and realized the futility of their past pride and sense gratification, praying only to never forget Krishna's lotus feet.
+
+And having been in such pain and suffering for such a long period of time, being afflicted by that trauma, which they had been, which they had been subjected to by Jarasandha. When they saw the beautiful form of the Supreme Lord, they started drinking in that form as if they were licking him, they were smelling his aroma, they were embracing physically. Like that, they started looking and that vision of the Supreme Lord started taking inside and then these Kings started offering their prayers to Krishna they prayed to Krishna that Oh Supreme Lord we were all very puffed up when we were Kings born into the royal household being born into luxury we were engaged in sense gratification and we were always at loggerheads with other kings thinking that I will make my kingdom bigger and stronger and like this I was very puffed up of myself and ours we were all thinking like this that we are very big and powerful kings but now after Jarasandha has imprisoned us we realized actually we realize now it was not Jarasandha's fault it was a great Kripa it was a great grace and compassion upon us that we were Oh That all our royal opulences were taken away from us, were snatched away from us. When Jarasandha took away all our opulences and imprisoned us, we became practically like beggars. And then when we were in such a miserable condition, we realized how we were so much dependent upon our royal strength, all our armies, all our family members and our wealth and we were thinking these things will protect us. But because of your grace, when all these things went away from us, we realized all of these things are of no value. These things can never protect us. So we considered that it was a great mercy upon us and it is your great mercy that you are now liberating us from this imprisonment of Jarasandha. But then now we have realized how our bodies are actually only a source of disease and afflicted by old age, disease and all kinds of infirmities, we are realizing now how this body which we were thinking is a great source of disease, is a great source of sickness, is actually a source of happiness for us , is actually a source of great distress. And so therefore, O Supreme Lord, we don't want any liberation, we don't want to become free from this imprisonment, we don't want to go to Swargaloka or any such things. We don't want any of these things. Only please bless us that life after life we should never forget your lotus feet. This is our only prayer to you!
+
+---
+### dharmic rule, devotional service
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=680
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Always offer your obeisances to me always think of me always worship me and like this you conduct your life in a peaceful manner and at the end of your life surely you will come back to me."
+**Summary:** Krishna, pleased with the kings' surrender, instructs them to rule their kingdoms righteously, care for their citizens, and engage in devotional service, promising them return to His lotus feet at the end of their lives. Sahadeva then facilitates their comfortable return to their kingdoms.
+
+prayed like this to Krishna. Krishna became very pleased and he, Krishna also blessed all of them. He said, now because you are totally surrendered to me, therefore I have come to free you from the clutches of Jarasandha. So now all of you should go back and you should, because you are all kshatriyas, you should rule over your kingdoms very properly in a dharmic manner and you should take care of your citizens just like your own children and ensure that in terms of dharma they are all very peaceful and satisfied and like this constantly render service unto my lotus feet, never forget me, always offer your obeisances to me, always think of me, always worship me and like this you conduct your life in a peaceful manner and at the end of your life surely you will come back to me and take care of yourself and then after else you will come back to my lotus feet these are all the ways Krishna has be guided by Lord Krishna like this Krishna blessed all of them and Krishna also advised them now that you are going back don't engage in sense gratification don't beget children simply for sense gratification and engage your life in righteous activities and in devotional life and so like this Krishna instructed all the kings and Krishna then take care of all their hospitality and free them. And so Sahadeva, the son of Jarasandha, immediately organized to get all the, to provide proper facilities for all the kings to get bathed and he gave them all fresh clothes and gave them all ornaments and once they were, they were all fed very sumptuously and once they were fed sumptuously, they had rested and they had taken proper bath and all that, these kings were given various chariots and they were set free to go back to their kingdoms. And so all the kings, in great happiness, remembering Krishna's lotus face, his lotus feet and his instructions, they all went back to their kingdoms and the rest of their lives, very peacefully, in a very dharmic manner, they conducted themselves, they ruled over their citizens, the citizens were also very happy to see their kings come back and like this they perfected their lives.
+
+---
+### devotion, humility
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=823
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Actually Yudhishthira Maharaj was not puffed up, he was very humble and modest but because he was a great devotee, he was thinking that he was very arrogant and puffed up."
+**Summary:** The speaker recounts Krishna, Bhimasena, and Arjuna's return to Indraprastha, where they inform Yudhishthira Maharaj of Jarasandha's defeat. Yudhishthira, filled with love for Krishna, expresses his gratitude and humility, despite his already humble nature.
+
+Now Krishna and Bhimasena and Arjuna went back to Indraprastha and they all met Yudhishthira Maharaj who was anxiously waiting for news of what had happened between Jarasandha and these three personalities who had gone to seek a duel with him. So Krishna explained to Yudhishthira Maharaj what all had happened and how Bhimasena had managed to overcome Jarasandha, Jarasandha was vanquished and when Yudhishthira Maharaj heard all these things, his eyes were filled with tears of love, thinking of how Krishna was constantly guiding them and protecting them. And so Yudhishthira Maharaj also started glorifying Lord Krishna and he said Krishna you are such a loving Supreme Lord, in fact we Pandavas, we are thinking that we are the kings and we are very puffed up with our strength and our opulence, in fact you should be punishing us for being so puffed up. But you are so kind, you are constantly thinking of how to protect us. Actually Yudhishthira Maharaj was not puffed up, he was very humble and modest but because he was a great devotee, he was thinking that he was very arrogant and puffed up. But in reality Yudhishthira Maharaj was known for his humility and modesty. That is why personalities like Vidura, Dronacharya, Bhishma, they were all so loving and caring towards the Pandavas, especially Yudhishthira Maharaj, because they knew how such a wonderful person he was. So, Yudhishthira Maharaj then organized the, went ahead with organizing the Rajasuya Yajna. He invited everybody, all the various kings, important kings, all the important Vaishyas, who were all the prominent rich businessmen of the time. He also called, he did not neglect anyone. He also called even the Shudras, who were very good at rendering service to other classes of people. He invited them also for the Rajasuya Yajna.
+
+---
+### inclusivity, divine presence
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=956
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So, in this Rajasuya Yajna, all these wonderful great personalities had come and they had gathered there."
+**Summary:** Yudhishthira Maharaj invites a diverse array of guests to the Rajasuya Yajna, including Brahmanas, Rishis, kings, Devatas, and even residents of lower planetary systems, highlighting the inclusiveness and grandeur of the event. Krishna humbly takes on the task of washing the feet of every guest.
+
+And of course, the great qualified Brahmanas, the Rishis, the Sages, those who were very well versed in the Vedas, he invited all of them also. And all the prominent kings, he invited them. He invited Duryodhana, he invited Bhishma Dev, Dronacharya, Vidura and all of Duryodhana's brothers, Karna. Like this, Yudhishthira Maharaj invited everyone. And all of them descended upon Indraprastha. And then, Yudhishthira Maharaj also invited all the Devatas. He invited the residents of the upper planetary systems, such as the Siddha Lokas, the Siddhas from the Siddha Lokas, the Gandharvas, the Devatas, he invited all of them. And also from the lower planetary systems, from the Naga Lokas, from the Rakshasa Lokas, from all of those planets also, whoever were the presiding people, whoever were the prominent people, he invited all of them. He included even Lord Brahma and Lord Shiva also in his invitations. And all of these personalities actually came to the Rajasuya Yajna. Actually, in today's world, we don't see any of the Devatas coming anywhere in this world today. Because nobody performs Yajnas properly, there is no proper respect given to them, so they also don't come. But in those times, because the kings were constantly engaged in performing Yajnas and satisfying the Devatas, and there were qualified Brahmanas who would perform the Yajnas also in a very suitable way, it was very common for the Devatas to come down to this earthly planet. Now, because Yudhishthira Maharaj was a great devotee of Lord Krishna, and he was conducting a Rajasuya Yajna in which Krishna himself was coming, so naturally everybody else came. So, in this Rajasuya Yajna, all these wonderful great personalities had come and they had gathered there. And Yudhishthira Maharaj also entrusted the different departments to different personalities. Because Karna was very famous for giving charity, Yudhishthira Maharaj entrusted the charity department with Karna to carry out, to give in charity very generously to all the people who were attending the Rajasuya Yajna. He gave Duryodhana also certain responsibilities, and the other brothers of Duryodhana were also interested with various different activities in respect to conducting the Rajasuya Yajna. Lord Krishna, astonishingly, he took upon himself personally the task of washing the feet of every guest who was coming into the assembly, the Supreme Personality of Godhead. So it shows, even though Krishna is the Supreme Personality of Godhead, he is, one of his wonderful characteristics is, he is a very humble person. So Krishna personally was washing the feet of every invitee who was coming to that Rajasuya Yajna.
+
+---
+### ritual, worship
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=1153
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Agra Puja, Agra means the first, so the first worship that has to be offered."
+**Summary:** The speaker describes the commencement of the Rajasuya Yajna, including the use of golden vessels and the ceremony of Agra Puja, where the most prominent personality is to be worshipped first.
+
+So now, all the people had assembled and the Rajasuya Yajna was commenced, and at the beginning of the Rajasuya Yajna, all the Brahmanas got together and they started the Yajna with a golden plough. That was the procedure for starting the Rajasuya Yajna, and all the vessels which were used for conducting the Rajasuya Yajna. Today, when we do any sort of Yajna, we will have stainless steel vessels, and so we will feel very proud, okay, very nicely we have made the arrangement. But in Yudhishthira Maharaj's Rajasuya Yajna, all the vessels were made of gold, pure gold. And in that golden vessel, all the ingredients were brought forward to the Rajasuya Yajna. And then, as part of the beginning of the Rajasuya Yajna, there was this ceremony known as Agra Puja. Agra Puja, Agra means the first, so the first worship that has to be offered. In that assembly, it was decided, all the assembly members had to decide, who was the greatest personality amongst them, and the, who was the person performing the Yajna, which was Yudhishthira Maharaj in this case, that person had to first worship this person, who was selected as the most prominent personality, and then the Rajasuya Yajna could start.
+
+---
+### Krishna supremacy, devotion
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=1237
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Similarly simply by serving Krishna everything everybody else becomes satisfied the entire universe becomes satisfied so therefore according to me Krishna is the only person who is suitable to receive this Agra pooja"
+**Summary:** The speaker describes the debate over who should receive the Agra Puja, with various names being suggested. Sahadeva then proposes Krishna, citing His supremacy in all aspects and explaining that worshipping Krishna satisfies everyone and everything.
+
+So, all the people were assembled, and Yudhishthira Maharaj asked all of them, who should be given, granted the privilege of receiving the Agra Puja. So, all the sages, all the rishis, they started giving their opinions. Somebody said Vyasadeva should be given the, this one, given the honour. Somebody else said Parashara Muni should be given that honour. Somebody said Narada Muni. Somebody said Lord Brahma. Somebody said Lord Shiva. Somebody said Indra. Like this, discussion was going on. And there was no conclusion. Now, who could be the right person, for receiving that Agra Puja? This was the question in the assembly. Now, Sahadeva, the Pandava, one of the Pandava brothers, he stood up and he started speaking. He said, I very well appreciate, that there are very great personalities in this assembly. Lord Shiva himself is present. Lord Brahma himself is there. All the Devatas are there. Not only that great rishis, like Vyasadeva, Asita, Devala, Narada Muni himself, Gautama Muni, Parashara Muni, Parashurama himself, all such personalities are present. But still, amongst all of them, nobody can equal or be superior to Krishna, in terms of time, space, riches, beauty, knowledge, fame, in every respect, Krishna exceeds everyone else. And not only that, in fact, the maintenance, the creation and the destruction of the Universe is carried out by Krishna and His energies. Krishna, we are practically, we are all amshas, we are all part and parcels of Krishna. Everything is Krishna's energy. Krishna has distributed His energies in the form of this Universe and the living entities that we see. And not only this, just like this body of ours, becomes active because of the soul which is there inside. If you remove the soul from the body, the body will be a dead body, it will no longer be active. Similarly, this entire Universe is active because of what? Because Krishna has entered into each and every Universe. So therefore, Krishna is the life of this Universe. And not only that, by worshipping Krishna, everybody else gets worshipped. Just like we pour water to the root of a tree, the entire tree gets nourished. We don't have to pour water to the twigs, to the fruits, to the flowers, to the leaves, branches, we don't have to pour water. Just pour water to the root of the tree, the entire tree gets nourished. You put food into the stomach, the entire body gets nourished. We don't have to provide food and nutrition separately to the hands, to the legs, to the eyes, to the ears, no need. Just put food to the stomach, entire body gets nourished similarly simply by serving Krishna everything everybody else becomes satisfied the entire universe becomes satisfied so therefore according to me Krishna is the only person who is suitable to receive this Agra pooja
+
+---
+### unanimity, devotion
+**Timestamp:** https://youtu.be/aMvbPvemel8?t=1441
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So Yudhishthira Maharaj with great love and affection, he brought forward the para-farnelaya for worshipping Krishna, he washed lotus feet of Krishna with sacred water and he sprinkled the water on his own head and he sprinkled it on everybody else who are present and everybody received it with great respect upon their heads."
+**Summary:** The speaker concludes the episode by describing the unanimous agreement to Sahadeva's proposal, Yudhishthira Maharaj's loving worship of Krishna, and the satisfaction of everyone present, except for one unnamed person, setting the stage for the next episode.
+
+this was the proposal put forward by Sahadeva. The moment Sahadeva heard this, all the sages, all the rishis and all the devatas, they all stood up and they said in eunuchism, yes, what you have said is absolutely right, we all agree with you, Krishna should be offered the Agra puja and everybody started congratulating Sahadeva for putting forth this wonderful proposal and when everybody was in unanimously agreeing to this proposal, Yudhistha Maharaj felt greatly satisfied because that was his goal in the assembly of all the rishis, sages, Kings, they were very satisfied with this proposal. Nithyananda also was very satisfied because that was his goal in the assembly of all the rishis and sages kings they Devatas, all the predominating deities of the different planets, Lord Brahma, Lord Shiva in front of all of them, they are electing Lord Krishna to be the supermost personality. So Yudhishthira Maharaj with great love and affection, he brought forward the para-farnelaya for worshipping Krishna, he washed lotus feet of Krishna with sacred water and he sprinkled the water on his own head and he sprinkled it on everybody else who are present and everybody received it with great respect upon their heads. And so like this, the worship of Krishna was conducted as part of the Rajeswajna and everybody was pleased, everybody was satisfied, except for one person. Who was this person who was not satisfied by the worship of Krishna and Krishna receiving the Agra Puja and why was he dissatisfied when all such great personalities who had assembled there, they had all accepted this, so why was, despite this, why was this person not satisfied? Please join us in our next episode to learn about this. Thank you for joining us today, Hare Krishna, Jagat Guru, Srila Prabhupada, Ki Jai, Netaikot, Premanande, Hari, Haribol.
+
+---
+
+## Mahabharata l Part 28 | King Yudhishthira performs Rajasuya Yajna
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### Introduction, Rajasuya Yajna, Responsibilities
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=0
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "In the last episode of the Mahabharata, we saw how Yudhishthira Maharaj organized the performance of the Rajasuya Yajna."
+**Summary:** The speaker summarizes the previous episode, highlighting the organization of the Rajasuya Yajna and the distribution of responsibilities among various individuals.
+
+Thank you for watching. Om Adhyanati Mirandasya Jnananjana Salakaya Taksurunmi Ritam Yena Tasmai Shri Gurave Namaha. Namavo Vishnupadaya Krishna Preshtaya Bhutare Shri Mate Bhaktivedanta Swamin Nithinamine. Namaste Saraswate Deve Gauravani Pracharine Nirvishesha Sunyavadi Pashatya Deshatarine. Jaya Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadadhara Shri Vasadi Gauravatta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare Mukam Karoti Vachalam Pangum Langhayate Girim Yath Krupatha Mahamande Shri Gurum Deena Taranam. Hare Krishna and welcome back to today's episode of the Mahabharata. In the last episode of the Mahabharata, we saw how Yudhishthira Maharaj organized the performance of the Rajasuya Yajna. Different departments, different areas of the event management were handed over. Duryodhana was interested with the treasury department, Karna was interested with the charity department, Arjuna was interested in taking care of the elderly people, like this and Bhima of course was interested with the kitchen for the cooking because he was an expert cook himself. Draupadi was in charge of distribution of the Prasadam to all the guests. Like this, everybody was given different responsibilities.
+
+---
+### Krishna, Agra Puja, Shishupala, Envy
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=146
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "And surprisingly, the Supreme Personality of Godhead, Krishna took upon himself the washing of the feet of every guest who was coming to the Rajasuya Yajna."
+**Summary:** Krishna humbly washes the feet of guests at the Yajna, and is selected to receive the Agra Puja, which pleases everyone except Shishupala, setting up the conflict for the episode.
+
+And surprisingly, the Supreme Personality of Godhead, Krishna took upon himself the washing of the feet of every guest who was coming to the Rajasuya Yajna. And once the Rajasuya Yajna started, we saw how everybody together upon the proposal by Sahadeva, everybody selected Lord Krishna to be the most eminent personality in that assembly of all Rishis, Sages, even Devatas, Demigods headed by Brahma and Shiva. In all their presence, Krishna was selected as the person to receive the Agra Puja, the first worship and it was accepted by everyone with great happiness and that is how the Agra Puja or the worship for Krishna was conducted. So everyone were very happy to see Lord Krishna receiving the Agra Puja because he is the Supreme Personality of Godhead except for one person. So we will see today who is that one person who was not in consonance with the decision by everyone else and what was the reason for his dissonance.
+
+---
+### Yadava Dynasty, Shishupala, Hatred, Rukmini
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=224
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "This Shishupala, when he was still learning to speak, he was not as an infant, when he was still learning to speak, from that stage itself, he expressed, he started expressing envy towards Krishna."
+**Summary:** The speaker provides a recap of the Yadava dynasty, focusing on Shishupala's lineage and his lifelong envy and hatred towards Krishna, stemming from Krishna taking Rukmini away before she could marry Shishupala.
+
+Today's episode we begin with a recap of the Yadava dynasty. If you all may recall, Suresh Sena had a great reputation. He had ten sons headed by Vasudeva and he had five daughters. The first daughter was Pritha or Kunti who was given to his cousin-brother for rearing. Apart from that, Suresh Sena had four other daughters. Shrutadeva was one daughter who married Vritha Sharma and her son was Dantavakra. One more daughter of Suresh Sena was Shrutakirti who married Drishtaketu and she had a daughter which meant she had five sons. Another daughter of Wisalanda, Rajadhevi, she married Jayasena and the last daughter, Shrutashtrava, married Dhamagosha, the king of the Chethi kingdom. And her eldest daughter, Shishupala, and her elder brother Radhika, repeated every twin sons, including guard mm Suresha, Satyaja, Raja and Raja. So these used to be the brothers. However, right from their amosa Edgar absorbed Gl regen the other sons. Even today, Banarkashwara curses them. This Shishupala, when he was still learning to speak, he was not as an infant, when he was still learning to speak, from that stage itself, he expressed, he started expressing envy towards Krishna and whenever he would get an opportunity, he would insult him, he would try to speak ill of Lord Krishna. So like this, when Shishupala grew up, as he grew up, his hatred, his envy towards Krishna only increased. And what happened was, when Rukmini was going to get married, originally Rukmini's brother Rukmi had fixed up her marriage with Shishupala and in the midst of the assembly of all the kings, including Shishupala, Krishna took away Rukmini because Rukmini had requested Krishna to take her away. She was not interested in marrying Shishupala. So Shishupala was thinking that Rukmini was rightfully mine. But Krishna took her away. So that act of Krishna further increased Shishupala's envy towards and his hatred towards Lord Krishna.
+
+---
+### Shishupala, Agra Puja, Blasphemy, Krishna's position
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=363
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "From this, I can very well understand how the influence of time has deluded all even such great personalities as this. And I can see how they are not able to see how Krishna is most unqualified for receiving the Agra Puja."
+**Summary:** Shishupala, present at the Rajasuya Yajna, becomes enraged when Krishna receives the Agra Puja. He publicly criticizes the assembly's decision, questioning Krishna's lineage, social standing, and adherence to religious principles, attempting to discredit Krishna's worthiness of the honor.
+
+Now in this Rajasoya Yajna, Shishupala was also present. And when he saw Krishna being offered the greatest worship in the presence of all such great personalities, his hatred overflowed. And so, when the Agra Puja was conducted for Lord Krishna, Shishupala got up and started speaking in that entire assembly. Shishupala started off by saying, Now I can understand how the influence of time is so powerful that nothing can stop it. We all see how when death comes knocking at our doors in the due course of time, nobody can stop it. Similarly, today, this assembly has so many exalted personalities. There are great liberated personalities who are beyond the influence of the three modes of material nature. There are many learned Brahmanas, many highly elevated sages who are capable of liberating others from the bondage of this cycle of birth and death in this material world. There are great Devatas like Lord Shiva and Lord Brahma, who are present here. There are other great spiritualists who are worshipped even by the Devatas. And there are so many prominent kings from all over the world present here. And despite the presence of such great personalities, everyone has got together and elected Krishna to receive the Agra Puja. From this, I can very well understand how the influence of time has deluded all even such great personalities as this. And I can see how they are not able to see how Krishna is most unqualified for receiving the Agra Puja. Who is this Krishna? He is not born in some great family. He has no good great lineage. He is a cowherd boy. And he was living in the midst of cowherd. Suddenly he came to Mathura and he has become a king now. So nobody knows, What Varna he belongs to? Is he a Kshatriya? Is he a Vaishya? Nobody seems to know. And not only that, this Krishna seems to, he always keeps, he keeps violating the religious principles. The principles of Dharma, he never bothers about them. So it appears as if he is always above the religious principles. And not only that, Mathura is a greatly revered place where all great spiritual personalities go and stay there. And look at Krishna, he left Mathura and ran away to Dwaraka. And he created a city for himself in the midst of the ocean. And he has created that city, inside that city, there is no discussion about the Vedas at all. What kind of city has he created? And so this personality, who is covered, who runs away from the battlefield, who does not follow any of the religious principles, how can we elect him as the person suitable to receive the agreement? He is the Agra Pooja. So like this, Shishupala wanted to demonstrate to the people there that Krishna was not suitable to receive the Agra Pooja.
+
+---
+### Dharma, Krishna, Shishupala, Hatred
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=562
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Whatever Krishna speaks becomes Dharma."
+**Summary:** The speaker explains that Krishna is the source of Dharma and the Vedas, and is therefore beyond religious principles. Shishupala's hatred prevents him from understanding this, leading him to further insult Krishna.
+
+Actually fact is that Dharma mtu sakshat bhagavat pranitam. Whatever Krishna speaks becomes Dharma. Dharma, all the Vedas are actually the etad nishpasitam mahatah. The breathing from Krishna's nostrils, or what constitute the Vedas. The Vedas are not written by some ordinary human beings. It is given by the Supreme Lord himself. So whatever the Lord performs, whatever acts he performs, whatever instructions he gives, that becomes Dharma. And not only that, Krishna is the Supreme Personality of Godhead. He is actually beyond the jurisdiction of all the principles of religion and the Vedas. So, in one sense what Shishupala said was right. That Krishna is actually beyond all religious principles. Just like, if there is a king, and the king is going on the road, and he has a cavalcade with him, he has a whole motorcade with him, going with him. Now he cannot say that, oh look at the king, he is crossing the red light, he is not following the traffic rules. He is the king, he is beyond the law of all the traffic laws. So, similarly, Krishna is the Supreme Personality of Godhead. He is the creator of all the Dharmic laws. The laws which are given in the Vedas. So, he is beyond all of them. But of course, Shishupala was unaware of that. Because of the hatred he had towards Krishna in his heart. Shishupala went to the extent of saying that, I consider Krishna no better than a crow. All such vile words he started abusing, and he started abusing Krishna like anything.
+
+---
+### Anger, Tolerance, Sudarshana Chakra, Punishment
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=674
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna did not bother about whatever Shishupala was saying because Krishna's character is, he is extremely tolerant and humble and he does not get disturbed by personal calumny."
+**Summary:** The assembly reacts with anger to Shishupala's blasphemy, but Krishna remains tolerant. To protect the peace and satisfy his devotees, Krishna uses the Sudarshana Chakra to kill Shishupala.
+
+When the people in the assembly came, many people could not tolerate what Shishupala was saying. Many of them, they closed their ears and said, we cannot hear all this blasphemy. And they left the assembly. What about the Pandavas? When Nakula heard this, he became extremely livid. And he said, Krishna is the Supreme Personality of Godhead, whose lotus toenails are glorified by the Vedas. If anybody blasphemes him, I will kick him with my foot. And I place my left foot on his head. So like this, Nakula became so angry. Sahadeva's whole body was trembling out of anger. And Bhimasena, of course, he also got extremely angry. And he stood up ready to kill Shishupala. But immediately Krishna restrained all of them and said, no, wait. Don't take any action. And when Bhimasena saw this, he became very morose. He said, my arms are like thunderbolts. But in my presence, this Shishupala is blaspheming Krishna and I am not able to do anything. I am being restrained. What use are my arms and my strength? Like this Bhima became morose. So like this, all the Pandavas, the Srinjas, the KKAs, all these kind of kings who were present, they all got extremely angry. And they withdrew their swords from their sheets and they were ready to fight with Shishupala to death. And this Shishupala, when he saw all these people assembling around him, the whole assembly becoming against him, he was so foolish, he was not in the least perturbed. He also drew his sword and stood ready to fight, as if he could defeat all of them in a battle. He had a great overestimation of himself. Now Krishna, when he saw that things were getting out of hand and the peace of the assembly was getting disturbed, so then finally Krishna was completely undisturbed. Krishna did not bother about whatever Shishupala was saying because Krishna's character is, he is extremely tolerant and humble and he does not get disturbed by personal calumny. If somebody casts some aspersions against him, Krishna does not get disturbed in the least. But to protect the peace of the assembly and to satisfy his devotees who were all very greatly agitated, Krishna invoked the Sudarshana Chakra and that Sudarshana Chakra came forth and it cut off the head of Shishupala. And so even though Shishupala was the maternal cousin of Krishna, still the kind of hatred that he had for Krishna was indescribable because of which ultimately he had to be punished by the Supreme Lord so that he could stop committing further offences against the Supreme Lord.
+
+---
+### Liberation, Mukti, Attachment, Krishna
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=848
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Many people, many people in the past, they have achieved liberation by becoming free from all their sinful reactions by approaching Krishna, by developing different kinds of feelings towards Krishna like karma, like lust, bhaiya, fear, dvesha, hatred and sneha, affection."
+**Summary:** The speaker describes how Shishupala's soul merged into Krishna's body after being killed, achieving Sayujya Mukti. Narada Muni explains to Yudhishthira Maharaj that people can attain liberation through various emotions directed towards Krishna, including lust, fear, hatred, and affection.
+
+Now, an interesting thing happened after Shishupala was killed by the Sudarshana Chakra. In front of all the assembly of the people who were present, they saw a spark coming out of Shishupala's body which was actually Shishupala, the Atma of Shishupala. So the soul of Shishupala came out of Shishupala's body like a spark and then it merged into the body of Krishna. This was very astonishing. So from this what we can understand is Shishupala, because he was killed by Krishna, the Supreme Personality of Godhead, he achieved Sayujya Mukti, the Mukti, the liberation of merging into the Brahman effulgence. So this is described by Narada Muni to Yudhishthira Maharaj later in another instance. When Narada Muni met Yudhishthira Maharaj, he was describing the great fortune of the Pandavas and Narada Muni told Yudhishthira Maharaj that Narada Muni informed Yudhishthira Maharaj, many people, many people in the past, they have achieved liberation by becoming free from all their sinful reactions. How? By approaching Krishna, by developing different kinds of feelings towards Krishna like karma, like lust, bhaiya, fear, dvesha, hatred and sneha, affection. By all these kinds of emotions becoming attached to Krishna in any which way, many people have become free from their sinful reactions and achieved liberation.
+
+---
+### Liberation, Bhakti, Love, Hatred, Krishna
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=964
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Somehow or the other, we must absorb our mind in Krishna."
+**Summary:** Narada Muni provides examples of individuals who attained liberation through different emotions directed at Krishna, such as the Gopis (lust), Kamsa (fear), and Shishupala (hatred). He emphasizes that while any form of attachment to Krishna can lead to liberation, attachment through love and devotion is superior.
+
+And then Narada Muni gave examples of these also. He said that He said the Gopis achieved liberation by developing lusty desires towards Krishna. Kamsa became liberated by fear, out of fear, becoming attached to Krishna out of fear. Because Kamsa was constantly thinking of Krishna while sleeping, talking, waking, walking, eating, in any aspect of life, his only thought running in the mind was, Krishna is going to kill me, Krishna is going to kill me. So, Kamsa was absorbed in Krishna out of fear. And Vesha, Chaidya the Yoganirpa, Chaidya, Nirpa, the king of Chaidya, which is Shishupala, out of hatred for Krishna, he could do nothing but think about Krishna. And so like this, all these personalities got attached to thinking constantly of Krishna, being absorbed in Krishna. And Narada Muni said further, out of familial relationship with Krishna, the Vrishnis, the Yadus also achieved liberation. The Yadavas also achieved liberation. And you Pandavas, out of affection for Krishna, again out of familial relationship, you are also liberated. And Narada Muni gave his personal example, that people like me, by rendering sadhana bhakti, devotional service to Krishna, we have also achieved liberation. Now, the whole point is, Narada Muni gives all these examples and he says, enaapi manaha krishnaya nivesayet. Somehow or the other, we must absorb our mind in Krishna. That was the point Narada Muni was making. Just like Shishupala, he absorbed his mind in Krishna because of hatred. But then, we have to understand, there is a difference between becoming attached to Krishna out of love and affection, out of bhakti. And there is a difference between getting attached to Krishna out of some negative emotion, like Kamsa and Shishupala. Kamsa, Shishupala, these people merged into the Brahman effulgence. They got Sayuja Mukti. Whereas, people like the Pandavas, the Yadavas, they all get elevated to the spiritual world to continue as individuals and reciprocating with Krishna and engaging in loving, blissful, deep, blissful dealings with Krishna. They do not lose their individuality. They get elevated to a much higher position than people who relate with Krishna with a negative emotion. Therefore, we as conditioned souls, we should try to develop a favorable relationship with Krishna by rendering devotional service to him. We should not follow, we should not imitate Kamsa and Shishupala. On the other hand, we should follow in the footsteps of Narada Muni, render devotional service to Krishna. And we can also get liberated from this cycle of birth and death simply by absorbing our mind in Krishna with love and affection. And Narada Muni gave his personal example that people like me, by rendering sadhana bhakti, devotional service to Krishna, we have also achieved liberation.
+
+---
+### Bhakti, Love, Krishna, Spiritual World, Material World
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=1179
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Somehow or the other, we must absorb our mind in Krishna."
+**Summary:** The speaker reiterates the importance of absorbing the mind in Krishna, emphasizing the superiority of attachment through love and devotion (bhakti) over negative emotions like hatred. He contrasts the liberation achieved by devotees like the Pandavas and Yadavas with that of Kamsa and Shishupala, highlighting the absence of lust in the spiritual world.
+
+Now, the whole point is, Narada Muni gives all these examples, and he says, enaapi manaha krishnaya nivesayet Somehow or the other, we must absorb our mind in Krishna. That was the point Narada Muni was making. Just like Shishupala, he absorbed his mind in Krishna because of hatred. But then, we have to understand, there is a difference between becoming attached to Krishna, becoming attached to Krishna out of love and affection, out of bhakti, and there is a difference between getting attached to Krishna out of some negative emotion like Kamsa and Shishupala. Kamsa, Shishupala, these people merged into the Brahman effulgence. They got Sayujya Mukti. Whereas, people like the Pandavas, the Yadavas, they all get elevated to the spiritual world to continue as individuals, and reciprocating with Krishna, and engaging in loving, blissful dealings with Krishna. They do not lose their individuality. They get elevated to a much higher position than people who relate with Krishna with a negative emotion. The rest of all the kings, and Krishna along with his queens, the other Pandavas, all of them went in this procession. And there was so much gaiety, so much festivity, all the men and women were throwing different kinds of colored liquids at each other, they were using syringes, and just like we play Holi, it was like that kind of festive atmosphere. And naturally, the bodies of everybody became wet, and especially the women folk, because Krishna's all 16,108 queens were also there, so their bodies all became wet, and some portions of their bodies became visible. Now, because of this, the people like the Pandavas, who were very pure in their heart, they had no, they did not take any of this in a different manner, they were completely devoid of any lusty feelings. But those who were impure in their hearts, like Duryodhana and others, when they saw this, immediately lusty desires awakened in their hearts. So from this we can see, that in the spiritual world, there are devotees, there are men and women devotees, and there are wonderful, wonderful relationship between them, loving relationships between them, but there is no question of lust, or lusty dealings between men and women in the spiritual world. That exists only in this material world.
+
+---
+### Rajasuya Yajna, Culmination, Satisfaction, Envy, Duryodhana
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=1347
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Everybody was glorifying Yudhishthir Maharaj, except for one person who was very, very out of great envy looking at the opulence of Yudhishthir Maharaj."
+**Summary:** The speaker describes the culmination of the Rajasuya Yajna, with Yudhishthira Maharaj satisfying all the participants. However, one person, consumed by envy at Yudhishthira's opulence, is deeply dissatisfied, setting the stage for the next episode and hinting at the cause of the Kurukshetra war.
+
+So like this, Yudhishthir Maharaj and Draupadi went to the Yamuna river, and they took bath there, and Draupadi had very beautiful hair, and that hair was very much respectfully treated, and her hair was also dried, and like this, and after that they were all well decorated with silk cloth, and ornaments, and all these kind of things, and there was so much pomp, and celebrity, and festivity going on. And like this, finally, the Rajasoya Yajna came to a culmination, and Yudhishthir Maharaj, satisfied each and every participant in that Rajasoya Yajna. All the Rishis, Sages, Devatas, everybody became very satisfied with the dealings of Yudhishthir Maharaj in the Rajasoya Yajna, and Yudhishthir Maharaj gave everybody wonderful gifts, and he sent them all off in a very nice way. And all the Sages, Rishis, the saintly people, the Brahmanas, the Vaishyas, the Shudras, whoever had come, and even the Devatas, when they were going back to their respective homes, they all could not stop themselves from again and again glorifying Yudhishthir Maharaj, and his opulence, and his way of dealing, wonderful, loving way of dealing with everyone. Everybody was glorifying Yudhishthir Maharaj, and Lord Krishna. And so like this, everybody returned to their respective homes, and Yudhishthir Maharaj restrained only a few of his inner circle of his family members, as well as Lord Krishna, and requested them to stay back for a few more days. And so Krishna sent back all the rest of the Yadava household who had come, like his sons, like Samba, and Pradyumna, and they all had accompanied him. Krishna sent them all back, and Krishna with his queens alone, remained back in Indraprastha to satisfy Yudhishthir Maharaj. After the culmination of the Rajasuya Yajna, everybody was satisfied, everybody was happy, everybody was glorifying Yudhishthir Maharaj, except for one person who was very, very out of great envy, looking at the opulence of Yudhishthir Maharaj, he could not, he felt great disappointment and frustration in his heart that he could not achieve similar amount of opulence and glorification. Who was that one person who was dissatisfied? And his dissatisfaction actually resulted in a turning point in the Rajasoya Yajna becoming a turning point, a tripping point, practically a trigger for the Kurukshetra war. So who was this person? And why was he disappointed? Why was this envy in his heart? We will learn about that in the next episode. Thank you for joining us today.
+
+---
+### Conclusion, Envy, Duryodhana, Kurukshetra War
+**Timestamp:** https://youtu.be/MI7obyqWihQ?t=1524
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "His dissatisfaction actually resulted in a turning point in the Rajasuhya Yajna becoming a turning point, a tripping point, practically a trigger for the Kurukshetra war."
+**Summary:** The speaker concludes the episode, teasing the identity of the envious person (Duryodhana) and foreshadowing how their dissatisfaction will trigger the Kurukshetra war.
+
+Thank you for joining us today. Hare Krishna! Jagat Guru Shri La Pravupada Ki Jai Netai Gor Premanande Hari Haribol And Krishna with his queens alone remained back in Indraprastha to satisfy Yudhishthira Maharaj. After the culmination of the Rajasuhya Yajna, everybody was satisfied. Everybody was happy. Everybody was glorifying Yudhishthira Maharaj. Except for one person who was very very out of great envy looking at the opulence of Yudhishthira Maharaj. He felt great disappointment and frustration in his heart that he could not achieve similar amount of opulence and glorification. Who was that one person who was dissatisfied? And his dissatisfaction actually resulted in a turning point in the Rajasuhya Yajna becoming a turning point, a tripping point, practically a trigger for the Kurukshetra war. So who was this person? And why was he disappointed? Why was this envy in his heart? We will learn about that in the next episode. Hare Krishna!
+
+---
+
+## Mahabharata l Part 29 | Why Duryodhana felt insulted at end of  Rajasuya Yajna
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### devotion, non-discrimination, spiritual vision
+**Timestamp:** https://youtu.be/KI8Qx6rHAxQ?t=510
+**Verse References:** SB 1.2.6
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "They only see everyone as a pure spirit soul, part and parcel of Krishna."
+**Summary:** The speaker describes the characteristics of a topmost devotee of Krishna, emphasizing their ability to see Krishna in all beings and their non-discriminatory nature, exemplified by Srila Prabhupada's global outreach.
+
+The nature of such great devotees of Krishna is, as it is described in the Srimad Bhagavatam, the Bhagavatottama, the topmost devotee of Krishna, is a person. The characteristic of such a topmost devotee of Krishna is such that that devotee, when he looks at any living entity, he sees Krishna, the Paramatma, being present in the heart of that living entity, and he sees every living entity as part and parcel, amsa of Krishna. And not only that, everywhere he turns, whatever he sees, he sees Krishna is the source of that object. So, he sees Krishna as the cause of all causes. Anything that he sees, he sees it as an energy of Krishna, as Krishna being the source of that object, and he sees every living entity as part and parcel of Krishna. And therefore, such a topmost devotee of Krishna never distinguishes, never discriminates between one person and another. He does not discriminate, this is my enemy, this is my friend and such things. So, Yudhishthira Maharaj was actually on that platform. If we look at Srila Prabhupada's life, Srila Prabhupada also demonstrated this kind of non-discrimination between various people.
+
+---
+### non-discrimination, envy, Mahabharata
+**Timestamp:** https://youtu.be/KI8Qx6rHAxQ?t=787
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And so Duryodhana always harbored that envy towards the Pandavas."
+**Summary:** The speaker contrasts Yudhishthira Maharaj's non-discriminatory nature with Duryodhana's envy towards the Pandavas, highlighting Yudhishthira's magnanimity in entrusting the treasury to Duryodhana during the Rajasuya Yajna.
+
+So, like Srila Prabhupada, Yudhishthira Maharaj was also on that platform and he also did not discriminate. That is why during the Rajasuya Yajna, even though Duryodhana had tried to murder the Pandavas by putting them into that house of shellac and setting it on fire, still Yudhishthira Maharaj handed over the entire treasury to Duryodhana to track, to keep account of all the expenses and income during the Rajasuya Yajna. We can see the magnanimity of Yudhishthira Maharaj. So, because of Yudhishthira Maharaj's lack of discrimination between who is friend, who is enemy and who I am superior, he is subordinate, Yudhishthira Maharaj had none of these considerations and so therefore he was called Ajatashatru. And therefore, when all the Devatas, Rishis, everybody came and attended the Rajasuya Yajna and they went back, they were all so happy, so blissful and they could not find any satiation in continuing to describe about the events which happened in the Rajasuya Yajna, except for, as we spoke about, one person who was Duryodhana. Why? Because Duryodhana from his, right from his youth, from his young childhood, he had been always harboring envy towards the Pandavas. He knew always the Pandavas were superior to him in all kinds of, in their qualities, in their abilities, in their skill, in their talent, in their popularity, in every manner the Pandavas exceeded the Duryodhana. And so Duryodhana always harbored that envy towards the Pandavas.
+
+---
+### envy, Mahabharata, illusion
+**Timestamp:** https://youtu.be/KI8Qx6rHAxQ?t=890
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now the Pandavas have been given an uninhabited place and they have been given a godforsaken place."
+**Summary:** The speaker explains how Duryodhana's envy stemmed from the Pandavas' rightful claim to the throne and was further fueled by their opulence in Indraprastha, culminating in his visit to their palace where he was tricked by visual illusions.
+
+Somehow when the Pandavas grew up, actually the Pandavas were supposed to sit on the throne of Hastinapura. And Duryodhana's greater, greatest envy was that, that Hastinapura would not legally be his, and Yudhishthira had the first claim of that throne. But somehow when the Pandavas grew up, Dhritarashtra by his duplicity, instead of giving, handing over the Hastinapura throne to the Pandavas, when the Pandavas had grown up and asked him for the kingdom, he gave them Indraprastha, which was actually just a barren piece of land. It was just some forest, this one, and some barren piece of land in between. And there was no habitation, there was no, practically no city, no kingdom, nothing. Pandavas were the only people in that place. So when the Pandavas were given Indraprastha, Duryodhana had felt very happy. Now the Pandavas have been given an uninhabited place and they have been given a godforsaken place. They have been sent away there. Now I can enjoy the opulence of Hastinapura. That was Duryodhana's thinking. But when Duryodhana came for the Rajasuya Yajna, the kind of opulence that he saw in the Rajasuya Yajna, great rishis, sages, all the kings from all over the world, even the biggest Vaishyas of that time. Not only that. Even Devatas like Brahma and Shiva personally came down and attended the Rajasuya Yajna. So the kind of opulence when Duryodhana saw, his envy again, it started burning forth. It again got sparked and again that fire of envy started burning in his heart. And when Duryodhana saw the Pandavas' palace which had been built by Mayadanama, his envy exploded forward. And then what happened was, one more thing that happened was, after the Rajasuya Yajna, Duryodhana with his brothers once came to the palace of the Pandavas. When he entered the palace, Duryodhana by his nature was a short tempered guy and he was used to being very nasty. When he entered the palace, the doorkeepers, some minor, some exchange happened. Immediately he started, snapped at them and started firing them, scolding them and all that. And in his usual nasty mood, he entered the palace. Now that palace that Mayadanama had constructed, he had designed it in such a way that it had many visual illusions incorporated into the architecture. Because of that, some places, where the marble and other things would be laid, they would be polished in such a way, that it would look like there is water there and it is reflecting the people's images, but actually there would be no water there. It would be just a plain surface.
+
+---
+### envy, lust, insult
+**Timestamp:** https://youtu.be/KI8Qx6rHAxQ?t=1071
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Duryodhana had got attracted to Draupadi and he had always nourished lusty desires towards her."
+**Summary:** The speaker continues the narrative, describing how Duryodhana, already envious, was further inflamed by the sight of Krishna's queens and Yudhishthira's opulence, as well as his lustful desires for Draupadi.
+
+And then at other places, he would build water bodies in such a way that you could not make out that there is water there, unless of course you are aware of the layout of the place. So Duryodhana very hot tempered. Immediately he entered this palace and started walking in. And when he came across a place where it looked like there was water, he was carefully avoiding it and trying to step across it. And when he kept his foot, he realized there is no water there. And then at another place when he came, now when he was going through this palace, what he also saw, that the palace was filled with all the queens of Krishna. Krishna had come with all the 16,108 queens, from Dwaraka to attend the Rajya Suvijanya. And upon Yudhishthira Maharaj's request, he was staying back with all of them in that palace, even after the Rajya Suvijanya ended. So he saw all these beautiful queens walking around, their laughing, their ankle belts tinkling, their, you know, the kind of jewellery they were wearing, the beautiful sarees, silk sarees that they were wearing, and their beautiful, their beauty, an indescribable beauty, which surpassed even that of the Apsaras in the heavenly kingdoms. When he saw that, Duryodhana's envy increased even more. The opulence of the Pandavas when he was seeing, witnessing this. And so like this he went further into the palace and he came to a place where he saw Yudhishthira Maharaj is seated on a golden throne. Imagine, a throne made of pure gold. That was the opulence of Yudhishthira Maharaj. When the Pandavas were sent away from Hastinapura to Indraprastha, they started with practically nothing. But in no time, they had built a kingdom of such opulence that Yudhishthira Maharaj was sitting on a throne made of pure gold. Next to him, Lord Krishna was seated and his other four brothers were also seated around him, and they were looking like great Devatas sitting there, brightly effulgent and beautiful. And Duryodhana also saw right there in that assembly was Draupadi along with many maid servants and looking very effulgent and beautiful and very peacefully serving her husbands, the Pancha Pandavas. And this image in front of him, what happened? It only served to further add fuel to the fire of envy burning in Duryodhana's heart. Because, right from the time of the Swayamvara of Draupadi, Duryodhana had got attracted to Draupadi and he had always nourished lusty desires towards her. He wanted to enjoy her illicitly.
+
+---
+### envy, insult, Mahabharata, Krishna's plan
+**Timestamp:** https://youtu.be/KI8Qx6rHAxQ?t=1230
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "The seeds of Kurukshetra war were sown in the Rajasuya Ejna followed by the incident at the palace of the Pandavas."
+**Summary:** The speaker narrates the pivotal incident where Duryodhana falls into a pool of water, is laughed at by the women, and feels deeply insulted, setting the stage for the Kurukshetra war, while Krishna remains silent, allowing events to unfold.
+
+So now, when he saw Draupadi so beautiful and serving so peacefully her husbands, his envy even more, it burnt forth with greater vigor. And so this Duryodhana, he stepped forward into that assembly where the Pandavas were happily sitting and discussing something with Krishna. And when he stepped into that assembly, he saw, he assumed that it was a nice, you know, marble place and he stepped into that place. Actually, that was a water body which had been created by Mayadanava and because of the optical illusion created by that, Duryodhana could not make out that it was a water body. Very confidently he kept his foot inside and fell into the water and he completely got drenched. And when he got, when he foolishly fell into the water and made a fool of himself like this, all the women folk who were there, Draupadi and all the other queens of Krishna and various maid servants, they all started laughing. And when they started laughing, Duryodhana saw this, he saw how, when Yudhishthira Maharaj saw this, when he saw how Duryodhana had fallen into the water and he was so embarrassed and all the women folk are laughing at him, Yudhishthira Maharaj tried to restrain them. He tried to stop them because he felt empathy towards Duryodhana. But Krishna was seated right there and Krishna indicated to Yudhishthira, no, let them, let them laugh, no problem. Don't restrain anyone. So being instructed by Krishna, Yudhishthira Maharaj kept quiet. Now Duryodhana got out of the water and he was seething with anger. But then he could not say anything because it was his own mistake. He had fallen into the water. So he did not say anything. He did not complain. He did not talk to anyone. He just bowed his head and walked out of the palace. So Yudhishthira Maharaj when he saw this, he understood, oh, now unnecessarily Duryodhana has become angry at us and we could have avoided it. After all, poor fellow, he did not realize it was water and fell into it. Why we should have laughed at it? Like that Yudhishthira Maharaj was thinking. But Krishna was silent. Krishna neither spoke in favor of Duryodhana nor against him. He just kept quiet, silent. And thus the dice was cast. The ball was set rolling for the Kurukshetra war. The seeds of Kurukshetra war were sown in the Rajasuya Yajna followed by the incident at the palace of the Pandavas. And in this manner, the Rajasuya Yajna became the tipping point, became the turning point in that history of Mahabharata where it became evident that Duryodhana is going to harbor great enmity towards the Pandavas.
+
+---
+### devotion, Krishna's leela, gratitude
+**Timestamp:** https://youtu.be/KI8Qx6rHAxQ?t=1426
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "I will remember this."
+**Summary:** The speaker transitions to another story, describing how Krishna, through his Yogamaya power, creates a situation where Draupadi's selfless act of bandaging his finger with a piece of her sari earns his eternal gratitude, setting up the next part of the lecture.
+
+Now after this incident, once Lord Krishna was sitting in the palace along with the Pandavas and he was paring some fruits, he was cutting some fruits with a small knife. And it so happened while Krishna was cutting the fruit, the knife nicked Krishna's finger. And then suddenly blood started coming. Actually, Krishna's body is completely transcendental. No material object can touch Krishna. And Krishna's body is completely Sache Dananda. It is completely full. It is made up of the substance of bliss, eternity and knowledge. So Krishna's body is not like our body which is made up of skin, flesh, blood, bone and all these kind of things. So how did blood come out of Krishna's finger? It is not possible. But sometimes Krishna exhibits such symptoms of blood coming out of his body in order to execute some Leela of his, some pastime of his, in order to create a situation where his devotees' devotion for him increases. And this we will see even later during the time when the Kurukshetra war was going on also. Of course, we will speak about it at that time. So in this instance, Krishna exhibited his Yogamaya power, his spiritual potency, by his spiritual potency exhibited as if blood was started coming out of his finger just to see the reaction of his devotees. Draupadi happened to be standing right there. And the moment she saw Krishna's finger has been cut and blood has started coming out, she said, Krishna's finger is bleeding. Now what to do? She was looking around how to bandage Krishna's finger. She didn't get anything. She immediately took her sari. She tore a portion of her sari and then tied it around Krishna's finger very carefully out of great concern, out of great anxiety. Krishna saw this. And he looked at Draupadi and he said, My dear lady, you have given me a piece of your sari and you have tied my finger. I will remember this. I will remember this. Those were the words of Krishna. So now, how did Krishna repay the debt to Draupadi? And what happened to the great envy and anger which was seeding with Duryodhana which definitely was not going to be contained. It had to come out in some way or the other. Please join us in our upcoming sessions of the Mahabharata to know about this. Thank you for joining us today. Hare Krishna.
+
+---
+
+## Mahabharata l Part 30 | Sinister plan of Duryodhana and Shakuni
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### introduction, prayer
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Welcome to today's episode of the Mahabharata."
+**Summary:** The speaker begins with prayers and welcomes the audience to the Mahabharata episode.
+
+Thank you for watching. Om Adhyana Timuram Darsya, Jnanam Jyamachalakaya, Chakshuram Meelitam Yena, Tasmai Shri Gurave Namaha, Namah Om Vishnupadaya, Krishna Preshtaya Bhutale, Shri Mate Bhakti Vedanta, Swamin Nithinamine, Namaste Saraswate Deve, Gauravani Pracharine, Nirvisesha Sunyavadi, Pashatya Desatahine, Dayasri Krishna Chaitanya, Prabhu Nithyananda, Shri Advaita Gadadhara, Shri Vasati Gauravakta Vrinda, Hare Krishna Hare Krishna, Krishna Krishna Hare Hare, Hare Rama Hare Rama, Rama Rama Hare Hare. Om Karoti Vachalam, Pangum Langa Yate Girim, Yad Kripata Mahamba,
+
+---
+### envy, opulence, insult
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=88
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "So when he saw that the opulence of Indraprastha had exceeded that of Hastinapura, his envy only got fanned."
+**Summary:** The speaker recaps the previous episode, focusing on Duryodhana's envy and insult after witnessing the opulence of Indraprastha.
+
+Welcome to today's episode of the Mahabharata. A quick recap of what happened in the last episode: the Rajasuya Yajna was conducted with all pomp and gaiety, and at the culmination of the Rajasuya Yajna, everyone was satisfied except for Duryodhana, because by nature Duryodhana was a very envious person and he always coveted others' wealth. So when he saw that the opulence of Indraprastha had exceeded that of Hastinapura, his envy only got fanned. Further, when he went into the palace built by Maya for the Pandavas, he happened to fall into a pool of water, mistaking it for normal flooring, and because of that he felt insulted, and that fed his anger and envy towards the Pandavas.
+
+---
+### envy, power, unlawful usurpation
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=157
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Shakuni made various schemes, he was the brain behind all the machinations of Duryodhana, to take over all workers."
+**Summary:** The speaker introduces Shakuni's character and his unhappiness with Dhritarashtra not ascending the throne, and his desire for Duryodhana to usurp the throne.
+
+Now what did he do after that? That's what we will look at today. To begin today's episode, we will look at one of the characters, one of the main characters of the Mahabharata, Gandhari's brother Shakuni. When Gandhari married Dhritarashtra, Shakuni was unhappy that Dhritarashtra could not occupy the throne. As you may recall, Dhritarashtra, because of his blindness, because of that physical disability, he became disqualified to head the kingdom, and so his younger brother, he got the opportunity to become the king. Now this was something which Shakuni was very unhappy about. And somehow, Pandu died at a very young age and Dhritarashtra became the caretaker king. Now after Dhritarashtra's time, by the loss of Dharma, Yudhishthira Maharaj was supposed to ascend to the throne. Now this was something which again riled Shakuni. Shakuni, as Duryodhana's character, he also wanted unlawfully to usurp the throne of Hastinapura.
+
+---
+### dharma, kingdom, leadership
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=242
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "So any king who would be dharmic he would be satisfied with whatever kingdom he had got by the providence by the arrangement of providence by the arrangement of destiny and he would try to rule over his kingdom peacefully and with according to the laws of dharma"
+**Summary:** The speaker describes the political landscape of the time, emphasizing the importance of dharma and peaceful rule.
+
+And he wanted to seat Duryodhana on that throne, because Duryodhana happened to be his nephew. And Shakuni made various schemes, he was the brain behind all the machinations of Duryodhana, to take over the kingdom of Hastinapura from the Pandavas. Hastinapura was a seat where the emperors of the whole world would sit. Five thousand years ago, the political landscape was completely different. In those days, as per the general principles of Dharma, there would be many, many small kingdoms. Each kingdom would have a king administering the activities of that particular place. Now, for everyone, the common laws, the common codes of conduct would come from the Vedas, and all the kings had to conduct the affairs according to the rules of the Vedas. So the laws were common, the principles of Vedas had to be administered, had to be implemented everywhere. Now, for all the kings, there would be one emperor. All the kings would have to submit their taxes to that emperor, and that emperor would sit in Hastinapura. This was the system. And according to the laws of Dharma, although there were so many kings, there were multiple small kingdoms, still the kings would not fight amongst themselves unnecessarily. The concept of attacking another kingdom to either loot them or to annex it and make a bigger kingdom was never part of the scheme of things those days. So any king who would be dharmic, he would be satisfied with whatever kingdom he had got by the providence, by the arrangement of providence, by the arrangement of destiny, and he would try to rule over his kingdom peacefully and according to the laws of Dharma.
+
+---
+### adharma, peace, Krishna's advent
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=374
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Adharma prevails that's when countries start attacking each other they start building it their army they want to monopolize they want to dominate over other nations they want to encroach upon the other country's lands all these things happen when the ruler becomes adharmic when he is not ruling as per the laws of dharma and so it was krishna's reason for advent"
+**Summary:** The speaker explains how adharma leads to conflict and highlights Lord Krishna's advent to establish dharma and peace.
+
+The only time when a clash would happen between two kings would be when one of the kings would transgress the principles of Dharma. Then another king could challenge him, like we have seen how Jarasandha, he was an adharmic king, he would not follow the principles of Dharma, and so therefore he attacked surrounding kingdoms and he imprisoned the 20,000 kings. Dharmic people, like the Pandavas for instance, they would never do this. This is exemplified again in the case of Jarasandha. When Jarasandha was killed, the Pandavas did not take over the throne of Bihar, of Magadha, nor did Lord Krishna, the Yadavas, take over the Magadha kingdom. On the other hand, after Jarasandha was vanquished, the Pandavas and Lord Krishna, they called Jarasandha's son onto the throne and they went back to their kingdoms. So five thousand years ago, in fact, there were many adharmic kings who had sprouted, like Jarasandha, Kamsa, and such other people. And in fact, the whole reason for Lord Krishna's advent was because many kings like this had become adharmic, and therefore, to maintain peace within the whole world, it was necessary for the Lord to advent. When adharma prevails, that's when countries start attacking each other, they start building their army, they want to monopolize, they want to dominate over other nations, they want to encroach upon the other country's lands. All these things happen when the ruler becomes adharmic, when he is not ruling as per the laws of Dharma. And so it was Krishna's reason for advent to uproot all those adharmic kings and establish dharmic kings, to uproot adharmic people like Duryodhana, Jarasandha, and Kamsa and all these people, and in their place have dharmic people like the Pandavas, Ugrasena, and others to rule over. Then only proper peace could be maintained in the whole world and the citizens would also be encouraged and motivated to practice spiritual life and liberate themselves. So this was the whole scenario, and there in the midst and during this time when Lord Krishna advented, there were many people like Duryodhana, Shakuni, Jarasandha who had all become adharmic, and that's that's
+
+---
+### sacrifice, devotion, opulence
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=577
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "The Pandavas were so gracious. They gave up the Hastinapura throne over which they had actual rights."
+**Summary:** The speaker describes how the Pandavas graciously gave up the throne and created their own kingdom, which became more opulent due to their devotion to Krishna.
+
+When they became adults and when they became mature enough to rule the kingdom, when they asked him that they were now adults and they needed a kingdom to rule over, they did not overtly ask for the throne of Hastinapura. They did not ask Dhritarashtra to abdicate the throne, which actually it was their right. They could have asked for it. But then Yudhishthira was a very cultured person. So, in an indirect way, he went and approached Dhritarashtra. Dhritarashtra, taking advantage of Yudhishthira's nicety, he told him, okay, you want a kingdom, no? You take Indraprastha, which was a godforsaken place. There was practically no kingdom there and the Pandavas had to start from scratch. So, Duryodhana, by hook or crook, he got the throne. He should have been satisfied with that. But then when he saw that Indraprastha had excelled Hastinapura in opulence, he became envious and he started thinking, I want Indraprastha also. You see how unjust it was on Duryodhana's part. The Pandavas were so gracious. They gave up the Hastinapura throne over which they had actual rights. They handed it over to Dhritarashtra and Duryodhana and they went and they created their own thing. And now this Duryodhana is unhappy that they have become more opulent, because the Pandavas were great devotees of Lord Krishna, the opulence of Indraprastha exceeded that of Hastinapura.
+
+---
+### envy, deceit, Shakuni's plan
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=666
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Now, Shakuni was a very cunning guy. He advised Duryodhana, my dear nephew, you see, the Pandavas are very, very powerful."
+**Summary:** The speaker explains Duryodhana's envy and how Shakuni devised a plan to defeat the Pandavas through a game of dice.
+
+Duryodhana was not a devotee of Krishna and so he could not tolerate this. He could not digest this. So, when Duryodhana went back after the Rajasuya Yajna to Hastinapura, he was very morose. And he started discussing with Shakuni and with Dhritarashtra, with Karna, all his brothers, especially Dushyasa. Duryodhana and all these people, somehow we have to get Indraprastha in our hand. Now, Shakuni was a very cunning guy. He advised Duryodhana, my dear nephew, you see, the Pandavas are very, very powerful. Just now they have concluded the Rajasuya Yajna in a very wonderful way by which they have won over all the kings of the earth. Now, if you try to attack them or wage war on them, most of the kings, they will join the Pandavas. Maybe a few people like Dantavakra and few other people, they may join us, but that would not amount to much. Majority of the people have tilted towards Yudhishthira. So, direct confrontation is not the best thing to do right now. So, Shakuni advised Duryodhana that let us adopt another technique of defeating the Pandavas. What is that? Shakuni was an expert in dice, in playing dice. He, therefore, told Duryodhana, let us invite the Pandavas for a game of dice and if they come for the game of dice, they cannot win against me. I can defeat them. Now, Dhritarashtra also bought into the plan and he sent an invitation to the Pandavas to come and join the game of dice.
+
+---
+### dharma, obedience, Dhritarashtra's influence
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=777
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "And Dhritarashtra, because he was the senior, he was like a father figure for the Pandavas, Yudhishthira Maharaj could not refuse."
+**Summary:** The speaker describes Yudhishthira's reluctance but eventual acceptance of the invitation due to Dhritarashtra's position and influence.
+
+Now, when the invitation came, Dhritarashtra said, let us play a game of dice. Now, when the invitation came to Yudhishthira, Yudhishthira Maharaj was not keen and he smelt a rat because he understood. Normally, game of dice or chess and all these kind of things, Kshatriyas would play. That would be more in a, you know, some leisurely get-together was there, lot of kings were there. And so, just like that, they wanted to pass time and they started playing. It would be like that. To get an invitation like this from the emperor to come and play a game of dice was a little out of the way. And so, Yudhishthira Maharaj understood, something is amiss. But then, Dhritarashtra is calling. And Dhritarashtra, because he was the senior, he was like a father figure for the Pandavas, Yudhishthira Maharaj could not refuse. Actually, we have to understand, Dhritarashtra, he was very loving towards Pandu. But then, when Pandu ascended to the throne, Dhritarashtra became unhappy. And when Dhritarashtra, by chance, got the throne, he again became happy. Okay, somehow or the other, I got the throne. But when the... And he, because he loved Pandu, he took care of Pandu's children, the Pandavas, very nicely when they were very young. He ensured that they got the best education under Dronacharya. All their needs were taken care of. Everything, Dhritarashtra actually took good care of them in their childhood. But when they grew up and the time came for them to take over the throne, Dhritarashtra again started feeling resentment in his heart. And so, we can see this dual character in Dhritarashtra.
+
+---
+### desire, affection, duty
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=877
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "But then, Dhritarashtra, although he loved the Pandavas, his desire to occupy the throne, his desire for power, his desire for position, these things overpowered his love for the Pandavas."
+**Summary:** The speaker elaborates on Dhritarashtra's dual nature and how his desire for power overshadowed his affection for the Pandavas, leading to their arrival in Hastinapura.
+
+Dhritarashtra actually loved the Pandavas, whereas Duryodhana was totally full of hatred for the Pandavas. But then, Dhritarashtra, although he loved the Pandavas, his desire to occupy the throne, his desire for power, his desire for position, these things overpowered his love for the Pandavas. Now, the Pandavas, because they had been reared by Dhritarashtra, they had taken good care of them in their childhood, the Pandavas felt obliged to Dhritarashtra, and they looked upon him with lot of respect and affection. When Dhritarashtra sent a message like this, the Pandavas who considered Dhritarashtra as good as their father, they could not refuse. And so, they came to Hastinapura. And when they came to Hastinapura, they were well received, proper arrangements were made for their hospitality, for their accommodation, food, all those kind of things. And at the appointed time, the Pandavas came to the assembly of the Kauravas, and all the people, all the prominent people of Hastinapura were assembled there. Dhritarashtra, of course, was there. Bhishma was there, Drona was there, Vidura was there, Kripacharya was there, and various other personalities, plus Duryodhana and all his hundred brothers. When the Pandavas came to the assembly, then Dhritarashtra invited Yudhishthira Maharaj to come and take the center stage and participate in the game of dice.
+
+---
+### dharma, Kshatriya, challenge
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=972
+**Verse References:** BG 2.31
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "This is the nature of Kshatriyas. Even in the face of the danger of losing their life, the Kshatriyas will not turn back."
+**Summary:** The speaker raises questions about Yudhishthira's participation in the game of dice and explains the psychology of Kshatriyas, emphasizing their courage and willingness to face challenges.
+
+Now, this participation of Yudhishthira Maharaj in the game of dice raises several questions. The first question is that Yudhishthira Maharaj is known as Dharma Raja, as a very righteous king, who never deviated from the path of Dharma. So, how did he engage in a game of dice, which is actually gambling, and gambling is considered one of the pillars of adharma? So, to understand why Yudhishthira Maharaj engaged in the game of dice, we have to understand first of all, the psychology of Kshatriyas. Lord Krishna in the Bhagavad Gita elaborates the psyche of a Kshatriya. Lord Krishna says in the Bhagavad Gita, heroism, power, determination, resourcefulness, courage in battle, generosity and leadership, are the qualities of work for the Kshatriyas. Now, in this, one of the characteristics which is given is Yudhechapi Apalayanam. Actually, in Sanskrit, Palayana means to run away, to flee. Yudhechapi Apalayanam. Apalayanam means not to flee from battle. Yudha, from a war, from a battle, from the battlefield, never to flee, never to turn one's back upon a battle. This is the nature of Kshatriyas. Even in the face of the danger of losing their life, the Kshatriyas will not turn back. This is the nature of Kshatriyas. Actually, we can see that even today. People who went to the battlefield and they did not even bother about their life in fighting against the enemy soldiers. They gave up their lives simply to protect the country. So that is the nature of Kshatriyas. And a Kshatriya will never turn back from a challenge. He revels in facing challenges, in taking challenges head on.
+
+---
+### dharma, peace, Kshatriya nature
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=1118
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So in peace time, according to the codes of Dharma, Kshatriyas were allowed to play some games."
+**Summary:** The speaker explains how games like dice and chess were allowed for Kshatriyas during peacetime to satisfy their need for challenges in a lawful manner.
+
+That's the nature of a Kshatriya. Now like we discussed, kings who are Kshatriyas in those times, in the Dharmic times, they would not engage in battle unnecessarily. So more or less there will be, the whole world would be peaceful. Once in a blue moon, somewhere here and there, some battle would happen. But otherwise, by and large, the Kshatriyas would ensure that there would be peace all over the world. Now for a Kshatriya, his innate nature is that he wants to face some challenge or the other every other time. Now during peace time, what happens to this nature of a Kshatriya? He cannot help himself. If that desire, if that nature, if that inclination to face challenges is not satisfied, what will happen? The kings will start, their minds will start going helter-skelter. They will simply unnecessarily go and start attacking other kings. So there had to be some outlet for these Kshatriyas to be able to vent out their propensity to face challenges. So in peace time, according to the codes of Dharma, Kshatriyas were allowed to play some games, like for instance, chess, or the game of dice, or wrestling, wherein they would have to face an adversary and they would have to keep something on stake, because when a Kshatriya goes onto the battlefield, he is keeping both his life and his kingdom at stake. That is the meaning of going to battle. So games like this, where they could stake some jewelry, some wealth, and they would play these kinds of games. That was allowed so that it becomes a lawful outlet for satisfying their propensity. It is not that all forms of gambling were allowed for Kshatriyas. Game of dice was allowed, chess was allowed, few things like this were allowed. So unrestricted engagement in gambling was never authorized for the Kshatriyas. So therefore, because it was allowed according to the laws of Dharma,
+
+---
+### dharma, obedience, superior's order
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=1260
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And according to the laws of Dharma, a subordinate person, especially a son, cannot reject, he cannot avoid following the instructions of his father or his superior, whoever is in the position of his father."
+**Summary:** The speaker explains why Yudhishthira accepted the invitation despite suspecting a sinister plan, emphasizing the importance of obedience to superiors according to dharma, using the example of Lord Ramachandra.
+
+Yudhishthira Maharaj accepted the challenge to play the game of dice. Now the second question that comes is, even though it may be allowed, when Yudhishthira Maharaj knew that something was amiss, and there seemed to be a sinister plan behind this whole game of dice, what did he accept? He could have straight away rejected it. The reason why Yudhishthira Maharaj did not reject it, but he accepted was, because it was an order from Dhritarashtra, who was as good as his father. And according to the laws of Dharma, a subordinate person, especially a son, cannot reject, he cannot avoid following the instructions of his father or his superior, whoever is in the position of his father. We can see this even in the case of Lord Ramachandra. When Dasharatha Maharaj told Ramachandra that you have to go to the forest, Lord Ramachandra did not object. He did not say, Father, what are you saying? Tomorrow is my coronation and you are telling me I have to go to the forest in exile. All the citizens want me to become the king. All the arrangements have been made, announcements have been made, people have been invited, everything is done. How can we cancel the whole program at this moment? Just because you gave some word to your wife, who is my stepmother, why should I give up the throne? Ramachandra did not ask any such questions. The moment Dasharatha Maharaj called the Lord Ramachandra and told him, you have to go to the forest in exile, he folded his hands, bowed his head and said, O my father, your wish is my command. We can see that this is the law of Dharma that when a superior gives an instruction to a subordinate, then the subordinate has to accept it without any complaint, without any argument, even though it may appear to be unjust.
+
+---
+### duty, outcome, dharma
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=1392
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Yudhishthira Maharaj, what he did was, he saw what is my duty. My duty is to follow the instructions of my superior."
+**Summary:** The speaker contrasts the ancient culture of prioritizing duty over outcome with the modern culture of prioritizing outcome over duty, explaining Yudhishthira's actions in the context of dharma.
+
+This is the course of Dharma. Today's world, everything is totally opposite. Today, the parents, if they don't listen to the children, children will question, how can you not listen to what I am saying? How can you stop me from doing this? In the olden times, it was reverse. So the culture has completely changed. Today, parents have to listen to the children. Those days, children used to listen to the parents. So anyway, Yudhishthir Maharaj, because it was an order from Dhritarashtra, he could not refuse. Now, another question comes up that, okay, we can understand that one has to be obedient to the parents. It's a good thing to be obedient to the parents. But when Dhritarashtra is having sinister plans to bring harm to the Pandavas, why did Yudhishthira have to listen to him? He could have very well said, say that I want to protect my kingdom and myself. I will not follow your instruction. What is wrong in that? The point is, why this act of Yudhishthira Maharaj to refuse to disobey Dhritarashtra's order stems from our current culture. We are looking at the happenings of the Mahabharata from the perspective of our current upbringing and our current culture. So the culture of those days was completely different. Because the culture of those days was what? The culture of those days was one has to decide upon one's actions, what one has to do and what one has not to do based on what is supposed to be one's duty. The result or the outcome of those actions was never considered in carrying out one's duty. On the other hand, if you look at our current culture, what is our current culture? Current culture is that we first look at the outcome. What is going to be the outcome? If the outcome is favorable, it is going to give me some profit, then I will engage in the activity. If the outcome is negative, I will not do that activity. So duty is out of the window. We don't think about duty at all. Yudhishthira Maharaj, what he did was, he saw what is my duty. My duty is to follow the instructions of my superior. If he gives me wrong instructions, he will get the sinful reaction for that. I will not get the sinful reaction for that. On the other hand, if I disobey him, then I will get the sinful reaction for disobeying my superior. Same way Lord Ramachandra also, if he had looked at the outcome, the outcome was what? He would have to go to the forest, he would have to lose the kingdom. So if he had gone, if he had judged what he should do or what he should not do by looking at the outcome, Lord would never have gone to the forest in exile. But Lord Ramachandra saw, what is my duty, outcome is immaterial. So he decided to do what, according to the Dharma Shastras, what was his duty. His duty was to follow the instructions of his father without any argument and he did exactly that. The result was, he had to go to the forest in exile. But the result was secondary to him.
+
+---
+### dharma, principles, professional gambler
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=1588
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And so therefore, Yudhishthira Maharaj could deny playing with Shakuni."
+**Summary:** The speaker highlights that Yudhishthira Maharaj followed the principles of Dharma and refused to play with Shakuni because he was a professional gambler.
+
+So this was the culture. And there were some people who would not follow that culture. People like Ravana, people like Kamsa, people like Jarasandha, people like Duryodhana, they would not follow that particular principle. But people like Yudhishthira Maharaj, they couldn't even dream of deviating from those principles of Dharma. And so therefore, Yudhishthira Maharaj, although he knew the outcome was not going to be good for them, could not prevent himself from following the duty, what the laws of Dharma asked of him at that point of time. And so therefore, Yudhishthira Maharaj came and sat in the assembly. And then Shakuni also came and sat against him and said, we will start playing. So Yudhishthira Maharaj was taken aback. He said, I came here upon the invitation of Dhritarashtra and why are you coming and sitting here? Who are you to come and sit and play with me? Not only that, Shakuni, you are a professional gambler. You have made dice playing your profession. I cannot play with professional people. I am not a professional gambler. I am coming here playing for leisure. So therefore, I cannot play with you. It is not appropriate that I play with you, because according to the principles of Dharma, a Kshatriya can play with another Kshatriya for leisure only, not with a professional gambler like that. And so therefore, Yudhishthira Maharaj could deny playing with Shakuni.
+
+---
+### deceit, unfair practice, Dhritarashtra's silence
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=1687
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "He said, Shakuni will cast the dice on my behalf."
+**Summary:** The speaker describes Duryodhana's surprise announcement that Shakuni would cast the dice on his behalf, and Yudhishthira's shock and Dhritarashtra's silence.
+
+So now Shakuni had been set aside by Yudhishthira Maharaj. So Duryodhana said, okay, I will play with you. And Yudhishthira Maharaj said, okay, if you are playing, I have no issue because you are not a professional player. So we are more or less equal, because you are not a professional player, you will not cheat me and so we can sit and play. And so Duryodhana came down to the board of the game of dice. And then when the game was about to start, Duryodhana sprang a surprise. What was the surprise that Duryodhana sprang? He said, Shakuni will cast the dice on my behalf. Now Yudhishthira Maharaj was shocked. He said, what is this new thing you are saying? If you are playing, you should cast the dice. Why are you telling Shakuni to cast the dice? He said, no, no, I want to play like this. Yudhishthira Maharaj looked at Dhritarashtra because Dhritarashtra was the emperor. He was the person who had invited them, and he was the elder person in that assembly, and he was supposed to act like a referee. If there was some unfair practice, he is supposed to step in and ensure that things happen justly, just like even in today's games, we have a referee or we have an umpire to give the right decisions. So Yudhishthira Maharaj expected that Dhritarashtra would step in. But Dhritarashtra was silent. So now Yudhishthira Maharaj had no other choice. And so then, Yudhishthira Maharaj said, okay, I cannot help it, now what can I do? And so then, now the dice was rolled. And when the dice was rolled now, what happened? Please join us in our next episode of the Mahabharata to know about this.
+
+---
+### deceit, unfair practice, Dhritarashtra's silence
+**Timestamp:** https://youtu.be/Sfl2seXVcLQ?t=1795
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "He said, Shakuni will cast the dice on my behalf."
+**Summary:** The speaker describes Duryodhana's surprise announcement that Shakuni would cast the dice on his behalf, and Yudhishthira's shock and Dhritarashtra's silence.
+
+Thank you. Hare Krishna. Duryodhana sprang a surprise. What was the surprise that Duryodhana sprang? He said, Shakuni will cast the dice on my behalf. Now Yudhishthira Maharaj was shocked. He said, what is this new thing you are saying? If you are playing, you should cast the dice. Why are you telling Shakuni to cast the dice? He said, no, no, I want to play like this. Yudhishthira Maharaj looked at Dhritarashtra because Dhritarashtra was the emperor. He was the person who had invited them, and he was the eldest person. He was the elder person in that assembly. And he was supposed to act like a referee. If there was some unfair practice, he is supposed to step in and ensure that things happen justly, just like even in today's games, we have a referee or we have an umpire to give the right decisions. So Yudhishthira Maharaj expected that Dhritarashtra would step in. But Dhritarashtra was silent. So now Yudhishthira Maharaj had no other choice. And so then Yudhishthira Maharaj said, okay, I cannot help it. Now what can I do? And so then, now the dice was rolled. And when the dice was rolled now, what happened? Please join us in our next episode of the Mahabharata to know about this. Thank you.
+
+---
+
+## Mahabharata | Part 10 | Marriage of Dhritarashtra and Pandu
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### Invocation, Mahabharata Introduction
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Hare Krishna and welcome back to today's episode of the Mahabharata."
+**Summary:** The speaker begins with prayers and welcomes the audience to another episode of the Mahabharata.
+
+Thank you for watching. Om Adhyana Timiranthasya Dhyanaanjana Salakaya Chakshurunmi Ritam Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswate Deve Gauravani Pracharine. Nirvisesha Sunyavadi Pashatya Deshatarine. Jaya Sri Krishna Chaitanya Prabhu Nithyananda Sri Advaita Gadadhara Sri Vasadi Gauravakta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pangum Langhayate Girim Yath Krupatha Mahamande Sri Guram Deena Taranam. Hare Krishna and welcome back to today's episode of the Mahabharata.
+
+---
+### Yadava Dynasty, King Subala, Subalini
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=96
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Today we will learn about who that daughter is and what was the role that she played in the Mahabharata."
+**Summary:** The speaker reviews the previous episode and introduces the story of King Subala of Afghanistan and his daughter Subalini.
+
+In the last episode, we have seen the Yadava dynasty up to Vasudeva and Devaki and Kamsa. And we also saw how the Supreme Lord Himself advented and accepted Vasudeva and Devaki as his parents. The daughter of Suresena, who played an important role in the Mahabharata. Today we will learn about who that daughter is and what was the role that she played in the Mahabharata. We begin today's episode by taking you to Afghanistan. Don't worry. We are not going to take you there today because it's quite a striped-toned country. We are going to take you there about 3,500 years ago. At that time, Afghanistan was being ruled over by a king by name Subala. And this king Subala had a son and a daughter. The son was Saubala and the daughter was Subalini.
+
+---
+### Subalini, Lord Shiva, Blessing
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=171
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Lord Shiva blessed her that after she would get married, she would have 100 sons."
+**Summary:** The speaker describes Subalini's beauty, intelligence, and devotion to Lord Shiva, who blessed her with 100 sons after marriage.
+
+This daughter, Subalini, was young and she had reached the marriageable age. She was very beautiful. In fact, of that time, she was one of the most beautiful girls on the planet. And she was not only beautiful, she was very intelligent. And she was adorned with many good qualities, which endeared her to all the people. Since she had grown up, King Subala was looking for an alliance for her. And this Subalini was a great devotee of Lord Shiva. She undertook many austerities and worshipped Lord Shiva and pleased him. And Lord Shiva blessed her that after she would get married, she would have 100 sons. This was the boon given by Lord Shiva to Subalini.
+
+---
+### Subalini, Vyasadeva, Shurasena, Nanda Maharaj
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=234
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Subalini also happened to be a great devotee of Vyasadeva."
+**Summary:** The speaker continues describing Subalini's virtues and then transitions to the story of Shurasena, his sons including Vasudeva, and Nanda Maharaj.
+
+Subalini also happened to be a great devotee of Vyasadeva. She was endowed with good qualities, like she was very obedient to her parents, to the elders. She was very virtuous. And she was very modest, despite the fact that she was a very good person. And she was very decent. Despite possessing such good qualities, Subala, King Subala being a very affectionate father, was searching for a suitable prince who could marry Subalini. At the same time, in Uttar Pradesh, which is in current day India, in the place known as Mathura, the daughter of Subalini came out to her. She asked Subalini to marry her. Subalini came out to her. daughter of Shurasena who had been given to his cousin brother she had also grown up now this Shurasena we have seen one of the sons his eldest son was Vasudeva and he had many other sons and daughters also and this Shurasena also happened to have one more Vaisya wife a woman from the mercantile class and he had a son in her whose name was Nanda Maharaj and this Nanda Maharaj was at that time he was staying in Gokula which is a little about 20-30 kilometers from Mathura this Nanda Maharaj was a step brother of Vasudeva but they were step brothers, and they were quite good friends also.
+
+---
+### Vasudeva, Nanda Maharaj, Sister of Vasudeva
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=349
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Now, the Vasudeva's sister whom Suresena had handed over to his cousin brother she was well taken care of."
+**Summary:** The speaker elaborates on the friendship between Vasudeva and Nanda Maharaj, and then focuses on Vasudeva's sister who was raised by Suresena's cousin.
+
+We can see this from the fact that when after the advent of Krishna Nanda Maharaj when he went to pay his taxes to Kamsa in Mathura he went and met Vasudeva also and at that time Vasudeva warned him please go back to your home quickly because there could be some disturbances in your home why did Vasudeva say this because he had come to hear that Kamsa had hatched a plan to kill Vasudeva. So, Vasudeva sent various Asuras, Rakshasas to different parts of Mathura to kill all the newborn babies and we also see how when Krishna appeared as the son of Vasudeva and Devaki Vasudeva chose to take Krishna and keep him in Nanda Maharaj's home and also Vasudeva's another wife Rohini. She was also interested in the safe custody of Vasudeva. So, Vasudeva took Krishna and kept him in Nanda Maharaj's home and also Vasudeva's another wife Rohini. So, all this shows that Nanda Maharaj and Vasudeva being step brothers were also quite good friends. Now, the Vasudeva's sister whom Suresena had handed over to his cousin brother she was well taken care of by his cousin brother and very frequently to their palace many rishis and devatas used to visit and this daughter this girl of daughter of surasena she was interested with the hospitality of all these imminent personalities who would visit the palace she was very good at taking care of them because she was very humble despite being the daughter of a king she was quite humble and she would take very good care of the guests.
+
+---
+### Durvasa Muni, Benediction, Mantra
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=473
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "So I want to give you as a gift one mantra if you chant this mantra and remember any devata the devata will appear before you and bless you with a child."
+**Summary:** The speaker narrates how Durvasa Muni visited the palace and, pleased with the girl's hospitality, gave her a mantra to invoke any deity for a child.
+
+It once so happened that durvasamuni came to the palace and this girl as usual she was taking care of his hospitality cooking nice prasadam for him according to his diet making the arrangements for his comfortable stay and simple things like that but she took good care of him and as we all know durvasamuni he is a partial incarnation of lord shiva it is very easy to please him and get a good benediction from him it is also very easy to displease him and get a curse also this girl because she was experienced in the hospitality of all these eminent rishis and sages she could take good care of durvasamuni and durvasamuni was very gladdened by her service and he wanted to give her some boon and because he was a rishi he was a great yogi he could foresee that in the future after this girl gets married she will have difficulty in having children therefore he thought let me give her some benediction by which her problems can be solved at the same time he did not want to tell her that in the future when you get married you will have difficulty having the children and all these kind of things she may get worried why tell her all that he just told her i will give you one more boon i will give you one more boon i will give you one more boon and mantra i am very glad with the service that you have rendered me so i want to give you as a gift one mantra if you chant this mantra and remember any devata the devata will appear before you and bless you with a child and this girl she was a young adolescent may be a teenager and she got very excited oh i am going to get a mantra and i can call any devata i want and she very happily learned the mantra from durvasamuni and then durvasamuni went his way.
+
+---
+### Kunti, Suryadeva, Mantra, Virginity
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=587
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Therefore, Suryadeva told this girl, don't worry. As per the rules of the mantra, I have to bless you with a child. I cannot go against it. But even though the child is born of you, you will still remain a virgin."
+**Summary:** The speaker describes how the girl, out of curiosity, playfully chanted the mantra and invoked Suryadeva, who then blessed her with a child while ensuring she remained a virgin.
+
+This girl, you know how normally teenagers are, children or they're very curious, they're very playful and one day this girl was sitting and she was thinking oh i've got this mantra whether will it really work if i use this mantra will any devata really come or not let me try so playfully she chanted the mantra and whom to think of she remembered Suryadeva and suddenly before her the effulgent Suryadeva came to her how had she been known to all her friends and friends like why have you been known to them all and how many divas had been known to you and how many people would know to you this girl you know how normally teenagers present Surya appeared before her in person and she was taken aback. She had not expected this and suddenly she realized the seriousness, the gravity of what she had done. Normally children playfully do so many things. They don't think about the repercussions or what consequences it is going to bring about in the future. They are generally very playful. So in that mood she had chanted. But suddenly she saw in reality Suryadeva himself is standing in front of her. She immediately became very afraid, folded her hands, bowed down before him and then prayed to him that thank you very much oh Suryadeva you have appeared before me. I am very happy that you have come. So thank you very much. So you can now go back. Now Suryadeva said, how can I go back? You have chanted this mantra. Now I have to fulfill this mantra. So I have to bless you with a child. So I am going to bless you with a child. So I am going to bless you with a child. So I am going to bless you with a child. So I am going to bless you. Please have a child. And this girl she got very afraid. She said, child I am not even married. I am an unmarried girl. I am a simple girl. How can I have a child now? I am not even married. And what will people think of me if I have a child in this unmarried state? And she supplicated to Suryadeva and she prayed to him and Suryadeva also saw her fearful condition. He could realize that as a child playfully she had done the right thing. She had done something without understanding consequences. And Suryadeva also did not want to trouble her. But at the same time, the mantra will has to act. It has to reach its conclusion. He cannot break that rule. Therefore, Suryadeva told this girl, don't worry. As per the rules of the mantra, I have to bless you with a child. I cannot go against it. But even though the child is born of you, you will still remain a virgin.
+
+---
+### Kunti, Karna, Abandonment, Honor
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=725
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Because she was a virgin. That girl was from a very honorable family. And for her, honor meant a great deal."
+**Summary:** The speaker continues the story, explaining how the girl gave birth to a child (Karna) through her ear and, fearing social repercussions, abandoned him in a river.
+
+And this girl gave birth to a child, but the child came out of her ear, and thus she remained a virgin. And now this young girl, unmarried teenager and adolescent, she straddled with this small infant baby, and she does not know what to do with him. And she was thinking what to do. Now she did not have the courage to go and tell her father what had happened. She thought, I go and tell my father, finished. He will hang me. And this message goes out. This news goes out. It reaches anybody's ears. That's all. My future is over. What will people think of me? How many people will believe that actually Suryadeva came and it was this mantra that worked? People will talk all sorts of things. People will criticize that I had illicit relationship with some man and so many things. People will cook up all kinds of stories. So what will happen to me? Because she was a virgin. That girl was from a very honorable family, and for her, honor meant a great deal. And so thinking, she thought, anyway, this information, this whatever incident has happened is known only to me and to Suryadeva. Nobody else is present here. Nobody is aware what has happened. So let me take this child and not keep him here. If I keep him here, he will die. He will die. He will die. He will die. If I keep him here, people will come to know. So let me send him off somewhere so that nobody comes to know about this. Now what to do? So she took the baby, newborn baby, put him into a basket and there was a river close by. She went and floated the basket in the river, and she quietly went back and she did not tell anyone what had happened.
+
+---
+### Dhritarashtra, Pandu, Marriage Proposals, Gandhari
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=840
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "And both these proposals were accepted and these two girls, one was Subalini and the other was the daughter of Suresena, they were married into the Kaurava household."
+**Summary:** The speaker shifts the focus to Hastinapura, where Dhritarashtra and Pandu reached marriageable age, and marriage proposals were sent to Afghanistan and Mathura.
+
+Now in the meantime, in Hastinapura, which is about 140, 200 kilometers from Mathura, Dhritarashtra and Pandu had grown up and they had also reached marriageable age. Therefore, from the Kaurava family, a proposal was sent for marrying these two princes. One proposal was sent to Afghanistan, to King Subala. Another was sent to this brother of Suresena in Mathura, to the Yadava kingdom. And both these proposals were accepted and these two girls, one was Subalini and the other was the daughter of Suresena, they were married into the Kaurava household. This girl from Afghanistan, Subalini, at that time Afghanistan was not known as Afghanistan. Afghanistan is a recent name. That is why she was called Gandhar. That time, that country which is today known as Afghanistan was called Gandhar. You will know that even today, Kabul is the capital of Afghanistan. But then Kandahar is also a prominent city in Afghanistan. At that time, Kandahar used to be called Gandhar, and the entire country was known as Gandhar. And so this Subalini had another name Gandhari.
+
+---
+### Gandhari, Dhritarashtra, Chastity, Power
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=938
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Gandhari when she heard that she is going to get married to Dhritarashtra who is born blind she decided that if my husband is blind then I should not appear superior to him in any manner he should not feel that he is inferior to me and so she took several layers of silk cloth and bound it around her eye and for the rest of her life she remained like this"
+**Summary:** The speaker explains how Subalini, also known as Gandhari, married Dhritarashtra and blindfolded herself to share his experience of blindness, becoming a chaste and powerful woman.
+
+And she was married to Dhritarashtra, and because Subalini or Gandhari when she heard that she is going to get married to Dhritarashtra who is born blind she decided that if my husband is blind then I should not appear superior to him in any manner he should not feel that he is inferior to me and so she took several layers of silk cloth and bound it around her eye and for the rest of her life she remained like this she was a very chaste lady in the Vedic times it is said that if a woman is very chaste she is very faithful to her husband then she will become very powerful she will get many siddhis many powers she will get she will become spiritually very powerful she will get many siddhis many powers she will get she will become spiritually very powerful similarly if a man maintains brahmacharya then he will also become very powerful of course in in the Vedic tradition if a man who is married who has become a grihasta but he follows the principle of garbhadana samskara and he does not have intercourse with his wife for any purpose other than begetting children that also only once in a month and if he follows this principle he is also considered as good as a brahmachari if a man maintains brahmacharya then he will also become very powerful if a man follows the process of brahmacharya then he will become he will also become powerful and if a woman is very chaste she will become powerful this Gandhari because of her chastity she also became very powerful spiritually and she also got certain powers.
+
+---
+### Kunti, Pandu, Incarnation of Siddhi, Devotee of Krishna
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=1036
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Kunti became the wife of Pandu and this Kunti was also not an ordinary person she was an incarnation of the success potency of the Supreme Lord she was an incarnation of Siddhi and so she was also very highly qualified she was very intelligent"
+**Summary:** The speaker introduces Pritha, also known as Kunti, who married Pandu and was an incarnation of Siddhi, highlighting her intelligence and devotion to Krishna.
+
+Now the other the girl who was the daughter of sure Sena her name was Pritha and the cousin brother of sure Sena who took care of her who became her foster father his name was Kuntibhoja and because she grew up as the daughter of Kuntibhoja she was also known as Kunti and this Kunti became the wife of Pandu and this Kunti was also not an ordinary person she was an incarnation of the success potency of the Supreme Lord she was an incarnation of Siddhi and so she was also very highly qualified she was very intelligent and although she was the aunt of Lord Krishna who appeared as the son of her brother Vasudeva despite that despite she was in a superior position to Lord Krishna she very well knew that Krishna is the Supreme Personality of Godhead and she always remained a great advanced devotee of Lord Krishna.
+
+---
+### Kunti, Gandhari, Kaurava Household, Pandu, Dhritarashtra
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=1111
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "And when they both married and came into the Kaurava household both of them because of their good behavior and good character and all good qualities such as modesty intelligence and their loving attitude towards everyone they endeared themselves to everybody in the Kaurava household"
+**Summary:** The speaker describes how Kunti and Gandhari were well-received in the Kaurava household and became good friends. Then the speaker mentions Pandu's other wife and Dhritarashtra's Vaishya wife.
+
+And so this Kunti became the wife of Pandu and Gandhari became the wife of Dhritarashtra and when they both married and came into the Kaurava household both of them because of their good behavior and good character and all good qualities such as modesty intelligence and their loving attitude towards everyone they endeared themselves to everybody in the Kaurava household and Kunti and Gandhari got along pretty well they went on very well and they they were quite good friends also later on Pandu also married another princess from Madhra Desha that Madhra Desha later on today it is known as Tamil Nadu and that is how the city of what is known as today Chennai got the name Madras because in those times it used to be known as Madhra Desha which later became Madras and now it has become Chennai and Dhritarashtra also married another Vaishya woman and from her he begot a son named Yuyutsu by the rule of primordianity Dhritarashtra had to become the Emperor because he was the elder brother but then a King in those days had to play an executive function not only as far as the ham cruise of the kingdom was concerned But he also had to head the law enforcement as well as the defense forces. As far as the law enforcement forces agencies were concerned, they had to maintain the law and order within the country and ensure that no anti-social elements become strong. All the criminals had to be put behind bars. And when it comes to defense of the country, any opposing forces or any inimical army should be kept at bay. And the king had to personally be on the field to head these two agencies.
+
+---
+### Dhritarashtra, Pandu, Kingship, Dissatisfaction
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=1233
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Unlike today, today the head of the country, although the president may be the head of the armed forces, still when there is a war and the battle is going on in the battlefield, it is in the hands of the king."
+**Summary:** The speaker explains why Dhritarashtra was disqualified from being king due to his blindness and how Pandu became the emperor, despite Dhritarashtra's inner dissatisfaction.
+
+The king himself had to be very well versed in the art of warfare to be able to lead the defense forces from the front. Unlike today, today the head of the country, although the president may be the head of the armed forces, still when there is a war and the battle is going on in the battlefield, it is in the hands of the king. It is the army chief who heads the battle. In those days the king personally would come on to the battlefield. Now with a disability such as blindness, Dhritarashtra would not be able to fulfill those responsibilities and therefore he became disqualified to occupy the position of emperor. And so naturally Pandu became the emperor and Pandu was ruling the kingdom and both Pandu and Dhritarashtra were quite loving. And even though Pandu became the Emperor, Dhritarashtra, he maintained good relations with Dhritarashtra. However Dhritarashtra in his heart always had that a pinch of dissatisfaction. I'm the elder brother. I should have become the king but what to do Pandu has become the king.
+
+---
+### Summary, Preview, Conclusion
+**Timestamp:** https://youtu.be/6BL25dZi1WY?t=1314
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Please join us without fail in our next episode to learn about all these things."
+**Summary:** The speaker summarizes the episode, previews the next one, and concludes with devotional chants.
+
+And this was the situation in Hastinapura. This was the situation in Hastinapura. And this is how the Yadava and the country were destroyed. Pandu became the king. power of our dynasty had finally come together. Now did, how did Lord Shiva's benediction to Gandhari that she would have a hundred sons pan out and how was the dynasty of the Kurus forwarded from the Pandu side and what happened to the baby whom Kunti Devi had put into a basket and floated in the river. All these things we will discuss about in our next episode. Please join us without fail in our next episode to learn about all these things. Thank you very much for joining us today. Hare Krishna Jagat Guru Shri Ela Prabhupada ki Jai Netai Gor Premanande Hari Hari Bol Satsang with Mooji
+
+---
+
+## Mahabharata | Part 11 | Childhood of Pandavas and Kauravas
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### Invocation, Guru Parampara
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Om Adhyana Timiranthasya Dhyanaanjana Salakaya Chakshurunmi Ritam Yena Tasmai Shri Gurave Namaha"
+**Summary:** The lecture begins with traditional Vaishnava prayers, invoking the blessings of the spiritual master and the disciplic succession.
+
+Thank you for watching. Om Adhyana Timiranthasya Dhyanaanjana Salakaya Chakshurunmi Ritam Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswate Deve Gauravani Pracharine Nirvishesha Sunyavadi Pashatya Deshatarine. Jaya Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadadhara Shri Vasari Gauravatta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pangum Langhayate Girim Yad Krupata Mahamande Shri Guram Deenata Haranam.
+
+---
+### Lineage, Divine Arrangement
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=89
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "And this son was none other than Kunti's son Karna."
+**Summary:** The lecture transitions to the story of Karna's birth and how he was found by Adhiratha and raised as a charioteer's son, connecting it to the lineage of Pururava and the descendants of Dhritarashtra and Pandu.
+
+Hare Krishna and welcome back to today's episode of the Mahabharata. Today we will be learning about what happened to that son of Kunti who was set afloat on the in the river in a basket. We also will look at who were the descendants of Dhritarashtra and Pandu. We had shared with you about the descent of the Yadava dynasty from Pururava. If you might recollect, Pururava's son was Ayu, Ayu's son was Nahusha, Nahusha's son was Yayati, and from there on Yayati's son Yadu gave rise to the Yadava dynasty. Now Pururava's son Ayu had one more son by the name Kshatravaridha. He too was being formulated as a charioteer. About 10 minutes later, a few generations, about 20th generations after Kshatravaridha, came a person called Adirath and Rahatha, and indeed these two became descendants of Adirath, had six sons, all being the sons of Kshatravaridha. This Adirath married a woman called Radha. So after several years, this Adhiratha and Radha did not have any children, and they always used to feel a little sad that they did not have any offspring. This Adhiratha had gone to the river for bathing, and while he was bathing in the river, suddenly he saw in the river a small basket came floating, and he looked into the basket, and he found a beautiful young baby, a male baby inside the basket adorned with golden earrings and bracelets and a golden armor, and this child was looking really very effulgent. Adhiratha looked around, and he could not see anybody else in the river. Now he understood that somebody has forsaken the baby, and he took the baby home, and he gave it to his wife Radha saying that see, we did not have children, now by the will of providence we have got a son, let us raise him nicely. And this son was none other than Kunti's son Karna. And this is how Karna grew up as the son of Adhiratha, as a son of a charioteer.
+
+---
+### Divine Intervention, Lineage, Blessings
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=235
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Yamaraj blessed Kunti Devi with a son who would be very virtuous and righteous and that was Yudhishthira."
+**Summary:** The narrative shifts to Pandu's inability to have children due to a curse, Kunti receiving a mantra from Durvasa, and the subsequent births of Yudhishthira, Bhima, and Arjuna through the invocation of different demigods.
+
+Now Pandu, he had married Kunti and Madhuri, but on account of a curse he incurred, he could not have intercourse with his wives and he could not beget children. Being disappointed with this, Pandu went away to the Himalayas and he was residing there. Pandu made his residence in a place called Pandukeshwar, which is in the district of Chamoli in Uttarakhand and about 20-25 kilometers in that range from Badrinath. He built a temple for Lord Vishnu also there, and even today it is said that during the winter season, the Utsavamurthis of Badri Narayan, they go to Pandukeshwar and they receive worship there, and once the winter is over they go back to the Badrinath temple. This is the system even today. Pandu along with Kunti and Madhuri was staying in a small hermitage kind of place in a very simple accommodation in Pandukeshwar. In due course of time, Pandu came to know about the mantra that Kunti had received from Durvasa. Durvasa, as we might recollect, had foreseen that Kunti would have trouble in having children in her marriage. And that was the specific reason why he had given her this mantra. Now, Pandu requested Kunti that since he could not beget children in her, he requested her to use the mantra and invoke some devatas to beget some children so that the dynasty could go forward and there could be qualified people to rule the kingdom. Kunti Devi used this mantra and first she called for Yamaraj and Yamaraj appeared before her. Yamaraj had already taken birth as Vidura. When this mantra was invoked, how did Yamaraj appear here? We have to understand that the devatas or the demigods have the power to incarnate. They might be present in their personal form, at the same time they can incarnate as some other person. Just like we see how Durvasamuni is an incarnation of Lord Shiva. Lord Shiva is personally present in the Kaidasa, Durvasamuni is also present at the same time. These kind of the capability of the devatas to incarnate themselves is not uncommon. Although Yamaraj had given up his abode during his incarnation as Vidura, nevertheless, when the mantra was invoked and Yamaraj was called for he appeared in his original form as Yamaraj in front of Kunti Devi while Vidura also appeared as Vidura. While Vidura was still in Hastinapura, Vidura continued to remain in Hastinapura. At the same time, Yamaraja in his original form appeared before Kunti Devi and he blessed her with a son and this son was Yudhishthira. After Yudhishthira was born, Kunti Devi again upon the request of Pandu used the mantra again and she remembered Vayudev, the god of the wind. And Vayudev appeared and blessed her with a son who would be very powerful and he came out to be Bhima. Yamaraj blessed Kunti Devi with a son who would be very virtuous and righteous and that was Yudhishthira. Third time upon Pandu's request, Kunti Devi remembered Indra and Indra blessed Kunti Devi with a son who was an unrivaled warrior.
+
+---
+### Family Dynamics, Envy, Divine Intervention
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=463
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "By his blessings, that lump of flesh turned into 100 sons headed by Duryodhana."
+**Summary:** The story continues with the birth of Nakula and Sahadeva to Madri, Gandhari's frustration and the birth of her 100 sons through the blessings of Vyasadeva, highlighting themes of envy and divine intervention.
+
+Next, now that Kunti Devi had given birth to three sons, Pandu wanted that Madri also should not be neglected. So Kunti Devi shared the mantra with Madri and Madri remembered the Ashwini Kumaras, the twin Devatas and they came and blessed Madri with twin sons who were Nakula and Sahadeva. And in this way, these five sons were born to Kunti Devi. Now in the meantime, the news reached Hastinapura as soon as Yudhishthira was born to Kunti. When Gandhari heard this, she was also pregnant. But when she heard that Kunti Devi has given birth to a son before she could give birth to a son, she got very disappointed. Because now that Yudhishthira is born and he is the elder son, he will get the throne. Naturally Gandhari, even though of course she was a good friend of Kunti Devi, still some this kind of feeling of competition was there between her and Kunti Devi and so she felt upset that she could not give birth to her child before Kunti Devi gave birth. And so naturally what happened, she felt very upset. And out of frustration, she struck her abdomen. And the force with which she struck her abdomen, immediately the embryo came out of her womb. And unfortunately that womb was not fully developed, it came out as a lump of flesh. Now Gandhari got was even more distraught. She was feeling sorry that she had not given birth to a child before Yudhishthira was born. Now that she had given birth, she gave birth to just a lump of flesh. Now Gandhari was feeling very upset. Now at this moment of distress, she remembered Vyasadeva because she was a devotee of Vyasadeva. She remembered him and Vyasadeva appeared on the spot upon her remembrance and taking compassion upon her. By his blessings, that lump of flesh turned into 100 sons headed by Duryodhana. And like this, the 100 sons were born to Duryodhana.
+
+---
+### Family, Death, Sati
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=615
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "It was only to be followed by every woman whose husband died."
+**Summary:** The lecture details the births of Yuyutsu and Dushala, followed by Pandu's death and the discussion between Kunti and Madri regarding Sati, clarifying that Sati was not a forced practice.
+
+Gandhari and Dhritarashtra while the 5 sons of Yudhishthira, Bhima, Arjuna, Nakula and Sahadeva were born to Kunti and Madri. Apart from this, Dhritarashtra also married a Vaishya woman. And from her, he had a son whose name was Yuyutsu. And he grew up as one of the brothers of the 100 Kaurava brothers. Gandhari also gave birth to one daughter Dushala and she was the younger sister of the Kaurava brothers. In due course of time, in Pandukeshwar, Pandu and Kuntidevi and Madhuri, they were all living together with their children and unfortunately one day it so happened that Pandu died. When he died, the two wives Kunti and Madhuri were so much afflicted by the pain of separation from their great husband that both of them wanted to commit sati when the Antya Kriya, the cremation of Pandu was going to be performed. But now the question was there were five young boys, children who needed to be taken care of. There was some amount of discussion between Kunti and Madhuri. Kunti told Madhuri that you take care of the children, I will commit sati. But Madhuri said no, you please take care of the children, I will commit sati. And so like this both of them were discussing with each other. We can understand from this that the system of sati that was prevalent in the Vedic times was not actually a forced evil which was compulsorily to be followed. It was only to be followed by every woman whose husband died. If we look at even the history of the Mahabharata, even after Shantanu died, Satyavati did not commit sati. Similarly, when Vichitravirya died, both Ambika and Ambalika also did not commit sati.
+
+---
+### Love, Separation, Sati
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=753
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Because for them to live in separation is a greater pain than to die."
+**Summary:** The speaker explains the reason behind the practice of Sati, comparing it to modern-day instances of couples committing suicide due to the pain of separation, emphasizing the deep love and connection between husband and wife in Vedic times.
+
+So it was not a forced thing. But then what was the reason behind this practice of sati? Even today, we can see in some instances, a boy and a girl fall in love with each other. And then what happens is the parents don't agree, there is some opposition from the society towards their marriage, unable to bear the separation, unable to live in separation of each other, the boy and girl go and commit suicide. Why? Because for them to live in separation is a greater pain than to die. In a similar case. Similar. In a similar manner, during the Vedic times, the husband and the wife, the relationship between them used to be so strong that if the husband were to die, the wife would not be able to bear the separation. She would so much be loving towards her husband that she would feel it is better to die than to bear the pain of living in separation from my husband. And wherever a woman will feel so much pain. The society gave an option that if she could not bear the pain of separation, she could commit voluntarily sati along with the husband. This was the system.
+
+---
+### Sacrifice, Family, Duty, Leadership
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=831
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Madhuri decided to commit sati and Kunti Devi agreed despite the pain of separation to stay behind and take care of the children."
+**Summary:** The lecture describes the resolution of the dilemma between Kunti and Madri, with Madri choosing to commit Sati and Kunti staying behind to care for the children, followed by Kunti's decision to return to Hastinapura and Dhritarashtra becoming the interim emperor.
+
+Now when Pandu died, both of the wives, Kunti and Madhuri were very very affectionate towards, very very loving towards Pandu. And both of them could not bear the separation. But at the same time, they could not neglect their children also. So therefore, they were discussing with each other. That you take care of yourself. I will commit sati. And both of them were not agreeing to this. Now because the Pandu was living in Pandukeshwar which was like a hermitage and it was surrounded by many many sages. Many sages came to the spot and they all saw how Kunti and Madhuri are not able to resolve the fact that one of them had to commit sati and one of them had to remain with the children. So finally. The sages mediated between the two of them. And they brought about a compromise wherein Madhuri, Madhuri decided to, Madhuri would commit sati and Kunti Devi agreed despite the pain of separation to stay behind and take care of the children. And in this manner, when Pandu's cremation was done, Madhuri committed suicide by doing sati. And... Kunti Devi stayed behind the children. And... behind to take care of the children. Now with the with her husband Pandu having is being no more and Madhuri also no more on this on this earth. Kunti Devi found it difficult to stay in the forest and take care of her children. Therefore she decided to come back to Hastinapura because that is the place where the children have to grow up. Ultimately they have to succeed to the throne of Pandu and so therefore she came back to Hastinapura so that the children could be taken care of properly there and she came and under the shelter of Dhritarashtra the Pandavas were also taken care in Hastinapura. Now because Pandu had died as an interim arrangement Dhritarashtra was made the emperor. Because there was nobody else who could occupy the throne although it was a well-known fact that by under normal conditions Dhritarashtra could not occupy the throne because of his disability as we had discussed in the previous episode. Now because it was an exigency it was a unique situation it was not a normal circumstance therefore Dhritarashtra was made the emperor for as long as the Pandavas would not grow up. Once the Pandavas would grow up it was understood that Dhritarashtra would handover the kingdom to the Pandavas.
+
+---
+### Education, Skill, Devotion
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=997
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "And that is how he got the son Ashwathama."
+**Summary:** The lecture describes the upbringing of the Pandavas and Kauravas in Hastinapura, Karna's growth under Adhiratha's care, and introduces Dronacharya, his lineage, his mastery of warfare through devotion to Lord Shiva, and his eventual arrival in Hastinapura.
+
+And so like this the Pandavas and their cousin brothers the Kauravas they grew up together in the household of Hastinapura. In the meantime Adhirata was taking care of Karna and Karna was also growing up Adhirata being a charioteer in Hastinapura. Karna also grew up there right there in Hastinapura itself. Now all these personalities were there in Hastinapura. And the situation in Hastinapura was developing in this manner. Now Bharadwaja Muni had a son by the name Dronacharya. This Dronacharya was a highly elevated Brahmana, highly qualified. And he married the twin sister of another great Brahmana by the name Kripacharya. This Kripacharya's twin sister was Kripy and Dronacharya married Kripy. This Dronacharya went and meditated in the Himalaya hills and appeased Lord Shiva and learnt the art of warfare from him. He learnt especially the art of archery. It is said that Dehradun, the current day Dehradun city is where Dronacharya went and performed austerities. And even today if you go to Dehradun, there is a temple of Lord Shiva called Tapkeshwar Mahadev. It is called Tapkeshwar Mahadev because the deity of Lord Shiva is inside a cave. And inside the cave, it is a fully completely natural rock cave. And inside the rock cave, whenever you go inside the cave, when we go from the ceiling of the rock cave, constantly droplets of water keep dripping. So that's how it is called Tapkeshwar. In Hindi, Tapakna means the dropping of water, dripping is called a Tapakna. So Tapkeshwar Mahadev, the Mahadeshwar of who is in a cave which is filled with dripping water. And this is on the bank of a small river. It is said that Dronacharya meditated upon Lord Shiva here and pleased him and got many benedictions as far as archery was concerned. This Dronacharya, it is said that after he married Kripi to get a child, he again came to this Tapkeshwar Mahadev and prayed to Lord Shiva. And that is how he got the son Ashwathama.
+
+---
+### Education, Skill, Rivalry
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=1165
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "And therefore, Dronacharya took a vow that he would make Arjuna the foremost archer in the whole world."
+**Summary:** The lecture details Dronacharya's decision to teach the Kaurava and Pandava princes, his recognition of Arjuna's exceptional talent, and the growing rivalry between the cousins.
+
+And Dronacharya was quite an accomplished teacher as far as the knowledge of warfare was concerned. Although he was such a highly learned Brahmana and he was highly reputed for his knowledge of the art of warfare, Dhanurvidya, still he was in dire straits, he was in penury and he was unable to maintain his family. Therefore, he came to Hastinapura. And he decided that he would take up a job of teaching the princess, the Kaurava and the Pandava princess. And by that, his family could be maintained. And thinking so, Dronacharya came to Hastinapura. Being disciple of Parashurama, also from whom he had learnt a lot of the art of Dhanurvidya, Bhishmadev also being a disciple of Parashurama, both of them knew each other. And this way, Dronacharya was quickly engaged in teaching Dhanurvidya to both the Kaurava as well as the Pandava brothers. Being Kshatriyas, it was necessary for them to learn the art of Dhanurvidya, to learn the art of warfare. And so, Dronacharya was engaged in teaching both the Kauravas as well as the Pandavas the art of Dhanurvidya. Amongst all the children, Dronacharya noticed that Arjuna was a precautious child. In fact, Dronacharya came upon Arjuna once in the middle of the night when it was pitch dark. Arjuna was practicing the art of archery. And Dronacharya was surprised. And he saw how Arjuna was practicing the art of archery. He was so determined to learn the art of archery. And therefore, Dronacharya took a vow that he would make Arjuna the foremost archer in the whole world. And Dronacharya started paying special attention to Arjuna, recognizing his talent and his determination. Now, when the Pandavas and the Kauravas were all growing up, Naturally, there came about a rivalry between the Kauravas and the Pandava brothers. Because Duryodhana knew that when they would grow up, Yudhishthira would ascend to the throne. And Duryodhana would be deprived of the right to sit on the throne. Because of this, Duryodhana always had some amount of envy towards the Pandava brothers. And therefore, there was always some amount of rivalry between the cousin brothers. Although it was not very severe like that, But still, off and on some little bit of skirmishes and those kind of things continually kept happening. And the equation was not so good also. Anybody could sense that there is some amount of tension between the brothers. Everything was not hunky and dory. But still, it had not become very severe or critical. Still, although there used to be some amount of friction between the brothers, They were still living together, growing together. They were all getting taught by the same teacher, Dronacharya. And like this, they were growing up in Hastinapura.
+
+---
+### Envy, Conflict, Poison
+**Timestamp:** https://youtu.be/N9h-EPbZ5m4?t=1385
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Duryodhana always felt a little bit of envy towards Bhima."
+**Summary:** The lecture concludes with Duryodhana's increasing envy, particularly towards Bhima's strength, and his attempt to poison Bhima, setting the stage for future conflicts and the next episode.
+
+Now, when they were growing up, when they were becoming adolescents, And the time was coming closer for the Pandavas to ascend to the throne, Duryodhana's enmity or his feelings of enviousness started increasing. In fact, Duryodhana had a special feeling of enviousness and enmity towards Bhima. Because Bhima was very powerful. He was very strong. And his power exceeded that of Duryodhana. And so Duryodhana always felt a little bit of envy towards Bhima. In fact, it went to such an extent that once Duryodhana threw a feast to Bhima. And he gave him a cake laced with poison. Thinking that somehow let Bhima die. Bhima, even though he consumed the cake, poisoned cake, But still, by Krishna's grace, he did not die. And he survived. And like this, the... You know, some friction or the other kept happening. And the children all were growing up. Now, when the time was coming closer for Yudhishthira to ascend to the throne, Duryodhana could not brook. He could not... He was unable to accept the fact that Yudhishthira would soon become the emperor. So he started hatching a plan. He started hatching a plan to eliminate the Pandavas. Now, what did Duryodhana do? And how were the... How did... How did... How were the Pandavas affected by that? Please join us in our next episode of the Mahabharata to learn about this. Thank you very much for joining us today. Hare Krishna! Jagat Guru! Srila Prabhupada! Ki Jai! Nithayagor! Premanande! Hari! Haribol! Nithayagor! Premanande! Hari! Haribol! Nithayagor! Premanande!
 
 ---
 
@@ -1932,6 +3792,642 @@ Unlike the mispropaganda that is spread everywhere today that Dronacharya on the
 **Summary:** The speaker describes Duryodhana's plan, hatched with Shakuni, to eliminate the Pandavas by building a house of shellac in Varanavata and setting it on fire. Dhritarashtra also participates in the deception by inviting the Pandavas to stay there.
 
 And so based on the advice of Shakuni, Duryodhana hatched a plan to eliminate the Pandavas. Duryodhana had a house built of shellac in a place called Varanavata. This Varanavata is in current day Haryana and today it is known as Barnava. Even today if you go to this place Barnava, the place where the house of shellac stood, the palace of shellac stood is a big mound of earth and this is the place where the house of shellac was built by Duryodhana with a worker named Purochana. The intention of Duryodhana was that shellac is a very inflammable material. He would on some pretext send the Pandavas to stay in this house of shellac in Varanavata and his idea was to set it ablaze and the Pandavas would die in the inferno and he could announce to the world that the Pandavas have died in a fire accident. That was the plan he hatched with Shakuni and Dhritarashtra and with this intention he created this house of shellac and Dhritarashtra also called the Pandavas and he told them that Duryodhana has built a nice palace for all of you. So for a few days you please go there and have some leisure time, relax there and come back after a few days. Like this Dhritarashtra told the Pandavas. The Pandavas were unaware of the plotting by Duryodhana and so they thought uncle is telling us to go so let us all go and so they along with the Pandavas along with Kunti Devi set out to go to Varanavata. Now, what happened to the Pandavas when they went to Varanavata? Could they escape from the house of Shellac? How did they, how could they escape when they had no knowledge of what was going to happen? Join us in our next session of Mahabharata to learn about this. Thank you for joining us today. Hare Krishna. Jagat Guru Shri La Pravupada Ki Jai, Netai Gor, Pemanande Hari Hari Bol. Copyright © 2020 Mooji Media Ltd. All Rights Reserved.
+
+---
+
+## Mahabharata | Part 13 | Duryodhana's treacherous plans
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, prayer
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Mokam Karoti Vachalam Bangum Langhayate Girim Yad Krupatha Maham Vande Shri Gurum Deena Taranam"
+**Summary:** The lecture begins with an invocation, prayers to the spiritual master, Krishna, and various Vaishnava figures.
+
+Thank you for watching. Om Adhyana Timurandhasya Dhyana Anjana Salakaya Shriksharunmi Litham Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswate Deve Gauravani Pracharine Nirvishesha Sunyavadi Pashatya Deshatarine. Jai Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadadhara Shri Vachadi Gauravakta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Bangum Langhayate Girim Yad Krupatha Maham Vande Shri Gurum Deena Taranam. Hare Krishna.
+
+---
+### Mahabharata, Krishna's plan
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=89
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Being concerned about their welfare, Krishna asked Akrura, his uncle, to go to Hastinapura and see what exactly is the situation there, how the Pandavas are faring, and come back and report to him."
+**Summary:** The speaker summarizes the previous episode and introduces the current one, focusing on Duryodhana's plans against the Pandavas and Krishna's concern for their safety, leading to Krishna sending Akrura to Hastinapura to assess the situation.
+
+And welcome back to today's episode of Mahabharata. In the last episode, we have seen the scheming of Duryodhana against the Pandavas and his plans to send the Pandavas to Varanavata to burn them in a house of shellac. So what happened to the Pandavas? That is, we will see that as we go forward today. We begin today's episode with what happened after Krishna appeared as a son of Vasudeva in Devaki. Krishna grew up under the protection of Nanda Maharaj who was the stepbrother of Vasudeva in Gokula. After Krishna became ten years and six months old Akrura, his uncle, came from Mathura on the order of Kamsa. Krishna and Balaram went back to Mathura. Kamsa's intention was that when Krishna and Balaram would come to Mathura, he would engage various means and kill them. But Krishna and Balaram, because they were the Supreme Personality of Godhead themselves, they came and baffled all the plants of Kamsa and they vanquished Kamsa. And they released Ugrasena, Devaki, Vasudeva and all such people and they installed Ugrasena back on the throne. After this, Krishna got news about how the Pandavas were under the protection of Dhritarashtra, but Duryodhana was scheming in various ways. And he had also heard how Duryodhana had tried to poison Bhima. Being concerned about their welfare, Krishna asked Akrura, his uncle, to go to Hastinapura and see what exactly is the situation there, how the Pandavas are faring, and come back and report to him. Akrura was a great diplomat and therefore Krishna chose him. Another factor was that Akrura was an elderly person also. This was another reason why Krishna chose Akrura to go and find out what was happening in Hastinapura.
+
+---
+### devotion, Kunti's prayer, Krishna's presence
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=237
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "The moment Kunti Devi saw Akrura, she remembered her home and she also remembered Krishna and Balarama and she started praying to Krishna that, O Krishna, my fatherless children and I are caught up in the web of deceit in Hastinapura."
+**Summary:** Akrura travels to Hastinapura, meets with various figures including Kunti Devi, who upon seeing Akrura, remembers Krishna and prays for protection from the deceitful environment, highlighting her deep devotion.
+
+On the orders of Krishna, Akrura set out to Hastinapura from Mathura and he came to Hastinapura and there he met Dhritarashtra, he met Dronacharya, Kripacharya, Bhishma, he met Duryodhana also and then he met Kunti Devi along with Vidura because Vidura was always a well-wisher of the Pandavas, Akrura went and met Kunti Devi. The moment Kunti Devi saw Akrura, she remembered her home and she also remembered Krishna and Balarama and she started praying to Krishna that, O Krishna, my fatherless children and I are caught up in the web of deceit in Hastinapura. Who will protect us? What will happen to us? I am not a single day goes without my remembering you and praying for your protection. You are the only person who can really protect the souls in this world. Therefore, I am praying to you, please save us from this dangerous ocean of birth and death. Please accept me as a surrendered devotee of yours. Like this, she prayed to Krishna and she started weeping. Actually, Kunti Devi was a great devotee of Krishna and she knew the position of Krishna as the Supreme Personality of Godhead. And therefore, in all the dangerous circumstances that she was living in, she could only remember Krishna and no one else. And because she saw Krishna everywhere, when she saw Akrura, she was able to remember Krishna and started praying and talking as if Krishna was directly in front of her. Actually, Krishna is there everywhere.
+
+---
+### Krishna's omnipresence, devotion, love
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=360
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Unless one's eyes are tinged with the salve of love for Krishna, one will not be able to see him, although he is present everywhere around us."
+**Summary:** The speaker elaborates on Krishna's omnipresence as Paramatma, present in every atom and living entity, but emphasizes that one can only perceive Him through love and devotion, as exemplified by Kunti Devi.
+
+Andantarastham Paramanuchayantarastham Govindamadipurisham Tamaham Bhajami. The Brahma Samhita states that Krishna in his incarnation as Kshirodakasai Vishnu, as Paramatma, he is present in every atom as well as every living entity's heart. And although the Paramatma is there in your heart, my heart, everyone's heart, and he is also present in each and every atom of this universe, still we cannot see him unless our eyes are tinged with the salve of love. Premanjana Charita Bhakti Vilochanena Santa Sadaiva Hridayeshu Vilokayanti Yam Shyamasundaram Achindya Gunaswaroopam Govindam Adipurusham Tamaham Bhajami. Unless one's eyes are tinged with the salve of love for Krishna, one will not be able to see him, although he is present everywhere around us. Because Kunti Devi was a great devotee and she loved Krishna a lot, therefore she could see only Krishna everywhere. And therefore, in front of Akrura, although physically Krishna was not present before her, she started offering prayers as if he was personally present before her. This is possible for you and me also. If we follow in the footsteps of Kunti Devi and we develop unalloyed love for Krishna, we develop unalloyed devotion for Krishna. When Kunti Devi started weeping like this, immediately Vidura and Akrura started pacifying her.
+
+---
+### comfort, assessment, scheming
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=449
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Akrura having stayed in Hastinapura for a few months and having studied the situation and the various people there he finally understood what was happening he understood that Dhritarashtra was being misguided by his affection for Duryodhana and by the ill advice given by Shakuni and Karna."
+**Summary:** Vidura and Akrura comfort Kunti Devi by glorifying her sons and assuring her of Krishna's protection. Akrura stays in Hastinapura, assesses the situation, and realizes Dhritarashtra is being misled by his affection for Duryodhana and the bad advice of Shakuni and Karna.
+
+By glorifying her sons. They started glorifying the wonderful qualities of Yudhishthira, Bhima, Arjuna, Nakula and Sahadeva. They started comforting her saying that your sons are such great heroes they have such great bodily strength not only that they are so virtuous and righteous and over and above everything they are all great devotees of Krishna so why do you worry don't worry your sons are eminently capable of protecting themselves over and above that Krishna himself is protecting them and like this they pacified Kunti Devi. Now Akrura having stayed in Hastinapura for a few months and having studied the situation and the various people there he finally understood what was happening he understood that Dhritarashtra was being misguided by his affection for Duryodhana and by the ill advice given by Shakuni and Karna. Therefore having understood the position Akrura thought it wise to go back and report to Krishna what the situation was in Hastinapura so that suitable steps could be taken to protect the Pandavas.
+
+---
+### advice, duty, protection
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=531
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now that you are on the throne as a king you should impartially take care of all your subjects. Although the sons of Pandu are the legal heirs to the throne even if you are not handing over the throne to them still you should at least treat them as your citizens."
+**Summary:** Akrura decides to advise Dhritarashtra against his scheming, reminding him of his duty as a king to impartially care for all subjects, including the Pandavas, even if he doesn't recognize them as heirs.
+
+Before going back to Mathura Akrura thought it wise to approach Dhritarashtra and advise him against the scheming that he was doing against the Pandavas. Therefore Akrura went and approached Dhritarashtra and started talking to him. He told Dhritarashtra that somehow or the other you have become the king. Actually speaking Pandu was supposed to be the king but then due to the twist of circumstances you have temporarily somehow ascended to the throne. Now that you are on the throne as a king you should impartially take care of all your subjects. Although the sons of Pandu are the legal heirs to the throne even if you are not handing over the throne to them still you should at least treat them as your citizens. And the duty of a king is to provide equal protection to all his citizens. Even if you consider the Pandavas just as citizens and not as heirs to the throne still it behooves you to give protection to them and not bring about any harm to them. And like this in various ways Akrura tried to advise Dhritarashtra.
+
+---
+### detachment, ephemeral relationships, karma
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=615
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "This material world actually is like a hotel where people many people come together stay for some time and then go there in different ways."
+**Summary:** Akrura advises Dhritarashtra on the ephemeral nature of material relationships, comparing the world to a hotel where people temporarily connect before going their separate ways due to karma.
+
+Not only that he told Dhritarashtra also that after all you have to understand that in this material world all the relationships that we have with various people are very ephemeral, they are not eternal. This material world actually is like a hotel where the Habib Gahal sees whatever action taking place on whom elder person seeks affection. His power over Adi levels like fire, fire over their Naim . The neck of the earth increases as he does such non- Violence. drilled three insurgency in accurately devaluing their medicine prayed叫 to understand. This material world that he usedRRR, LIKE A HOTEL where laws upon nature Gul, economy against the system means only one thing waveform of typhoons they should了吧 않았al tea is from finding materialladım that grow very frequently. This material world actually is like a hotel where the Lord equippedicut of people come together and stay in a hotel what happens if we go for vacation to some place we take a room and stay and in the opposite room somebody else will be staying they may also have come for a vacation for three or four days and when we are there we may get acquainted with them get to know them spend a little time with them have the some food with them in the cafe etc etc etc but we know all we all very well know that this relationship is not going to last because after a few days that person will go his way i will go my way maybe we'll never again come to meet each other again in our life so a hotel is a place where people many people come together stay for some time and then go there in different ways similarly in this material world the various relationships that we develop with our parents with our children with our husband with our wife with our friends with the society etc this is all exactly like that in a hotel you may be staying for three four days here you may be you may be staying for four or five or six or seven decades but end result is the same we all come by the force of karma we all come together and after some time by the force of karma we are all separated we go our different ways now when the time we are together we think that we will eternally be together.
+
+---
+### karma, destiny, detachment
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=725
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Fact is every one of us has our individual karma or destiny and every one of us has our individual happiness and destiny which is ordained for us in advance according to the activities that we have done in our past lives."
+**Summary:** The speaker explains that everyone has individual karma and destiny, ordained by past actions, and collective efforts cannot thwart individual suffering or happiness, emphasizing the importance of detachment.
+
+And we think by collaborative effort by all of us cooperatively working together we can thwart the effects of our destiny of our karma we think by a collective effort we will be able to reduce our miseries and increase our happiness but fact is every one of us has our individual karma or destiny and every one of us has our individual happiness and destiny which is ordained for us in advance according to the activities that we have done in our past lives and therefore even though all of us may together try to stop certain miseries from acting still we see that when an individual has to get afflicted with some life-threatening disease the disease will still come despite the efforts of various people that disease will take that person's life we although we may live together and we may be under the false impression that this kind of social living is going to protect us in reality none of these things can really protect us this is an asat sainya that we have created around us they have they hop at the kalatra desu atma sign issue as a Swabhi the stream at bhagavatam says that we build a family around us we build an army of friends relatives colleagues etcetera around us thinking that these things will protect me in my moments of danger but when disease comes knocking at our door when death comes knocking at our door all this army that we have built up will be rendered useless and therefore the stream at bhagavatam says this is all asat sign ya this is there, this is an unreal army, this is an illusory army. Like this, Akrura preached to, advised Dhritarashtra that he should not be overly attached to Duryodhana like this because eventually Duryodhana will have to suffer his reactions, Dhritarashtra has to suffer his reactions, one day Dhritarashtra has to die and leave behind everything, Duryodhana has to die and leave behind everything. Why should Dhritarashtra do sinful activities for the sake of a temporary relationship?
+
+---
+### advice rejected, attachment, Krishna's will
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=881
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "But your words do not stand in my flickering mind. Just like the lightning, the flickering lightning does not stay permanently in a group of clouds."
+**Summary:** Dhritarashtra acknowledges Akrura's advice but admits his inability to follow it due to his strong attachment to Duryodhana, accepting Krishna's will as supreme.
+
+In this way, Akrura advised Dhritarashtra in many ways. Dhritarashtra on his part calmly heard everything, then he told Akrura that Akrura I thank you for your charitable words of advice, I understand that you mean well for me. But your words do not stand in my flickering mind. Just like the lightning, the flickering lightning does not stay permanently in a group of clouds. The lightning strikes and we see the bolt of lightning and within a fraction of second it disappears. And then suddenly you will see the lightning is appearing somewhere else. In this manner, lightning is very flickering, it never stays in one place. In a similar manner your words of advice are not staying in my mind. I know that I have a lot of affection for my son which is misplaced but then I am not able to follow the advice of Vidura, Bhishma, and yourself. I am helplessly being drawn towards my son. A small topic of this region only gotten transparent after looking at have written by a writer called Kalubasati esteem of since 17ullen I have been in this portion for didn't know this morning… A personal but valid illustration of the communication about the cause of this dagamitsha Ravi Siddarahan. Sounds like … it is just a brief and brief text.stoneدي delivery Made by morthest interviewer R.D. Lowuri Had Thai такое. Before being cornered by many women in the son Duryodhana and I cannot help but do acts which may be unrighteous, which may be sinful but which I am doing it out of my affection for my son Duryodhana. I understand that Krishna is the Supreme Personality of Godhead and His will is supreme. Therefore we have to allow that will of Krishna to manifest itself and we will see what happens in the future.
+
+---
+### attachment, Krishna's mercy, detachment
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=997
+**Verse References:** SB 11.25.26
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Krishna gradually takes away all his possessions. He takes away all his wealth so that his false affection for his family, his attachment to his wealth, to his position towards his status, prestige etc. All these kind of things can be destroyed and he can fully surrender to Krishna."
+**Summary:** The speaker explains that Dhritarashtra knew Krishna was supreme, but was helpless against his affection for Duryodhana. Krishna gradually removes the possessions of devotees with material attachments so they can fully surrender to Him.
+
+So like this Dhritarashtra informed Akrura that although he knew that Krishna is a Supreme Person, although he knew that what he was doing was wrong, although he knew that Duryodhana was an evil minded person and whatever he was pursuing was sinful, still Dhritarashtra could not help it. He could not help himself. Actually in the Shastras it is said that Harishye Dhanam Shanaihi. So Krishna when he sees that a devotee of his who knows the true possession of Krishna, although he is a devotee, he is maintaining so many material attachments, then Harishye Tad Dhanam Shanaihi. Krishna gradually takes away all his possessions. He takes away all his wealth so that his false affection for his family, his attachment to his wealth, to his position towards his status, prestige etc. All these kind of things can be destroyed and he can fully surrender to Krishna and we can see that the same thing happened even in Dhritarashtra's life. Dhritarashtra understood and appreciated the supreme possession of Krishna at the same time. He was helpless against his affection for Krishna. He was helpless against his affection for Krishna.
+
+---
+### scheming, warning, diplomacy
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=1079
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Therefore, he took leave of Dhritarashtra and he went back to Mathura and he informed Krishna about what was actually happening."
+**Summary:** Akrura returns to Mathura and informs Krishna of Dhritarashtra's stance. Duryodhana's plan to burn the Pandavas in a house of shellac is set in motion, and Vidura, aware of the scheme, attempts to warn Yudhishthira.
+
+He was helpless against his affection for Duryodhana. And so therefore towards the end of the Mahabharata we will see how Dhritarashtra was actually delivered from his affection for his son and how he liberated himself. Akrura when he heard the words of Dhritarashtra, he understood that Dhritarashtra was not going to budge from his policy of trying to cheat the Pandavas of their kingdom. Therefore, he took leave of Dhritarashtra and he went back to Mathura and he informed Krishna about what was actually happening. Now in the meantime, this plan hatched by Duryodhana in consultation with Dhritarashtra, Karna, Shakuni and these people to send the Pandavas to Varanavata and to house them in a house of shellac and burn them down had been set into motion. Now Vidura, because he was very closely linked with all the people in the palace, he heard about this scheming by the Kauravas. And he came across the Pandavas when they were departing for Varanavata. Therefore, Vidura, because it was in front of everyone and he could not find a suitable time where he could confidentialize. He could not really talk to the Pandavas.
+
+---
+### warning, interpretation, danger
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=1170
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Vidura started telling Yudhishthira that a weapon not made of steel or any other material element can be equally lethal and therefore, a person who knows this can protect himself."
+**Summary:** Vidura subtly warns Yudhishthira about the impending danger using philosophical language, which Yudhishthira understands, revealing the plan to set them on fire in Varanavata.
+
+And as if he was saying goodbye to them, he started speaking to Yudhishthira. And because Vidura always used to speak in very philosophical terms, so Vidura started telling Yudhishthira that a weapon not made of steel or any other material element can be equally lethal and therefore, a person who knows this can protect himself. Not only that, he told Yudhishthira that fire can burn the body but not the soul and one who takes care of his soul can protect himself. When he said words like this, people all thought Vidura, usually he keeps telling so many philosophical things like that about the soul, something he is telling Yudhishthira. Vidura said that. Vidura said that. Vidura said that. Yudhishthira also heard silently and then he took leave of Vidura and all the Pandavas along with Kunti Devi started for Varanavata. After they had left the palace, Kunti Devi asked Yudhishthira, Vidura was telling something, he was telling soul, fire, something, a weapon not made of metal. What was he talking? I could not follow what he was saying. But Yudhishthira was very intelligent. He had grasped what Vidura had said. And so Yudhishthira Maharaj, he smiled and he said, there is a plan to set us on fire in Varanavata and to kill us. This is what Vidura has warned us.
+
+---
+### diplomacy, deception, cliffhanger
+**Timestamp:** https://youtu.be/pvif4hi6oH4?t=1269
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Therefore they went along with the plan of Duryodhana as if they did not know anything and they reached Varanavata and there Duryodhana had made all the arrangements by which they were received and they were housed in that house of shellac."
+**Summary:** Yudhishthira, aware of the plot, maintains diplomacy and the Pandavas proceed to Varanavata, where they are housed in the house of shellac, setting the stage for the next episode.
+
+So we have to be very careful and we have to take steps to protect ourselves. Now because Vidura and Yudhishthira, they also, as a part of diplomacy did not want to openly confront Duryodhana and the Kauravas. They did not divulge that they had heard and they had come to know about the scheme of Duryodhana. Therefore they went along with the plan of Duryodhana as if they did not know anything and they reached Varanavata and there Duryodhana had made all the arrangements by which they were received and they were housed in that house of shellac. Now having reached the house of shellac, the Pandavas started staying there and Duryodhana set into motion the second part of his plan, to surreptitiously burn down the house of shellac with the Pandavas trapped inside. Now what happened further, please join us in our next episode of the Mahabharata to learn what happened to the Pandavas. Please join us in our next episode of the Mahabharata to learn what happened to the when the house of Shalak was set afire. Thank you very much for joining us today. Hare Krishna Jagat Guru Shila Prabhupada Ki Jai Nitai Guru Premanande Hari Hari Voh
+
+---
+
+## Mahabharata | Part 15 Torment of Ekachakra
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, gratitude
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Hare Krishna and welcome to today's episode of the Mahabharata."
+**Summary:** The speaker begins with prayers and welcomes the audience to the current episode of the Mahabharata.
+
+Thank you for watching. Om Adhyana Timiranthasya Dhyana Anjana Salakaya Chakshuram Meelitam Jena Tasmai Shri Gurave Namaha. Namavo Vishnupadaya Krishna Preshtaya Bhutale Shri Mate Bhaktivedanta Swamin Nithinamine. Namaste Saraswate Deve Gauravani Pracharine Nirvishesha Sunyavadi Pashyatyade Shatadhine. Jai Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadadhara Shri Vasad Gauravakta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pankam Langa Yate Girim Yad Kriva Tamaham Andher Shri Gurum Deena Taranam. Hare Krishna and welcome to today's episode of the Mahabharata.
+
+---
+### Mahabharata, Draupadi, Swayamvara
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=94
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "And Drupada, under the misconception that the Pandavas had died, he thought of Swayamvara, where the best of the best of the Kshatriyas could come and win the hand of Draupadi."
+**Summary:** The speaker summarizes the previous episode, focusing on the Pandavas' escape from Varanavata and Drupada's plan for Draupadi's Swayamvara.
+
+In the last episode, we saw how the Pandavas had escaped from Varanavata, but this fact remained concealed. Not everybody knew of it. Very few selected people were aware of this. And Drupada, having desired to give his daughter's hand in marriage, Draupadi's hand in marriage to Arjuna, was mortified when he heard that the Pandavas had died in the fire in Varanavata. Unknown to Drupada, the Pandavas had escaped. And Drupada, under the misconception that the Pandavas had died, he thought of Swayamvara, where the best of the best of the Kshatriyas could come and win the hand of Draupadi.
+
+---
+### dharma, surrender, devotion
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=160
+**Verse References:** BG 4.7, BG 18.66, BG 9.34
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Krishna says that he descends for the purpose of re-establishing Dharma."
+**Summary:** The speaker discusses Krishna's purpose in descending to re-establish Dharma, emphasizing surrender and devotion as the ultimate teachings of the Bhagavad Gita.
+
+We will know about that today. When Krishna appeared on this planet about five thousand years ago, in his instructions to Arjuna in the Bhagavad Gita, Krishna says that he descends for the purpose of re-establishing Dharma: dharmasansthapanaya sambhavami yuge yuge. This is Krishna's instruction on the purpose of his descent to this material world. Now what is that Dharma that Krishna wanted to establish? That, in the end of the Bhagavad Gita, Krishna says sarva-dharmaan paritjya mam eka saranam vraja. We have to give up all our attachments to various other works, and we have to surrender solely, exclusively, unto Krishna. And Krishna says that His topmost instruction, his ultimate instruction is manmanaa bhava madbhakto madhyaaji maam namaskuru. Krishna said that to become His devotee, to become Krishna's devotee, to offer obeisances to him, to worship him is the topmost instruction in the Bhagavad Gita.
+
+---
+### Chaitanya Mahaprabhu, incarnation, devotion
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=241
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Similarly, Krishna, in order to teach the people how to become a devotee of his, he himself played the role of a devotee as Chaitanya Mahaprabhu."
+**Summary:** The speaker explains that Krishna appeared as Chaitanya Mahaprabhu to teach people how to become devotees, using the analogy of a teacher teaching ABCD.
+
+Now, this instruction of Krishna, although very clearly specified in the Bhagavad Gita, many people misunderstood it. Many people could not digest it. And even if somebody understood and accepted it, the people did not know how exactly to surrender to Krishna, how to worship Krishna, how to become his devotee. Therefore, about 4500 years later or about 500 years before today, Lord Krishna again appeared as Chaitanya Mahaprabhu. And in this incarnation as Chaitanya Mahaprabhu, Krishna showed how to become a devotee of Krishna. So somebody may question, how can Krishna himself play the role of his devotee? This is just like a teacher teaches a student how to write ABCD. This does not mean that the teacher does not know anything beyond ABCD. The teachers know so many things about the language, the grammar, literature, so many things the teacher may know. But for the sake of teaching the student, the teacher writes on the board, "You have to write A like this, B like this." So that's the role of the teacher, the role of a student that the teacher takes in order to teach the student. Similarly, Krishna, in order to teach the people how to become a devotee of his, he himself played the role of a devotee as Chaitanya Mahaprabhu. Now somebody may question, how do we claim that Chaitanya Mahaprabhu is Krishna himself? How do we know that he is an incarnation? Is he not just some another saint or sadhu whom we are glorifying and we are elevating, especially to the position of God?
+
+---
+### Vishnu Sahasranama, Chaitanya Mahaprabhu, incarnation
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=356
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "That incarnation is Chaitanya Mahaprabhu, who appeared in 1486 AD in a place called Navadvipa in Bengal."
+**Summary:** The speaker uses the Vishnu Sahasranama to prove that Chaitanya Mahaprabhu is an incarnation of Krishna, describing the golden complexion, peaceful nature, and sanyas of this incarnation.
+
+In the Mahabharata itself, there is a description of the one thousand names of Vishnu, Vishnu Sahasra nama, which is a very popular stotra which many people, many Indians chant and they know by heart. In this Vishnu Sahasra nama, which is originally from the Mahabharata, there are thousand names of Lord Vishnu. Now, in these thousand names of Lord Vishnu, incarnations such as Lord Rama, Parasurama, all their names appear. Along with that, there is the description of one incarnation which is unique. The description goes like this. The description in the Vishnu Sahasranama states that, it says, there is one incarnation of Vishnu who is golden in complexion, golden in complexion, and he is extremely beautiful, and his whole body is decorated with the paste of sandalwood pulp. So, who is the incarnation who fits this description? It may seem that, practically, all the incarnations of the Supreme Lord are very beautiful. So, it may seem that it refers to, in general, all the incarnations of Vishnu. But then it says, golden complexion. Who is that golden complexion, the incarnation? Lord Krishna was Shyama. He was the dark bluish cloud, water-bearing cloud, rain-bearing cloud's color. Lord Ramachandra is said to be of greenish hue, his complexion. So, who is that incarnation who is golden complexion? The Vishnu Sahasranama makes it even more clearer. It says, This incarnation, who is Suvarnavarna, who is golden in complexion, he is Shanti Parayanaha, he is very peaceful. He does not pick up arms like the rest of the incarnations. In every incarnation, the Lord comes because, so, to kill the miscreants, the incarnations appear. So, either the Sudarsana Chakra or the, you know, various different kinds of weapons the Supreme Lord lifts, or the mace or the gatha or something like that. And he annihilates the miscreants in different incarnations. Which is that incarnation which never lifted any weapon and who was very peaceful and very, and, uh, spread love of, uh, himself. Not only that, Sanyasa Krishamaha, who took sanyas, which is that incarnation? That incarnation is Chaitanya Mahaprabhu, who appeared in 1486 AD in a place called Navadvipa in Bengal. And at the age of 24 years, he took sanyas. And he never took up weapons. He always spread love of Krishna.
+
+---
+### Chaitanya Mahaprabhu, Sankirtana, Nityananda Prabhu
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=553
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And the chanting of his holy name, the Hare Krishna Maha Mantra, and he inaugurated the Sankirtana Yajna."
+**Summary:** The speaker continues to describe Chaitanya Mahaprabhu's mission, including the Sankirtana movement and the appearance of Nityananda Prabhu as Balaram.
+
+And the chanting of his holy name, the Hare Krishna Maha Mantra, and he inaugurated the Sankirtana Yajna. The Sankirtana movement, the glorification of the Supreme Lord by singing bhajans and kirtans was started by Chaitanya Mahaprabhu. And, in the other Puranas like Srimad Bhagavatam also, it is mentioned that, that in Kali Yuga, there is one incarnation of the supreme Lord, who will inaugurate the Sankirtana Yajna. And not only that in other places of the scriptures, it is revealed that this incarnation of Krishna in Kali Yuga will be Channa. He will be a Channa Avatarah. He will be an incarnation who will not disclose himself to be an incarnation, which is exactly hearing the description of Chaitanya Maha Prabhu, who was golden in complexion, which is exactly a description of Chaitanya Mahaprabhu, who was golden in complexion, who was golden in complexion, complexion extremely beautiful and his he was always decorated with sandalwood pulp and he traveled everywhere and spread the message of love of Krishna and he inaugurated the Sankirtan Edna in a congregation people joining together and singing Hare Krishna Maha Mantra irrespective of caste creed color gender etc Chaitanya Mahaprabhu set aside everything else and gave the holy name of Krishna the Hare Krishna Maha Mantra to anyone and everyone without any discrimination so this Chaitanya Mahaprabhu is an incarnation of Krishna in Kali Yuga as described in the confidential parts of the Vedas now whenever Krishna descends Krishna doesn't come alone when Krishna came Balaram came with him when Krishna came Balaram came with him when Krishna came Krishna incarnated as Lord Ramachandra, Balaram also incarnated as Lakshmana. So, when Chaitanya Mahaprabhu appeared, when Krishna came as Chaitanya Mahaprabhu, Balaram also appeared as Nithyananda Prabhu. And this Nithyananda Prabhu appeared in a village in the Birbhum district of Bengal and the name of this village is Ekachakra.
+
+---
+### Ekachakra, Bakasura, Rakshasa
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=693
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "This Rakshasa came across this Ekachakra gram which was a little remote."
+**Summary:** The speaker introduces the story of Ekachakra gram and the Rakshasa Bakasura, who terrorized the village.
+
+Even today, if we go the place where Nithyananda Prabhu appeared and the deity of Bankimraya he worshipped, these are all great places of pilgrimage in Ekachakra which devotees of Lord Krishna, of Chaitanya Mahaprabhu even today visit. Now, this Ekachakra gram, it is a very ancient village. It was not some new village which 500 years ago came into existence during the time of Nithyananda Prabhu. This same Ekachakra gram was present even 5000 years ago. At that time, the Ekachakra gram, it was a normal village. The people used to conduct their normal activities. There used to be some, you know, the villagers used to do farming, agriculture, some bit of trade and some few brahmanas would have worshipped the local temple. And it was a beautiful village in, it's a little bit remote but still, quite surrounded by... quite verdant agricultural fields. And even at that time, even 5000 years ago, the village was quite flourishing. Now, what happened was, once a Rakshasa, a man-eater, Rakshasas are man-eaters. This Rakshasa came across this Ekachakra gram which was a little remote. And there were not, the village was not sufficiently protected. So, this Rakshasa found this Ekachakra gram. So, this Rakshasa found this Ekachakra gram which was a little remote and there were not, the village was not sufficiently protected, the residents of the village to be easy prey and he every day started attacking the village killing a few people taking away one of them for his meal and like this a great disturbance came about in the village people were afraid to step out after dark they did not know when this rakshasa will come at attack women were afraid to go to the wells and draw the water men were afraid to go to the field and carry out their agricultural activities children were afraid to go to their gurukuls now in this kind of situation everybody was living in fear the village elders in this situation they all got together and they discussed among themselves what is the solution for this now this rakshasa are normally very very powerful they are much stronger than human beings so the the village elders they realized that they could not fight with the rakshasa and defeat him or or drive him away from the place or kill him or in some way resolve the situation in that manner they had to find some other solution they all discussed among themselves and they realized that actually the rakshasa for his meal he would take away only one human being but in the process of attacking and taking away one human being he would kill a few other people and kill the other human beings.
+
+---
+### Bakasura, compromise, dana, varnashrama
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=872
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "By giving dana, by giving in charity to saintly people, the grihasta, whatever money he would earn, that money would get purified."
+**Summary:** The speaker describes the villagers' compromise with Bakasura and then digresses to explain the importance of dana (charity) in the Varnashrama system.
+
+The villagers thought that a better deal, let us strike a, let us make the best use of the bad bargain, they thought, let us call this rakshasa, this name of this rakshasa was Bakasura, they thought let us call Bakasura, have a meeting with him and propose to him that he should not come and attack our village, each villager will take turns and from every house one day one person will voluntarily go to this Bakasura as his meal, that way Bakasura need not come and attack the villagers, rest of the villagers can peacefully they can go about their activities without any fear that whom the rakshasa is going to attack and take away and the Bakasura will also be satisfied with this so our activities will go on peacefully having decided like this all the village elders they called Bakasura and they discussed with him and Bakasura also said fine I am also fine by this as long as I am getting my meal every day I have no issue so if you are voluntarily sending someone no problem that much less effort for me and like this the a compromise was arranged between Bakasura and the villagers so Bakasura kept his word he would not come to the village and every day from one house one person would be chosen voluntarily and that person would go and become the meal of Bakasura this arrangement settled the matter there now in the meantime the Pandavas having finished their stay in bintal and they started again going on foot from place to place they were they did not want to stay in one place for too long for fear that they could be discovered and the news could reach hasanapura and who knows what Duryodhana will do therefore the Pandavas made it a policy to keep traveling from place to place and they would not stay at a place for too long like this they were traveling and finally they came to one village and a nice village and they thought let us stay here for a few days and they approached the village and they took refuge in one local one person's house in those days there were no hotels there were no lodgers and people were very very hospital during those days. In fact, according to the Varnashrama system, one of the duties of a grihasta is that he must engage in dana. He must give in charity and this charity was obligatory for all grihastas. Every grihasta had to give in dana. By giving dana, by giving in charity to saintly people, the grihasta, whatever money he would earn, that money would get purified. This was the understanding. And not only that, when a grihasta would give in charity to a saintly person, the saintly person in return would give him some transcendental knowledge, some spiritual knowledge, which would help the person orient himself and his life and keep his sight on the ultimate goal of life, which was to attain moksha or liberation from this material world. So, the entire society at that time was oriented towards ultimately getting liberated from this cycle of birth and death in this material world. And so accordingly,
+
+---
+### hospitality, Pandavas, Bakasura
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=1092
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Is there anybody hungry in the street? You are welcome to come and take food at my home."
+**Summary:** The speaker describes the practice of offering food to guests and how the Pandavas, disguised as common folk, arrived in Ekachakra and were given shelter.
+
+All these practices and customs used to be in place. On account of this practice, every day when the grihasta would have his meal ready at home, he would take some of the food out of the house, take some of the food out of the house, and take some of the food out. He would step out of the house and he would announce, "Is there anybody hungry in the street? You are welcome to come and take food at my home." And like this he would announce two or three times, if there was any sadhu or some such person who was hungry in the street or some traveler who was going to some other place and happens to be passing by that village, they would immediately come in and without any asking any questions, asking for his Aadhar card, voter ID, etc., the person would be welcomed, he would be provided food, he would be provided a place to stay, the person could stay as long as he would wish to and then in this manner the grahastha would practice the principle of dana. It used to be a very good system and therefore those days, like I said, there were no hotels, there were no lodges, there were no restaurants, these things were never in practice those days. When the Pandavas came to this village, naturally, of course, the Pandavas were in disguise, they were dressed like ordinary common folk. So this man thought, okay, some family, they are traveling, itinerants, they have come to this village, so he invited them and he told them, you can stay in my house for a few days. The village was the same Ekachakkar gram and so he told Kunti Devi that about the whole story about this Bakasura and the arrangement which the village had made with him and that day it was the turn of this horse house, to send one member of their family to Bakasura as his meal. So naturally, the whole family, the husband, the wife, the children, the parents, they were all sitting and discussing who will go to Bakasura. And each person was saying, "I will go" and the others are saying, "No, no, no, I will go, I will go," like this. There was disagreement among themselves. Each of them wanted to go himself while the others were not allowing. And so this was the commotion going on.
+
+---
+### Kunti, Bhima, Bakasura, Kshatriya Dharma
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=1225
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "It is the duty of a Kshatriya to protect the citizens."
+**Summary:** Kunti offers to send one of her sons to Bakasura, ultimately deciding to send Bhima, who kills the Rakshasa and frees the village from terror.
+
+When Kunti Devi heard this, she said, no, no, why should you go? I will send one of my sons. Then the horse said, no, no, no, how can you do that? You are our guest. We have to take good care of you. It is my duty to protect you. I cannot send your sons into the jaws of death. Not possible. But Kunti Devi managed to convince him with great difficulty. And she said, don't worry, I have five sons. One son goes, it's not a problem. But you, you have such a small family. How will you manage your family if one of, any one of your members goes away? So like that she, you know, she also argued with him and finally convinced him. Of course, Kunti Devi was confident that Bhima, she was thinking of, in her mind she was thinking she will send Bhima. And she knew already Bhima had killed Hidimba. So one Rakshasa he had already killed. And so she was confident that even this Rakshasa will be taken care of by Bhima. So why Kunti Devi also offered is also because, it is the duty of a Kshatriya to protect the citizens. And naturally, when the, when she saw that this family is in difficulty, her Kshatriya spirits came to the fore. And she thought, we cannot sit idly. We have to go forward and protect these people. But externally, of course, she did not say all these things because she did not want them to know that they are Kshatriyas. Now having, managed to convince the family, Kunti Devi called upon Bhima and told him, like this, this is the situation. She called all her sons and explained to them that this is the situation and this Rakshasa has to be killed. So all the Pandavas and Kunti Devi together, they chose Bhima. And Bhima also very happily, he went forward. And as the, was the custom, Bakasura was waiting for his meal. And then Bhima appeared on the spot. But Bhima was no ordinary meal. He had not come there to become the meal of Bakasura. And on the other hand, he challenged Bakasura to a fight. And there was a humongous fight between the two of them. And each of them showing his strength. But ultimately, Bhima being the more powerful of the two, he prevailed over Bakasura and he managed to vanquish Bakasura. And he came back successfully to the village, having killed Bakasura. And in this way, Ekachakra Gram became free of the torment of the Rakshasa Bakasura.
+
+---
+### Ekachakra, Drupada, Swayamvara, archery contest
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=1437
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "If somebody has to win, he must be really special."
+**Summary:** The speaker mentions the landmarks in Ekachakra and then transitions to Drupada's incredibly difficult archery contest for Draupadi's Swayamvara.
+
+Even today, if you go to Ekachakra Gram, there is a small pond called Pandavtal where it is said that the Pandavas used to, when they were in Ekachakra Gram, they used to, they used to stay in that place. So even today, that place where the Pandavas stayed is there. Of course, now it's a small pond. In fact, in Ekachakra Gram, there is also the fossilized kneecap of Bakasura who was killed by Bhima. Even today, if you go to Ekachakra, you can also see, apart from Pandavtal, you can also see the fossilized kneecap of Bakasura. It is there even today. Now, in Panchala Desha, Drupada, as we had mentioned earlier, wanted to come up with a unique, very tough contest wherein only the best of the warriors could win the hand of Draupadi. He thought of an archery contest in which there was a long pole and at the top of the pole, there was a small fish hanging at the top. Now, if somebody has to pierce that fish with an arrow, it's not going to be easy because the pole was quite tall. But Drupada was not satisfied with the level of difficulty. He introduced one more level of difficulty. Below the fish, there was a rotating wheel. The wheel was constantly rotating and this wheel had many spokes. So, anybody who would have to shoot the fish, his arrow would have to pass through the spokes and then attack the fish. So, quite difficult, not easy because when you shoot the arrow, when the wheel is moving, suddenly when the arrow reaches the wheel, if the spoke comes in between, then the arrow will not reach its target. But still, Drupada was still not satisfied with the level of difficulty. He said, the person who is shooting the arrow should not be able to directly see the fish. He created a small tank of water beneath the pole from which the fish was suspended. And he filled it with water. And he said, the person has to, the archer has to look at the reflection and then shoot the arrow. Difficult. It has become very difficult now. Now, Drupada was still not satisfied with the level of difficulty. So, he said, the water in that tank should not be still. It should be constantly moving. There should be constant ripples in that tank of water. Now, you can imagine, there is water in the tank. In that reflection, you have to look at the fish. And below the fish, there is the revolving wheel. And there are spokes which the arrow has to pass through. And then, the image, the reflection of that fish in the water is also not still. It is constantly moving up and down. How you imagine the level of difficulty? Still, Drupada was not satisfied with the level of difficulty. Practically, it was impossible for anyone to do this. But even then, Drupada said, we have to introduce one more level of difficulty. What was that? He said, the person has to look at the moving reflection of the fish in the water. He has to shoot the arrow. It has to pass through the revolving wheel spokes. And it should not just hit the fish or pierce the fish. It has to pierce the eye of the fish. So, now, it is next to impossible to do this. Having made this arrangement, now Drupada said, okay, this is the contest. If somebody has to win, he must be really special. That man will definitely be a suitable man to marry my daughter Draupadi.
+
+---
+### Draupadi, Swayamvara, Mahabharata
+**Timestamp:** https://youtu.be/jKtg9J5jVi0?t=1682
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "What happened in that contest in the Swayamvara? Please join us in our next episode to know about this."
+**Summary:** The speaker concludes by emphasizing Draupadi's extraordinary birth and inviting the audience to the next episode to learn about the Swayamvara contest.
+
+Because Draupadi is also not ordinary. She was born not in the ordinary way, but she came out from the fire sacrifice. So, having thought of this, Drupada sent invitations all over the world. Now, what happened in that contest in the Swayamvara? Please join us in our next episode to know about this. Thank you for joining us. Hare Krishna Jagat Guru Shri Ila Prabhupada Ki Jai Netai Gor Premanande Hari Hari Bol!
+
+---
+
+## Mahabharata | Part 16 | Draupadi's Svayamvara
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### Invocation, Prayers, Guru
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Mokam Karoti Vachalam Bangam Langhayate Girim Vyat Krupatha Mahamande Sri Gurum Beena Taranam"
+**Summary:** The lecture begins with traditional Vaishnava prayers and invocations, glorifying the spiritual master and Lord Krishna.
+
+Thank you for watching. Om Adhyana Timranthasya Dhyana Anjana Salakaya Chaksharunni Litam Yena Tasmai Sri Gurudev Namaha Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine Namaste Saraswati Devai Gaudam Namah Avani Pracharhine Nirvishesha Sunyavadi Pashyathya Deshatarhine Jaya Sri Krishna Chaitanya Prabhu Nithyananda Sri Advaita Gadhadhara Sri Vasari Gaurabhattavrinda Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare Mokam Karoti Vachalam Bangam Langhayate Girim Vyat Krupatha Mahamande Sri Gurum Beena Taranam
+
+---
+### Mahabharata, Draupadi's Svayamvara, Prachinabarhi
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=106
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Based on the instructions of their father, the Prachetas then set out on foot towards the Himalayas."
+**Summary:** The speaker introduces the topic of Draupadi's Svayamvara and then narrates the story of King Prachinabarhi and his ten sons, the Prachetas, who were very religious and united.
+
+Welcome back to today's episode of the Mahabharata. In the last episode, as you might all recall, we saw how Drupada had made the arrangements for a near impossible contest, because he wanted the best of the best Kshatriyas to become his son-in-law to gain the hand of Draupadi. So today we will see what happened in that contest and who won the hand of Draupadi. Before we get there, there is an interesting incident which happened during Satya Yoga. Atri Muni is one of the sons of Brahma born from the mind of Brahmaji. In the dynasty of Atri Muni came Prithu Maharaj, who was an incarnation of Lord Vishnu himself. And further down in the dynasty came a king who was known as Barheshath, and later on he was also known as Prachinabarhi. This Prachinabarhi had ten sons, and these sons were very religious, very devoted. And also because this was Satya Yoga, the brothers were all very united and very co-operative, and practically they used to think alike, and there used to be no discord between them on any matters. They used to be very united in all their thinking and in their workings. Prachinabarhi, when these ten sons known as Prachetas, when they had grown up, he wanted them to get married. When the Prachetas, the ten sons of Prachinabarhi, when they received the instruction from their father that this is the time for them to get married, they decided that first we should undergo austerities. We should execute certain tapasiyas to please Lord Vishnu so that we can get a wife of suitable disposition so that the children who are born, the children can be all of good character, great character.
+
+---
+### Prachetas, Lord Shiva, Devotion
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=249
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And when they saw Lord Shiva emerging out of the water, they realized, oh, here is Mahadeva."
+**Summary:** The Prachetas encounter a beautiful lake and Lord Shiva, who instructs them on how to please Lord Vishnu, leading them to offer obeisances.
+
+Based on the instructions of their father, the Prachetas then set out on foot towards the Himalayas. And when they were walking towards the Himalayas, they came across a large water body, almost like an ocean. It was actually a lake, but it was so huge, it was looking like an ocean, but unlike an ocean, the waters of this lake was quite calm, and they saw that this lake was very beautiful. It was filled with lotus flowers; some lotus flowers would bloom during the day, some would bloom during the night, and some like the indigo flowers would bloom during the day, and some like the indigo flowers would bloom during the night. All those lotus would bloom during the evenings. There were also red colored lotuses, there were blue colored lotuses, and then because of all the flowers and the water body, there were different kinds of birds surrounding the lake. There were cranes, there were other kinds of kingfishes, etc., etc., varieties of beautiful birds surrounding the lake and all of them, they did cool down. They were cawing and their sounds filled the atmosphere very beautifully. The Pratyatas also saw surrounding this lake there were huge trees and the foliage was very dense, there were lot of humming bees and like this the forest was surrounded by a forest which was very verdant and looked very beautiful. The Pratyatas were surprised because this place looked practically out of the world and they were captivated by the beauty of this place. And then suddenly from that lake they saw one wonderful personality emerging, golden in complexion, surrounded by various other personalities, sages and rishis who were glorifying him. He had three eyes and this was none other than Lord Shiva. Generally we see in various depictions of Lord Shiva that Lord Shiva's body is blueish in complexion or grayish in complexion. Actually according to the Shastras, Lord Shiva has a golden complexion. Maybe because of smearing ashes over his body probably the complexion could get covered. So this place, this lake was actually the abode of Lord Shiva. They had come to the abode of Lord Shiva which was at the base of Kailasa. They had not realized that. And when they saw Lord Shiva emerging out of the water, they realized, oh, here is Mahadeva. And immediately the Pratyatas, all of them, fell flat on the ground and they offered their obeisances. They fell flat like a stick. And for this kind of obeisance, they offered their obeisances to the Lord Shiva. And the place where you lay prostrate on the ground, entirely spreading your body on the floor, like a stick, is called Dandavat. They all offered their dandavat to Lord Shiva. And Lord Shiva was very pleased by their humility.
+
+---
+### Lord Shiva, Krishna, Mantra, Devotion
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=449
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "simply by chanting the haray krishna maha mantra haray krishna haray krishna krishna krishna haray haray haray by simply chanting this mantra the same effect can also be achieved"
+**Summary:** Lord Shiva instructs the Prachetas on pleasing Lord Krishna with mantras, emphasizing that in Kaliyuga, chanting the Hare Krishna mantra achieves the same result.
+
+Then Lord Shiva started speaking to the Pratyatas. He told the Pratyatas I am aware of who you are, that you are the Pratyatas, the sons, the ten sons of king Prachinabarhi. And I am also aware here for what purpose you have come here seeking to please lord vishnu and by doing various austerities and then lord shiva said all those who are devotees of lord krishna lord vasudeva are very very dear to me and i respect all devotees of krishna on the same level as krishna himself and similarly all devotees of krishna also know that i am a devotee of krishna and therefore they also respect me accordingly so because you are all devotees of krishna and you have come here thinking of engaging in tapasya austerity is to please krishna therefore i want to instruct you about how to please him i want to give you some mantras by chanting which you can please lord krishna vasudeva so the prachetas were also very humble and they were very eager to know about this mantra from lord shiva and they were eager to take his instructions and so lord shiva gave them a mantra which consisted of several verses glorifying lord krishna vasudeva as the creator of the whole universe the proprietor of everything that the the possessor of wonderful energies and qualities etc etc so there is there are a series of uh voices which lord shiva instructed the prachetas to chant in order to glorify lord krishna and to please him in fact even today if we want to become devotees of krishna and we want to please krishna then the same effect that the mantras given by lord shiva to prachetas can be achieved by us also today but it may be difficult for us to chant all those voices which lord shiva instructed the prachetas because there are their too many in number so in kaliyuga in today's age in modern age the same effect the same benefit can be achieved by us simply by chanting the haray krishna maha mantra haray krishna haray krishna krishna krishna haray haray haray by simply chanting this mantra the same effect can also be achieved what the project has got by hearing the mantra and chanting that mantra given by lord shiva and once the predators had received this mantra from lord shiva they were very pleased and they thanked the lord shiva they glorified him and they offered his their obeisances to him again and then lord shiva left the place then all the predators they entered the water of that lake and standing in that lake they started chanting that mantra which had been talked to them by lord shiva and they did this for ten thousand years a very very long period of time so by today's standards nobody can live for ten thousand years but that was satyoga during satyoga the average lifespan of the individual was around hundred thousand years so that's like saying today uh today's people have a lifespan of 100 years so 10 years they spent chanting a mantra and practicing it and and glorifying lord krishna and they achieve perfection it is similar to that so ten thousand years the in the waters of that lake they chanted the mantra given to them by lord shiva
+
+---
+### Lord Vishnu, Marisha, Blessings
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=675
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And the Lord Vishnu chose her to become the wife of the ten prachayatas."
+**Summary:** Lord Vishnu, pleased with the Prachetas' austerities, appears before them and blesses them with Marisha as their wife, a girl born from a sage and an Apsara.
+
+and they pleased lord vasudeva krishna finally pleased by their austerity the supreme lord vishnu appeared before them normally we see that vishnu is possessing four arms and he is decorated with shanka chakra gada and padma with a with the sudarshana disc club or nace and lotus flower and a conch shell these are the four things he carries in his arms but this time the lord showed a special feature of his to the prachetas he came in an eight-handed form so in this eight-handed form the lord was apart from holding the regular shanka gada chakra and padma he was holding in one arm an arrow another arm was holding a bow yet another arm was holding a trident a trishula and another hand was holding a serpent so this ash Steve vila form lord vishnu displayed to the prachetas and then the lord vishnu being very pleased with their austerities he wanted to bless them with a suitable wife and uniquely enough because the brothers were quite happy with their life because they got married and were so united and they understood each other very well and they were very cooperative and they always worked together. The Lord blessed them that I want to bless you with a very qualified wife. And so the Lord informed them that in the past there was one muni called Kandumuni. Now this Kandumuni, he was engaged in various tapasya, meditation and austerities. Now as usual Indra became a little perturbed by the tapasya done by this Kandumuni. So he thought how to break this muni's meditation. Just like he had broken the meditation of Vishwamitra muni by sending Menaka, this time he sent another apsara called Pramlocha. And by this Pramlocha's presence, Kandumuni's meditation was broken and by his association with Pramlocha, a daughter was born. Now the moment the daughter was born, Pramlocha handed over this daughter to the trees in that forest and she left the place. So this forest was actually a forest which belonged to Somadeva, to the moon god. So these trees, they started taking care of this daughter. But after every while, this small girl child, this infant baby girl child, she started crying. Now she started crying because she was hungry. Now the trees, what they can do, how can they take care of this beautiful baby girl child, they were unable to take care of her. So therefore they prayed to their lord who was the moon god, Somadeva, to take care of this girl child. Somadeva taking pity on that baby girl child, he gave this finger to the baby girl child to suck. And because Somadeva is the one who nourishes all the plants and herds and all that . Even today the persons the people, the agriculture which follows the natural forms of agriculture, they understand that the influence of the moon is very beneficial for the growth of the plants. Anything is beneficial for the growth of the plants. So generally they look at times like Poornimuja When the moon is at its peak for plantation and for growth and all those kind of things for the various herbs and plants. Since Somadeva is the source of all nourishment, by sucking his finger, that baby girl got lot of nourishment. And gradually she grew up and she got the name Marisha. And this Marisha, when she grew up, because she was the daughter of a sage and of an Apsara, she was very highly qualified. And the Lord Vishnu chose her to become the wife of the ten prachayatas.
+
+---
+### Polyandry, Marisha, Lord Vishnu, Dharma
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=941
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "But in this case, because Lord Vishnu knew that Marisha was capable of dealing with all the husbands, and she would be able to satisfy all of them in her relations with all of them, in her dealings with all of them"
+**Summary:** The speaker discusses the unusual situation of polyandry, explaining that Lord Vishnu sanctioned Marisha to marry the ten Prachetas because of her exceptional qualities and the brothers' unity.
+
+Now this is a very unique situation. Generally we find that polygyny is generally practiced. Polyandry is hardly heard of. Of course, even today in some hilly areas and all that, if you go towards the Himalayas and all that, in those portions of the country, we can still find some villages this polyandry being practiced. But by and large polyandry is not in vogue. But then in this case, the Lord himself sanctioned this Marisha, one girl, to become the wife of ten husbands, the ten prachayatas. This is because Marisha was highly qualified. She was capable of treating all ten husbands equally. Generally what happens, why polyandry is not encouraged is because the wife has to be equally poised and capable enough to be able to share her heart equally with all the husbands and show no bias or no partiality towards any one particular husband. That is very difficult for a woman. Generally it is easier for a person, whether it is a man or a woman, to focus one's heart on one person. When it has to be shared equally between different people, it's not easy. It is very tough. So generally, even in those days, although polygyny was practiced, one man could marry many wives, but polyandry was generally not practiced. But it is not against the principle of polyandry. It is not an adharmic practice. Only thing is, the girl has to be very highly qualified and capable of being impartial and sharing her heart equally with all the husbands and serving them and engaging in a relationship with all of them equally in such a way that all of them are satisfied with her behavior. This is a very tough act and so therefore generally it is not practiced. But in this case, because Lord Vishnu knew that Marisha was capable of dealing with all the husbands, and she would be able to satisfy all of them in her relations with all of them, in her dealings with all of them, and also because the prachetas were all very united in their thinking and in their behavior and in their cooperative feelings between each of them, there was very little risk of any one of them becoming envious of the others and resulting in a fight between the two. So, that was a very remote possibility and so therefore Lord Vishnu sanctioned this in their case. This is how the 10 prachetas married Marisha.
+
+---
+### Dakshya, Draupadi's Svayamvara, Invitations
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1114
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "This contest was advertised and Drupada invited the kings, the princes from all over the world."
+**Summary:** The narrative shifts back to Draupadi's Svayamvara, mentioning Dakshya's past offense and the invitations sent to various kings and princes, including Duryodhana, Karna, Krishna, and Balarama.
+
+And further they begot children and one of the sons that they begot in her was Dakshya. Dakshya, if you might recollect from what we had discussed in earlier episodes, he had committed an offense at the lotus feet of lord shiva because of which he was killed and then he was brought back to life by lord shiva and then he apologized to lord shiva and he understood his mistake also but still the offense that daksha had committed against lord shiva was great so great that eventually he had to give up that body also and he had to again take birth as a son of the prachayatas to become free from that offense that he had committed at the lotus feet of lord shiva now in the meantime drupada he had thought of this wonderful contest a near impossible contest where the kshatriyas would have to come and the person who is able to pierce the eye of a fish hanging from the top of a long pole below which was a revolving wheel and the fish had to be shot by looking at its moving reflection in a pond of water which was created below the hanging fish, below the pole on which the fish was hung. This contest was advertised and Drupada invited the kings, the princes from all over the world. He sent invitations to Hastinapura also. Then Duryodhana and Karna heard that a Swayamvara is going to get conducted for Draupadi and this Draupadi was exquisitely beautiful. She was known to have been born out of a fire sacrifice. She was an incarnation of Lakshmi Devi. Here she was very intelligent, modest, very chaste and decorated with so many good qualities. Karna and Duryodhana were attracted by her beauty and they both had an intense desire to possess her. Both Duryodhana and Karna also came for the Swayamvara. The invitation went to the Yadavas also and from the Yadavas side Krishna and Dalaran came to the Swayamvara.
+
+---
+### Krishna, Pandavas, Swayamvara
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1268
+**Verse References:** BG 15.15
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So Krishna was aware that the Pandavas have escaped from Varanavata and they are going to come to this Swayamvara of Krishna."
+**Summary:** Krishna and Balarama attend the Swayamvara, aware of the Pandavas' presence and their escape from Varanavata, but without intending to participate themselves.
+
+Krishna and Dalaran were not interested in taking part in the Swayamvara. Krishna and Dalaran came because Krishna being the Supreme Personality of Godhead, Krishna says in the Bhagavad Gita, Sarvasya Chaham Hridesan Nivishtha. He is seated as Paramatma in every living entity's heart. So what is going on in our mind Krishna knows each and every aspect of it. So Krishna was aware that the Pandavas have escaped from Varanavata and they are going to come to this Swayamvara of Krishna. So Krishna wanted to see for himself what would happen in that Swayamvara and so Krishna and Dalaran came to watch what was going to happen, although they had no intention to personally participate in the Swayamvara. Now the news of this Swayamvara reached the viewers of the Pandavas who were going from place to place and they were living in different villages in disguise. When the news reached them, it is natural for Krishna to come to the Swayamvara. So drought started and they started their castles and it started their Far Leave. So drought started and they started their Far Leave. So bad days and so thick leaves came again and so below Hatred and bad days came again and so below. So how did the choice of theltuv and heads get result. How did the choice of theltuv sways and head sets get result because all of them took up Mengadi because they thought Shytiyapparam instead of Phatiyyap trazh varanava. How did the choice of theltuv and head says something else so they finally brought ride And now all the kings had assembled in that Swayamvara. This wonderful arrangement by Dhrupada on that pole with the fish hanging on top of it. And different kings trying to, vying to come and win the hand of Draupadi.
+
+---
+### Draupadi's Svayamvara, Karna, Contest
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1374
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "When Draupadi saw this, Draupadi did not like that her hand should be won by Karna."
+**Summary:** Princes fail in the contest, Duryodhana fails, Karna steps forward, but Draupadi dislikes the idea of marrying Karna.
+
+Different princes came forward. They tried. All of them were failing. Who can do this? Looking at the moon reflection of a fish and shooting the arrow without directly looking at the fish through the revolving spoke of a wheel and piercing the eye of the fish. Who can do it? Practically nobody can. So one after the other princes were trying. Each of them was failing. Then finally Duryodhana came forward. Even Duryodhana failed. Then Karna stepped forward. Karna was very confident that I am definitely going to do it, because Karna was a highly qualified archer. When Draupadi saw this, Draupadi did not like that her hand should be won by Karna, because there was a very good possibility that Karna could achieve the target. And Draupadi was not at all inclined towards marrying Karna. She was not. She had heard about Karna. And although in modern days Karna is, he is portrayed as a very virtuous and very great noble person, and that he was a victim of his circumstances. That's the narrative we see today. But in reality Karna was not all that great a person. In fact he had very ignoble traits also which we will see as we go forward.
+
+---
+### Karna, Draupadi, Caste, Choice
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1464
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So immediately, Draupadi thought of a thing and she immediately announced that I don't want to marry the son of some charioteer."
+**Summary:** The speaker explains that Draupadi rejects Karna based on his social status as a charioteer's son, emphasizing the girl's final decision in the Swayamvara.
+
+Karna, why Karna is so much glorified is because of his charitable disposition. Actually being charitable was a given thing in those days. In today's world being charitable may be a very great qualification. But in those days every Kshatriya was expected to be charitable. Every Grihastha, every man, family man was expected to be charitable. It was a given thing. So there were many Asuras like Hirani Kshatriya, Hirani Kashyapu and Jarasandha. They were great Asuras. They were also very charitable. Ramana was also very charitable. But so being charitable was not considered a very great qualification in those days. In today's world it's different. So when we look at it from the prism of today's culture, it may appear as if Karna was a great person. But when we look at it from the vision of the culture of those days, Karna was not a great person. She was not such a great noble person. So Draupadi was not attracted by the qualities of Karna. So she did not like that her hand should be won by somebody like Karna. So she thought how do I escape from this? Ultimately it is her choice. She has to be willing to marry whoever her prince is there, for bringing out a highly qualified person who will be capable of marrying her. So Draupadi thought, how should I escape from this situation? Her father has also given his word that if somebody wins in the contest, he will give Draupadi's hand in marriage to that person. And she was also agreeable for that. But at the same time, she did not want her father's promise to become false. And at the same time, she wanted to escape from marrying somebody like Karna, who was not of such great character. So immediately, Draupadi thought of a thing and she immediately announced that I don't want to marry the son of some charioteer. I want to marry some highly elevated prince, some king. Not some charioteer, some ordinary person will come and win my hand. I don't want to marry some charioteer's son. Like this she announced. And because... Because the Swayamvara is for the girl and the girl's decision is final. So everybody respected that decision. It had to be followed. So Karna had no choice. He could not protest. And so he felt very insulted, as if like a snake has been trampled upon its head. He felt like that. But there was nothing he could do, because after all, the girl's choice prevails over everything else. It is her life.
+
+---
+### Arjuna, Draupadi, Swayamvara, Caste
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1642
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So you can see that the excuse of his caste, Karna's caste was simply applied by Draupadi to avoid Karna winning her hand."
+**Summary:** Arjuna, disguised as a Brahmana, steps forward, and Draupadi allows him to participate, using Karna's caste as an excuse to prevent him from winning.
+
+And so, therefore, Karna could not say anything and he went and sat back in his seat. Now, everybody, practically everybody in that assembly had tried their hand and everybody had failed. And Krishna and Dalaram were watching this whole thing and they were smiling. And Krishna and Dalaram also noticed the Pandavas sitting in disguise in that assembly. But they did not reveal that they had recognized the Pandavas. Then Arjuna, in disguise, as a poor Brahmana, he said, but he cannot stop Karna. So, Karna came forward. And gentlerly Pala 199In~!! Karna came forward and took up the bow. Now, although, in comparison, to Karna . Karna was called the king of Anga. Angadeshai is ! So, that kingdom was conferred upon him by Duryodhana. So, stock drawings discussed the auto-subs is it borrow in. So chalk timers saw this digest of the magic . So, dark colors are Obviously look famous based on the this guy for coming to cover the pyramid, but we started talking. This is these guys for coming. This brother . Draupadi did not stop him because she thought if it is a brahmana he will definitely be a qualified person. So I don't mind but not Karna because his character is not appreciable. So you can see that the excuse of his caste, Karna's caste was simply applied by Draupadi to avoid Karna winning her hand. And like we have discussed earlier also in those days the varnashama system because of the following of the marriage of the boy and the girl. Within the caste and following the garma dana samskara generally in a shudra's house a shudra will be born, kshatriya's house a kshatriya will be born, a vaisya's house a vaisya will be born and a brahmana's house a brahmana only will be born. So because of those prevailing conditions also Draupadi could put forth that excuse saying that I don't want to marry a charioteer's son.
+
+---
+### Arjuna, Victory, Conflict
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1774
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And it struck the fish right in its eye. And Draupadi was won."
+**Summary:** Arjuna successfully completes the challenge, winning Draupadi's hand, which leads to an uproar and conflict with the other kings.
+
+So Arjuna came forward. And he picked up the bow, fixed the arrow to his bow and then he bent down looking at the reflection of the fish in the water. And then looking at the moving reflection of the fish in the water Arjuna fixed his arrow to the bow and aimed it at the fish in the top of the pole. Now everybody there were thinking. That such big big kshatriya's could not do it. How can this brahmana do it? But anyway we have all failed. Let him try. Let us see what happens. And then Arjuna took a careful aim. He pulled back the arrow on the bow. And the string had become taut. And Arjuna carefully looked concentratively at that moving image of the fish. And then after a long pause. Arjuna had pulled the arrow fully back. Then he released it. And the arrow sprung forth from his bow. And it shot forward. And it zipped upward. And it crossed that revolving wheel. And it went further up. And it struck the fish right in its eye. And Draupadi was won. And there was an uproar in the assembly. Nobody had expected this. Immediately all the kings stood up. And they said no no no no. This is unacceptable. This invitation was for all the kshatriya's and kings. How can some poor brahmana come and take away the hand of Draupadi like this. We will not allow this. And Duryodhana and Karuna especially. Because Karuna was really furious at that time. How she had been insulted and not allowed to take part in the ceremony. So Karuna who was part of the assembly was killed in the eating ceremony. So all of them put their arms and started fighting against Arjuna, not knowing that it was Arjuna. Arjuna all alone. Very easily he fought them off with his arrows. And then all the kings saw that they were not able to defeat him. They all backed away. And they kicked the assembly. And like this Draupadi was handed over to Arjuna in disguise.
+
+---
+### Kunti, Draupadi, Polyandry, Dharma
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=1922
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Mother, we have brought a wonderful gift for you today. We have got a great, excellent gift for you today."
+**Summary:** The Pandavas return to Kunti, who unknowingly instructs them to share the gift (Draupadi) equally, leading to a dilemma about polyandry and Dharma.
+
+And now.. Pandavas having won the hand of Draupadi, Arjuna having won the hand of Draupadi, they all went back to the place where they were staying. Actually Kunti Devi had not accompanied the Pandavas. So the moment the Pandavas came back to their house where they were staying, Yudhishthira approached Kunti Devi and very joyfully he told Kunti Devi, Mother, we have brought a wonderful gift for you today. We have got a great, excellent gift for you today. So she was very joyfully hearing and announced to Kunti Devi. Kunti Devi did not see what was that gift. She immediately told, instinctively, spontaneously she told Yudhishthira, Oh is that so? All five brothers of you, you all share it equally amongst yourselves. The brothers were shocked. And then Yudhishthira brought forward Draupadi and he told Kunti Maharani, Mother, this is the gift I was talking about. Now Kunti Devi said, My God, what have I said? Oh, I should have known that. First I should have understood what was the gift you were talking about. I did not know that you have brought Draupadi. And I have told that Draupadi should marry all five of you brothers. How can this be possible? This is not according to the principles of Dharma. How can one girl marry five brothers? What were the men? What did the society talk about? So like this they were put in a quandary. But then the sons were also bound by the words of the mother. And the Yudhishthira and the other Pandava brothers, they sat down and they said, No mother, you have ordered that we have to divide it equally. We have to marry, all five of us have to marry. There is no choice. What we have spoken cannot become, we cannot allow it to become false. Your instruction is, your wish is our command. So you can see from this, how much value, how much respect a woman was given in the Vedic times. Generally we think that women are oppressed and suppressed in Vedic culture. Mother has spoken something, out of some instinctively, spontaneously, she didn't really mean it. But the sons have taken it as their command. She was totally upset. She said, No, no, no, no. How can this happen? What will people talk about us? So, some sages and vishis and understand what to do.
+
+---
+### Sages, Prachetas, Dharma, Polyandry
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=2074
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And when they consulted the sages, the sages smiled and they said, No, this is not at all adharmic."
+**Summary:** Sages are consulted and they explain that polyandry is not adharmic, citing the example of the Prachetas and Marisha, and Kunti's order is followed.
+
+And when they consulted the sages, the sages smiled and they said, No, this is not at all adharmic. And they narrated the example of the prachetas. How the prachetas were directed by the Supreme Lord Himself, the protector of Dharma, the father of Dharma, Lord Vishnu Himself. When they went to meet the sages, when they were told that Maarishad should marry all the 10 sons of Prac Ihnenaraghe known as the prachetas. So they said this is not against the principles of Dharma. Only it is uncommon because to find such a highly qualified girl who can maintain her relationship equally with all her husbands is very difficult and so therefore this is uncommon that's all. The five husbands equally and so this is not against the principles of Dharma. So, therefore, this can, Kunti Devi has ordered, should definitely be followed. And so, like this, the Pandavas married, all the five brothers married Draupadi. Now, the Pandavas were still incognito, but having now married Draupadi, Drupada has become their father-in-law. So, they could not hide the matter from him. And so, they divulged to Drupada and to their family members that they are actually the Pandavas and they have escaped from the fire of Varanavata. When Drupada came to know of this, he was so happy. It was his heart's desire that his daughter Draupadi and his daughter also had wanted to marry Arjuna. And so, finally, the Pandavas have, it has come to pass that actually the Pandavas only have married Draupadi. Now, the Pandavas, their disguise is opened up. They can no longer carry on their disguise. So, now, what was the reaction in Hastinapura when they came to know about this? Please join us in our next episode to know about this. Thank you very much. Hare Krishna. Jagat Guru. Srila Pravupada. Kiri Jai. Nithai. Gaur. Premanande. Hari. Haribol.
+
+---
+### Pandavas, Draupadi, Drupada, Hastinapura
+**Timestamp:** https://youtu.be/fdMmTeYtYuY?t=2206
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "So, now, what was the reaction in Hastinapura when they came to know about this?"
+**Summary:** The Pandavas reveal their identity to Drupada, who is delighted, and the episode concludes by teasing the reaction in Hastinapura to the news.
+
+The Kunti Devi has ordered, should definitely be followed. And so, like this, the Pandavas married, all the five brothers married Draupadi. Now, the Pandavas were still incognito. They could not hide the matter from Arjuna. They were still incognito. But having now married Draupadi, Draupada has become their father-in-law. So, they could not hide the matter from him. And so, they divulged to Draupada and to their family members that they are actually the Pandavas and they have escaped from the fire of Varanavata. When Drupada came to know of this, he was so happy. It was his heart's desire that his daughter Draupadi. And his daughter also had wanted to marry Arjuna. And so, finally, the Pandavas have, it has come to pass that actually the Pandavas only have married Draupadi. Now, the Pandavas, their disguise is opened up. They are, they can no longer carry on their disguise. So, now, what was the reaction in Hastinapura when they came to know about this? Please join us in our next episode to know about this. Thank you very much. Hare Krishna. Jagat Guru. See you. Bye.
+
+---
+
+## Mahabharata | Part 17 |  Indraprastha  The New Pandava Land
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### Dharma, righteousness, ethics
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=479
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "If it is against the principles of Dharma, it doesn't matter whether Drupada is my enemy or my friend. You cannot do it. That's all."
+**Summary:** Dronacharya rebukes Karna and Duryodhana for plotting an unrighteous attack on Drupada, demonstrating his commitment to Dharma even towards his enemy.
+
+And he was not averse to moving away from the path of Dharma. Now, somehow or the other, Dronacharya came to know that Karna and Duryodhana were plotting like this. The moment Dronacharya heard this, he called both Karna and Duryodhana, and he rebuked them very severely, and he warned them against taking such an adharmic, unrighteous, irreligious step. So, we can see here how Dronacharya had an enmity with Drupada. We have seen that earlier. But still, when Karna proposed to Duryodhana to surreptitiously, to clandestinely attack Drupada in an unrighteous manner, against the codes of warfare, against the codes of Dharma, and take him hostage, Dronacharya opposed it very heavily. He was opposed to it because this was against the principles of Dharma. From this, we can see the character of Dronacharya also. How, from the beginning, he was so righteously situated. He could have very easily thought, 'Drupada is my enemy only, let them go and catch him. Good.' But no, he said, 'If it is against the principles of Dharma, it doesn't matter whether Drupada is my enemy or my friend. You cannot do it. That's all.' If in a righteous way, if you are going and capturing him, that Dronacharya is not going to do it. Dronacharya was quite, you know, he was happy with that. And that's how Arjuna went and defeated Drupada in the first place, and he brought him. He captured him and brought him as in a rightful manner. He went and challenged him in an open warfare, fought with him, and in a righteous way, he defeated him and captured him and brought him, which pleased Dronacharya a lot. But this kind of incorrect way, in a way which was opposing the principles of warfare, to attack Drupada and to capture him was not approved of by Dronacharya. This again, demonstrates the noble character of Dronacharya.
+
+---
+### humility, respect, duty
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=614
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "You see how the Pandavas are so humble. They are of such wonderful character."
+**Summary:** The Pandavas, having revealed themselves, return to Hastinapura and, despite their right to the throne, humbly request Dhritarashtra for land to rule, showcasing their respect and understanding of his attachment to the throne.
+
+Being rebuked by Dronacharya heavily like this, Karna and Duryodhana gave up that plan. The Pandavas now, they also understood, now that our cover is blown, now that we cannot continue to remain incognito, they decided that, okay, let us go back to Hastinapura. Anyway, everybody has come to know that we are alive and that we have escaped Varanavata. So, no point in continuing to try to remain incognito. So, let us go back to Hastinapura. Now, anyway, the Pandavas had also gained in confidence. They had won Draupadi as their wife. Drupada naturally had become their ally because he was now their father-in-law. So, they also got a little confidence, the Pandavas, and so, they came back to Hastinapura. When they came back to Hastinapura, they were very well received. Bhishma Dev was extremely happy. Dronacharya was also very glad to know that his dear disciple Arjuna, as well as the rest of the Pandavas, have not died, but they are still alive and Vidura, of course, was naturally very happy. Although, he was aware that the Pandavas had escaped, still, he was very happy to see them come back to return to Hastinapura. Gandhari was also very happy. Dhritarashtra, Karna, Duryodhana, although, externally, they showed as if they were happy that the Pandavas had come back, still, internally, they were all boiling. Oh, my God! What to do? Our plan failed. Somehow, the Pandavas have escaped. Now, having coming back to Hastinapura, the Pandavas thought, they discussed amongst themselves. They felt that they had now sufficiently grown up and they were capable of taking the reigns of the kingdom. Thinking like this, Yudhishthira and all his other younger brothers, they approached Dhritarashtra because Dhritarashtra was looking after them and he was practically like a father to them. Yudhishthira and the Pandavas approached Dhritarashtra and they submitted very humbly before him, that, uncle, we have now grown up and as Kshatriyas, it is our duty to rule over kingdom. So, therefore, we are humbly requesting you to give us some piece of land to rule over. You see how the Pandavas are so humble. They are of such wonderful character.
+
+---
+### righteousness, leadership, Dharma
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=758
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Everybody was looking forward to Yudhishthira becoming the emperor because everybody knew with his ascension to the throne, there would be lot of welfare activities for the citizens."
+**Summary:** The speaker elaborates on Yudhishthira's rightful claim to the throne and his exceptional qualities, highlighting his righteousness and the widespread desire among the citizens and elders to see him as emperor.
+
+Actually, the throne of Hastinapura was their rightful property by the rules of the way, Pandu had become the emperor and naturally his children and especially because Yudhishthira was elder to Duryodhana too, Yudhishthira got the right to ascend to the throne. The Pandavas could have very well gone and demanded, 'O Dhritarashtra, O uncle, now we have grown up, please step down from the throne and hand over the throne to us.' There would have been nothing wrong in that. But the Pandavas refused. The Pandavas were very sensitive to Dhritarashtra's feelings. They knew that he was too much attached to the throne and therefore, they did not outrightly demand to occupy the throne of Hastinapura. On the other hand, they humbly submitted, 'Please give us some kingdom to rule over.' Now, what should Dhritarashtra have done? Dhritarashtra should have immediately accepted, put Yudhishthira on the throne and he should have stepped down, especially when he knew Yudhishthira was very popular amongst the citizens. Even Bhishma Deva, Dronacharya, all the elders, including Vidura, they all wanted to see Yudhishthira sit on the throne because Yudhishthira was very very renowned for his righteous approach and his determination to follow Dharma. He had never uttered a lie in his life. Such was the stature of Yudhishthira. Everybody was looking forward to Yudhishthira becoming the emperor because everybody knew with his ascension to the throne, there would be lot of welfare activities for the citizens.
+
+---
+### gratitude, humility, sacrifice
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=880
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Yudhishthira did not complain. He did not object. He did not express any reservation. He folded his hands and he accepted whatever Dhritarashtra had given."
+**Summary:** Despite Dhritarashtra's manipulative offer of a barren land (Khandava Prastha) instead of the throne, Yudhishthira, driven by gratitude and respect, accepts the offer without complaint, demonstrating his exceptional character.
+
+And there would be lot of prosperity in the kingdom and all the citizens could expect plenty of guidance on the path back to Godhead on the spiritual path. So, everybody was looking forward to Yudhishthira's becoming the emperor. And so, Dhritarashtra was well aware of all this. He should have stepped down and made Yudhishthira the emperor very honorably. But what did Dhritarashtra do? The moment the Pandavas came and submitted humbly before them, Dhritarashtra told them, 'Oh, yes, yes, Yudhishthira, you have to now become the king. So please come, sit down, I will coronate you, I will make you the king.' And then what did he do? He called all the priests, everybody made the rituals and he said, 'Now I am Dhritarashtra. Now I am declaring that you are the king of Khandava Prastha.' Instead of making Yudhishthira the emperor of Hastinapura, he handed over a barren piece of land, a forest land over to Yudhishthira and told him, 'You become the king of this land.' It was practically uninhabited. There were no people. There was only a forest and with some patches of open spaces, which Dhritarashtra very gently said, very generously handed over to Yudhishthira. Now Yudhishthira and the Pandavas could have very well objected. They could have said, 'No, no, no, what is this? You are giving us Khandava Prastha, useless piece of land. We have to rule over means, ruling over is not some just piece of land. You need citizens. You need human beings. Give us some other city or some other state or some other kingdom.' They could have very well asked. But then Yudhishthira, he was a person who had a lot of gratitude. He had a lot of gratitude in his heart, which is again a great quality to be found in Yudhishthira. He thought, 'No, Dhritarashtra is practically like our father. He has reared us. He has brought us up. He has protected us when we were children and there was nobody to take care of us and we were very, very vulnerable at that age. He took good care of us. So therefore, whatever he says, he is like whatever my own father is ordering me. If my father, Pandu, were to order me today to go to Khandava Prastha, would I not go? I would definitely go.' And so therefore, Yudhishthira did not complain. He did not object. He did not express any reservation. He folded his hands and he accepted whatever Dhritarashtra had given.
+
+---
+### devotion, establishment, historical context
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=1026
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And this Indraprastha city is nothing but modern day Delhi."
+**Summary:** The Pandavas move to Khandava Prastha, build a city called Indraprastha (modern-day Delhi), and establish a fort, the remnants of which are believed to be the Purana Killa.
+
+And so like this, the Pandavas shifted to Khandava Prastha. So they came to Khandava Prastha in a place where there was a little, it was not such a densely wooded area, on the banks of the Yamuna. And they slowly built a small city. And because this Khandava Prastha was under the control of Indra, they called this place Indraprastha city. And this Indraprastha city is nothing but modern day Delhi. Even today, if you go to Delhi, next to the Red Fort, there is the Purana Killa. And this Purana Killa, it is said that originally, it was a fort built by the Pandavas. Of course, the fort was built 5000 years ago and naturally over a period of time, it would have fallen into ruins and many times it was again and again, renovated by later kings. But originally, that is the spot where the Pandavas built the fort of theirs. When they came and settled in, Indraprastha, which is modern day Delhi.
+
+---
+### devotion, community, Krishna consciousness
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=1125
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Vishnu Bhakto Smruto Daiva Asuras Tad Viparyayaha"
+**Summary:** The Pandavas establish Indraprastha, attracting people and inviting Lord Krishna to stay with them, while the speaker explains the Vedic definition of Sura and Asura based on devotion to Vishnu.
+
+And gradually, the news spread. People came to know that, oh, the Pandavas have got a new kingdom. They have formed a new city called Indraprastha. It is on the bank of the Yamuna. So slowly people started coming. They started settling in and slowly the city started growing. And the Pandavas are great devotees of Krishna. They are great devotees of the Supreme Lord. So therefore, the moment they established this city, they invited Lord Krishna to come and stay for a few days with them. And so Lord Krishna also, being bound by the love and affection of his devotees, the Pandavas, he accepted their hospitality and Lord Krishna also came to stay with them for a few months in Indraprastha. When the Pandavas were staying in Indraprastha like this, Agnidev took advantage of this and he approached Lord Krishna and Arjuna and he requested them. He informed them of his position that he was suffering from some ailments and he wanted to consume all the herbs in that forest of Khandava for which Indra was not allowing. So he requested their help. Now, Agnidev is also a great devotee of Lord Krishna. Actually, all the Devatas are devotees of Lord Krishna. In the Shastra it is said, Dvav Bota Sargav lokes Dvav Bota Sargav lokes means Daiva Asura Evacha Vishnu Bhakto Smruto Daiva Asuras Tad Viparyayaha Broadly speaking, there are two kinds of living entities in this world. One is called a Sura, another is called an Asura. Who are called Asuras and who are called Suras?
+
+---
+### devotion, Vedic knowledge, Krishna consciousness
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=1232
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Anyone who is not a devotee of Vishnu, is called an Asura."
+**Summary:** The speaker clarifies the Vedic definition of Asura and Sura, emphasizing that devotion to Vishnu defines a Daiva, while lack of devotion defines an Asura, and illustrates Agnidev's devotion through the gifting of the Sudarsana Chakra.
+
+Generally, when we hear of the term Asura in the Puranas and the Vedas, we think Asura means, having two horns and fearful teeth like a tiger or a lion with two canine teeth protruding out of his mouth, very black in complexion, big thick eyebrows and different kind of dress, looking very fearsome. That's generally what we think when we hear the word Asura. But the definition given in the Vedas is something else. The Vedas says that, Vishnu Bhakto Smruto Daiva Those who are devotees of Lord Vishnu, are all called Daiva. Asuras Tad Viparyayaha Anyone who is not a devotee of Vishnu, is called an Asura. This is the definition given in the Vedas. Agnidev being a Devata, he is also a devotee of Lord Krishna. And when Krishna descended to this planet, Agnidev had gifted him the Sudarsana Chakra. Now, one may question, that means to say, before Krishna incarnated, Krishna did not possess the Sudarsana Chakra? That is not true. Sudarsana Chakra is eternally a weapon of the Supreme Lord Krishna. Then how do we understand this? This is just like the example given of how one worships Ganga Devi. In worshipping Ganga Devi, what do we do? We go, take a dip in Ganga, take a little water, we cup our hands, and take a little water of the Ganga, and we offer some mantras in her glorification, and then we offer the same water of Ganga back to Ganga Devi. And this is the way of worshipping Ganga Devi. So, the water is taken from Ganga Devi only, and you are offering it back to Ganga Devi. That's the way of offering, that's the way of worshipping Ganga Devi. Similarly, Sudarsana Chakra is always the weapon of the Supreme Lord Krishna. But, when the Lord incarnates in this material world, Agnidev presents that same Sudarsana Chakra back to Krishna. And in this way, he worships Lord Krishna.
+
+---
+### devotion, divine assistance, Krishna's plan
+**Timestamp:** https://youtu.be/fqpvfRppofY?t=1370
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "And so, Arjuna, because he is a devotee of Lord Krishna, and when he saw that Krishna wants to help Agnidev, he also got ready and he said, Yes, I will also come with you, and I will also help you to consume the Khandava forest."
+**Summary:** Because of Agnidev's devotion to Krishna, Krishna is inclined to help him consume the Khandava forest, and Arjuna, seeing Krishna's desire, joins in, leading to Krishna becoming Arjuna's charioteer for the first time.
+
+So, because Agnidev had gifted Lord Krishna that Sudarsana Chakra, and because he was a devotee of Lord Krishna, Lord Krishna was inclined to help Agnidev in his consumption of the Khandava forest. And so, Arjuna, because he is a devotee of Lord Krishna, and when he saw that Krishna wants to help Agnidev, he also got ready and he said, 'Yes, I will also come with you, and I will also help you to consume the Khandava forest.' And so, therefore, Krishna for the first time became the charioteer of Arjuna. And Arjuna took up his bow and arrow, and he sat on the chariot, and along with Agnidev, they set out to the forest portion of Khandava Prastha. Now, Indradev was opposed to Agnidev consuming the Khandava Prastha forest. So, when Agnidev set out to consume the Khandava Prastha forest, along with the support of Krishna and Arjuna, what was the response from Indra and what happened there? Please join us in our next session of the Mahabharata to know about this. Thank you. Jagat Guru Shri Ila Prabhupada ki Jai. Nitaayegur Pemananda. Hari Hari Bol.
+
+---
+
+## Mahabharata | Part 3-Amba's story & Satyavati's dilemma solved | His Grace Suvyakta Narasimha Dasa
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### time, cycles, power
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=330
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "You can understand how much more powerful Kartavirya Arjuna must have been to dismiss Ravana like that."
+**Summary:** HG Suvyakta Narasimha Dasa begins with a recap of the previous episode and then delves into a description of the Yugas, focusing on Treta Yuga and the story of Ravana's encounter with Kartavirya Arjuna, highlighting the latter's immense power.
+
+Hare Krishna! Welcome back to the next episode of the Mahabharata. A quick recap of the last episode. In the last episode, we saw how Vichitra Miria, after marrying Ambika and Ambalika, passed away. And now, his mother, Satyavati, is making some arrangements through his step-brother to conceive children in Ambika and Ambalika so that there could be suitable successors to the throne. We also saw that Amba refused to marry Vichitra Miria, although her two sisters married Vichitra Miria. Today, we will look at these two things: why Amba refused and what happened after her refusal to marry Vichitra Miria. And we will also see what were the arrangements. Before we get there, today we want to first take you a long time back in history, a time known as Treta Yuga. The age in which we are all currently living is called Kali Yuga. This Kali Yuga, as per the Vedas, lasts for 432,000 years, out of which, currently we have roughly past almost 5,000 years. The age previous to Kali Yuga was called Dwapara Yuga. And this Dwapara Yuga lasted for twice the time period of Kali Yuga, which is 864,000 years. And the age previous to Dwapara Yuga was Treta Yuga, which lasted three times that of Kali Yuga. So, the duration of Treta Yuga was 12,096,000 years. And the age previous to that was called Sathya Yuga, which was four times the duration of Kali Yuga. And so, that comes to about 1,728,000 years. So, these 4 Yugas put together constitute one Mahayuga. And in Vedic Knowledge it is understood that time goes always in cycles. That means, the Mahayugas keep repeating. And after this Kali Yuga, next again Satya Yuga will come. Then Treta Yuga, Dwapara Yuga, Kali Yuga. Then again Satya Yuga, Treta Yuga, Dwapara Yuga. Like this, the time goes in cycles according to the Vedas. Now, in Treta Yuga, that was the time when Ravana was trying to establish his supremacy over the world. Ravana was on a tour of Digvijaya, trying to conquer all the kings and subjugate them under him. While travelling like this, he came to the banks of the Narmada and he set camp there. And on the banks of the Narmada, a little further was a place known as Mahishmati. Don't worry, today I'm not going to relate the story of Bahubali because in that movie, that was a fictitious story. It was a fictitious place. We are talking about the real Mahishmati, which is today known as Maheshwar in Madhya Pradesh. That place is there even today. And this Mahishmati was being ruled over by a king at that time by name Kartavirya Arjuna. This Kartavirya Arjuna, he had worshipped Dattatreya, an incarnation of the Supreme Lord. And by his benediction, he had got 1000 alms. While Ravana was Dasagriva, he had 10 heads. Kartavirya Arjuna had 1000 alms. This Kartavirya Arjuna, while Ravana was setting camp on the banks of the Narmada, Kartavirya Arjuna came to sport in the waters of the Narmada along with his queens. And while playing in the waters of the Narmada, very playfully with his alms, he stopped the flow of the water of the Narmada. Because of that, what happened? The water flooded into the camp of Ravana. And Ravana was very arrogant. He was very puffed up because of his immense prowess. He was so powerful that even the devatas would tremble in front of him. Naturally, when he saw that his whole camp had got flooded with water, he got angry. And he said, what is this? Why this flooding has happened? And somebody told him that there is this Kartavirya Arjuna and he has stopped the flow of the water of the Narmada because of which our camp has got flooded. Ravana got extremely angry. He said, I will teach this fellow a lesson. And he sought out Kartavirya Arjuna. And when he saw Kartavirya Arjuna there on the Narmada with all his queens, he started insulting him before then. Kartavirya Arjuna could not brook this insult, especially in front of all his queens. So, what did Kartavirya Arjuna do? Nonchalantly, he captured Ravana as if he was nothing. And he dragged him into the Mahishmati fort. And then, after insulting him like this, he said, after all, what is Ravana? He is nothing. He is nobody. He is a persona non grata. He is an inconsequential person. He said, alright, go. Like that, he sent him away. You can understand how much more powerful Kartavirya Arjuna must have been to dismiss Ravana like that.
+
+---
+### envy, incarnations, divine power
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=677
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "This was Parashurama, an incarnation of the Supreme Personality of Godhead."
+**Summary:** The lecture continues with the story of Kartavirya Arjuna's encounter with Jamadagni Muni and his Surabhi cow, leading to Parashurama's appearance and a discussion on different types of incarnations.
+
+So this Kartavirya Arjuna, while once he was roaming in the forests surrounding Mahishmati, he came across a hermitage of a sage known as Jamadagni. So this Jamadagni sage, he happened to have a Surabhi cow. A Surabhi cow is a celestial cow, which of course nowadays you don't find. It's not very commonly seen. It's a very rare celestial cow, which Jamadagni Muni happened to possess. This Surabhi cow's speciality is such that any desire you go and express before the Surabhi cow, it will immediately fulfill that wish. It was a Kamadhenu, wish-fulfilling cow. When Kartavirya Arjuna saw this, he became very envious. He was himself very puffed up and arrogant because of his prowess. He was so powerful that even Ramana was nothing in front of him. So he thought, I am the king here. So everything that is best in the kingdom belongs to me. And so by force, he grabbed the Surabhi cow and took it away with him. And Jamadagni Muni, being a simple Rishi, there was nothing much he could do to protest. And so he kept quiet. After a short while, Jamadagni Muni's son who had gone to the forest returned and when he heard this news, Jamadagni's son became very angry. He became infuriated. That how can somebody do this to a sage? This king has lost his senses. He needs to be taught a lesson. So, he immediately picked up a bow and a quiver of arrows and a shield to protect himself and his personal weapon called the Parashu. It was an axe. By now, you must have guessed who this is. This was Parashurama, an incarnation of the Supreme Personality of Godhead. There are different types of incarnations. Vishnu himself is an incarnation known as Purusha Avatara. Generally, people think Vishnu is the source of all incarnations. But the reality is, according to the Shastras, Vishnu himself is an incarnation known as Purusha Avatara. And there are three forms of Vishnu: The Maha Vishnu or Karanodaka Sai Vishnu, Garbhodaka Sai Vishnu and Shirodaka Sai Vishnu or the Paramatma. These are the three forms of the Purusha Avatara or the Vishnu. Then, there are Shakti Avesha Avataras, living entities who are empowered to carry out some superhuman activities. Like, for example, Vyasadeva is a Shakti Avesha Avatara. He is the literary incarnation of the Supreme Personality of Godhead. And he compiled the entire Vedas, which is humanly impossible for one person to do. But he did it because he was an incarnation of the Supreme Lord. He was empowered. He was empowered by the Supreme Lord to carry out this task. Similarly, Prithu Maharaj was another Shakti Avesha Avatara. And Narada Muni is another Shakti Avesha Avatara to spread devotional service. So, this is one kind of incarnation. Then, there are Yuga Avataras. For each Yuga, Satya Yuga, Dvapara Yuga, Treta Yuga, Akal Yuga, there is one special Avatara for each of those ages, which is known as Yuga Avatara.
+
+---
+### incarnations, divine plan, knowledge
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=871
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "What kind of incarnation do you think Parasurama is?"
+**Summary:** The speaker continues listing different types of incarnations, including Leela Avataras and Manvantara Avataras, and then poses a question to the audience about the type of incarnation Parashurama is.
+
+Then, there are Leela Avataras, incarnations that the Lord takes to exhibit some specific pastime. Like, there is the incarnation of the fish, Matsya Avatara. Or there is Kurma Avatara, the incarnation of the tortoise. These are all Leela Avataras. Then, there are Manvantara Avataras. In the... There are different Manus. And Manu is the name of a post. And different people occupy this post. Generally, the term of one Manu will be approximately seventy-one and a half Mahayugas. So, that's the duration of one Manu. So, like that, there are many, many Manus who come during the duration of the life of Brahma. Therefore, these are called Manvantara Avataras. Like this, there are many, many incarnations. So, one question for all of you: What kind of incarnation do you think Parasurama is? Type your answers into the comments.
+
+---
+### divine power, devotion, battle
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=943
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Such was the prowess of Parasurama that that highly powerful Kartavirya Arjuna, who very easily defeated Ravana, even he was no match for Parasurama."
+**Summary:** The lecture narrates the battle between Parashurama and Kartavirya Arjuna, emphasizing Parashurama's incredible power and revealing him to be a Shakti Avesha incarnation.
+
+In the box, in a short while, we will let you, you will come to know what kind of Avatara Parasurama is. So, this Parasurama, he set out on foot with just this one bow, a quiver of arrows, a shield and one axe. And within a short while, he caught up with Kartavirya Arjuna's team. And they were entering the fort of Mahishmati. And when Kartavirya Arjuna saw this brilliant personality coming in the distance, he could make out that this must be Jamadagni's son, Parasurama. And he must be coming to fight with me to take back the Surabhi cow. So, what did Kartavirya Arjuna do? Kartavirya Arjuna sent his army to tackle Parasurama. Parasurama was all alone. And the army in those days used to consist of something known as an Akshauhini or a phalanx, which consists of 21,870 chariots pulled by horses, an equal amount of elephants, then an additional 109,650 infantry, and to top it all, 65,600 cavalry. All these put together constitutes one Akshauhini. Now, imagine how many Akshauhinis Kartavirya Arjuna would have sent to deal with one single person, Parasurama. Maybe quarter Akshauhini could have done the job. Maybe half an Akshauhini. Or, imagine. Is there even one Akshauhini? Kartavirya Arjuna sent 17 Akshauhinis to deal with Parasurama. And what happened? It is described that when Parasurama came across the 17 Akshauhinis of the army, he started fighting with them at the speed of the mind. Now, imagine the speed of the mind. If I say New York now, immediately your mind will transport you to New York. And if I say London, immediately... Immediately, your mind will be in London. That's the speed at which the mind travels. Within a fraction of a second, the mind can travel thousands of kilometers. Parasurama started fighting at the speed of the mind. And left, right and center, there were hands, legs, severed heads, and there was a river of blood flowing. And the Vedas state that after some time, Parasurama started fighting at the speed of the wind. Now, speed of the wind is lower than the speed of the mind. But still, the speed of the wind is also no less. Why would Parasurama switch over to a lower speed? Because after fighting for some time at the speed of the mind, Parasurama felt a little tired. So, he reduced his speed to the speed of the wind, which is, again, no less. And within a short time, he completely routed the army of Kartavirya Arjuna. And then Kartavirya Arjuna personally had to come out. And he came with 500 bows and simultaneously releasing 500 arrows at Parasurama. Parasurama had only one bow and he could fit only one arrow on it at a time. But still, the speed of Parasurama was such that in no time, he cut off all the bows of, all the 500 bows of Kartavirya Arjuna. And he cut off all the hands of Kartavirya Arjuna also. And then, very quickly, he vanquished Kartavirya Arjuna. Such was the prowess of Parasurama that that highly powerful Kartavirya Arjuna, who very easily defeated Ravana, even he was no match for Parasurama. Why? Because Parasurama was no ordinary person. He was a Shakti Avesha incarnation of the Supreme Personality of Godhead. So, those of you who got that answer right, give yourself a pat on the back.
+
+---
+### vows, duty, determination
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=1176
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Especially in those days, the guru-disciple relationship was so strong, the disciple could never disobey the command of the guru."
+**Summary:** The lecture shifts back to Hastinapura and the story of Amba's desire to marry Bhishma, his refusal due to his vow of Brahmacharya, and her subsequent appeal to Parashurama, Bhishma's guru.
+
+Now, we pause this here and we will come back to Hastinapura. In Hastinapura, what had happened, while Ambika and Ambalika married Vichitravirya, Amba had thought, when she was being brought to Hastinapura, Bhishma is going to marry us. And so, she had given her heart to him. And when she was offered to marry Vichitravirya, she refused. And she said, I want to marry Bhishma Dev. But Bhishma Dev, as we all have seen, had taken the vow of Brahmacharya. He told her, my dear lady, I am sorry, it is not possible for me to marry you. Actually, according to the Kshatriya codes, if any woman were to approach a Kshatriya and request him to marry her, he cannot refuse. But Parasurama was bound by his vow of Brahmacharya. And therefore, he could not follow this principle. It was not required for him to follow. When Bhishma Dev explained this, Amba was not in a mood to listen. She was adamant. Bhishma Dev was also not going to budge because he was also firmly determined. Now, Amba is also Kshatriya princess. She is also no less determined. So, she thought, somehow or the other, I want to marry Bhishma Dev. What to do? Now, Bhishma Dev is not listening. So, she thought, let me go to the guru of Bhishma Dev, who taught Bhishma Dev the art of warfare. If guru tells, disciple has to follow. Especially in those days, the guru-disciple relationship was so strong, the disciple could never disobey the command of the guru. So, she approached the guru of Bhishma Dev and explained her position to him and said that she had given her heart to Bhishma Dev, but Bhishma Dev was refusing to marry her. This guru, taking pity, poor girl, young girl, she has somehow, she has given her heart to Bhishma Dev, let me help her. He came to Hastinapura and he spoke to Bhishma Dev and he told him, why don't you marry Amba because it is as per the codes of Kshatriya principles. Bhishma Dev replied, oh my guru Dev, your wish is my command, but then I am bound by my vow of Brahmacharya and so therefore I cannot marry her, kindly excuse me. Then this guru, he responded to Bhishma Dev, oh, you are disobeying me. You are disobeying my instruction, then you will have to fight with me and if you are defeated, you have to marry Amba. Bhishma Dev said, okay, my dear guru Dev, if this is your command, I am ready to fight with you. And who is this guru Dev of Bhishma Dev? It is none other than the same Shakti Avesha incarnation of the Supreme Personality of Godhead, who is Parashurama.
+
+---
+### guru-disciple, battle, blessings
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=1356
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Because whenever a teacher sees his student surpassing him, excelling him in the branch of knowledge that he has taught him, the teacher naturally becomes pleased."
+**Summary:** The lecture describes the mega battle between Parashurama and Bhishma, where Bhishma defeats his guru, leading to Parashurama's pleasure and blessings for Bhishma's vow of Brahmacharya.
+
+You can imagine that powerful Parashurama is challenging Bhishma Dev for a battle. And Bhishma Dev, Bhishma Dev is also no less, he is a Mahajana, he is a great devotee of the Supreme Personality of Godhead and the both of them engaged in such a mega battle that even the celestial beings all came to watch this battle. It was such a huge, tremendous battle between the two great personalities. And eventually what was the outcome of the battle? The outcome of the battle was Parashurama, the guru was defeated by his disciple Bhishma Dev. And when this happened, Parashurama became pleased. Why so? Because whenever a teacher sees his student surpassing him, excelling him in the branch of knowledge that he has taught him, the teacher naturally becomes pleased. And Parashurama saw that my student Bhishma Dev, he has excelled me in the Dhanur Vidya which I taught him. He was very pleased and he blessed Bhishma Dev, saying that my dear Bhishma Dev, may your vow to remain a Brahmachari be successful and you will be able to fulfill your vow of Brahmacharya.
+
+---
+### desire, anger, revenge
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=1434
+**Verse References:** BG 2.62
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Kamad bhavati krodha, krodha bhavati sammohaha."
+**Summary:** The lecture explains Amba's frustration and anger at not being able to marry Bhishma, leading her to perform austerities and take birth as Shikhandi to seek revenge.
+
+Now Amba was left in the lurch. What will she do? She saw that her desire would never be fulfilled. As Krishna says in the Bhagavad Gita, what happens when somebody's desire is not fulfilled? Kamad bhavati krodha, krodha bhavati sammohaha. So when a person's desire doesn't get fulfilled, one becomes frustrated. And eventually that frustration turns into anger. In Amba's case also, the same thing happened. When her desire to marry Bhishma Dev was not fulfilled, she became wrathful. And she wanted to wreak her vengeance on Bhishma Dev. But she knew that in her present condition, it was not possible for her to fight with Bhishma Dev in any way. So she decided to perform a lot of austerities and take another birth, where she would be powerful enough to kill Bhishma Dev. And that is how she did various very strict austerities she performed, very severe penances she performed, and she was born as Shikhandi, the son of Drupada, born to kill Bhishma Dev. So this is the story of Amba.
+
+---
+### succession, duty, incarnations
+**Timestamp:** https://youtu.be/zT9kEv50HVE?t=1505
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Therefore, Vyasadeva, although he was an ascetic, engaged in various penances and activities of spiritual life, he decided to obey the command of his mother."
+**Summary:** The lecture concludes with Satyavati's dilemma and her decision to call upon Vyasadeva to beget children in Ambika and Ambalika, followed by a question to the audience about the type of incarnation Krishna is.
+
+Now in the meantime, Satyavati, now that Vichitravirya had died and he had left Ambika and Ambalika without children, she thought, let me use the claws of Devarayana Sutopatthim and beget children in Ambika and Ambalika through Vichitravirya's step-brother. Now Bhishma Dev cannot fulfill that principle because he is bound by the vow of Brahmacharya. So therefore, Satyavati remembered her son from Parasharamuni before her marriage to Shantanu. And that son was none other than Vyasadeva. She sent word for Vyasadeva to come. And when Vyasadeva came, she explained the whole situation and understanding that this was an emergency, this was something which was the need of the hour to protect the citizens of the kingdom, ensure that there would be proper governance in the kingdom and there would be proper law and order within the kingdom. Therefore, Vyasadeva, although he was an ascetic, engaged in various penances and activities of spiritual life, he decided to obey the command of his mother. And obeying the command of his mother Satyavati, he begot children in Ambika and Ambalika. Now who are the children? Who are born out of Ambika and Ambalika? We will see that in the next episode. Before we sign off for today, I would like to leave you with one more question. We spoke about the different kinds of incarnations. What kind of incarnation do you think Krishna is? Under which category of incarnations does he come? Do a little bit of research and come back and tell us next week. Until then, thank you very much. Hare Krishna Jagat Guru Shri La Pravupada Ki Jai Nitaayi Gaur Premanande Hari Hari Bol
 
 ---
 
@@ -3258,6 +5754,142 @@ Now the interesting point is, that, why did Durvasamuni and the, and his 10,000 
 
 ---
 
+## Mahabharata | Part 40 | The Mystery of Durvasa Muni's vanished appetite
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, introduction
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Hare Krishna and welcome back to all of you."
+**Summary:** The speaker offers prayers and welcomes the audience back to the Mahabharata series.
+
+Thank you for watching. Om Adhyanati Mirandhasya, Jnananjana Salakaya, Saksharunni Ritamjena, Kasmai Sri Gurave Namaha, Namavo Mishnupadaya, Krishna Preshtaya Bhutale, Srimate Bhaktivedanta, Swamin Nithinamine, Namaste Saraswate Deve, Daudavani Pracharine, Nirvisesha Chunyavadi, Pashchalani, Radhya Deshataarine, Jaya Sri Krishna Chaitanya, Prabhu Nithyananda, Sri Advaita Gadadhara, Sri Vasadi Gauravachthavrinda, Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare. Om Adhyanati Mirandhasya, Jnananjana Salakaya, Saksharunni Ritamjena, Kasmai Sri Gurave Namaha, Namavo Mishnupadaya, Krishna Preshtaya Bhutale, Srimate Bhutale, Namaste Saraswate Deve, Daudavani Pracharine, Nirvisesha Chunyavadi, Namaste Saraswate Deve, Daudavani Pracharine, Nirvisesha Chunyavada, Krishna Preshtina, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare. Hare Krishna and welcome back to all of you.
+
+---
+### divine intervention, dharma, protection
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=90
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "In our last episode of the Mahabharata, we have seen how the Pandavas were rescued from their great anxiety of not being able to follow the path of Dharma by feeding Durvasamuni and they escaped from the great danger of being cursed by Durvasamuni who had been manipulated by Duryodhana into creating a situation where he could curse the Pandavas."
+**Summary:** The speaker summarizes the previous episode, highlighting Krishna's intervention to save the Pandavas from Durvasa Muni's curse and poses the question of why Durvasa Muni and his disciples lost their appetite.
+
+In our last episode of the Mahabharata, we have seen how the Pandavas were rescued from their great anxiety of not being able to follow the path of Dharma by feeding Durvasamuni, and they escaped from the great danger of being cursed by Durvasamuni, who had been manipulated by Duryodhana into creating a situation where he could curse the Pandavas. So Lord Krishna himself personally came all the way from Dwaraka upon the prayer of Draupadi, and he rescued them. Now the question that we were left with in the last episode: what was the reason why Durvasamuni and all his disciples who had come there feeling hungry, after their bath, that hunger went away, what caused them to lose their appetite?
+
+---
+### analogy, body, Krishna consciousness
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=145
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "The moral of this story is that the stomach is the central point of the body; if we feed the stomach then all the senses get the required strength."
+**Summary:** The speaker narrates an analogy of the senses and the stomach to illustrate the importance of satisfying the source (Krishna) to nourish everything else.
+
+Before we come to that, there is a wonderful story. There is an analogy, an analogical story that was told by Srila Prabhupada. Once, there was a man's body where all the senses started discussing amongst themselves. The eyes, the nose, the mouth, the hands, the legs, they all started discussing amongst themselves. They had some grievance. What was this grievance? The eyes said, you see, whenever we require some food for maintaining our body together and to maintain our nourishment and to keep our energy level high, I look around and I find where is the source of food that we require. And then the hands said, and when the eyes give the information where is the food, I am the one who picks it up and mixes the food in whatever proportion I need and we take that food. The legs said, the moment the eyes give information where is the food, I take the body on my strength towards the source of that food. So, like this, all the different senses gave their inputs about how they are contributing towards getting food which is essential to keep the body. That is, how they got the body energized. Then all of them started discussing. You see, all of us are contributing towards this, towards obtaining the food and keeping the body nicely together. What is the stomach doing? Stomach is not doing anything. All that the fellow does is, whatever hard work we do to get the foods, he enjoys all that food. So whatever food we put into the mouth, ultimately it go into the stomach. And what does the stomach do? Nothing. He is simply enjoying all the food. Now this is injustice. It cannot be, you know, if he wants the food he should also put in his fair share of hard work. Nothing. If he does a dozen six and simply consumes the food every day the whole time, what is the use? So all the senses became very agitated like this that they are being exploited. Then all of them decided, all the senses decided, let us do something. From today onwards we are going on strike against the stomach. From now on we will not give the stomach any food. Let us see what the fellow will do. He will teach him a lesson. He, when he doesn't get food, he'll come to his senses and he will understand that if he needs food he has to put in his share of hard work. So all the senses then decided to shut down their activities and they refuse to serve for food or take any food into their, in the stomach. Now the dharma started. Half day over. Then it was from morning till afternoon time passed. Then it became evening and all the senses were again met in the evening. Ah, now you see the that fellow stomach must be really getting agitated. He must be getting, he, he must be learning his lesson now. Although he has still not come and spoken to us, don't worry, very quickly he will come to his senses and then he will come begging in front of us. So our dharma is successful. Let us keep it going. And all of them then went to sleep. Then slowly evening became night. Then slowly the night got over. Next day morning, slowly the eyes are opening. Eyes are finding very difficult to open. So I'm feeling so, so lack of, so much lack of energy. Eyelids itself are not opening and the hands are trying to lift, so you know, no energy at all and the legs are refusing to lift the body up. So now what to do? All of the senses got together and started discussing what happened, what went wrong. All of us are facing so much difficulty and each of them is facing the same problem. What is that? Lack of energy. They, they are feeling so tired, so fatigued, so weak. The eyes are saying hardly able to open my eyelids. Hands are saying I'm not able to lift rid of this. Leg is, you know, fallen on the ground. So they started discussing what could be the reason why they are feeling so much distressed. Discussing, not able to figure out. Finally they thought, maybe is it because we have not set the stomach. Slowly they started discussing and this theory started gaining ground and so all of them said, oh maybe this would be the reason. So let us put some stomach and see what happened. So with great difficulty the leg managed to lift the body up and somehow the hand picked up some food and with great difficulty the mouth also chewed the food and slowly the food went in. As the food went, started going in, slowly the senses started regaining their energy. So then after a little while when the food had gone in fully and it was digested, the senses were all back again to their full strength and they again had a meeting and they said, we didn't realize the importance of the stomach. Actually when we feed the stomach all of us get energy. So we must applaud the work of the stomach. Until now we were criticizing him. Let us give him a round of, you know, applause and all of them started applauding and appreciating the stomach. So the moral of this story is that the stomach is the central point of the body. If we feed the stomach then all the senses get the required strength. If we try to feed the senses separately they will never be satisfied. Suppose I take the dal full of protein, very good for the, you know, the eyes, for our eyesight to improve, proteins are required, it's very good. Take the hot dal and pour it into the eye. Will the eye power increase? Your eyes will get damaged. And then take nice sambar, beautiful fragrant sambar, take it and pour it into your nose. Will your nose be able to enjoy? You cannot enjoy like this. The only way you can enjoy the food is take it and put it into the stomach, then your whole body can enjoy that tasty food. So the structure of our body is so designed that by putting food into one single point of the stomach, the whole body gets energized.
+
+---
+### Krishna, worship, satisfaction
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=565
+**Verse References:** BG 7.7
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "If we simply worship Krishna, all the devatas will be satisfied."
+**Summary:** The speaker explains that just as watering the root nourishes the entire tree, worshipping Krishna satisfies all the demigods and fulfills all needs, referencing the Bhagavad Gita to emphasize Krishna's supreme position.
+
+By food is generally it is in control for every Releasext. So first thing when we use a adherent we take a handful of beetoral tea leaves these are obviously our herbs and plants but what is essential when we take such a buildet is to take Liquidcorrector 14 and in fact it as a type of plants herbs get a long safety is just that they areтерion of الض I why plant so many branches then twigs leaves flowers courts. So on and so forth now perfect such a large tree to be able to sustain itself requires large amount of nutrition now how does the tree gets get nutrition do we have to take water and pore it to each of the leaves each of the fruit flowers etc. the soil is significant. You plant. hoe you can eat it. Some plants nineteenth century and most countries. This is how you should eat etc. You hidden around the fruits like yourself and some of peoples in India you should try to repair bacteria. it's impractical, it's impossible. All that we have to do is pour water to the root. If we simply pour water to one place of the tree, just the root, the entire tree gets nourished. So this example is given in the Vedic scriptures, yathā taror mūla-niśecha-nena tripyanti sac-kanda-bhujopasākhāḥ. Taror mūla-niśecha-nena, if we pour water to the root of a tree, then what happens is, bhujā, skandhā, upasākhā, all the branches, leaves, fruits, flowers, everything gets nourished. Prāṇopahārāca yathendriyānā, the indriyās, the senses of the body, they all get nourished simply by putting food into the stomach. So exactly like this, tathā sarvārhaṇam acchita-ijjā. Acchita, Krishna, ijjā, by his worship, by worshipping Lord Krishna, if we are able to satisfy him, we are able to satisfy him. Then everybody else is satisfied. We don't have to individually go around trying to satisfy various people. There are 33 crore devatas, we cannot satisfy all of them. We may do some yajña, some puja for a few, for some Hanumanji, for some Ganeshji, Lord Shiva, we can do. 33 crore demigods can we do? Not possible. If we simply worship Krishna, all the devatas will be satisfied and they will take care of all our natural requirements. So, if we worship Krishna, all the devatas will be satisfied. So, this is explained in this example of the stomach and the root is given to explain how Krishna is the source of everything. Therefore, by simply satisfying him, everybody else gets satisfied. Even in the Bhagavad Gita, Krishna gives this principle. Krishna says in the Bhagavad Gita that, matthaha parataraṁ nānyatkintya dasya dhananjaya. Mayi sarva-vimitam nānyatkintya dasya dhananjaya. Mayi sarva-vimitam nānyatkintya dasya dhananjaya. Mayi sarva-vimitam nānyatkintya dasya dhananjaya. Mayi sarva-vimitam nānyatkintya dasya dhananjaya. Krishna says, matthaha parataraṁ nānyatkintya dasya dhananjaya. Krishna says, there is no truth superior to me. That means Krishna is the Supreme Personality of Godhead. There is nobody equal to him, nobody above him. And mayi sarva-vimitam protham, this entire universe, whatever we are seeing, it is like a necklace of pearls. When you look at a necklace of pearls, it looks very beautiful. Mayi sarva-vimitam nānyatkintya dasya dhananjaya. But what you don't see in the necklace is the thread which is running inside, holding all the pearl beads together. If the thread is not there, all the pearl beads will be scattered and there will be no necklace. So Krishna says, mayi sarva-vimitam protham, tu tre manikanāiva. Krishna says, just like the thread holds the necklace together, I am the person, Krishna is the person, holding this entire universe together. And there is no religion about the bullet. What Krishna says is every single person, every single human being, is the prithva, the ultimate radiance. He will continue to do the prithva and the vahana, the penance, the karmic service and all the other things in this universe as he says. So this is the story. Thus, if you want your result to be proper, then make a pious request, invite Krishnas and spiritualists, invite you to come to the temple and make your success, your success is the greatest cótion, this is the sole purpose of your success. This is your purpose, not the result of your success.
+
+---
+### devotion, divine satisfaction, Mahabharata
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=799
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "This was the secret behind why Durvasamuni and his disciples lost their appetite after Krishna had eaten that little sabji from Draupadi's pot."
+**Summary:** The speaker reveals that Krishna's satisfaction from Draupadi's loving offering caused Durvasa Muni and his disciples to lose their appetite, and introduces the next incident in the Mahabharata.
+
+Now, because when Draupadi fed Krishna with love and affection and with great devotion, Krishna felt satisfied immediately. Durvasa Muni and his 10,000 disciples who are all part and This was the secret behind why Durvasamuni and his disciples lost their appetite after Krishna had eaten that little sabji from Draupadi's pot. So in this manner Krishna saved the Pandavas from Duryodhana's yet another nefarious plan. Now we will take you to one more incident which happened of constituents in the Mahabharata. In the northern part of India in the place known as Sindhudesa which comprised parts of Multan and other parts of Pakistan as well as portions of Punjab such as Jalandhar, Ludhiana etc. This portion, this tract of land was known as Sindhudesa during those days.
+
+---
+### curse, prophecy, kingdom
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=856
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Vridhakshatra heard a prophecy that this Jaidratha would be killed by his enemy."
+**Summary:** The speaker introduces King Vridhakshatra of Sindhudesa, his son Jaidratha, and the prophecy that Jaidratha would be beheaded, leading Vridhakshatra to utter a curse to protect his son.
+
+This Sindhudesa was being ruled over by a king by the name of Vridhakshatra. This Vridhakshatra had a son by the name of Susharma and one more of his sons, he had several sons, one more of his sons was Jaidratha. When this Jaidratha was born, Vridhakshatra heard a prophecy that this Jaidratha would be killed by his enemy, who will behead him. When Vridhakshatra heard this, he was thinking how to protect his son. He therefore uttered a curse that anybody who would cause the head of my son Jaidratha to fall on the ground, his own head will be split into a thousand pieces. Vridhakshatra's thinking was, if everybody knows about this, nobody will dare to kill my son and therefore my son will escape death like this. And then Vridhakshatra, what he did, he split the kingdom between Susharma and Jaidratha. To Susharma he gave the portions of his kingdom which were towards Pakistan and Jalandhar and all those parts of Punjab were given to Jaidratha and Vridhakshatra went to the forest to engage in Veda.
+
+---
+### renunciation, tapasya, protection
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=943
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Vridhakshatra went to the forest to engage in various kinds of Tapasya and he went to a place known as Samanthapanchaka."
+**Summary:** The speaker describes Vridhakshatra's renunciation and his engagement in tapasya at Samanthapanchaka in Kurukshetra, a holy place associated with Parashurama, to protect his sons.
+
+So this is the story of Vridhakshatra. Vridhakshatra went to the forest to engage in various kinds of Tapasya and he went to a place known as Samanthapanchaka. This Samanthapanchaka is found in Kurukshetra. Even today if we go, there is a very big pond in Kurukshetra which is called Samanthapanchaka. This pond was created when Parachuram rid the earth 21 times of the Kshatriyas. The blood which was created by the battles, the battles that he fought flowed like a river and collected in this place called Samanthapanchaka. And gradually that blood dried up and it became a lake. And later that lake became a place of great pilgrimage and it is said in the Shastras that this Samanthapanchaka is a very holy place which is visited even by the demigods for conducting auspicious sacrifices. Vridhakshatra went to the forest. He went to Samanthapanchaka and he had retired from his family life and he started living the life of a renunciate and he was constantly engaged in tapasya and dhyana because he wanted to by his tapasya and his dhyana he wanted to protect his sons.
+
+---
+### kingdom, alliance, lust
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=1025
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "When he was passing through this forest, Jaidratha, he came across one beautiful woman standing in the forest. And she was plucking some flowers and some fruits."
+**Summary:** The speaker details Jaidratha's rule over Punjab, his alliance with Duryodhana, and his journey to Shalvadesha for a marriage proposal, where he becomes captivated by Draupadi's beauty in the forest.
+
+In the meantime Jayadratha was ruling over the Punjab portion of India and Susharma was looking after his portion of the kingdom. So during the time of Jayadratha, Durodhana had grown up with Duryodhana and Dushala. So after the dhyana, Durodhana was given marriage to Jayadratha. Jayadratha became a relative of the Kauravas. Once, this Jaidratha got a proposal for an alliance with the king of Shalvadesha. This Shalvadesha is located in the central portion of India. Now this Jaidratha, when he got the alliance proposal, he set out with a small retinue of his people, his friends and some army people and he travelled to the central India. While travelling from Punjab towards this central India, towards Shalvadesha, Jaidratha was passing through a forest. When he was passing through this forest, Jaidratha, he came across one beautiful woman standing in the forest. And she was plucking some flowers and some fruits and collecting something and all that. And when Jaidratha saw this woman, he was captivated by her beauty and he thought, who is this wonderful, beautiful woman in the midst of the forest? And he got enamoured by her beauty. He forgot all about Shalva. He forgot all about the proposal he had received and he thought, there is a much more beautiful woman here, why not seek a proposal with her?
+
+---
+### identity, hospitality, past, recognition
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=1152
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "So this lady was actually none other than Draupadi."
+**Summary:** Jaidratha sends his friend Koti Sathya to inquire about the woman, who turns out to be Draupadi, and Jaidratha remembers his failed attempt to win her hand at her Swayamvara.
+
+And so what he did, he had one friend amongst his, one friend of his amongst the retinue that was following him. This friend of his was named Koti Sathya. So Jaidratha told Koti Sathya that, see that beautiful woman, she is standing there, very enamoured by her. Can you go and speak to her and see who she is and where she is from and let us see if I can win her hand. This Koti Sathya approached this woman and he started talking to her and he said, O gentle lady, you please see this person who is standing there in the chariot, he is the king of Sindhudesa. He is King Jaidratha. And this Jaidratha is such a powerful king. And he started glorifying Jaidratha in various ways. And then he asked her, so my king asks, who you are? Can you please introduce yourself? So this lady was actually none other than Draupadi. So this Draupadi replied to him that please tell your king that I am Draupadi, the wife of the Pandavas and since we are all going through the forest, you are welcome to come to our hermitage and partake of some Prasadam which we have, you can all partake of that and drink some cool water which I have. So your fatigue will also be relieved. She was being hospitable, naturally. This Koti Sesha went back to Jaidratha and told Jaidratha that this lady is actually Draupadi. So immediately Jaidratha remembered the, the Swayamvara of Draupadi which he had also attended and he had failed in that competition to win Draupadi's hands. But then at that time itself, he had been struck by the beauty of Draupadi. Of course, this time because Draupadi was clad in demerit, Draupadi was a very beautiful woman. Your hair, clad in the bark of a tree and her hair was all matted. He could not identify her immediately. But when he heard that she is Draupadi, he immediately recognized, Oh, this is Draupadi. And Koti Sesha told him that like this, she has invited to her hermitage to take, to partake of some food and all that. So Jaidratha said, Okay, let us go. And he, along with all his people, he proceeded towards the hermitage. And they came across this hermitage. When he matured, he was gone.
+
+---
+### temptation, flirting, abduction, immorality
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=1299
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Forget about them now, you come with me. I will treat you very nicely don't worry."
+**Summary:** Jaidratha finds Draupadi alone in the hermitage and attempts to seduce her, but Draupadi rebukes him. Jaidratha then resorts to force, abducting her and driving away in his chariot.
+
+At that time the Pandavas had actually gone into the forest, they were not in the hermitage. So when they reached the hermitage, Jayadratha looked around, he saw that nobody else was there. Then he started speaking to Draupadi, oh Draupadi, I am very saddened to see your state. You are, you are the princess, you are the daughter of King Drupada, you should be living in royal opulence, but see how you are wearing a tree bark for a cloth and your hair is all matted, you are looking so thin and frail and you are having to do all this manual work yourself, you are going picking the flowers, fruits and all that for, for cooking food for your husband. This is not the way you should be. If I was your husband, I would have taken such good care of you, you would have lived in royal opulence. So what is all this? You know what Pandavas are doing? You married them thinking that they are the Pandavas and they will become great kings. Absolutely, but look at what has happened to you? So what go on? Why can't the Pandavas take care of you? Why don't you do one thing? Forget about them now, you come with me. I will treat you very nicely, don't worry. Like this Jayadratha started flirting with Draupadi. Now Draupadi with a woman of very high character. She was not, not going to be carried away by such flimsy flirting by this Jaidratha. She strongly spoke back to Jaidratha and told him that it is immoral of him to make such proposals and she would under no circumstance she would abandon the Pandavas and she also told Jaidratha please don't even entertain such thoughts even in your dreams otherwise my husbands will come and you will have to lose your life so don't even think about it. You have come this far as a matter of my duty I am offering this some little water and some food you please take and leave from here don't talk all these kind of things. But now this Jaidratha was not somebody to keep quiet. She said okay so if you are not going to listen I am trying to be nice to you if you are not going to listen okay I will show you who I am. He caught her hand and he started dragging her. Now what did Draupadi do? Now Draupadi was also daughter of Ekumal, she is also born in a Kshatriya family so she was not going to keep quiet. She gave him a roundhouse punch and it caught Jaidratha squarely on his feet and he fell crashing down like a tree. Jaidratha had not expected this and then he picked himself up and he was shaking his head, oh my god what struck me. He was like, you know, for a few moments he was lost. Then he realized Draupadi had punched him and he had fallen down. He picked himself up and he became very angry because he had been humiliated. He said, now I will not leave this Draupadi. So, with all his friends, he managed to capture Draupadi, dragged her onto the chariot and started driving away. So, Draupadi had been abducted by this most immoral Jedratha. Now, what could Draupadi do? What happened to Draupadi? Please join us in our next episode to know about this.
+
+---
+### conclusion
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=1496
+**Verse References:** —
+**Content Type:** practical
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Thank you for joining us today."
+**Summary:** The speaker concludes the episode and invites the audience to join the next episode.
+
+Thank you for joining us today.
+
+---
+### benediction
+**Timestamp:** https://youtu.be/PPy-f3nneJQ?t=1500
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Jagat Guru Srila Prabhupada Ki Jai. Netai God Premanande. Hari Hari Bol."
+**Summary:** The speaker offers final benedictions.
+
+Jagat Guru Srila Prabhupada Ki Jai. Netai God Premanande. Hari Hari Bol.
+
+---
+
 ## Mahabharata | Part 41 | Jayadratha abducts Draupadi | His Grace Suvyakta Narasimha Dasa
 **Speaker:** HG Suvyakta Narasimha Dasa
 
@@ -3347,6 +5979,120 @@ And then now you know Bhima's anger somehow he tried to come out. So what he did
 **Summary:** Despite his outward submission, Jaidratha harbors resentment and seeks revenge. He decides to perform austerities to please Lord Shiva and obtain a boon to defeat the Pandavas.
 
 And then the Pandavas released Jayadratha. Now Jayadratha slowly trudged back and as he was going back the humiliation he had suffered he was not able to digest it. Although in front of the Pandavas he had accepted that he was not, he would be subordinate to the Pandavas and he would obey their commands, at heart he had other plans. He wanted to take revenge. Now how to take revenge? Jayadratha was a very, he was a weakling in front of the Pandavas. So what to do now? So he thought the only way is that I have to perform some tapasya, some austerities and I have to please Mahadeva, Lord Shiva and get a benediction from him that I will be able to kill the Pandavas. Thinking like this, Jayadratha walked and went all the way to Gangotri. He went to Gangotri which is in Uttarakhand and which is in the Himalayas and which is, it is quite a arduous climb to reach to Gangotri. So he went all the way to Gangotri and there he meditated and did tapasya for a long period of time. And after some time Lord Shiva being pleased with his tapasya appeared before Jayadratha. Lord Shiva is Ashutoshya. He is very quickly pleased by people's austerities and Lord Shiva very quickly gives blessings and benedictions to his devotees. Lord Shiva does not think that his benedictions, whether they are harmful or they are for the good of the people. Whatever the people ask, Lord Shiva very quickly and very generously he gives. That's the nature of Lord Shiva. So Jayadratha by his tapasya he managed to please Lord Shiva and Lord Shiva appeared before Jayadratha. And he asked the Jayadratha that O Jayadratha I am pleased with your tapasya. It looks like you are expecting some boon from me. So please ask what you want to. So then Jayadratha folded his hands before Lord Shiva and he said my request is that please grant me a boon that one day I will be able to kill all the five Pandavas in battle. Now when Jayadratha made this request before Lord Shiva, what was Lord Shiva's response? Please join us in our next episode to know about this. Thank you for joining us today. Hare Krishna Jagat Guru Shri Ila Prabhupada Ki Jai Netai Gor Premanande Hari Hari Bol
+
+---
+
+## Mahabharata | Part 42 | Indra blesses Karna & Lord Shiva blesses Jayadratha.
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, devotion
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Hare Krishna Hare Krishna Krishna Krishna Hare Hare, Hare Rama Hare Rama Rama Rama Hare Hare"
+**Summary:** The lecture begins with traditional Vaishnava prayers and mantras, invoking blessings and paying respects to gurus and deities.
+
+Thank you for watching. Om Adhyanati Mirandhasya Gyananjana Chalakaya Yaksharanmi Litam Yena Tasmai Shri Gurave Namaha. Namavo Mishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamini Tinamine. Namaste Saraswate Deve Gauravani Pracharine Nirvichesha Shunyavadi Aschatya Deshatarine. Jaya Shri Krishna Chaitanya Prabhu Nityananda Shri Advaita Gadadhara Shri Vasadi Gauravakta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pangam Langha Yate Girim Yad Kripatam Hammande Shri Guram Deena Taranam. Hare Krishna.
+
+---
+### Mahabharata, retaliation, boon
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=95
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Although by the codes of Dharma, Jayadratha could have been killed, the Pandavas desisted from it upon the instructions of the eldest brother, Yudhishthira Maharaj, on the consideration that Jayadratha was the husband of their younger sister."
+**Summary:** The speaker summarizes the previous episode, focusing on Jayadratha's failed abduction of Draupadi and his subsequent quest to obtain a boon from Lord Shiva to defeat the Pandavas.
+
+A very warm welcome to all of you who are watching today's episode of the Mahabharata. In the last episode, we saw how Jayadratha's attempt to abduct Draupadi forcibly was foiled by the Pandavas. Arjuna and Bhima captured him. Bhima was a little severe on Jayadratha, and he was brought alive to Yudhishthira Maharaj and to Draupadi. Although by the codes of Dharma, Jayadratha could have been killed, the Pandavas desisted from it upon the instructions of the eldest brother, Yudhishthira Maharaj, on the consideration that Jayadratha was the husband of their younger sister. Actually, the younger sister of Dhritarashtra, Suryodhana, Dushala, on the consideration of his being a very close relative, they made Jayadratha accept subordination to Yudhishthira Maharaj, and he was set free. Jayadratha was not going to keep quiet. He went to Gangotri, performed austerities, and he pleased Lord Shiva, seeking a boon from him that he will be able to defeat the Pandavas. Did Lord Shiva grant him this boon?
+
+---
+### charity, divine intervention, sacrifice
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=184
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Indra then thought the only way I can make the path easier for the Pandavas was to take away the armor and the earrings of Karna."
+**Summary:** The scene shifts to Hastinapura, describing Karna's charitable nature and Indra's plan to weaken Karna by taking away his divine armor and earrings, setting the stage for a confrontation.
+
+We begin today's episode by taking you back to Hastinapura. Duryodhana, accompanied by his brothers, as well as Shakuni, Karna, and others, were enjoying the royal opulences in Hastinapura. Karna had taken a vow that he would not refuse charity to anyone who seeks charity from him. And thus, he had become very famous as Dhanaveera. He was a greatly charitable person. Every day, he would go to the banks of the Yamuna, and he would take bath there. And after bathing there, whoever would come there seeking anything in charity from him, he would give it to them. Karna, when he was born, he was named Vasusena by his parents, Adhiratha and Radha. He was so named because when Adhiratha found him as a small baby floating in the water of the river, he found that the child was adorned naturally with a golden armor and earrings. These were divine earrings and armor which were integral to the body of Karna, and so he was named Vasusena, meaning a person who was born with lot of riches. Now because the period of forest exile of the Pandavas was coming to a close, and soon they would have to go in exile incognito, and within about a year, year and a half, the time would come for them to seek the return of Karna. And everybody knew that given Duryodhana's nature, it was not going to be easy to get back the kingdom for the Pandavas. Indra who was seated in heaven, he started thinking how he could do good for the Pandavas, especially keeping in view that a war was imminent between the Kauravas and the Pandavas. The biggest stumbling block for the Pandavas from Indra's point of view was Karna. Karna was known to be very powerful archer, and he had a divine armor which would always prevent any arrows from piercing him and mortally wounding him. Indra then thought the only way I can make the path easier for the Pandavas was to take away the armor and the earrings of Karna. Now how to do that? Indra thought let me disguise myself as a poor Brahmana and go to Karna and seek from him his divine armor and earrings because he has taken a vow of not refusing charity to anyone. He will definitely hand it over to me. Thinking like this Indra decided to disguise himself and go to Karna the next day when he would have finished taking his bath.
+
+---
+### fame, duty, warning
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=391
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "In Karna had a great desire to enjoy fame for him his fame and reputation was everything."
+**Summary:** Suryadeva warns Karna in a dream about Indra's plan and advises him not to give away his armor, but Karna is torn between his vow of charity and the desire to maintain his fame.
+
+Divining what Indra was going to do, now Suryadeva thought how he could help Karna because Karna was Suryadeva's son, after all he was born by the blessings of Suryadeva to Kunti. Lord Suryadeva appeared in Karna's dream and he informed Karna that the next day Indra is going to come disguised before him asking him for his divine armor and earrings and Suryadeva advised Karna not to give away his armor. Karna reasoned with him in the dream that, oh my lord, how can I refuse? I have taken a vow, I cannot refuse to give away in charity. And if I give away in charity my divine armor and earrings, then even though I may be vanquished in battle, still I will become completely famous all over the world and Indra will become infamous. Karna had a great desire to enjoy fame, for him his fame and reputation was everything. It did not appeal to him to refuse Indra and thus break his vow and become infamous as a person who refused to give in charity and thus broke his vow. For him, his fame and reputation was everything. And like this, he reasoned with Suryadeva. Suryadeva responded to him, what is the use of your fame? Once you are killed, once you are dead in the battlefield, what is the use of your fame? It will be like a garland putting to a dead body. Like this, Suryadeva reasoned, tried reasoning with Karna, but Karna was not going to give in. Karna said, whatever it may be, I will not, I don't want to give up my fame, so please excuse me. Then Suryadeva told Karna, he warned Karna that Arjuna is too powerful. And without that divine golden armor, Karna would be, he would, he would very easily be conquered by Arjuna. But Karna was too much proud of his own strength. And he responded to Suryadeva, don't worry about Arjuna. I have divine weapons with me, which I have gained from Parashurama. Very easily I will be able to defeat Arjuna, so you please don't worry about me. Finally, Suryadeva saw that Karna is not going to give in. Finally, Suryadeva told Karna, okay, fine, have it your way, but do one thing. When Indradeva asks for your golden armor and earrings, ask him something in return, which will be useful for you in your fight against Arjuna. And like this, Suryadeva disappeared.
+
+---
+### charity, bargaining, divine weapon
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=580
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "He said, oh, brahmana, I know that you are Indra and I know that why you have come here asking me for this because you want Arjuna to be able to win over me."
+**Summary:** Karna, aware of Indra's disguise, engages in a conversation, ultimately agreeing to give away his armor and earrings in exchange for Indra's Shakti weapon.
+
+Karna woke up from his dream. And then he understood that the Suryadeva whom he would worship every day, had come, thinking of his welfare. Now, thinking of the incidents that had happened in his dream, Karna proceeded forth for his bath in the river. After finishing his bath, many brahmanas came to him. He gave away many things in charity. Finally, one very brilliant looking brahmana came forward. Very austere looking brahmana, clad in deer skin and having matted hair, holding a skamandaloo, and all that. And this brahmana came forth to Karna and said, I am, I have come here seeking charity. Karna said, please tell me what you want. You want gold, you want riches, you want land, you want cows, what do you want? The brahmana replied, I want, I don't want any of these things. I have no use for any of them. I only want your divine, natural armor and earring with which you are born. Karna immediately understood that this is Indra but he did not let on immediately that he knew who it was. He started reasoning with the brahmana. He said, why are you seeking my golden armor and earrings? I can give you tons of gold. I can give you much more precious things. Please ask for something which, which will be of use to you. What use is my simple armor and earring for you? But the brahmana would not budge. He said, no, no, I don't want any of these things. I want only this. Then Karna told him, see, if I give away my armor and earrings, I will become susceptible to be easily killed by my enemies. In order to protect my life, I am asking you, ask me for something else. But the brahmana would still not budge. Then finally Karna revealed that he knew who it was. He said, oh, brahmana, I know that you are Indra and I know that why you have come here asking me for this because you want Arjuna to be able to win over me. No problem, I have taken a vow that I will not refuse charity to anyone who has come to me, I will give away my armor and earrings to you as you have sought, I will not go against my vow, but I only request you one thing in return. Indra said, so be it, please ask me what you want from me other than my Vajra Ayodha, his thunderbolt weapon. Indra said, I'll give you anything else you ask for. Then Karna asked him for his Shakti weapon. The Shakti weapon used by Indra is very, very powerful and practically no other Astra can withstand the force of the Shakti weapon. Indra then granted him his boon and he told him, okay, I, I will definitely accede to your request, I'll give you my Shakti weapon, but on the condition that it will be used by you only in the gravest of danger, when there is danger to life, only then you should use it, and second condition is the moment you release it, it will, it will go and attack its target and then it will return to me, you will be able to use it only once. Karna was very happy, he said, I want it, I want to use it only once, I want to use it only against one person, Arjuna, so for me one time is good enough and he was satisfied with that, moreover Indra also
+
+---
+### blessing, sacrifice, envy
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=788
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Because Karna cut his own body and gave away his armor and ear rings, from that day he came to be known as Vaikartana."
+**Summary:** Indra blesses Karna, ensuring his body won't be disfigured by the removal of the armor, and Karna becomes known as Vaikartana for his sacrifice. The speaker then transitions to a philosophical discussion about envy in the material world.
+
+being pleased with Karna's charitable disposition, he also blessed him that when he would cut out the armor from his body and the earrings, he would cut out his ears, he would practically have to cut his ears and cut his body and take out the armor and the earrings, when he would do that Lord Indra blessed the Karna that his body would not become disfigured and then Karna cut the armor from his body and tears and cut the ear rings from his ear and handed it over to Indra. Because Karna cut his own body and gave away his armor and ear rings, from that day he came to be known as Vaikartana. Vaikartana means one who cut his own body to give in charity. And like this Karna maintained his fame. And having got the Shakti weapon, Karna was very confident, now the day I face Arjuna in battle, I will be able to vanquish him. So from this incident, we can see how even in Svargaloka amongst the Devatas, there is politics and there is one-upmanship, one person trying to outdo the other. This kind of activities are there even in the Devalokas, amidst the Devatas. What we can understand from this is that this. In the material world, right from Brahmaloka down to Patalaloka, everywhere, every living entity's heart is filled with envy. This envy is actually stemming from the living entity's original envy of Lord Krishna and his position as the Supreme Personality of Godhead in the spiritual world.
+
+---
+### envy, spiritual world, Krishna's supremacy
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=901
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Only a person who has become completely free from envy, Nirmatsara, only such a person can become eligible to be liberated from this material world and go back to Godhead, to the spiritual world, Vaikuntha."
+**Summary:** The speaker elaborates on the origin of envy, tracing it back to the living entity's envy of Krishna in the spiritual world, and emphasizes that freedom from envy is essential for liberation.
+
+We all living entities, all of you as well as we, we all have our original constitutional position in the spiritual world. Because we misused our free will to become envious of Krishna, thinking only why Krishna should be the Supreme Person, why everyone should serve Krishna, why should everyone glorify Krishna, why not some glorification be there for me also, why not some people be subordinate to me also, why not some people serve me also, why not let me become the Lord and Master of some people, when that envy of Krishna's position enters our heart, that is when we come down to this material world. That is when we come down to this material world. And therefore, everyone in this material world has envy seated in their heart, maybe to different degrees, but it is there in everyone's heart. Only a person who has become completely free from envy, Nirmatsara, only such a person can become eligible to be liberated from this material world and go back to Godhead, to the spiritual world, Vaikuntha. In the meantime, Jayadratha, having pleased Lord Krishna, he went back to the spiritual world, pleased Lord Shiva. He asked Lord Shiva that I should be able to face the five Pandavas in battle and I should be able to vanquish them, I should be able to defeat them and kill them in the battle. Lord Shiva responded to Jayadratha, Jayadratha, who do you think these Pandavas are? They are always accompanied by Krishna. And who is this Krishna? Krishna is the same person who came earlier as Vamanadeva. Krishna is the same person who came earlier as Vamanadeva. He is the person who incarnated as a boar and he killed Hiranyaksha and like this the supreme lord who has taken many many incarnations earlier he has personally descended now and that Krishna he is anadi he is without any beginning he is the supreme lord all other incarnations they all have anadi they all have a source the source is the supreme lord Narayana or Vishnu from whom from whom all the avatars descend into this material world whether it is Narsamadeva whether it is Korma whether it is Matsya whether it is whether it is all of them are incarnations descending into this material world from Narayana but Krishna is not an avatara he is an avatar he he is the source of all avatars he is the source of even Narayana and therefore Krishna is described as anadi he has no other souls and hence he is the supreme absolute truth he is the supreme personality of Godhead Lord Shiva informed Jayadratha that this Krishna is that anadi he is that adi of everybody else and he is the supremely powerful supreme lord whose prowess can never be ignored and he is the supreme lord of all avatars he is the supreme lord of all avatars he it can never be countered by anybody in this universe there is no power in this world which can withstand Krishna's power there is no way I can give you a benediction that you can kill the Pandavas when Krishna is personally protecting them it's not possible actually this shows how Lord Shiva is also subordinate to Lord Krishna because Lord Krishna's power exceeds that of even Lord Shiva Lord Shiva he is known as Vaishnava amongst all the Vaishnavas amongst all the devotees of Lord Krishna Lord Shiva is the topmost devotee Lord Shiva is a devotee of Krishna at heart but foolish he does not know this he was not able to comprehend this then finally Lord Shiva said okay to to please you to appease you
+
+---
+### boon, defeat, retaliation
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=1130
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "apart from arjuna because arjuna is svayam nara when the lord incarnated as nara and narayana when the krishna is incarnated as narayana he was accompanied by nara who was none other than urjuna"
+**Summary:** Lord Shiva grants Jayadratha a boon that he will be able to hold all the Pandavas except Arjuna at bay for one day, satisfying Jayadratha's desire for revenge.
+
+I will give you one boon apart from Arjuna because Arjuna is svayam nara when the lord incarnated as Nara and Narayana when the Krishna is incarnated as Narayana he was accompanied by Nara who was none other than Arjuna this Arjuna is the same Naras and Narayana is Krishna both of them have come together and they will always be together it will be impossible for anybody to conquer over them Arjuna has got all the divine weapons he has got less than the punk in his power this is bro 95 is not just prof Pilgrimage be seen he has got 10 12th in your name but hope you can see things anything else in the name of this lord shiva is god because he gives you all the way! the brahmastra he has got the pashupatastra from me it is impossible to defeat him even the three worlds together if they were able to if they were to stand against Arjuna all alone they would still not be able to defeat him forget about you you are an ordinary puny human being what you will do against Arjuna it's impossible I don't have the powers to give you such a boon but I will give you one boon apart from Arjuna the other four Pandavas one day only one day you will be able to hold them at bay you will be they will not be able to defeat you when Jayadratha heard this this was enough for him okay at least some uh avengement of my humiliation at the hands of the Pandavas anyway it was Bima who was the one who really uh captured Jayadratha and shaved off his head and beat him and punched him him and kicked him and all those kind of things Bima was the person who humiliated him the most so if he is able to hold Bima and Yudhishthir Maharaj and Nakula and Sahadeva at bay and he is able to in battle he is able to show them his prowess and they are not able to conquer him that's also good enough for him to to to be able to take to avenge his simulation being satisfied with this boon Jayadratha went back to his kingdom and he continued his royal position waiting eagerly for the day when he would be able to face the four Pandavas in battle and he would be able to he would be able to withstand their attack combined attack and he would be able to come out victorious now in the meantime the Pandavas were chalking out plans what to do when the time for the
+
+---
+### planning, dharma, thirst
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=1273
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "We are supposed to be Kshatriyas, we are supposed to protect all the Brahmanas and ensure that there are no obstacles on the path of their Ejnas."
+**Summary:** The Pandavas are planning their incognito exile when a Brahmana seeks their help to retrieve his yajna sticks taken by a deer. Their pursuit leads them into the forest, where they become thirsty and despondent.
+
+incognito exiled would come into force which was not very far away which was only a few months away they were making they were discussing a mix themselves evaluating various options thinking where they should go how they should conceal themselves and all these kind of things one day while they were discussing like that suddenly one Brahmana came to them and he told them oh dear Pandavas I have been conducting one yajna and when I was about to start my yajna one deer came and took away all the fire sticks which were meant for the yajna normally for yajnas very specific kinds of wood has to be used we cannot use just about any jungle wood and for the for conducting a yajna specific sacrificial divine wood is required for conducting yajna also therefore this Brahmana told the Pandavas that this yajna should be used for conducting the yajna and the deer has taken away my wood and without the sacrificial wood how will I conduct my yajna so please help me and he showed where that deer was running away with the wood entangled in its horns the Pandavas seeing the deer taking away the Brahmanas yajna sticks the immediately the Pandavas took their arrows and bows and they set out in pursuit of the deer assuring the Brahmana that don't worry very soon we'll get back your yajna and your sacrificial wood and they started chasing the deer in the forest and deer was running here and there and they were shooting arrows but somehow the deer was able to manage to miss those arrows in the midst of all the bushes and trees and all that and the Pandavas went chasing the deer for quite a long period of time and finally after some time the deer disappeared somewhere in the bushes the Pandavas were not able to find out where this deer has gone and Now this time period was actually in the quite a hot summer time it was. Because when Durvasamuni came to the Pandavas hermitage, that was that whole incident where Draupadi had already eaten from the Akshaya Patra and Lord Krishna had to come and rescue the Pandavas from Durvasa's wrath. That happened on the day of Akshaya Tritiya, which is around the month of May. And about a month after that, the incident with Jaidratha happened, which was about June. And this incident was happening quite close on the heels of after the Jaidratha incident. So this would have been somewhere in June or July, which is the hottest part of summer in the north. Now the Pandavas were sweating and they were thirsty and not being able to find the deer anywhere.
+
+---
+### brotherhood, duty, suspense
+**Timestamp:** https://youtu.be/Ra-iCjgPgdc?t=1454
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Now how will we go back and show our face to that Brahmana? We are supposed to be Kshatriyas, we are supposed to protect all the Brahmanas and ensure that there are no obstacles on the path of their Ejnas."
+**Summary:** The Pandavas, feeling embarrassed by their failure to catch the deer, send Nakula to find water. When he doesn't return, Sahadeva is sent to investigate, ending the episode on a cliffhanger.
+
+They sat down feeling very despondent. They started talking amongst themselves. Now how will we go back and show our face to that Brahmana? We are supposed to be Kshatriyas, we are supposed to protect all the Brahmanas and ensure that there are no obstacles on the path of their Ejnas. And one ordinary deer we are not able to catch, what we will protect all the citizens? What will the people talk about us? So like this they were feeling very embarrassed and they were sitting not knowing what to do. Then Yudhishthira Maharaj, told the youngest of the brothers Nakula to find out if there was any water body close by so that they could quench their thirst. Nakula found a large tree and he climbed on top of the tree. And he looked around, and he could notice that a short distance away there was a very large water body, it looked like a big lake. Nakula came down and he informed Yudhishthira Maharaj that there is a lake close by and that he would go and get water from there. Yudhishthira Maharaj told him, okay, you go and get the water, we will all wait here and Nakula went towards the water body. Few minutes passed by, one minute, two minute, three minute, five minute, time is going but there was no sign of Nakula returning. Now the Pandavas were getting a little restless, they were quite thirsty also. Yudhishthira Maharaj told Sahadeva, Sahadeva, I don't know what has happened to Nakula, looks like he has forgotten that we are all very thirsty here, please go and see what has happened and can you please quickly get the water. Sahadeva immediately went in the direction which Nakula had gone. Why did Nakula not return and what did Sahadeva find out? Please join us in our next episode to know about this. Thank you for joining us today. Hare Krishna. Thank you for watching.
 
 ---
 
@@ -4137,6 +6883,219 @@ this although he Dhritarashtra is saying he wants peace, but the activity sugges
 
 ---
 
+## Mahabharata | Part 5 Origin of Yadavas
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### general
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Hare Krishna and welcome to today's episode of the Mahabharata."
+**Summary:** The speaker begins with prayers and welcomes the audience to the Mahabharata series, announcing the topic of the Yadava dynasty's origin and a related pastime of Lord Shiva.
+
+Thank you for watching. Om Adhyana Timurandhasya Dhyana Anjana Chalakaya Prakshadunmi Litam Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswati Dev Gauravani Pracharine Nirvishesha Chunyavadi Pachyatyadeshatarine. Jai Shri Krishna Chaitanya Prabhu Nitya Nanda Sri Advaita Gadhadhara Sri Vasadi Gauravatta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mokam Karoti Vachalam Pangum Langhayate Girim Yad Kripata Mahamande Sri Guram Deena Taranam. Hare Krishna and welcome to today's episode of the Mahabharata.
+
+---
+### detachment, renunciation
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=81
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "But still we see Lord Shiva is always dressed in deer skin and he has matted hair, he has smeared ash all over his body and generally he lives out in the open or in some cave."
+**Summary:** The speaker introduces a pastime of Lord Shiva and Parvati, contrasting Shiva's detachment from material possessions with his position as Durga's husband, who could provide him with immense opulence.
+
+In the last episode, we had discussed about how we will be today telling you all about the origin of the Yadava dynasty which had very close links with the Kaurava dynasty. But first, we would like to narrate a pastime related to Lord Shiva. Lord Shiva was with Parvati once and they both wanted to spend some leisure time together. Generally, we find that Lord Shiva absolutely does not have any particular house or a board of his own. Although he stays in Kailasha, Kailasha is his abode. But then he doesn't have a palace or some house to stay and play in this despite the fact that Lord Shiva is the husband of Durga and Durga is mother material nature herself. If Lord Shiva brings around this, however Shiva wants, Durga will be ready to bring the best of material things at his disposal. He can have the best palace adorned with all gold and jewels and innumerable servants, wear opulent clothing and anything is available at his disposal. But still we see Lord Shiva is always dressed in deer skin and he has matted hair, he has smeared ash all over his body and generally he lives out in the open or in some cave. We don't find him living in some opulent mansion.
+
+---
+### devotion, hierarchy
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=191
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Because we have to understand that Lord Shiva is the greatest of the Vaishnavas."
+**Summary:** The speaker explains that Lord Shiva's detachment stems from being the greatest Vaishnava, citing scriptural statements that elevate Ganga among rivers, Krishna among deities, Srimad Bhagavatam among Puranas, and Shiva among Vishnu's devotees.
+
+Why is this so? Because we have to understand that Lord Shiva is the greatest of the Vaishnavas. It is said in the Shastras that amongst all the reverse, Ganga is considered the holiest of all. Amongst all the Devas, amongst all the Deities, Achyuta or Krishna is the topmost. He is the supreme. Amongst all the Puranas, Srimad Bhagavatam is the topmost. And amongst all Vaishnavas, amongst all devotees of Vishnu, Vaishnavanam Yatha Shambhu, amongst all the devotees of Vishnu, Lord Shiva is considered the topmost. This is the description given in the Vedas.
+
+---
+### devotion, worship
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=245
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "My dear lady, higher than the worship of Lord Vishnu, there is something. What is that? Worship of his devotee, the Vaishnava."
+**Summary:** The speaker narrates a conversation from the Padma Purana between Shiva and Parvati, where Parvati asks about the highest form of worship, and Shiva reveals that worshipping Vishnu's devotee is even higher than worshipping Vishnu himself.
+
+And there are other instances also in the Shastras where this is described. Just like in the Padma Purana, there is a conversation between Lord Shiva and Parvati Devi. Parvati Devi is a very chaste wife of Lord Shiva. She always likes to hear the glories of Lord Shiva. In fact, in her previous birth as Sati, she was the daughter of Dakshamaharaj. And when Dakshamaharaj blasphemed Lord Shiva, he denounced Lord Shiva. Sati could not tolerate the words of her own father denouncing her husband Lord Shiva. And she gave up her body. She did Atmadaha. And of course, later she was born as Parvati Devi. And again she married Lord Shiva. This Parvati Devi, because she always likes to hear the glories of Lord Shiva, she once asked Lord Shiva that what is the highest form of worship? Worshipping whom? Worshipping which deity is considered the best or the topmost? Because all her life, Parvati Devi has been worshipping Lord Shiva. So she wanted to hear from Lord Shiva himself what is his opinion. To which Lord Shiva replied, Lord Shiva said that of all the types of worship, of all the deities to be worshipped, the worship of Vishnu is the highest. When Lord Shiva said this, Parvati Devi's face became very small because she was expecting to hear that the worship of Lord Shiva is the highest. But Lord Shiva himself is saying that worship of Lord Vishnu is the highest. When Lord Shiva saw her face becoming so small, he wanted to comfort her. So he continued. He said, My dear lady, higher than the worship of Lord Vishnu, there is something. What is that? Worship of his devotee, the Vaishnava. And because Parvati Devi knows that Lord Shiva is a great devotee, he is a great Vaishnava, he is a great devotee of Lord Vishnu, when she heard this, she became very pleased.
+
+---
+### devotion, worship
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=388
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Vishnu becomes even more pleased than when we worship him directly."
+**Summary:** The speaker elaborates on the principle that Krishna is the Supreme Lord, worshipped by all, including Lakshmi Devi, and that worshipping Vishnu's devotee pleases Vishnu even more than direct worship.
+
+The reality is that Krishna or Vishnu, he is the Supreme Lord. He is glorified by all the devatas, he is worshipped by all the devatas. In fact, even Lakshmi Devi personally, she is always worshipping the lotus feet of Vishnu. And that Lakshmi Devi, all the devatas, all the kings, all the rich people in this world, everybody is running after the favour of Lakshmi Devi because everybody wants to be wealthy, nobody wants to be poor. So everyone wants the favour of Lakshmi Devi. And that Lakshmi Devi, she is seeking the favour of the lotus feet of Vishnu, Narayana. Therefore, the worship of Vishnu is the highest. But then, although everybody is worshipping Lord Shiva, although everybody is worshipping Vishnu himself, whenever somebody worships Vishnu's devotee, his pure devotee, Vishnu becomes even more pleased than when we worship him directly.
+
+---
+### devotion, chanting
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=497
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Parvati Devi asked Lord Shiva, can you tell, is there some shortcut by which I can get the benefit of chanting the entire thousand names of Lord Vishnu without having to spend twenty, twenty-five minutes on that."
+**Summary:** The speaker transitions to another example from the Mahabharata, where Parvati asks Shiva for a shortcut to chanting the Vishnu Sahasranama, drawing a parallel to the modern desire for instant gratification, like instant food mixes.
+
+And, not only this, in the Mahabharata, in the Anuchasana Parva, there is a description of the Vishnu Sahasranama, the 1008 holy names of Lord Vishnu. This was spoken by Bhishma Deva to Yudhishthira Maharaj. In that, again there is a conversation between Lord Shiva and Lord Parvati, where Lord Shiva informs Parvati Devi, this was a question asked by Parvati Devi to Lord Shiva, that, O Lord Shiva, kindly explain to me a short way in which I can chant all the 1000 names of Vishnu. If we chant the full Vishnu Sahasranama, it will take about 20 to 25 minutes. Parvati Devi wanted to have a shortcut because in Kali Yuga, everybody wants everything instant. When you look at people wanting to cook, they want everything instant. They want instant rava idli mix, instant dosa mix, everything has to be instant.
+
+---
+### simplicity, tradition
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=570
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Those used to be the days."
+**Summary:** The speaker shares a personal anecdote about his grandmother's traditional dosa-making process, contrasting it with the convenience of modern instant mixes.
+
+I remember when I was young, when I used to go to my native place, I would ask my mother, I want to, I feel like eating dosa. So, my grandmother would soak some rice and some urad dal overnight. Next day morning, she will come, call me, come, come, come. You want to eat dosa, no? Come. She will put everything and give me grinding mortar. Not the mixer grinder of today. Those days, mixer grinder was still not in vogue. Not even the big motorized grinder. The stone grinder which with hand we had to grind. So, I had to sit and I had to grind with my hand all the rice and urad dal. And after half an hour of hard work, the batter will be ready. And then after a few hours, my grandmother would make dosas and give it to me. Those used to be the days.
+
+---
+### chanting, devotion
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=622
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "By chanting Lord Rama's name thrice, it is equivalent to chanting the entire Sahasranama."
+**Summary:** The speaker returns to the story of Parvati and Shiva, explaining that Shiva advised Parvati to chant Lord Rama's name thrice, which is equivalent to chanting the entire Vishnu Sahasranama, because Shiva takes great pleasure in chanting Lord Rama's name.
+
+Now, will anyone sit and do that kind of grinding? No, you go to the mall and buy one MTR ready dosa mix. Or there are even other companies which are nowadays selling ready made batter, fresh batter. You go and buy that and go to your house, have a tawa and start making. So, that is how people are. So, nobody has the patience to chant the entire Vishnu Sahasranama. And therefore, Parvati Devi asked Lord Shiva, can you tell, is there some shortcut by which I can get the benefit of chanting the entire thousand names of Lord Vishnu without having to spend twenty, twenty-five minutes on that. To which Lord Shiva replied, Shri Rama Rameti, Rame Rame Mano Rame. He told Parvati Devi, that by chanting Lord Rama's name thrice, Shri Rama Rama Rameti, by chanting this holy name of Lord Rama thrice, Sahasranama Tatthulyam, it is equivalent to chanting the entire Sahasranama. And not only this, Lord Shiva told Parvati Devi, Rame Rame Mano Rame, I take great pleasure in chanting Lord Rama's name. Chanting Lord Rama's holy name. Why? Because Lord Shiva is such a great devotee of Lord Krishna, Lord Vishnu. That he is always absorbed in meditating upon him and chanting his holy names.
+
+---
+### renunciation, detachment
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=710
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Lord Shiva being the greatest Vaishnava, he is totally disinterested in meditation. He is not interested in material enjoyment."
+**Summary:** The speaker emphasizes the renunciation of Vishnu's devotees, particularly Lord Shiva, who is disinterested in material enjoyment despite having Durga Devi as his consort, who could provide him with all opulences.
+
+And all devotees of Lord Vishnu are very, very renounced. They have no inclination to enjoy any of the material pleasures within this material world. Lord Shiva being the greatest Vaishnava, he is totally disinterested in meditation. He is not interested in material enjoyment. That's why despite having Parvati Devi, Durga Devi as his own consort, who is ready to bestow all the opulences, material opulences at Lord Shiva's lotus feet, he is not at all interested. He doesn't even have a proper house, not even a hermitage he builds for himself. He lives out in the open.
+
+---
+### devotion, purification
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=752
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So somebody had to check the Bhagirathi before she fell onto the earth and so Bhagiratha requested Lord Shiva and that is how Lord Shiva decided to help Bhagiratha."
+**Summary:** The speaker explains Lord Shiva's role in receiving Ganga on his head, preventing her force from washing away the Earth, highlighting his devotion and the purifying power of Ganga, which originated from Vamanadeva's lotus feet.
+
+This is the great position of Lord Shiva. In fact, we can see how Lord Shiva is carrying on his head, the role he plays in the spiritual world. Why? Because Ganga Devi she came into this material world when Vamanadeva's lotus feet, his big toe pierced the covering of this universe. The spiritual river, Vaitarani river, flooded into this material universe. And Bhagiratha, he wanted to bring down Gangaji from the celestial planets to this Earthly planet. But then to bring her down, her force was so much falling from the outermost envelopes of the universe into this earthly planet that if the force was not checked, she would wash away the entire earthly planet.
+
+---
+### devotion, purification
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=807
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Treating her like tirtha, like charanamrit, Lord Shiva took Gangaji on his head."
+**Summary:** The speaker explains why Lord Shiva took Ganga on his head, comparing it to the practice of sprinkling charanamrit on one's head, emphasizing that Ganga's purifying power comes from washing the lotus feet of Vamana Dev.
+
+So somebody had to check the Bhagirathi before she fell onto the earth. And so Bhagiratha requested Lord Shiva and that is how Lord Shiva decided to help Bhagiratha. And how did Lord Shiva stop the flow of the Bhagirathi before she hit the earth? He could have stopped her with his feet or he could have stopped with his hands. But he chose to first take her on his head. Why? Because whenever you go to some Lord Vishnu's temple, they will give you some charanamrit, some tirtha. The moment we get the tirtha or charanamrit, what do we do? We sip a few drops and then we sprinkle on our head. Suppose somebody has gone to Haridwar on a pilgrimage and he comes back with some Gangajal and he shares with you a few drops of Gangajal I brought for you also. What you will do? You will take that and say, I will sprinkle on your head as well as all your family members. It's a common practice. Why do we sprinkle the Gangajal and the charanamrit on our head? Because the charanamrit or the tirtha has washed the lotus feet of the deity and therefore we sprinkle on our head. Similarly, Gangaji has washed the lotus feet of Vamara Dev and entered this earth and therefore Gangaji is able to purify us of all our sinful reactions. And that's why she is celebrated as the holiest of the rivers. And so therefore, because Gangaji has washed the lotus feet of Vishnu, Vamana Dev and she is coming down, treating her like tirtha, like charanamrit, Lord Shiva took Gangaji on his head. This shows Lord Shiva's devotion to Lord Vishnu. He is a great devotee of Lord Vishnu.
+
+---
+### devotion, protection
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=915
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "From now on, any man enters the Sukumara village, he will turn into a woman."
+**Summary:** The speaker narrates another pastime of Shiva and Parvati, where Shiva turns any man entering the Sukumara forest into a woman to alleviate Parvati's embarrassment after rishis intruded on their privacy.
+
+Now this Lord Shiva and Parvati, because of Lord Shiva's renunciation, they do not even have a proper house or any accommodation to stay in. They are living out in the open. And once, to have some leisure time, Lord Shiva and Parvati came to a forest in the celestial planets called Sukumara. And this Sukumara was a very verdant, beautiful forest with lot of nice pristine, crystal clear ponds filled with lotuses and swans and lot of flowering plants and beautiful trees, fruit bearing trees, lot of cuckoos and peacocks. It was a beautiful forest. And so they were spending some time together. And it so happened that a few rishis who used to live in their hermitages surrounding the Sukumara forest, they happened to hear that Lord Shiva has come. And they all thought, Lord Shiva is a great Vaishnava. Let us go and take some association from him. Let us hear some Krishna katha from him. Like that they went and approached Lord Shiva. But when they approached the Sukumara forest and came to the place where Lord Shiva was, they found that Lord Shiva and Parvati were in a little intimate position. And they thought, oh we have come at an inopportune moment. We have intruded into the privacy of the husband and wife. This is not the right time to come. They immediately excused themselves and they thought we will come some other time and they went away. They were quite gentlemanly that way. Lord Shiva was unaffected because he is always equipoised in all circumstances. Parvati Devi got a little flustered. She thought, what is this? I have become very embarrassed in front of all these sages. We don't have a proper house to stay in. Okay, we have come to this forest to spend some private time together. And here also people are intruding into our privacy. I can't even have a few private moments with my husband. What is this? Lord Shiva understood Parvati Devi's embarrassment. And he told Parvati Devi, don't worry. From now on, any man enters the Sukumara village, he will turn into a woman. Are you happy with this? Parvati Devi said, now I am happy. Now I will not get embarrassed before any man who may intrude into our privacy. And like this, Lord Shiva pleased Parvati Devi.
+
+---
+### creation, lineage
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1081
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "In the beginning of the creation, Maha Vishnu or Karanodaka Sai Vishnu, from his body, various universes are coming out."
+**Summary:** The speaker connects the incident to the Mahabharata and the Yadava dynasty, then transitions to the beginning of creation, describing the emergence of universes from Maha Vishnu and the creation of Brahma from Garbhodaka Sai Vishnu's navel.
+
+Now what this incident has significance as far as the Mahabharata is concerned and on the Yadava dynasty, we will see that shortly. Now we come back to the beginning of the creation. In the beginning of the creation, Maha Vishnu or Karanodaka Sai Vishnu, from his body, various universes are coming out. And when a particular universe comes out of Maha Vishnu or Karanodaka Sai Vishnu, who is the first Purushaavatara, into each universe, the second Purushaavatara, Garbhodaka Sai Vishnu, enters. And from this Garbhodaka Sai Vishnu, from his navel, a lotus sprouts, on which Lord Brahma is created. Lord Brahma is born.
+
+---
+### lineage, demigods
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1130
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "The demigods or the devatas are all born from the twelve Adityas, as well as from the sages who are born of Brahma."
+**Summary:** The speaker traces the lineage from Brahma to Kashyapa and Aditi, who had twelve sons called Adityas, including Vamanadeva and Indra, explaining that demigods are born from the Adityas and sages born of Brahma.
+
+Now this Lord Brahma, from his mind, he generated various sages as his sons. One of the sages was Marichi. And this Marichi had a son by the name Kashyapa. This Kashyapa Muni married many daughters of Daksha Maharaj, who was another son of Brahma. And this Kashyapa and Aditi, they had twelve sons known as Adityas because they were sons of Aditi, they were called Adityas. The youngest of them was Urukrama or Vamanadeva. And little elder to him is Lord Indra. And because Vamanadeva is the younger daughter, Vamanadeva is the younger brother of Indra, he is also called Upendra. Varuna was another son of Kashyapa and Aditi. Now we have to understand that the demigods or the devatas are all born from the twelve Adityas, as well as from the sages who are born of Brahma. The other sages born of Brahma also give rise to many other sons who all become devatas or demigods.
+
+---
+### demigods, positions
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1237
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "All the devatas are appointed officers of Lord Vishnu to manage the affairs of this universe."
+**Summary:** The speaker explains that devatas are appointed officers of Lord Vishnu, with terms that expire, and that these positions can be filled by qualified jivas, just like political positions in a country.
+
+So devatas are all created ultimately by Brahma and Brahma himself is the son of Lord Vishnu. And therefore, we have to understand that all the devatas are appointed officers of Lord Vishnu to manage the affairs of this universe. And their term also keeps getting over and new people take up those posts. For example, Indra is a particular post. Now in this particular time, in this particular yuga, we are seeing how Indra has been born as a son of Kashyapa and Aditi. Later on when his term gets over, somebody else will occupy that post. Somebody else will occupy the post of Varuna. Somebody else will occupy the post of Chandra, etc. This is how all the devatas are actually, they are posts filled by various jivas. You and I, both of us are jivas. You and I can also become the Indra or Chandra or Varuna. Even up to Brahma we can occupy any one of the posts. It is possible.
+
+---
+### demigods, supreme_lord
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1363
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "You and I can never become equal to Vishnu or Narayana because He is the Supreme Lord Himself. He is not a Jiva like us."
+**Summary:** The speaker differentiates between devatas, who are jivas occupying positions, and Lord Vishnu, who is the Supreme Lord and not a jiva like us.
+
+So, the devatas, the demigods are all one category known as Jiva Tattva and they are highly qualified people who are occupying that post, who are appointed there for a certain duration, for a certain tenure. But Lord Vishnu is not like that. He is not like you and me. You and I can never become equal to Vishnu or Narayana because He is the Supreme Lord Himself. He is not a Jiva like us. This is the differentiation that we have to understand between the devatas and Lord Vishnu.
+
+---
+### lineage, progeny
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1397
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Vaivasvata Manu, for a long time, he did not have a child."
+**Summary:** The speaker continues tracing the lineage, mentioning Vivaswan (the Sun God) and his son Shraddha Deva Manu (Vaivasvata Manu), who initially did not have a child.
+
+Anyway, now, amongst all the Adityas, the eldest son of Kashyapa Muni and Aditi was Vivaswan or the Sun God. And this Vivaswan's son, one of the sons of Vivaswan was Shraddha Deva Manu who is also known as Vaivasvata Manu because he is the son of Vivaswan. Vaivasvata Manu, for a long time, he did not have a child. And then, he asked this family priest, Vasishta Muni, to conduct a Yajna by which he got a benediction to get a child. And Vaivasvata Manu wanted a son, whereas his wife wanted a daughter. So finally, they got a daughter and they named their daughter Ila.
+
+---
+### transformation, divine_intervention
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1448
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Ila was converted into a boy."
+**Summary:** The speaker explains that Vaivasvata Manu was unhappy with a daughter, so Vasishta Muni prayed to the Supreme Lord, and Ila was transformed into a boy named Sudhyamna.
+
+But Vaivasvata Manu was unhappy. He was deeply wanting that he should have a son. And therefore, Vasishta Muni, understanding Vaivasvata Manu's deep desire, he prayed to the Supreme Lord and by his prayers, Ila was converted into a boy. And this boy grew up into a handsome young prince called Sudhyamna. Sudhyamna was young, he was very handsome and he was going to become the king. And one day, he went out on an expedition with some of the ministers. And he went on this expedition to a place known as the Sumeru Mountain. Please don't try to search for Sumeru Mountain on the Google Maps. You are not going to find it there, because this mountain is on the celestial planets. It's in a different planet. Now, Sudhyamna, with all his ministers, he went on this expedition. Just like sometimes, we also on vacation, we go to some forest or some mountain or some hill for trekking and things like that. Like that, Sudhyamna also went with all his ministers. And while they were wandering around the Sumeru Mountain, they came across a beautiful forest. A very verdant, beautiful forest with all nice foliage and lot of beautiful ponds and all that. And so, all of them entered into this forest. Unfortunately, unbeknownst to Sudhyamna or any of his ministers, this was the same Sukumara forest where Lord Shiva has said, any man who enters this will become into a woman.
+
+---
+### curse, transformation
+**Timestamp:** https://youtu.be/N5rxZpfK-6o?t=1550
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Please join us in our next episode to hear about what happened with them."
+**Summary:** The speaker ends the episode by creating suspense, leaving the audience to wonder what happened to Sudhyamna and his ministers when they entered the Sukumara forest, unaware of Shiva's curse.
+
+Sudhyamna did not know this. None of his ministers also knew this. So, very happily, very innocently, they all entered into this forest. And when Sudhyamna and all his ministers entered the forest, what happened? Please join us in our next episode to hear about what happened with them. So, thank you for joining us today. Hare Krishna Jagat Guru Srila Prabhupada Ki Jai Nithai Gor Premanande Hari Hari Bol.
+
+---
+
 ## Mahabharata | Part 50 | Duryodhana seeks Krishna's & Balarama's support | HG Suvyakta Narasimha Dasa
 **Speaker:** HG Suvyakta Narasimha Dasa
 
@@ -4384,6 +7343,594 @@ Bhishma looked at Karna. He said, what are you talking? All simply boasting your
 **Summary:** Dhritarashtra, aware of the Pandavas' strength and the likely outcome of a battle, remains a puppet of Duryodhana, sealing their fate, and the lecture concludes by teasing the Pandavas' reaction to the news of the Kauravas' unwillingness to negotiate.
 
 He knew that his, if there was a battle, the only outcome would be that Duryodhana and all his sons would be killed. But what to do? He was a puppet in the hands of Duryodhana. He could not go against his wishes. So, it looked like his destiny was sealed. Now, this news that, Sanjaya had gone back, he had taken his proposal, and still, Duryodhana was unwilling to return the kingdom. This news reached the Pandavas. Now, when the Pandavas got the news, that the Kauravas are not going to give back their kingdom, nor are they even willing to consider their proposal, to take only five villages, even that much they are not willing to consider. What did the Pandavas do? Please join us in the next episode to know about this. Thank you for joining us today. Hare Krishna.
+
+---
+
+## Mahabharata | Part 7   Devayani & Yayati
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### introduction, prayer, Mahabharata
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Hare Krishna and welcome back to this episode of Mahabharata."
+**Summary:** The speaker begins with prayers and welcomes the audience back to the Mahabharata series.
+
+Thank you for watching. Om Adhyana Timranthasya Jnananjana Salakaya Chakshuram Neelitam Yena Tasmai Sivurave Namaha Namah Om Vishnupadaya Krishna Preshtaya Bhutare Srimate Bhaktivedanta Svamin Nithinamine Namaste Saraswate Deve Gauravani Pracharine Nirvisesha Sunyavadi Pashyate Deshatarine Jaya Sri Krishna Chaitanya Prabhu Nityanandaya Sri Advaita Gadhadhara Sri Vasadi Gauravakta Vrinda Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare Mokam Karoti Vachalam Pangum Langhayate Girim Yad Kripata Mahamande Sri Gurum Deena Taranam
+
+---
+### Mahabharata, Devayani, Yayati
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=86
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "In the last episode, we saw how Sukracharya's daughter Devayani was insulted by King Vrishaparva's daughter Sharmistha and later Sharmistha became the maidservant of Devayani and Devayani was rescued from the well by Yayati."
+**Summary:** The speaker summarizes the previous episode and introduces the story of Durvasa Muni and Indra.
+
+Hare Krishna and welcome back to this episode of Mahabharata. In the last episode, we saw how Sukracharya's daughter Devayani was insulted by King Vrishaparva's daughter Sharmistha, and later Sharmistha became the maidservant of Devayani, and Devayani was rescued from the well by Yayati. After being rescued from the well by Yayati, Devayani wanted to marry Devayani, but then Yayati refused to marry her on the grounds of their marriage becoming a Pratiloma marriage, which would not be desirable according to the caste system. Now how did Sukracharya solve this? Was Sukracharya able to convince Yayati to marry Devayani, or did Devayani become another Amba? That is what we will see today. Connected to this, long, long ago in the beginning of creation, Durvasahamuni was once walking on the road in one of the celestial planets, and it so happened that Indra was coming along with his entire retinue along that road, and Indra was seated on his elephant carrier. The moment Durvasahamuni saw him sitting on his elephant carrier, the moment Durvasahamuni saw him with his entire retinue along the road and Indra was seated on his elephant carrier, the moment Durvasahamuni saw him
+
+---
+### Durvasa Muni, Indra, curse, arrogance
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=173
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, General public
+**Key Quote:** "Indra received that garland and by etiquette, he should have worn it as a mark of respect because Durvasamuni, he has given me out of some affection to keep his feelings, Durvasamuni's feelings."
+**Summary:** The speaker narrates the story of Durvasa Muni cursing Indra due to Indra's arrogance and disrespect.
+
+With his entire retinue along the road and Indra was seated on his elephant carrier, the moment Durvasahamuni saw him. The moment Durvasamuni saw Indra, he thought, oh, Indra has come, I should give him something. And Durvasamuni is a simple sage. He doesn't carry anything much with him, apart from his Kamandulu and something else. Fortunately, it so happened that he was wearing a garland. He thought, okay, let me offer this garland to Indra. And out of affection for Indra, he offered the garland to Indra. Indra received that garland and by etiquette, he should have worn it as a mark of respect because Durvasamuni, he has given me out of some affection to keep his feelings, Durvasamuni's feelings. Indra should have worn that garland. But then Indra had become very arrogant because he was the king of all the devatas. Naturally, when a person gets a very high post, generally, the person tends to become a little arrogant. The same thing happened with Indra also. After all, Indra is also a conditioned soul like one of us. Although he is more qualified than us, that's why he is given the post of Indra. But then he is also subject to coming out of the influence of pride, arrogance, etc. Now Indra, instead of wearing the garland, he put it around the trunk of his elephant. In a very condescending manner, contemptuously put it, Eh, what, you know, this garland given by Muni, it's not suitable for me. Let the elephant wear it like that. Elephant is a poor animal. What it will understand? Muni, non-Muni, garland, how does it understand any of the things? He took the garland, put it on the ground, nicely stomped on it with its legs. So when the elephant stomped on the garland, it not only stomped the garland, it also stomped. It also stomped on the esteem, self-esteem of Durvasa Muni. And you know, Durvasa Muni, known for his quick temper, he immediately became angry. And he cursed Indra. Indra, you have become so angry. You have become dhana durmada andha. Meaning, because of dhana opulence, you have become durmada andha. You have become blind. You have been blinded by the arrogance due to your opulence. Therefore, I am cursing you. You will lose your position as the king of heaven and you will lose all the opulence you have got.
+
+---
+### Devatas, Asuras, Vishnu, Vedic classification
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=333
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "All those who are devotees of Lord Vishnu are called Devatas. Anybody who does not accept the supremacy of Lord Vishnu is called an Asura."
+**Summary:** The speaker explains the Vedic classification of Devatas and Asuras based on their devotion to Lord Vishnu.
+
+Now, when this happened, simultaneously there was an attack on the devatas by the asuras headed by Bali Maharaj, who was the grandson of Prahlad Maharaj. Now, we have to understand, according to the Vedas, there are broadly two classes of living entities in this universe. There are two classes of living entities in this universe. The broad classification given in these Vedas is that one class of people are called daiva or devatas, and another class is called asura. Now, what is the basis of this classification? How do we define who falls into which category? Now, what is the basis of this classification? How do we define who falls into which category? Vishnu Bhaktoham Vipassi. Vishnu Bhaktoham Vipassi. Vishnu Bhaktoham Vipassi. Vishnu Bhaktoham Vipassi. All those who are devotees of Lord Vishnu are called Devatas. Anybody who does not accept the supremacy of Lord Vishnu is called an Asura. This is the definition according to the Vedas. Now, although the Indra was so puffed up and all that, but still he was a devotee of Vishnu. So, he is considered a Devata. Now, Bali Maharaj also was a great devotee of Vishnu. But then all his followers were not following in his footsteps. They were only interested in wealth and position and power and all that. Now, there is always a conflict between these two classes of people. Between those who are devotees of the Supreme Lord, who accept the supremacy of Lord Vishnu, and those who do not accept Lord Vishnu as the Supreme. And those who don't accept Lord Vishnu as the Supreme, will have many many classes of other... people. There will be some people who will be devotees of the Devatas. Somebody will be devotee of Lord Shiva. Somebody will be devotee of Lord Brahma. Some of them may even be Atheists. All of them fall into the category of Asura. There are many examples in the Shastras. Ravana is considered an Asura. He was a great devotee of Lord Shiva. Hiranyakashipu, he is also considered an Asura. He was a great devotee of Lord Brahma. By this we can understand that whether a person... has some religious beliefs, or he is an atheist, or he is an agnostic, or whatever he is. If he does not accept the supremacy of Lord Vishnu, then he is to be considered an Asura.
+
+---
+### Devatas, Asuras, conflict, modern world
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=483
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Congregation / volunteers, General public
+**Key Quote:** "Now, there is always a clash between these two classes of people. Even today's modern world also you can see this."
+**Summary:** The speaker draws a parallel between the conflict between Devatas and Asuras and the conflicts in the modern world.
+
+This is the very clear, firm injunction given in the Vedas. Now, there is always a clash between these two classes of people. Even today's modern world also you can see this. This kind of... We can see, there is a narrative which is built up by one category of people who want to deprecate everything that is there in the Vedas, and there is another class of people who want to uphold whatever is given in the Vedas. This has been there from the beginning of creation. Now the Asuras are always trying to fight with the Devatas and take over the powers of administering this entire universe. The Devatas are actually appointed by Lord Vishnu, but the Asuras want to somehow use their might, use their military power and want to occupy those positions of authority. And so this kind of conflict is always there from the beginning. Now Indra became hemmed in from two sides. On the one side there was this Durvasa's curse, and on the other side the physical attack by the Asuras. And Indra became the head of the Asuras. And Indra became the head of the Asuras. And Indra became the head of the Asuras. Because of the curse of durvasa muni, Indra and all the Devatas could not withstand the assault from the Asuras. The Asuras gained the upper hand, and they managed to dethrone Indra and Badimaharaja occupied the position which was to be occupied by Indra. Now being afflicted like this, being beaten back squarely, Indra and all the Devatas approached Lord Vishnu. Because ultimately they are all devotees of Vishnu. So whenever they have some problem which they themselves are not able to solve, they will escalate it to Lord Vishnu. They brought it to the notice of Lord Vishnu that this is what has happened.
+
+---
+### Vishnu's advice, churning the ocean, conciliation, Amrita
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=604
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now Lord Vishnu gave sage advice to Indra. He told him, see, currently your position is not very strong."
+**Summary:** Lord Vishnu advises Indra to take a conciliatory approach and churn the ocean of milk for Amrita.
+
+Now what is the solution? Now Lord Vishnu gave sage advice to Indra. He told him, see, currently your position is not very strong. You are on a weak wicket. Why? Because you got the curse of Durvasamuni. You should not have been so arrogant. But anyway, because of your arrogance, now you are facing the consequences. Simultaneously, the asuras are headed by Bali Maharaj. And Shukracharya is also a great brahmana. And because of his austerities, also they have got lot of power which you are not able to counter. So now is not the time for open confrontation. Now is the time for conciliatory approach. You approach the asuras and ask for a truce. And give them, put before them a proposal that let us churn the Kshira Udaka, the ocean of milk, where Lord Vishnu lies as Kshira Udaka Sai Vishnu, Paramatma lies there in that ocean. Let us churn that with the Mandara mountain. And from the ocean of milk, we will get the pot of Amrita, the pot of nectar, by drinking which we can improve our longevity and our health. Amrita is such a... Is such a potion that if somebody consumes that, he will get a very long life. And he will not be afflicted by old age, diseases and such other things. Generally people think by drinking Amrita one can become immortal. One cannot become immortal. That's not possible. But at least one's longevity and health can be assured. Now Lord Vishnu also informed, advised Indra that, the Asuras, because they are very much keen on maintaining their bodily health, they are not interested in spiritual advancement and austerities, tapasya, these kind of things they are not interested in for spiritual upliftment. They are always interested in economic development, how to keep our health nice and all these kind of things. So when you put this proposal before them, they will immediately accept. And when you actually get down to churning the ocean, there will, many things will come out and you don't confront or get into a fight with the Asuras over any of them. Whatever the Asuras say, you accept. Because that's your position now.
+
+---
+### Indra's humility, alliance, churning the ocean, Vasuki
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=753
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "He approached Bali Maharaj and the Asuras initially, the moment they saw Indra, they thought come on. This is a good opportunity."
+**Summary:** Indra approaches Bali Maharaj, and they agree to churn the ocean together, using Vasuki as the rope.
+
+Indra understood all these things, took all the advice and by now Indra's, that all that arrogance and all those things had been leveled. He was in a way quite a humble mood. He approached Bali Maharaj and the Asuras initially, the moment they saw Indra, they thought come on. This is a good opportunity. Let us finish him off. But then Bali Maharaj stopped them and he said, no, no, no, they are coming not with a mood of fighting. Let us hear them out. And then Indra put forth this proposal and then all the Asuras, they all got excited. Yeah, this is a very good idea. Let us all engage in this. The Asuras were thinking when the pot of nectar comes out, anyway the Devatas are weakened, we will snatch it from them and we will consume it. And the Devatas are thinking, anyway, these people are not aware Lord Vishnu is on our side. Ultimately, the pot of nectar is going to come to us. Amrita is going to come to us. Now, they all agreed to this proposal. Both of them came together. Now, both of the fours became allies and so they with great difficulty, they brought the Mandara mountain to the ocean of milk and they put the Mandara mountain when they were actually, when they were lifting the Mandara mountain, they were bringing to the ocean of milk. The... The mountain was too heavy, they were not able to lift it and many of them got crushed under the weight of the mountain and many of them died and Lord Vishnu taking pity upon them, he personally appeared, revived them to life and he lifted the Mandara mountain and brought it to the ocean of milk along with Garuda. Now, for now that the Mandara mountain had come as a churning rod, now the ocean to churn it, you need a rope. They all decided that, let us do it. They decided that, let us get Vasuki, the big, huge snake as the churning rope. Now, as long as Garuda is there, Vasuki will not come. So Vishnu sent away Garuda. He said, you go back, we have got some other program going on, your utility is over, we will call you whenever needed. So Garuda was sent away.
+
+---
+### Vasuki, deception, Kurma Avatar, churning the ocean
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=881
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now when the Asuras saw that the Devatas had picked up the head of Vasuki to hold as the churning rope, they immediately started objecting."
+**Summary:** The speaker describes the churning of the ocean, including the deception regarding Vasuki's head and the appearance of Kurma Avatar.
+
+Then Vasuki came and as soon as Vasuki came, he was wound around the Mandara mountain and the Lord Vishnu informed Indra, you see, the mouth of Vasuki is where all the poison is going to come. So we should not hold the mouth of, head of Vasuki when churning the ocean of milk otherwise we will be in trouble. But then if we tell this to the Asuras, Asuras will not agree. So Lord Vishnu, what he did, all the, he, Vishnu and all the Devatas without telling anything. He picked up the head of Vasuki, the Devatas, the Devatas, they always follow the instructions of Vishnu. The nature of Asuras is that whenever they see the Devatas doing something, they want to do the exactly the opposite. You can see that even in today's world. Now when the Asuras saw that the Devatas had picked up the head of Vasuki to hold as the churning rope, they immediately started objecting. No, no, no, no, no. You have given us the tail. The tail is very inauspicious. We want the head. The head is the most auspicious part of the body. So we will, we want the right to hold the Vasuki's head. So Lord Vishnu also smiled and he said, okay. He left it and along with the Devatas, they went and picked up the tail. And so all the Asuras, they came and very, they got very, this one, excited. Ah, see, we got to, we pushed through and got our deal, our part of the deal and they picked up the Vasuki. And that's true. They started churning. And when they started churning, what happened? The weight of Mandara mountain was so much that it started sinking into the ground. The ground was not able to hold up the Mandara mountain. Then Lord Vishnu incarnated himself as the tortoise and he came and he held, he acted as a pivot for the Mandara mountain because the Lord was feeling a little itching on his back. He wanted his back to be scratched. So what he did, he gave his back to Mandara mountain and when the Devatas and Asuras started pulling the Mandara mountain and churning it, his back was scratched and he felt his itching sensation satisfied. So these are the pastimes of the Lord. When he wants his back to be scratched, he will organize the Mandara mountain to be kept on his back.
+
+---
+### poison, Lord Shiva, Nila Kantha, imitation vs. following
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1032
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, General public
+**Key Quote:** "So lord shiva went and drank up all the poison that is how his throat became bluish because of the poison and generally what happens is when a person becomes poisoned you can see his whole body will come will become bluish because of the poison and then the whole body becomes blueish"
+**Summary:** The speaker narrates how Lord Shiva drank the poison that emerged during the churning, becoming Nila Kantha, and cautions against imitating great personalities.
+
+That is the supremacy of the Supreme Lord Vishnu. So the Asuras and the Devatas started pulling. That's true. That's true. with all vigor and energy and this side the vasuki started emitting poison and the asuras are all their faces became black their bodies became black and they all became very highly weakened and the devatas even though they were not afflicted by the poison but after some time they also got a little tired they were not able to pull with the kind of vigor it was which was needed so now the lord vishnu himself picked up the ends ends of the rope and he started churning it very vigorously and when he did that the a very intense poison came out of the ocean of milk first kalakuta very virulent poison came out now this the poison it would have killed everybody so therefore all the lord vishnu advised all the devatas to pray to lord shiva all the devatas went to lord shiva and prayed to him like this kalakuta this is the only way to get rid of this poison this is the only way to get rid of this poison now we only have to save us parvati devi was also there parvati devi was not at all affected because she knew the prowess of lord shiva she smiled and she encouraged lord shiva please go ahead please help them and so lord shiva went and drank up all the poison that is how his throat became bluish because of the poison and generally what happens is when a person becomes poisoned you can see his whole body will come will become bluish because of the poison and then the whole body becomes blueish the poisonous effects similarly lord shiva's throat became bluish and that is how he got the name nila kantha now some unscrupulous people trying to imitate lord shiva smoke ganja and other such drugs and they claim that lord shiva also did like this so we are following on his path lord shiva drank an ocean of poison are you powerful enough to drink an ocean of poison even one drop of poison you will be finished therefore we should not imitate the activities of great personalities we should follow in their footsteps when we say follow in their footsteps that means we have to follow their instructions just like lord shiva has said he has instructed that should we should chant lord rama's names we should chant lord vishnu's holy names we should become a devotee of lord vishnu these are the instructions of lord shiva this is what we should follow we should not try to imitate lord
+
+---
+### Lakshmi Devi, Mohini Avatar, Amrita, battle
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1188
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now Lord Vishnu as the Mohinimurthi came in front of the Asuras and the Asuras got bewildered by her beauty and they forgot about the pot of nectar."
+**Summary:** The speaker describes the emergence of Lakshmi Devi and Mohini Avatar, the distribution of Amrita to the Devatas, and the subsequent battle between the Devatas and Asuras.
+
+shiva or imitation he is not encouraged in the shastras following in the footsteps in other words following the instructions he is encouraged now after lord shiva drank up the poison many other things also came out of the ocean of milk during the churning lakshmi devi came out she immediately accepted lord vishnu as her husband then with chase of us the horse came out airavatha came out which was taken So, some of the things were taken by the Asuras, some were taken by the Devatas. Mohini Devi also came out, who was another incarnation of Lord Vishnu. Finally, the part of Amrita came out. Now when the part of Amrita came out, that was grabbed by the Asuras immediately. Now the Devatas became despondent, now what to do? But Lord Vishnu had told them, don't pick up a fight, don't engage in any confrontation, you depend, you have to take things a little soberly. So the Devatas looked towards Vishnu, now what to do? Now Lord Vishnu as the Mohinimurthi came in front of the Asuras and the Asuras got bewildered by her beauty and they forgot about the pot of nectar. And so Mohini took away the Amrita and she gave it to the Devatas and the Devatas very happily shared it among themselves and then suddenly the Asuras are saying, hey, what happened Mohini also went, Amrita also went, both are not there. Okay. Suddenly they realized they had been tricked. So they immediately took up their weapons and they called the Devatas, come on, we will fight with you and we will take back the pot of nectar and a furious battle again started between the Devatas and the Asuras. And in this battle, because the Devatas had drunk the pot of Amrita, therefore they became much stronger and they were able to defeat the Asuras. And many of the Asuras got killed. In fact, even Bali Maharaj got killed. The moment they were killed, they were all taken away from the battlefield. And then Narada Muni and Vishnu and all came and told the Devatas enough, they have been defeated. Let them be, let the Asuras be, don't pursue them and try to finish them off.
+
+---
+### Mrita Sanjeevani, Shukracharya, Vishwajit yajna, defeat
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1326
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Shukracharya, he knew a mantra, a process called Mrita Sanjeevani. All those Asuras whose bodies were intact, hands were not cut off, head is not cut off, body is intact, but they have been killed by some bow or some sword piercing them, something like that, whose bodies were intact, with Mrita Sanjeevani, he revived them back to life."
+**Summary:** The speaker explains how Shukracharya revived the Asuras using Mrita Sanjeevani and how they performed the Vishwajit yajna to regain control.
+
+So then the Devatas also went back. In the meantime, when all the dead Asuras were taken back, Shukracharya. Shukracharya, he knew a mantra, a process called Mrita Sanjeevani. All those Asuras whose bodies were intact, hands were not cut off, head is not cut off, body is intact, but they have been killed by some bow or some sword piercing them, something like that, whose bodies were intact, with Mrita Sanjeevani, he revived them back to life. He revived Bali Maharaj also back to life. All the most powerful. All the most powerful. Most of the Asuras like this, they were revived and they came back to life. And when Bali Maharaj came back to life, he understood what had happened. Then Bali Maharaj, along with all the Asuras, engaged in a yajna called Vishwajit, which is a yajna to enable one, to give one the strength to conquer the entire world, which was performed by Shukracharya. Armed with this Vishwajit. Vishwajit. Vishwajit. Vishwajit yajna, the fruits of the Vishwajit yajna, the Asuras came back and again defeated the Devatas and took back control of the heavenly kingdoms. Now when this happened, Lord Vishnu, again the Devatas approached the Lord Vishnu and Lord Vishnu told them, see, he has, Bali Maharaj has conducted this Vishwajit yajna, so it is not possible to defeat him now. We will have to again use alternative methods to defeat him. We will have to again use alternative methods to defeat him. We will have to again use alternative methods to defeat him. We will have to again use alternative methods to defeat him.
+
+---
+### Vamanadev, Bali Maharaj, Sukracharya's advice, surrender
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1427
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "But Bali Maharaj said, from all the Vedas you have taught me that the ultimate end of all the Vedas is to surrender to Lord Vishnu. If Lord Vishnu himself has come as Vamanadev and is asking me, why should I not give him?"
+**Summary:** The speaker narrates the story of Vamanadev and Bali Maharaj, highlighting Bali Maharaj's devotion and willingness to surrender to Lord Vishnu despite Shukracharya's advice.
+
+We will have to again use alternative methods. You only need two types of the temple don't think this is some ordinary boy, this is Vamanadev, he has come to trick you and take away all your wealth, don't give him anything. Why because Sukracharya was afraid that if Bali Maharaj gives away everything to Vamanadev, then Sukracharya's livelihood will be affected, who will take care of him, who will maintain him, who will give him his allowance so that he can take care of his family and his household affairs. That was Sukracharya's consideration. But Bali Maharaj said, from all the Vedas you have taught me that the ultimate end of all the Vedas is to surrender to Lord Vishnu. If Lord Vishnu himself has come as Vamanadev and is asking me, why should I not give him? The whole purpose of everything is to give everything to Vishnu only. So I reject you as my guru and I will go ahead and even if this is Vishnu, I will grant him his request. Thank you.
+
+---
+### Vamanadev, Bali Maharaj, three steps, devotion
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1514
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And that is how Bali Maharaj acceded, although knowingly, he gave away everything to Vamanadev."
+**Summary:** The speaker continues the story of Vamanadev and Bali Maharaj, emphasizing Bali Maharaj's complete surrender and the Lord's reciprocation.
+
+And that is how Bali Maharaj acceded, although knowingly, he gave away everything to Vamanadev. And when Vamanadev covered the entire universe in two steps and Bali Maharaj had promised him three steps, Vamanadev asked Bali Maharaj, Bali Maharaj you promised me three steps, I have taken only two. Now your entire kingdom is covered, from bottom to top the entire universe is covered. Now where will I keep my third step? Bali Maharaj, because at heart he was a guru. At heart he was a great devotee of Lord Vishnu. After all he was the grandson of Prahlad Maharaj and Prahlad Maharaj himself was such a great devotee of Lord Vishnu. The same thing was there in Bali Maharaj also. So Bali Maharaj when he saw this, he smiled, he folded his hands, bowed his head and he said, oh my Lord, my head is still there. You please keep your third foot on my head. And Vamanadev became very pleased with Bali Maharaj. Because Bali Maharaj did ask him three steps. Bali Maharaj did atma samarpana, he surrendered everything including himself to Lord Vishnu. And so Vamanadev placed his third foot on Bali Maharaj's head and he blessed Bali Maharaj saying, I have become obliged to you for your surrender. And therefore I will give you a separate kingdom where you become the king and I will become your doorkeeper. And so even today, Bali Maharaj is ruling over a separate planet. And Vamanadev stands as his doorkeeper. The Supreme Lord Vishnu became the doorkeeper of his devotee. This is the love of Vishnu for his devotees. So all this happened.
+
+---
+### Mrita Sanjeevani, Kacha, Devayani, curse
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1615
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "And so Kacha came to Shukracharya and he learned from him the art of Mrita Sanjeevani. And after learning the art of Mrita Sanjeevani, when Kacha was going back to the heavenly planets, Shukracharya's daughter Devayani approached Kacha and proposed to him and told him, I want to marry you."
+**Summary:** The speaker shifts back to the main story, introducing Kacha learning Mrita Sanjeevani and Devayani's proposal and subsequent curse.
+
+Now coming back to our main story. Now Shukracharya knew the art of Mrita Sanjeevani. He knew how to bring back dead people to life. This was a very big advantage for the Asuras. And a very big advantage for the Asuras. And a very big advantage for the Asuras. And a very big disadvantage for the Devatas. Because Brihaspati, the priest of the Devatas, he did not know this art of Mrita Sanjeevani. Now he, Brihaspati is equal to Shukracharya. Brihaspati cannot go and ask Shukracharya that you please teach me the art of Mrita Sanjeevani. He cannot go and ask. So Brihaspati sent his son Kacha to go and learn this art of Mrita Sanjeevani from Shukracharya. And so Kacha came to Shukracharya and he learned from him the art of Mrita Sanjeevani. And after learning the art of Mrita Sanjeevani, when Kacha was going back to the heavenly planets, Shukracharya's daughter Devayani approached Kacha and proposed to him and told him, I want to marry you. Can you marry me? Kacha was taken aback. He said, Devayani, I have never seen you like this. You are my Guru's daughter. And Guru is like the father for the disciple. So Guru's daughter means you are my sister. I have always seen you like that. I am sorry. Please excuse me. I cannot think of marrying you. It is against the principles. When Kacha said this, Devayani, as we have seen, she has a short temper. She flew into a rickshaw. She flew into a rickshaw. She flew into a rickshaw. And she cursed Kacha. She said, oh, you are rejecting me. I curse you. That all that you have learned from my father, Shukracharya, you will not be able to use it. The mantras which you utter, they will not have any potency. They will not have any effect. When Kacha heard this, he got upset. He said, Devayani, you are not understanding my sentiments. You are not understanding the principles of the Vedas. I am giving you so much respect and you are cursing me like this. Therefore, I curse you. You will never be able to marry a Brahmana.
+
+---
+### Devayani, Kacha, curse, Yayati, marriage
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1754
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Sukracharya narrated this whole thing to Yayati. And he explained to him how because of Kacha's curse, Devayani anyway could not marry a Brahmana. And therefore, he requested Yayati that you should please marry my daughter Devayani."
+**Summary:** The speaker explains how Kacha's curse led to Yayati marrying Devayani.
+
+Like that, Kacha also cursed and he left. Now, as per this curse, Devayani could not marry a Brahmana. Sukracharya narrated this whole thing to Yayati. And he explained to him how because of Kacha's curse, Devayani anyway could not marry a Brahmana. And therefore, he requested Yayati that you should please marry my daughter Devayani. And when Yayati heard this, he also understood. And then his misgivings were all cleared and he agreed to marry Devayani. And that is how Yayati came to marry Devayani. And when Devayani married Yayati, along with her, Sarmishta also came as, a maid servant as per the condition which was put before her father, King Vrishaparva. Now, when Devayani was getting married to Yayati, Sukracharya told Yayati, See, Sarmishta will also be coming with Devayani as her maid servant. But please ensure that you don't maintain any relationship with her. You should be husband only to Devayani.
+
+---
+### Yayati, Devayani, Sarmishta, sons, secret marriage
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1830
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "But please ensure that you don't maintain any relationship with her. You should be husband only to Devayani."
+**Summary:** The speaker describes Yayati's marriage to Devayani, the condition regarding Sarmishta, and Yayati's secret marriage to Sarmishta and the birth of their sons.
+
+This was the condition he put. Now, in due course of time, Devayani gave birth to two sons. The sons were Yadu and Turvasu. These were the two sons of Devayani. When Devayani gave birth to two sons, Sarmishta also naturally developed a desire that she should also have children. She also wanted to become a mother. And now, whom will she approach? She is now a maid servant of Devayani. No other Kshatriya prince will marry her. She did not find any other alternative. So, she approached Yayati and requested, Please marry me and I also want to become a mother. When requested like this, Yayati could not refuse. So, but then at the same time, he remembered what his father-in-law Sukracharya had said. So, clandestinely, secretly, he married Sarmishta. And from Sarmishta, he had three sons. Anu, Druhyu and Puru. These were the three sons who were born, one to Sarmishta and to Yayati. Now, after a few days, how long can this be kept secret? It's not very easy to lead a life with two wives and two families. Somehow or the other, from somebody, the news leaked and it finally reached Devayani. And you all know the nature of Devayani by now. You are all well conversant with Devayani. So, how did Devayani respond? She became angry. And when she became angry, what did she do? Please join us in our next episode to see what happened further.
+
+---
+### conclusion, next episode, Hare Krishna
+**Timestamp:** https://youtu.be/p2C1jMlZK_4?t=1933
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Please join us in our next episode to see what happened further."
+**Summary:** The speaker concludes the episode and invites the audience to join the next episode.
+
+Thank you very much for joining us today. Hare Krishna. Jagat Guru Shri La Pravupada Ki Jai. Nithayi Gor Pemanande Hari Hari Bol.
+
+---
+
+## Mahabharata | Part 8   Shukracharya's curse and Yayati
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### general
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "Mukam Karoti Vachalam Vangum Langhayate Girim Yad Krupata Mahamande Shri Gurum Deena Taranam"
+**Summary:** The speaker begins with prayers in Sanskrit, glorifying the spiritual master and Krishna.
+
+Thank you for watching. Om Adhyana Timurandhasya Dhyanaanjana Salakaya Saksharunni Litham Yena Tasmai Shri Gurave Namaha Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine Namaste Saraswati Deve Gauravani Pracharine Nirvishesha Sunyavadi Pashatya Deshatarine Jaya Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadadhara Shri Vasadi Gauravakta Vrinda Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare Mukam Karoti Vachalam Vangum Langhayate Girim Yad Krupata Mahamande Shri Gurum Deena Taranam
+
+---
+### introduction, story
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=87
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Hare Krishna and welcome back to this episode of Mahabharata."
+**Summary:** The speaker welcomes the audience back to the Mahabharata series and previews the episode's content.
+
+Hare Krishna and welcome back to this episode of Mahabharata. In the last episode we saw how Yayati had married Sharmishta clandestinely and Devayani had come to know of it and she had become livid, and now we will today see what was her reaction and what were the consequences of this act of Yayati.
+
+---
+### charity, protection, duty
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=115
+**Verse References:** BG 2.47
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "This is the characteristic of a Kshatriya. He will never back away from giving protection."
+**Summary:** The speaker narrates the story of King Shibi's extreme act of charity and protection, linking it to the qualities of a Kshatriya as described in the Bhagavad Gita.
+
+Before we start with that, there was a king by name Shibi in a place called Ushinara. This king Shibi was very renowned for his acts of charity. The fame of Shibi was so high that even the Devatas came to hear about it. There is one king called Shibi, very, very charitable. And his various different kinds of charitable activities that he had done, they were songs were sung about them. There were people telling ballads and that way he had become very famous. Indra once came to hear about the fame of King Shibi. He thought, "I want to test this King Shibi to know whether he is really truly as charitable as all these glorifications that I am hearing about him." He took the help of Agnidev. Indra transformed himself into an eagle and Agnidev took the shape of a small pigeon and these two birds flew down to Ushinara, the province where King Shibi was ruling over. This pigeon approached King Shibi and alighted on him on his hand and requested him for a protection from this eagle which was pursuing it. When this eagle approached the pigeon and wanted to attack the pigeon, after all the pigeon was its prey and it was looking for food. King Shibi requested the eagle to excuse the pigeon and let it go free. But the eagle said, "Okay, I can let it go free but what about me? Should I die of starvation? I need my food. I need my food. So what is the alternative for that?" King Shibi said, "I will weigh as much weight of my own flesh as the weight of the pigeon and I will give it to you." The eagle said, "Fine, alright, after all I want some flesh whether it is from you or from the pigeon. I have no issues. So you please go ahead and do it." Immediately all the servants of the king brought a weighing scale and they put the pigeon on one part of the weighing scale. The king cut out the flesh from his body a little bit and put on the weighing scale. The weight was not enough so he cut out a little more flesh and put it there. Still not enough. He cut more flesh and more and more and the weighing scale was not at all tilting on the side of where his flesh was put. The pigeon wherever it was seated it was still heavy. Finally King Shibi he himself got up. He went up on the weighing scale and he went on a scale and sat on the scale. The moment he did this, everyone was shocked. King Shibi was ready to sacrifice himself to protect a small bird? What is this? Actually the spirit of King Shibi is called Isvara Bhava and Lord Krishna says the Bhagavad Gita that this is one of the characteristics of Kshatriya. He says that this bird is in front of thedettał love vibrations. What does the karma of an idol looks like? olor üç Lord Krishna says in the Bhagavad Gita that this is one of the characteristics of a Kshatriya. The characteristics of a Kshatriya are that they are walking watch foward through the nightish That he will never run away, he will never turn back from any challenge which is thrown at him. He is always ready to face any challenge even if it means that it is a great risk to his life. He will not turn away from any challenge, he is never a coward. Another aspect of a Kshatriya is Ishwara Bhava. Ishwara Bhava means the spirit of giving protection to people who have taken shelter of him. This is a very important qualification characteristic of a Kshatriya. He feels accountable for giving protection to his citizens. And he will go to any lengths to give protection to anybody who seeks it. In this case the teacher had come seeking his protection. And Shibi was ready to... ...put his own life at stake to protect people who have taken shelter of him. This is the characteristic of a Kshatriya. He will never back away from giving protection.
+
+---
+### duty, devotion, protection
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=389
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "That's the most important aspect of a Kshatriya's duty."
+**Summary:** The speaker elaborates on the Kshatriya spirit of protection, relating it to the Supreme Lord's protective nature towards His devotees and the importance of spiritual welfare.
+
+We can see that this Kshatriya spirit is present even today. There are examples of that, like that in our, even our Indian military. We have Captain Vikram Batra, Major Mohit Sharma. These kind of people... ...they... ...were more than willing to give up their life to protect their country. You can imagine, some people can go to any extent. Normal people, if we are faced with a situation where we may have to give up our life, we will show our backs and will run away. But some people will refuse to turn away. Even if it means that they have to give up their life, they will stand and until their last breath, they will keep protecting their countrymen and their citizens. So this is called Eeshwara Bhava, which is a characteristic of a Kshatriya. Because the definition of Kshatriya is... ...Kshattat Trayate Iti Kshatriyaha. One who protects others from any danger or harm is called a Kshatriya. Where does this Kshatriya Bhava come from? This actually comes from the Supreme Lord Vishnu or Krishna Himself. Why? Because the Supreme Lord... ...feels very proud... ...to be protective towards His devotees. He will go to any lengths to protect His devotees. In fact, Krishna says in the Bhagavad Gita... ...that... Krishna says in the Bhagavad Gita... ...that anybody who renders devotional service to me... ...he will never face any sort of diminution or loss... ...on the path of life. On the path of spiritual life. And not only that... ...Krishna told Arjuna... ...pratijaane priyosime... ...please declare it to the world... ...name bhaktah pranasyati... ...my devotee will never be destroyed. These are the assurances that Krishna gives in the Bhagavad Gita. That means... ...Krishna always takes the spiritual welfare of His devotees. In other words... ...of course it doesn't mean that a devotee of Krishna will never die. That's not what it means. When Krishna says... ...my devotee will never be destroyed... ...what it means is... ...when a devotee dies... ...after his death... ...next life... ...he will get elevated to the spiritual world... ...and he will attain eternal life. That way he will never get destroyed... ...he will never get vanquished. And... ...because the Supreme Lord has this... ...and we are all part and parcels of the Supreme Lord... ...we also have tiny amounts of the same characteristics as the Supreme Lord. Therefore... ...even Kshatriyas display such characteristic. And that is why Kshatriyas are called... ...representatives of the Supreme Lord. They are called Naradeva. They are called representatives of the Supreme Lord... ...in protecting the citizens... ...and taking care of their spiritual welfare. These are some of the important duties of a Kshatriya. He has to not only give... ...physically protect the citizens... ...he also has to take care of their spiritual welfare.
+
+---
+### charity, blessings
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=578
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "This was the story of King Shibi."
+**Summary:** The speaker concludes the story of King Shibi, highlighting the blessings he received for his charitable disposition.
+
+That's the most important aspect of a Kshatriya's duty. Now when Shibi did this... ...he personally went and sat on the... ...scale... ...and everybody saw that he was ready to give up his own life... ...to protect this small bird. Then immediately... ...the birds transformed themselves into their original forms of Indra and Agni... ...and they became very pleased with King Shibi's charitable disposition... ...and they said... ...now we have seen for ourselves that whatever we have heard is true. And so by their blessings... ...King Shibi's body was restored... ...whatever flesh was cut off... ...all that was again... ...his body became normal... ...and they blessed Shibi... ...that after he would... ...after his lifetime... ...he would come... ...he would achieve the heavenly planets.
+
+---
+### lust, anger, curse
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=622
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Now you become an old man...right now..."
+**Summary:** The speaker transitions back to the story of Yayati and Devayani, describing Devayani's anger and Shukracharya's curse on Yayati for marrying Sharmishta.
+
+This was the story of King Shibi. Now... ...we come back... ...to what was happening between... ...Yayati and Devayani. Devayani when she heard... ...that this... ...Yayati, her husband... ...has married Sharmishta... ...and he has got three sons also in her... ...she became very wild... ...and she... ...got out of her house... ...in a huff... ...and she started walking off. She said... ...I am going to my father's place... ...and she started walking off. Then... ...Yayati got... ...he got very afraid... ...and he started running after her... ...and he started pacifying her... ...he started telling various... ...soothing words... ...trying to pacify her with nice... ...glorification of her... ...trying to calm her down... ...giving various reasons... ...you know how it is... ...when a husband and wife fight... ...the husband has to use various means to... ...to pacify the wife... ...in fact... ...we can see from this... ...Yayati was the ruler of the whole world... ...and such a big emperor... ...in front of his wife... ...he was trembling in front of her... ...and therefore... ...we have to understand from this... ...that a man whose heart has been captured by lust... ...he gets controlled... ...no matter how powerful he is... ...he can be controlled... ...simply by a woman's glance... ...or by the raising of her hand... ...or her eyebrows... ...that is enough to control a man... ...even though he may be physically very powerful... ...therefore we can understand how lust... ...controls the heart of every living entity... ...so powerfully... ...and therefore... ...the goal of everybody's spiritual life... ...is to overcome the influence of lust... ...and... ...to become liberated from this... ...material world itself... ...to become free from the cycle of repeated birth... ...death... ...disease and old age... ...and the easiest and most powerful way... ...to overcome lust... ...anger... ...greed... ...etc... ...which are... ...which have conquered our heart... ...is to chant... ...Hare Krishna Hare Krishna Krishna Krishna Hare Hare... ...Hare Rama Hare Rama Rama Rama Hare Hare... ...never the less... ...now... ...Yayati was... ...in a very bad situation... ...he was... ...trying in various ways to pacify... ...Devayani... ...but she was not listening... ...she finally reached her father's home... ...then... ...Yayati... ...took... ...Devayani's feet... ...and he started massaging them... ...please calm down... ...please don't get angry... ...mistake... ...please forgive... ...all those kind of things... ...he was... ...he was massaging her feet... ...even then... ...Devayani... ...did not give up her anger... ...she was crying and weeping like this... ...and went in front of Sukracharya... ...and told him... ...see... ...your son-in-law... ...what he has done... ...he has cheated me... ...he has married Sharmishta... ...he has got three sons in her also... ...this... ...he started pouring out to... ...her father... ...Sukracharya... ...Sukracharya... ...got very angry... ...and he looked at... ...Yayati... ...and he said... ...you foolish man... ...you are not able to control your lust... ...because of that... ...you have gone and married another woman... ...even though I told you not to do it... ...you did it against my... ...instructions... ...therefore... ...I am cursing you... ...become an old man now... ...because of your youth only... ...you are doing all this... ...no... ...now you become an old man... ...right now...
+
+---
+### consequences, lust, solution
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=816
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Anyway out of anger...I told something...and you have become old...now the only solution is...you can exchange your old age with somebody else..."
+**Summary:** The speaker continues the story, focusing on Yayati's plea and Shukracharya's modified curse, allowing Yayati to exchange his old age with someone else.
+
+...and suddenly... ...Yayati's whole body got transformed... ...and... ...his... ...cheeks and all became wrinkled... ...his hair became all grey... ...and... ...he became an old man... ...then... ...Yayati fell down at... ...Sukracharya's feet... ...and he said... ...please forgive me... ...but... ...what I did... ...did not... ...require such a big... ...curse upon me... ...now... ...you see... ...I have... ...I have... ...I have not... ...completed all my... ...fulfilled... ...satisfied all the desires in my heart... ...and... ...although I am in... ...you have given me a... ...old man's body... ...still... ...my heart is still young... ...so... ...I am... ...I am... ...neither here nor there... ...if in the natural process I had become old... ...then slowly all my... ...lusty desires would all have been... ...have been burnt away... ...and I could have peacefully been in an old man's body... ...now I am in an old man's body... ...lusty desires are still there... ...what will I do... ...then Sukracharya also considered... ...what... ...Yayati was saying right... ...not only that... ...his daughter Devayani was still young... ...and now... ...his young daughter is having a very old husband... ...this is not right... ...even Devayani will also suffer... ...considering this... ...Sukracharya told... ...Yayati... ...see... ...anyway out of anger... ...I told something... ...and you have become old... ...now the only solution is... ...I... ...the... ...the solution that I can give you is... ...you can exchange your old age with somebody else... ...and... ...you can regain your youth like that... ...and... ...then... ...Yayati... ...took this... ...instruction from... ...Sukracharya... ...that... ...this... ...this... ...this... ...this... ...this... ...this... ...instruction from... ...Sukracharya...
+
+---
+### sacrifice, duty, obedience
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=911
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Please take my youth."
+**Summary:** The speaker narrates Yayati's search for someone to exchange his old age with, highlighting Puru's willingness to sacrifice his youth for his father's satisfaction.
+
+...what to do... ...who will you go and ask... ...nobody is going to give their youth... ...in exchange for old age from someone... ...if somebody comes and asks you... ...that I am an old man... ...please give me your youth... ...and you become old in my place... ...will you agree... ...nobody will agree... ...Yayati thought... ...let me ask my sons... ...if I... ...if I ask my sons... ...they may agree... ...after all I am their father... ...he approached his first son Yadu... ...and he told him this whole story... ...and he told him... ...can you please... ...give me your youth... ...and... I will give you your old age. For some years let me satisfy all my desires. Then I will give back the youth to you. Now Yadu told Yayati, "You see my dear father, in the future Lord Vishnu is going to appear in my dynasty. And I don't want to delay that. I want that his appearance should be as early as possible. Therefore in my youth now, I want to marry, have children and then take sanyas and I want to do devotional service and go back to Godhead. So if I give you my youth now, all these activities will get delayed, which I don't want to do." This was a perfectly Dharmic reply that Yadu gave. Yayati understood and he realized that what Yadu was saying is correct. He went to his next son, Turvasu. Now Turvasu, he said, "Oh my dear father, if I give you my youth, then my enjoyment will get affected. I cannot give, sorry." This reply by Turvasu was perfect. Actually, it was not as per Dharma. Therefore, Yayati became unhappy with him. Similarly, Druhyu and Anu also refused. On the grounds of their sense gratification getting affected, they refused to exchange their youth with Yayati. Then Yayati, now what to do? Finally, his youngest son, Puru is there. Nobody else is there anyway. Let us go and ask what else to do. Cannot help it. He went and asked Puru. Puru immediately responded to Yayati saying, "Oh my lord, oh my father, please forgive me." Actually, first class son who understands the mind of his father and carries out his instructions without being told to. That is a first class son. Second class son is he who carries out the instructions of his father whenever he is told to. That is a second class. And third class son is one who even after the instructions from the father, he is not able to carry them out properly. And if somebody, if a son does not follow the instructions of his father, he is not even a son. He is a useless fellow. He is as good as garbage. Considering like this, Puru said, "I should have been a first class son. Before you came and asked me, I should have asked you. Which I did not do, my dear father. Now I have become a second class son. What to do? I am sorry. Please take my youth."
+
+---
+### lust, desire, unsatisfied
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=1091
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "The more we satisfy our desires, the desires will only grow."
+**Summary:** The speaker explains how Yayati regained his youth and enjoyed family life, but eventually realized the insatiable nature of lust and material desires.
+
+And Puru gave his youth to his father Yayati. And so Yayati got back his youth and he brought back Devayani. And many many years he ruled over the kingdom. And he had a wonderful family life with Devayani and Sharmishta. Devayani having been cooled down and she had accepted that this is how it is. And he had quite a happy life from there on, Yayati. After several years, Yayati considered, "So many years over I have spent trying to satisfy my lusty desires and my senses. But they are not coming down. Trying to, thinking that I will take up sannyas at the end of my life after having satisfied all my desires, is akin to thinking that there is a fire and let me pour petrol into it. And if I pour petrol into it, the fire will come down." Where the fire will come down? It will only blow up even more. It will explode into a bigger fire. It will become a conflagration. Generally when we approach people and tell them, "Please read Bhagavad Gita. Please take this Bhagavad Gita. Please chant Hare Krishna Maha Mantra." People say, "These are all things to be done in old age. After retirement I will do." Why? Because people think "I have so many things to achieve now. I have so many desires to fulfill. By old age, by 60 years, 70 years, all those desires will be satisfied. Then I will sit and peacefully read Bhagavad Gita." No. This will never happen. The more we satisfy our desires, the desires will only grow. They will become stronger. They will become bigger. A person who has got 10,000 rupees salary, He is thinking how I can get 20,000. If he gets a 20,000 salary, his thirst will increase. I want 40,000. You give him 40,000 salary, his lust for money will increase. He will say, no, I want 1 lakh rupees. It will only go on increasing. It will never reduce. Similarly, lust for the opposite sex, Lust for money, lust for power, This lust and greed are the products of the mode of Rajoguna and Tamoguna, which will bind us strongly to this material world
+
+---
+### spirituality, chanting, desire
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=1230
+**Verse References:** —
+**Content Type:** practical
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Please start from today itself, chanting Hare Krishna Maha Mantra, reading Bhagavad Gita and Srimad Bhagavatam."
+**Summary:** The speaker encourages the audience to begin spiritual practices like chanting and reading scriptures from a young age to overcome material desires.
+
+and will never allow us to get out of this material world. Therefore, we should take up the chanting of Hare Krishna Maha Mantra and reading Srimad Bhagavad Gita and Srimad Bhagavatam. In fact, Prahlad Maharaj says that beginning from our childhood, that we should practice the path of Dharma. We should practice the path of spirituality. Right from 5 years of age, we should start chanting Hare Krishna Mantra, reading Bhagavad Gita and Srimad Bhagavatam. And therefore, of course, no age is too late. It doesn't mean that all of you who are watching this, you are all crossed 5 years and therefore you have lost it. No. At any age, you can start. Better late than never. Please start from today itself, chanting Hare Krishna Maha Mantra, reading Bhagavad Gita and Srimad Bhagavatam. And please understand, the more you satisfy your desires, the bigger they are going to become. And now, Yayati, start a conversation.
+
+---
+### renunciation, austerity, devotion
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=1286
+**Verse References:** —
+**Content Type:** story
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "So, this is the story of Yayati."
+**Summary:** The speaker concludes the story of Yayati, describing his eventual renunciation, austerities, and elevation to the planet of Yamaraja through devotional service.
+
+Thank you. The first question I will ask is for you. Okay. So, I saw a user who was contemplating like this, and he said, "I have got the youth from my son, I have tried enjoying, and my senses are only going on increasing their demand for sense gratification. They are not allowing me to become peaceful. So what is the use of all this?" Therefore, he decided, "Right now I am going to give up everything and I am going to carry out penances and austerities." Then he advised his wife Devayani also, and he told her, see, explained to her how life, human life is not meant for simply engaging in family life and sins gratification like this. It is meant for a higher purpose to go back to Godhead. And then having instructed her, Yayati left her and went to the forest and started executing pious activities, austerities and led a renounced life. Devayani also having realized the instructions, spiritual instructions given by her great husband Yayati, she also started following the path of renunciation and she also perfected her life and went back to Godhead. Now, Yayati in the meantime, Shibi came to know that Yayati had left everything and that he is conducting various austerities to elevate himself. So, Shibi offered to Yayati that you see I have collected so much pious activities that I have got a position in the heavenly planets. I want to give it to you. He was so charitably disposed. Can you imagine this? He was so charitably disposed. Imagine. Suppose today you got a lottery and the lottery was for five crore rupees and the moment you get that, you come across some poor man, will you give it to him and say you please take this? You will not give that. You will maybe give a hundred rupees or thousand rupees and keep the rest of it yourself. But look at Shibi. He, because of his pious activities, he was assured a place in the heavenly planet and he offered to Yayati, you please take it. But Yayati refused. He said, no, no, no, no. I will go to the heavenly planets. My own strength. And he conducted austerities. He did all the austerities and tapasya and all that. And he, in his next life, he went to the Swargaloka. And did he leave there happily ever after? No. What happened there was, unfortunately, he, Yayati became puffed up and he started self-advertisement in the heavenly planets in Swargaloka. You see, I am Yayati. I did like this. I did like that. I did so many wonderful things. I did so many wonderful things. I did so many wonderful things. I did so many wonderful things. I did so many wonderful things. I did so many wonderful things. And on my strength of austerity, I have come like this. He did a lot of self-propaganda, he started doing. And he started criticizing others also along with that. Eh, look at this Indra. He is like this. Look at Agni. He is like this. Like that, he started criticizing others. And because of this, what happened? He again fell down from Swargaloka into this material world, into this earthly planet. Swargaloka is also part of this material world only. So from Swargaloka, he fell to this material, to this earth. And then again, he, resumed his, eh, he realized his folly, his mistake. And again, he did lot of austerities. And he, eh, realized the, eh, the, the futility of going to Swargaloka because even after going to Swargaloka, one can again come back, come back to this earthly planet. And again, even if we go to Swargaloka, we are still not liberated from the cycle of birth, death, disease, and old age. Even there also, ultimately, after when, when one's Punya is over, one will again take birth as some animal or some human being in this earthly planet. So he, eh, did something higher this time, Ayati. He became a devotee of Krishna. He started executing devotional service to Vishnu. And by that, again, elevated himself to the planet of Yamaaraj. Because as we discussed earlier, Yamaaraj was a great devotee of Lord Vishnu. And then, he attained residence in, eh, Yamaaloka. And he became a, he became an associate of Yamaaraj. And at the, eh, it is said that at the end of this, eh, eh, eh, eh, eh, eh, eh. Uh, eh, eh, eh, eh. Uh, eh, eh, eh. Uh, eh, oh, uh, uh, oh, uh, end of this, Brahma's day, when the whole universe will get annihilated, he will, Yayati will go back to
+
+---
+### lineage, descendants
+**Timestamp:** https://youtu.be/i-nxWFddqnk?t=1528
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Thank you for joining us today. Hare Krishna."
+**Summary:** The speaker discusses the descendants of Yayati's sons, connecting them to various cultures and lineages, including the Yadava dynasty, and concludes the episode.
+
+Godhead. So, this is the story of Yayati. Now, the descendants of Yayati, the sons of Turvasu came to be known as the Turks, the Yavanas. The people from Greece and Turkey and that region are all descendants of Turvasu. And the descendants of Anu became all the Mlechas, the Europeans. We can understand from this all the European and Americans and all these people who are spread all over the world, they are all descendants ultimately from one of these personalities. And Yadu gave rise to the Yadava dynasty, which is what we are all interested in. Now, who were the sons of Yadu and how did the Yadava dynasty come about is what Yadu gave rise to. Now, who were the sons of Yadu and how did the Yadava dynasty come about is what we will discuss in our next episode. Thank you for joining us today. Hare Krishna.
+
+---
+
+## Mahabharata | Part 9 |  Yadu dynasty from Yayati
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, prayer
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Mukam Karoti Vachalam Bangum Langhayate Girim Yad Krupata Mahamande Sri Guram Deenataranam"
+**Summary:** The lecture begins with traditional Vaishnava prayers and mantras, invoking blessings and paying respects to the spiritual master and Lord Krishna.
+
+Thank you for watching. Om Ajahnath Mirandasya Jnananjana Chalakaya Chakshuranveli Tanyena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswati Dev Gauravani Pracharine Nirvishesha Sunyavadi Pashatya Deshatarine. Jai Shri Krishna Chaitanya Prabhu Nithyananda Sri Advaita Gadadhara Sri Vasadi Gauravakta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Mukam Karoti Vachalam Bangum Langhayate Girim Yad Krupata Mahamande Sri Guram Deenataranam. Hare Krishna.
+
+---
+### lineage, dynasty, Mahabharata
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=83
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Now, how did Yadu give rise to the Yadava dynasty? And what connection does the Yadava dynasty have with the Kaurava dynasty is what we will be discussing about."
+**Summary:** The speaker introduces the topic of the episode, which is the origin of the Yadava dynasty, tracing it back to Brahma and highlighting its connection to the Kaurava dynasty.
+
+Welcome back to this episode of the Mahabharata. In the last few episodes, we have been seeing the origins of the Yadava dynasty, beginning from Lord Brahma, his son Marichi, Marichi's son Kashyapa. From Kashyapa came Vivaswan. Vivaswan's son was Tudyumna. When he became a girl, he married the son of the moon god, Somadeva's son Buddha, and they begot a son, Pururova. Pururova's son was Ayu. Ayu's son was Nahusha. And Nahusha's son was Yayati. And Yayati's son was Yadu. Now, how did Yadu give rise to the Yadava dynasty? And what connection does the Yadava dynasty have with the Kaurava dynasty is what we will be discussing about.
+
+---
+### dharma, kingship, spiritual welfare
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=131
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "And the principles of Dharma dictate that a king has to act as a representative of the Supreme Personality of God, Vishnu."
+**Summary:** The speaker explains the Vedic concept of kingship, where kings are meant to rule according to Dharma, acting as representatives of Vishnu and prioritizing the spiritual welfare of their citizens.
+
+To begin today's episode, we will take you to a time when, at the beginning of the Dwapara Yuga, Mother Earth was feeling overburdened due to the increase in the number of demoniac kings. Kings who were ruling over this earth and their spirit of ruling over was not that of stewardship. Generally, in Vedic principles, the kings are supposed to rule over the earth according to the principles of Dharma. And the principles of Dharma dictate that a king has to act as a representative of the Supreme Personality of God, Vishnu. And his prime duty, the primary duty of a king was to ensure that all the citizens are able to gradually elevate themselves in spiritual life. Economic welfare, security, their health, their law and order, judiciary, all these things were secondary duties of the king. The most primary was the spiritual welfare of the citizens.
+
+---
+### streyas, preyas, spiritual vs material
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=203
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Strayas means long-term benefit which is my spiritual welfare by which after giving up this body, I can get a elevated body by which I can go back to Godhead and I can become free from the real problems of this material world, of birth, death, disease and old age."
+**Summary:** The speaker introduces the concepts of 'Prayas' (immediate benefit) and 'Streyas' (long-term welfare), using the analogy of a doctor's advice to illustrate the importance of prioritizing spiritual welfare (Streyas) over material gratification (Prayas).
+
+If we look at it, it's something like long-term planning. In the Vedas, there are two things. One is called Strayas. Another is called Prayas. Prayas refers to immediate benefit. I want to eat something which will be very tasty for me. But, Strayas means long-term welfare. The doctor says, no, you cannot eat any fried food stuff now because you have got typhoid. Until you get cured, you should not eat any fried food stuff. Now, if you look at Prayas, no, no, if I taste that nice samosa, I feel so much happier. So, let me eat. If I do that, then what will happen is long-term, it will affect my health badly. Therefore, we have to consider the Strayas. Prayas in this material world is immediate benefit of my sense gratification. Strayas means long-term benefit which is my spiritual welfare by which after giving up this body, I can get a elevated body by which I can go back to Godhead and I can become free from the real problems of this material world, of birth, death, disease and old age. The dharmic kings were supposed to take care of the Strayas of the citizens, the long-term welfare of the citizens without of course neglecting the Prayas also to some extent. But their main focus would be on the Strayas.
+
+---
+### decline of dharma, materialism, overburdened earth
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=286
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Their whole focus had shifted from the spiritual welfare to the material welfare of the people."
+**Summary:** The speaker describes how kings during the Dwapara Yuga neglected their primary duty of ensuring spiritual welfare, focusing instead on economic development, sense gratification, and military expansion, leading to Mother Earth feeling overburdened.
+
+Now the kings at that, during the Dwapara Yuga, they had forgotten their primary duty and they started focusing only on economic development, how to improve the, how to improve the methods of sense gratification, how to increase the comforts of life, conveniences of life, how to expand my empire, how to get, how to subjugate other kings and get more, loot them and from their wealth increase the economic welfare of my citizens. These were the kind of thinking, the overall spirit amongst the royal class during that time. And because of this, the kings were spending heavily on their military infrastructure, increasing their military power, modernizing their army and these kind of things. Their whole focus had shifted from the spiritual welfare to the material welfare of the people.
+
+---
+### mother earth, spiritual orientation, burden
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=342
+**Verse References:** —
+**Content Type:** analogy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Mother Earth can sustain any amount of human population as long as they are spiritually oriented."
+**Summary:** The speaker explains that Mother Earth feels burdened when humanity deviates from spiritual orientation, drawing an analogy to a mother who feels burdened by a debauched child, even if it's her only one.
+
+When this happened, Mother Earth started feeling overburdened. Mother Earth can sustain any amount of human population as long as they are spiritually oriented. The moment we deviate from the spiritual orientation, Mother Earth starts feeling the burden of maintaining us. Just like for any mother, if the child grows up into a good citizen, into an honest and caring son or daughter who takes care of the parents, who does his duties very nicely, then what happens is the mother feels very happy to have such children. She can have hundreds of such children and she will not feel any pain in giving birth and in nurturing and in maintaining those children. But even if she has only one child who grows up and becomes a debauchee, he doesn't take care of the parents, he becomes an anti-social element, then the mother feels very burdened. What pain I have taken to give birth to this child and he has become like this. Better I would not have given birth to him. This is natural.
+
+---
+### krishna consciousness, natural disasters, spiritual decline
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=415
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "The moment the civilization turns away from Krishna consciousness, away from spiritual life, Mother Earth starts feeling overburdened."
+**Summary:** The speaker elaborates on the connection between spiritual orientation and the Earth's well-being, stating that when civilization turns away from Krishna consciousness, Mother Earth feels overburdened, leading to natural disasters.
+
+Similarly, when the overall human society is oriented towards spiritual welfare, spiritual activities, then what happens is Mother Earth feels very enthused to support the human population by giving ample amount of food grains, ample fruits, vegetables, everything will be in abundance. The moment the civilization turns away from Krishna consciousness, away from spiritual life, Mother Earth starts feeling overburdened. She does not feel encouraged to produce more food grains. Naturally, droughts will come. There will be floods. There will be earthquakes. All these kinds of natural disasters start becoming prominent.
+
+---
+### lord brahma, devatas, plea for help
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=464
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "They are all having such a wonderful, beautiful human form of life which they should be engaging in the service of Lord Vishnu, in the devotional service of Lord Vishnu."
+**Summary:** The speaker narrates how Mother Earth, burdened by the materialistic tendencies of humanity, approached Lord Brahma, accompanied by Indra and other devatas, seeking a solution to the problem.
+
+Now, Mother Earth, when she started seeing that kind of situation happening in Dwapara Yuga, she approached Lord Brahma and she went in front of him and she was literally weeping. My Lord Brahma, look at what has happened to the human civilization. They are all having such a wonderful, beautiful human form of life which they should be engaging in the service of Lord Vishnu, in the devotional service of Lord Vishnu. Instead of that, they are engaged simply in material sense gratification, economic development, these kind of temporary activities which is destroying the whole value of the human form of life. So please, we need a solution for this. Like this, she came crying in front of Brahmaji and she was accompanied by Indra and all the other devatas because even the devatas are concerned that the human civilization should be oriented towards developing spiritually, towards serving Lord Vishnu. When the civilization turns away, even the devatas become concerned. The devatas also accompanied Mother Earth. And when Brahmaji saw this, he said, this is a very grave problem. It's a very problem of great concern.
+
+---
+### lord vishnu, incarnation, re-establishment of dharma
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=534
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Lord Vishnu informed Brahmaji that very soon the Supreme Lord would appear on Earth."
+**Summary:** The speaker describes how Brahma, along with the devatas and Mother Earth, approached Lord Vishnu for a solution, and Vishnu revealed that the Supreme Lord himself would soon appear on Earth to re-establish Dharma and annihilate the demoniac kings, instructing the devatas to take birth in the Yadava family to assist in this mission.
+
+Let us approach Lord Vishnu and seek a solution from him. So saying, Lord Brahma led all the devatas and Mother Earth and went to the ocean of milk where Sri Rodakasaheb Vishnu, Paramatma is lying on Anantha. And situated on the banks of that ocean of milk, Brahmaji started meditating. And the devatas all started meditating. Devatas all started worshipping Lord Vishnu, praising Lord Vishnu with the Purusha Sukta prayers. The Purusha Sukta prayers are found in the Vedas. They glorify Lord Vishnu. The devatas in order to invoke the grace, invoke the blessings of Lord Vishnu, they started chanting Purusha Sukta. And Lord Brahmaji started meditating on Lord Vishnu. And then from within his heart, Brahmaji heard Lord Vishnu instructing him on how he would solve this problem that the devatas and Mother Earth had brought before Lord Vishnu. Lord Vishnu informed Brahmaji that very soon the Supreme Lord would appear on Earth. So Lord Vishnu informed Lord Brahma thus, Lord Vishnu informed Brahmaji that Sakshat Bhagavan, the Supreme Personality of Godhead himself, please note, not an incarnation, the Supreme Personality of Godhead himself will take birth in the house of Vasudeva. And therefore, to assist the Supreme Lord in his activities, all the devatas also should take birth in the Yadava family. And very soon this is going to happen. And the Lord, the Supreme Lord himself will take, will appear as a son of Vasudeva and he will re-establish Dharma and he will annihilate all the demoniac kings. This was the instruction given by Lord Vishnu to Brahmaji in his heart.
+
+---
+### devatas, yadava dynasty, preparation for arrival
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=669
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "The Supreme Lord himself is going to come, not just another incarnation."
+**Summary:** Brahma informs the devatas and Mother Earth of Vishnu's message, emphasizing that the Supreme Lord himself will descend, and instructs the devatas and their wives to take birth in the Yadava kingdom to prepare for the Lord's arrival and assist in his activities.
+
+And then Brahmaji came out of his meditation and then he informed all the devatas and Mother Earth that we have great reason for joy now. The Supreme Lord himself is going to come, not just another incarnation. The Supreme Lord personally is going to come and all the devatas and their women folks should all take birth in the Yadava kingdom to prepare for the Lord's arrival and to assist him in his activities. This is what happened at the beginning of the Dwapara Yuga.
+
+---
+### yadava lineage, vasudeva, devaki, lord krishna
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=700
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "And this Devaki married Vasudeva. That is how they became the parents of the real hero of the Mahabharata, which is Lord Krishna."
+**Summary:** The speaker returns to the Yadava dynasty, tracing the lineage from Yadu to Satvata, Andhaka, Vrishni, Ahuka, Ugrasena, Shurasena, Anakadundubi (Vasudeva), Devaka, and Devaki, ultimately leading to Devaki marrying Vasudeva and becoming the parents of Lord Krishna.
+
+Now we come back to the Yadava dynasty. After a few generations after the king Yadu came a king called Satvata. This Satvata was also a great devotee of the Supreme Lord. And Satvata had two sons, Andhaka and Vrishni. This Andhaka, after a few generations after him came a king called Ahuka. And this Ahuka had two sons. The first son was Ugrasena. And this Ugrasena had nine sons and five daughters. And Ugrasena's first son was Kamsa. And on the other side, Ahuka's other son, Ugrasena's brother had seven daughters. Now Satvata's another son was Vrishni. A few generations after Vrishni came Shurasena. And this king Shurasena, he had ten sons and five daughters. His ten sons were headed by Anakadundubi. Anakadundubi was his eldest son. Now Ugrasena's daughters, Kamsa's sisters, they married the younger brothers of Anakadundubi. And Ugrasena's brother, his daughters married Anakadundubi. And this Anakadundubi was none other than the same Vasudeva as whose son Vishnu had informed Brahmaji that the Supreme Lord himself is going to appear as his son. And the brother of Ugrasena was Devaka. And Devaka's daughters were headed by Devaki. And this Devaki married Vasudeva. That is how they became the parents of the real hero of the Mahabharata, which is Lord Krishna.
+
+---
+### swayam bhagavan, lord krishna, incarnations
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=828
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Krishna is not an incarnation. Krishna is the Supreme Personality of God and Himself."
+**Summary:** The speaker clarifies that Krishna is not an incarnation but Swayam Bhagavan, the Supreme Personality of Godhead himself, the source of all other incarnations, referencing the Srimad Bhagavatam's description of various incarnations.
+
+In fact, in the description in the Srimad Bhagavatam of the various kinds of incarnations, like we have discussed earlier, Leelavataras, Yugavataras, Gunavataras, Purushavataras, there is a list of almost twenty-two incarnations which is given in the Srimad Bhagavatam. And it mentions that this is just a broad list of the incarnations of the Supreme Lord. The actual number of incarnations of the Supreme Lord are uncountable, are innumerable. And in the list of the incarnations, the Purushavataras, the various Vishnu incarnations, the Leelavataras like Narasimha, Meena Avatara, Varaha Avatara, all these things are described. Lord Krishna is also described there. And then, after describing all the incarnations, the Bhagavatam says, All these twenty-two incarnations that have been described, they are all expansions or plenary portions or portions of the plenary portions of the Supreme Lord. But then, Krishna is not an incarnation. Krishna is the Supreme Personality of God and Himself. Just like Vishnu had informed Brahmaji, Sakshad Bhagavan Vasudeva Grihe. The Supreme Lord Himself will appear in the house of Vasudeva, as the son of Vasudeva. Therefore, Krishna is not an incarnation. He is the Supreme Personality of God and Himself. He is Swayam Bhagavan. This is what the scriptures have informed us, have revealed to us. And all incarnations, whether it is the Purushavataras, Leelavataras, Lord Vishnu, Lord Ramachandra, Narasimha, Vamana, all the incarnations are coming from Lord Krishna ultimately. Lord Krishna is the fountainhead of all incarnations.
+
+---
+### kunti, shurasena, mahabharata character
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=959
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers, General public
+**Key Quote:** "And this daughter of Shurasena who was being taken care of by her father, who was the cousin brother of Shurasena, she grew up to become one of the central characters of Mahabharata."
+**Summary:** The speaker introduces another character from the Yadava dynasty, a daughter of Shurasena who was given to his childless cousin brother and raised by him, hinting that she will play a central role in the Mahabharata story, setting up the next episode.
+
+Now, this is a description of the entire Yadava dynasty. Now, in the Yadava dynasty, the father of Vasudeva, Shurasena, he had a cousin brother. And this cousin brother of Shurasena did not have any children. He was issue-less. Therefore, he requested Shurasena that you have got so many sons, your next child who is there, you please give it to me. I would like to rear that child as my own. And so, to Shurasena was born one girl child. And this girl child, Shurasena handed over to his cousin brother saying that you take care of this child. And that cousin brother very happily took that child and started rearing her as his own daughter. And this daughter of Shurasena who was being taken care of by her father, who was the cousin brother of Shurasena, she grew up to become one of the central characters of Mahabharata. Who was this daughter of Shurasena and what was the role she had to play in Mahabharata? Please join us in our next episode to know about this.
+
+---
+### farewell, chanting
+**Timestamp:** https://youtu.be/E0_4ECBJB48?t=1036
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers
+**Key Quote:** "Hare Krishna Jagat Guru Srila Prabhupada ki Jai Netai Gor Premanande Hari Hari Bol"
+**Summary:** The lecture concludes with a thank you, Hare Krishna mantra, and glorification of Srila Prabhupada.
+
+Thank you for joining us today. Hare Krishna Jagat Guru Srila Prabhupada ki Jai Netai Gor Premanande Hari Hari Bol. Satsang with Mooji
+
+---
+
+## Part 6  Origin of Yadava dynasty from the Moon God
+**Speaker:** HG Suvyakta Narasimha Dasa
+
+### invocation, prayer
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=0
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers, Newcomers, General public
+**Key Quote:** "Namah Om Vishnupadaya Krishna and welcome back to today's episode of the Mahabharata."
+**Summary:** The speaker begins with traditional Vaishnava prayers and welcomes the audience back to the Mahabharata series.
+
+Thank you for watching. Om Adhyana Timurandhasya Dhyana Anjana Salakaya Chakshurumi Litam Yena Tasmai Shri Gurave Namaha. Namah Om Vishnupadaya Krishna Preshtaya Bhutale Srimate Bhaktivedanta Swamin Nithinamine. Namaste Saraswati Dev Gauravani Pracharine Nirvisesha Sunyavadi Pashyatyade Satarine. Jai Shri Krishna Chaitanya Prabhu Nithyananda Shri Advaita Gadhadhara Shri Vasadi Gauravatta Vrinda. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare. Om Kam Karoti Vachalam Bhangam Langhayate Girim Yad Krupatha Mahamande Shri Guram Deenataranam. Hare Krishna. Namah Om Vishnupadaya Krishna and welcome back to today's episode of the Mahabharata.
+
+---
+### lineage, friendship, devotion
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=87
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "While they were strolling around the palace garden they came upon a nice pond and so they all thought let us take a dip in the pond and all of them took off their clothes and jumped into the water and they were frolicking around in the water splashing water against each other."
+**Summary:** The speaker introduces the story of Suryumna and then begins a story about the Yadava dynasty, starting with Brahma, Bhrigu, Shukracharya, and the friendship between Devayani and Sharmishta, leading to an incident at a pond.
+
+Namah Om Vishnupadaya Krishna and welcome back to today's episode of the Mahabharata. The burning question that must be running in all of your minds, what happened with Suryumna, is what we will be learning about today. We will start today's episode with an incident related to the Yadava dynasty. In the beginning, Lord Brahma, when he was creating this material world, he created many sages. Once, when Brahmaji was conducting a fire sacrifice for Varuna, from the fire sacrifice he begot a son by name Bhrigu. From this Bhrigumani, after a few generations, after Bhrigumani came Shukracharya. Shukracharya became the priest of the Asuras, and Shukracharya had two sons, Shanda and Amarka, and he had one daughter, Devayani. Shukracharya was serving as a chief priest of a king by name Vrishaparva, and this Vrishaparva had a daughter by name Sharmishta. Now, because of the death of Devayani, Shukracharya often used to come to the palace of Vrishaparva and conduct all his sacrifices, poojas, rituals, etc. The family of the king, as well as of the chief priest, were quite close, and so Sharmishta and Devayani, they became close friends. Once it so happened that Sharmishta, because she was a princess, she had many, many friends. Along with them, she was on a leisure stroll around the palace gardens. Accompanying her, Devayani was also there. While they were strolling around the palace garden, they came upon a nice pond, and so they all thought, let us take a dip in the pond, and all of them took off their clothes and jumped into the water, and they were frolicking around in the water, splashing water against each other. At this point, Devayani was still in the palace, and he decorate her world, we will get to know about this in the next update. Bye bye.
+
+---
+### anger, ego, consequences
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=233
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Sharmishta pushed Devayani into a well. And she called all her friends and walked away from there."
+**Summary:** The story continues with the girls getting embarrassed by Lord Shiva's passing, leading to Sharmishta mistakenly wearing Devayani's clothes, a heated argument, and Sharmishta pushing Devayani into a well.
+
+Like this, suddenly at that moment, it so happened that Lord Shiva along with Parvati Devi, mounted on his bull Nandi, was passing by that place. And when these girls suddenly saw Lord Shiva going passing by, they all got embarrassed, and they immediately got onto the bank and started wearing their clothes. Now you can imagine, the girls are all in a hurry and everybody is picking up our clothes and wearing it and all that. In the midi, by mistake, Sharmishta picked up one of the clothes of Devi Ani, and she was about to wear them when Devi Ani saw this, she became wild. Devi Ani's nature was that she was quite an innocent girl, but she had a short temper, and she flew into a rage and started the using uncharitable words against Sharmishta. She said, Devi Ani said, hey, what is this? You are trying to wear my clothes. This is exactly like a dog coming into a sacrificial arena and trying to steal away the ghee meant for the sacrifice. After all, you are the King's daughter, and your father Vrishaparva is my father's disciple. My father is a guru for your father, so you are subordinate to us, and you are taking away my clothes. How dare you do like this? Sharmishta was innocent. It was unintentionally that she took Devayani's clothes. Naturally, when she heard such harsh words from Devayani, Sharmishta also became angry. And so she also retorted. She said, I don't tell me all these things. My father is whatever Dakshina he is giving. You and your family are subsisting based on that. Your father is a beggar in my father's court. And like this, Sharmishta started retorting. Now this became a big ego battle between the two of them, and they started bitterly fighting with each other. And finally, Sharmishta pushed Devayani into a well, and she called all her friends and walked away from there. Devayani got trapped like this, and there is nobody else in the garden there, and she is without clothes, and she has fallen into the well, and she did not know what to do, and so she was stuck like this. Now what happened to Devayani and how she came out of the well,
+
+---
+### transformation, attraction, devotional service
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=390
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "One month we are having a king, next month the same king has become a queen."
+**Summary:** The speaker shifts back to the story of Sudhyamna, who turns into a woman, marries Buddha, and has a son named Pururava. Vasishtamuni arranges for Sudhyamna to alternate between male and female forms monthly, which displeases the citizens. Eventually, Sudhyamna hands over the kingdom to Pururava and goes to the forest for devotional service.
+
+We will come to that shortly. We come back now to what happened with Sudhyamana. Sudhyamana and his ministers, the moment they entered the forest, all of them turned into women as per whatever Lord Shiva had said. And they started looking at each other. Hey, what happened to you? Your whole body has changed and they are looking at themselves, my god, I myself have also changed and all of them realized that they have all become women. Now they could, they could not understand why this has happened and what is the solution for this, what to do, they were in a quandary. Now, not knowing what to do, they all returned and sudhimna, because now he had turned into a girl, he became a beautiful young girl. It so happened that Somadeva's son, Buddha, happened to once see sudhimna who was in a girl's body, and he got attracted by her beauty and he proposed to her, why don't you marry me? Sudhimna, now because he was in a girl's body, his mind was also like that and he also got attracted to Buddha and so she accepted his proposal and both of them got married and they eventually they had a son and the name of this son was Pururava. After this, now Vasishtamuni, who was the one who had prayed initially and converted Ila into a boy for Viva, so Vasishtamuni, when he heard that s Perquè had again become a girl, he felt very unhappy and so he conducted a sacrifice and by the fire sacrifice he could make an arrangement where sudhimna would get back his masculinity once a month. That means every alternate month sudhimna would become a girl and the next month he would become a man and like this he spent the rest of his life alternating between a man and a woman. And like this, he was ruling over the kingdom. But the citizens were not very happy. One month we are having a king, next month the same king has become a queen. So, the way they address the king, the way they approach, everything changes every month. They have to adjust themselves in their mind also. Now, this was not very, this was not something which all the citizens were happy with. Eventually, when Puru Rava had grown up sufficiently, Sudhyamna handed over the kingdom to Puru Rava and he went to the forest to execute devotional service.
+
+---
+### compassion, attraction, marriage
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=558
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Having looked at her, having understood that she has somehow fallen into the well, Yayati took compassion upon her and he removed his upper clothes."
+**Summary:** The story shifts to Puru Rava's son, Yayati, who encounters Devayani in a well. He rescues her, and she falls in love with him, wanting to marry him.
+
+Now, Puru Rava became the king and this Puru Rava, he eventually had his sons and one of his sons was Yayati. And Yayati succeeded Puru Rava to the throne. And this Yayati made his power, his capital on the banks of the Vaitharani river in what is present day known as Odisha. And this place came to be known as Yayatipura and then later it became Yayapura and finally now today it is known as Yajapur. It is on the banks of river which is known as Vaitharani and this is in Odisha. Now Yayati, once from his kingdom, he was going out on an excursion and he was strolling around and going through various gardens and all that. He came across a well in one garden and he was thirsty, he thought let me drink some water and he approached the well. And when he looked into the well, he found a beautiful young girl caught naked inside the well. No prizes for guessing who this is. This was Devayani. Having looked at her, having understood that she has somehow fallen into the well, Yayati took compassion upon her and he removed his upper clothes. He gave those garments to Devayani to wear and he pulled her out of the well. Okay. Now, when Devayani was rescued like this, naturally you would have seen in all Bollywood movies that is the entry for the hero, right? The heroine is being harassed by some goons and the hero makes a dashing entry and he saves the heroine and the heroine falls in love with him. So mostly, you know, this has begun from there and Devayani being rescued by Yayati, she fell in love with Yayati and she wanted to marry him.
+
+---
+### caste, marriage, hesitation
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=695
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "If already by being born in a Brahmana family or automatically a Brahmana, then what is the need for all this list of twelve qualities?"
+**Summary:** Yayati is hesitant to marry Devayani because of caste considerations, specifically the concept of Pratiloma. The speaker then questions the rigid caste system based on birth, pointing out that the Shastras emphasize qualities and qualifications over birth.
+
+But then when she proposed to Yayati that, oh hero, you have rescued me and I am very much obliged to you and I would like to marry you, Yayati was a little hesitant. Why was Yayati hesitant? Because he, according to the Vedas, the person of a man of a lower caste marrying a girl of a higher caste is called Pratiloma. It is generally not preferred. Okay. A man of one caste carrying, marrying a woman of a lower caste is, is not, it is not incompatible, it is not undesirable and so that is generally accepted. Generally the man from a lower caste would not marry a woman of a higher caste. Not that it was forbidden or that if they would marry like this, if there was an inter-caste marriage, there would be some honor killing. Those are, those were definitely not accepted. Definitely not the considerations. The consideration was something else. What was Yayati's consideration based on the, so why was he considering the caste? It appears from this as if the caste system as we know it today based on the birth was prevalent those days. Actually if you go by the Shastras, if you look at the Mahabharata, in the Mahabharata there is a description of the twelve qualities of a Brahmana. Now if the caste is by birth, then why is the list of qualities required? Why is qualification needed? If already by being born in a Brahmana family or automatically a Brahmana, then what is the need for all this list of twelve qualities? The fact is the list of twelve qualities itself indicates that it is, caste is not by birth. You have to qualify yourself to be called a Brahmana.
+
+---
+### caste, qualifications, Garbhadana Samskara
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=811
+**Verse References:** BG 4.13
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "The four varnas or castes of Brahmana, Kshatriya, Vaishya, Shudra are created according to the guna and karma, qualities and propensities of work for the people."
+**Summary:** The speaker quotes the Bhagavad Gita and Srimad Bhagavatam to support the idea that caste is determined by qualities and work (guna and karma), not birth. He explains that during Vedic times, people ensured that children were born with the qualities of their caste through marriage within the same caste and the practice of Garbhadana Samskara.
+
+Lord Krishna also says in the Bhagavad Gita, that caste is not by birth. You have to qualify yourself to be called a Brahmana. Lord Krishna also says in the Bhagavad Gita, which is again part of the Mahabharata, that chatur varnyam maya srishtam guna karma vibhagasaha. The four varnas or castes of Brahmana, Kshatriya, Vaishya, Shudra are created according to the guna and karma, qualities and propensities of work for the people. In the Srimad Bhagavatam also it is stated, yasyayallakshanam proktam pumso varnabhi venjakam yad anyatra api drishyetah. Tattena yada anyatra api drishyetah. Meaning that if a person is born in a particular family, let us say he is a born in a Brahmana family, but he exhibits Kshatriya qualities then he has to be called A Kshatriya, not a Brahmana. There are examples like this Vishwamitra Muni, Vishwamitra Muni was born as a Kshatriya. He was, he was a king and as long as he was executing the responsibilities, activities of a thing, he was called a Kshatriya. The moment he gave up the activities of a Kshatriya, the activities of a sage he became a brahmana within the same lifetime he changed from kshatriya to brahmana like that many instances are there sons of kshatriyas being born and they become brahmanas now these kind of instances are also there in the shastras so then why if the vedas are clear that a brahmana kshatriya vaisya shudra is not as per birth but by qualification then why this consideration of birth like we are seeing about the ayati thinking like this the the the reply is very simple it is during the vedic times the people would ensure that in a brahmana family brahmana will be born the kshatriya family kshatriya would be born vaisya family vaisya would be born by following two simple things the first thing is by marrying within the same caste they would ensure that the characteristics of that particular caste could be passed on to the next generation just like you see even in if we take a crude example that is not of course compare human beings with animals but even if you look at animals there are various breeds like for example in cows you take concrete you have whole stream you have cybal etc as long as you don't crossbreed the characteristics will be maintained in a similar fashion in a similar fashion to maintain the the characteristics of that caste to the qualifications whatever are there to pass it on to the next generation the people would marry within the same caste but that alone would not ensure that the next generation would have all the qualities of that particular caste the second most important criterion for this was the second most important practice that used to ensure that the qualities would go on would get passed on uncontaminated from generation to generation was was the practice of Garbhadana Samskara.
+
+---
+### Varna Sankara, devotion, spiritual elevation
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=990
+**Verse References:** —
+**Content Type:** philosophy
+**Audience:** Full-time devotees, Congregation / volunteers
+**Key Quote:** "The whole purpose of the Varnashrama system was to please Lord Vishnu."
+**Summary:** The speaker explains that if Garbhadana Samskara is not performed, the children are considered Varna Sankara or Shudra. He emphasizes that the purpose of the Varnashrama system is to please Lord Vishnu and that devotion to Vishnu is more important than birth in a high caste.
+
+By these two practices, they would ensure that the next generation would have the characteristics of the parents. If the Garbhadana Samskara is not performed, then the children who are born are considered Varna Sankara or Shudra. For example, we have the great example of Kashyapamuni, he was a Brahmana. He and his wife Diti begot two sons, Hiranyaksha and Hiranyakashyapu. But because the sons were begotten without undergoing the process of Garbhadana Samskara, the two sons were not considered Brahmanas, they were not even considered part of the Varnashrama system, they were not even considered Shudras, they were called Asuras. In fact, this is another thing which we have to understand. The whole caste system, what we currently see of as giving certain privileges to one caste and depriving others of the lower castes of it, was not actually the purpose of the Varnashrama system or the caste system. The whole Varnashrama system, as it is explained in the Vishnu Purana, Varnashmacharavata Purushena Parappuman Vishnurarabhyate Nanya Tattosakarana, the whole purpose of the Varnashrama system was to please Lord Vishnu. And therefore, in the Puranas, it is stated that Shudra Bhagavad Bhakka Kepi Bhagavato Tamaha. Sarva Varneshu Teshu Varneshu. Beshudra Yena Bhakta Janardhanye. Those who are part of a particular caste, if they are born as a Brahmana or a Kshatriya or as a Vaisya, but they are not devotees of Janardhana, Vishnu or Krishna, then they are to be considered Shudras. On the other hand, those who are, who may be born in a Shudra family, but if they are devotees of Lord Vishnu, then they are to be considered higher than even Brahmana. This is being said. This is what the Shastras are saying. That means, the whole purpose of the caste system, maintaining the Brahmanas, Vaishyas, Kshatriyas, Shudras, all these things, was meant to, ultimately, it was meant to elevate a person spiritually and bring him to the point of becoming a devotee of Vishnu. And if that purpose was not served, being born in a Brahmana family or a Kshatriya family had no meaning. Anyway, so, this, now,
+
+---
+### responsibility, curse, resolution
+**Timestamp:** https://youtu.be/6uU6VkZSVtE?t=1128
+**Verse References:** —
+**Content Type:** story
+**Audience:** Congregation / volunteers, Newcomers
+**Key Quote:** "Sharmishta should become my maidservant for life along with all her friends because they are the ones who put me into such an embarrassing condition."
+**Summary:** The speaker returns to Yayati's hesitation, explaining that he felt marrying Devayani would prevent her from having Brahmana children who could guide society spiritually. Devayani goes to her father, Sukracharya, who becomes angry. Vrishaparva pacifies Sukracharya, and Devayani demands that Sharmishta become her maidservant. The episode ends with the question of whether Devayani will be able to marry Yayati.
+
+Yayati's consideration was that he was a Kshatriya and now if he married Devayani who was a Brahmana, then what would happen? The children who would be born would be Kshatriyas only. His thinking was, now, if Devayani were to marry another Brahmana, then they would have Brahmana children who are Brahmanas with all those 12 qualifications, can guide the society spiritually and they can become great spiritual masters. So, that is a far greater responsibility in the society than what a Kshatriya can play. If he married Devayani, then that opportunity would be lost. That was his consideration, Yayati's consideration. Now, when Yayati refused like this, Devayani went to her father, Sukracharya. When she went to her father, Sukracharya, he became very angry. And so, he immediately took his daughter and went to her father. He went to Vrishaparva. Vrishaparva, he had heard what had happened with Sharmishta and Devayani and he also, his people came and told him, now, Devayani is coming with her father and Sukracharya is in a livid mood. And Vrishaparva understood, now, in this mood, if Sukracharya comes, he is going to give some curts and we are all going to suffer. The moment he came across Sukracharya, he immediately fell at his feet and he supplicated him with apologies and told him, and tried to pacify him. And Vrishaparva told Sukracharya, by mistake, something has happened. Whatever punishment you are going to give to my daughter, we are willing to accept. Kindly, please be merciful unto us. So, then Sukracharya also calmed down and he told, okay, I am not going to curse you or anything like that. Let Devayani tell what kind of amends she wants Sharmishta to make and you take care of that. I will be satisfied with that. Then Devayani told, Sharmishta should become my maidservant for life along with all her friends because they are the ones who put me into such an embarrassing condition. Vrishaparva immediately agreed. And now, so that particular issue was resolved. Now, the second issue was not yet resolved. Yayati had refused Devayani and Devayani had fallen in love with Yayati. She wanted to marry him only. Now, what to do? How would Sukracharya solve this? Was Devayani, able to marry Yayati or did she have to marry someone else? Join us in our next episode to know about this. Thank you for joining us today. Hare Krishna Jagat Guru Shri Ila Prabhupada Ki Jai Nitaayegor Premanande Hari Haribol
 
 ---
 
@@ -4740,7 +8287,7 @@ If you are determined like this, then, you are not only formally initiated, you 
 **Key Quote:** "When the breeze was blowing, it was very uninviting to the touch."
 **Summary:** This segment discusses the omens that manifested during the descent of Jaya and Vijaya as Hiranyaksha and Hiranyakashipu, focusing on the unpleasant changes in the natural elements, particularly the wind.
 
-So here in this chapter, we are seeing the descent of Jaya and Vijaya into this material world, and when they descended into the material world, they descended as enemies of Vishnu. So when such enemies of Vishnu or demons take their birth, what happens? What kind of portents one can see in this world? What kind of symptoms you can see? Those are being described here. There are many omens that were manifest when Jaya and Vijaya came down as Hiranyasha and Hiranyakashipu. So it is described here, Vavavvayu. Vayu, the air. A breeze which blows. Winds which blow. Normally in Chennai what happens, it's very humid. So when we stand outside in the tree shade, there is a breeze that blows. It feels very pleasing. It feels very nice, cooling, comforting. But the kind of breezes that started blowing when Hiranyakashipu and Hiranyakashipu appeared, they were Suddhusvarsha and they were Phutkaaraan Eerein. When the wind used to blow, when Hiranyakashipu and Hiranyakashipu were going to take birth, the breeze used to give a hissing sound. And just like you would see in if any of you before joining you have seen these horror movies, sometimes in the night they will show one window is closing, one door is closing and there is a kind of sound that comes which is very fearful. Those kind of sounds are not pleasing to the ear. And Suddhusvarsha, to the touch also, the breeze was not pleasing. So, especially when you are in Chennai, you don't have experience of breeze which is unpleasant. Isn't it? Any time breeze blows, it's welcome. But when Karthik Maas comes, when Chaitanya Maas comes, that time, the breeze is very pleasing. So, but then, when Hiranyaksha and Hiranyaka Kshapu were taking birth, the entire climate itself became so bad, that the breeze became distrustful, became uninviting to the touch.
+So here in this chapter, we are seeing the descent of Jaya and Vijaya into this material world, and when they descended into the material world, they descended as enemies of Vishnu. So when such enemies of Vishnu or demons take their birth, what happens? What kind of portents one can see in this world? What kind of symptoms you can see? Those are being described here. There are many omens that were manifest when Jaya and Vijaya came down as Hiranyaksha and Hiranyakashipu. So it is described here, Vavavvayu. Vayu, the air. A breeze which blows. Winds which blow. Normally in Chennai what happens, it's very humid. So when we stand outside in the tree shade, there is a breeze that blows. It feels very pleasing. It feels very nice, cooling, comforting. But the kind of breezes that started blowing when Hiranyakashipu and Hiranyakashipu appeared, they were Suddhusvarsha and they were Phutkaaraan Eerein. When the wind used to blow, when Hiranyakashipu and Hiranyakashipu were going to take birth, the breeze used to give a hissing sound. And just like you would see in if any of you before joining you have seen these horror movies, sometimes in the night they will show one window is closing, one door is closing and there is a kind of sound that comes which is very fearful. Those kind of sounds are not pleasing to the ear. And Suddhusvarsha, to the touch also, the breeze was not pleasing. So, especially when you are in Chennai, you don't have experience of breeze which is unpleasant. Isn't it? Any time breeze blows, it's welcome. But when Karthik Maas comes, when Chaitanya Maas comes, that time, the breeze is very pleasing. So, but then, when Hiranyaksha and Hiranyakashipu were taking birth, the entire climate itself became so bad, that the breeze became distrustful, became uninviting to the touch.
 
 ---
 ### cyclones, natural disasters, demoniac influence
@@ -4751,7 +8298,7 @@ So here in this chapter, we are seeing the descent of Jaya and Vijaya into this 
 **Key Quote:** "When we go against the will of Krishna, we go against the laws of nature, we start trying to exploit material nature."
 **Summary:** This segment discusses the increase in natural disasters like cyclones and hurricanes, attributing them to the increasing demoniac population and the exploitation of material nature, disrupting the natural order created by Krishna.
 
-And the sound that they were giving was also not pleasing to the ears. And what was happening, Vathani Ko, Vathya means, there was a, you know, these cyclones and hurricanes had become very common. So, which is what we are experiencing now. Every other day, there is a cyclone. Just recently, you know, Chennai has gone through one cyclone. Still not got over the, still the cyclone hangover is still going on. Still continuously raining. And a few years back, we had the big tsunami. And I think a couple of years back, we had a big flood also here. So, these kind of natural disturbances are actually, if you see, they are not meant to be in this world. It is not that this world is like this. No, this world is not like this. Not supposed to be like this. This world, Krishna has created in such a way, that it is supposed to be very pleasing and giving lot of peace and comfort to us in our minds, as long as we are executing spiritual activities. The moment we go against the will of Krishna, we go against the laws of nature, we start trying to exploit material nature. Material nature as well as other living entities. When that becomes prominent in this material world, what happens is, all the entire system around which this whole material universe is designed gets disrupted. And when that gets disrupted, all these kind of natural disturbances become very prominent.
+And the sound that they were giving was also not pleasing to the ears. And what was happening, Vathani Ko, Vathya means, there was, you know, these cyclones and hurricanes had become very common. So, which is what we are experiencing now. Every other day, there is a cyclone. Just recently, you know, Chennai has gone through one cyclone. Still not got over the, still the cyclone hangover is still going on. Still continuously raining. And a few years back, we had the big tsunami. And I think a couple of years back, we had a big flood also here. So, these kind of natural disturbances are actually, if you see, they are not meant to be in this world. It is not that this world is like this. No, this world is not like this. Not supposed to be like this. This world, Krishna has created in such a way, that it is supposed to be very pleasing and giving lot of peace and comfort to us in our minds, as long as we are executing spiritual activities. The moment we go against the will of Krishna, we go against the laws of nature, we start trying to exploit material nature. Material nature as well as other living entities. When that becomes prominent in this material world, what happens is, all the entire system around which this whole material universe is designed gets disrupted. And when that gets disrupted, all these kind of natural disturbances become very prominent.
 
 ---
 ### omens, Krishna's appearance, pure environment
@@ -4795,7 +8342,7 @@ So, as Prabhupada is mentioning, the demoniac people who are accustomed to all k
 **Key Quote:** "To that extent, steadiness is there, when the whole civilization is directed towards Krishna consciousness."
 **Summary:** This segment describes the current state of the world as being in turmoil, marked by pandemics, political instability, and environmental disasters, contrasting it with the steadiness and auspiciousness that prevailed during Krishna's appearance, suggesting that directing civilization towards Krishna consciousness can bring stability.
 
-That's how you see, the whole material world, actually, this year especially, if you see, this whole world has been in total turmoil. It began with the, with the, with the pandemic. Then in the United States, there was an election. There also turmoil. And you see, in Chennai, there is cyclone, turmoil. And now, in Yelur, Andhra Pradesh, some unknown disease. Some 300 people are in the hospital. Two, three people have died. Again, turmoil. Everywhere it is, it is, you know, there is no political stability. There is no environmental stability. People's jobs, there is no stability. If you go everywhere, people are saying, tens of lakhs of people have lost their jobs due to the pandemic. So, there is no stability anywhere. Whereas, you see, how the Bhagavatam is describing, when Krishna was going to appear, even the sacrificial fire, even though breeze is blowing, was very steady. So, to that extent, steadiness is there, when the whole civilization is directed towards Krishna consciousness.
+That's how you see, the whole material world, actually, this year especially, if you see, this whole world has been in total turmoil. It began with the pandemic. Then in the United States, there was an election. There also turmoil. And you see, in Chennai, there is cyclone, turmoil. And now, in Yelur, Andhra Pradesh, some unknown disease. Some 300 people are in the hospital. Two, three people have died. Again, turmoil. Everywhere it is, you know, there is no political stability. There is no environmental stability. People's jobs, there is no stability. If you go everywhere, people are saying, tens of lakhs of people have lost their jobs due to the pandemic. So, there is no stability anywhere. Whereas, you see, how the Bhagavatam is describing, when Krishna was going to appear, even the sacrificial fire, even though breeze is blowing, was very steady. So, to that extent, steadiness is there, when the whole civilization is directed towards Krishna consciousness.
 
 ---
 ### sinful activities, human life, material nature

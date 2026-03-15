@@ -3,7 +3,7 @@
 Gemini 2.0 Flash via Vertex AI Batch API.
 
 For each tagged file in data/tagged/:
-  - Sends all segment transcripts as a JSON array in a single batch request
+  - Sends segment transcripts in one or more chunked batch requests
   - Gemini fixes grammar, punctuation, and removes speech/transcription artifacts
   - Updates the transcript field in-place in data/tagged/{video_id}.json
   - Logs completed video IDs to data/cleaned.txt
@@ -28,7 +28,10 @@ MODEL_NAME = "publishers/google/models/gemini-2.0-flash-001"
 BUCKET_NAME = f"{PROJECT_ID}-lco-tagger"
 
 PROMPT_TEMPLATE = """\
+REQUEST_ID: {request_id}
 VIDEO_ID: {video_id}
+CHUNK_INDEX: {chunk_index}
+TOTAL_CHUNKS: {total_chunks}
 You are editing transcripts of Vaishnava lectures. Fix the grammar, punctuation, \
 and clarity of each segment below. Remove repeated phrases caused by speech \
 disfluencies or transcription artifacts (e.g. "He is in him. He is in him."). \
@@ -40,20 +43,41 @@ Return ONLY valid JSON (no markdown fences, no explanations):
   {{"idx": <int>, "text": "<cleaned transcript>"}},
   ...
 ]
+Return exactly one object per input segment and preserve every idx unchanged.
 
 Segments:
 {segments_json}
 """
 
+MAX_SEGMENTS_PER_REQUEST = 10
+MAX_CHARS_PER_REQUEST = 12000
+
 
 def extract_video_id(request_text: str) -> str | None:
-    m = re.search(r"^VIDEO_ID: (\S+)", request_text)
+    m = re.search(r"^VIDEO_ID: (\S+)", request_text, re.MULTILINE)
     return m.group(1) if m else None
 
 
+def extract_request_id(request_text: str) -> str | None:
+    m = re.search(r"^REQUEST_ID: (\S+)", request_text, re.MULTILINE)
+    return m.group(1) if m else None
+
+
+def extract_chunk_metadata(request_text: str) -> tuple[int | None, int | None]:
+    chunk_match = re.search(r"^CHUNK_INDEX: (\d+)", request_text, re.MULTILINE)
+    total_match = re.search(r"^TOTAL_CHUNKS: (\d+)", request_text, re.MULTILINE)
+    chunk_index = int(chunk_match.group(1)) if chunk_match else None
+    total_chunks = int(total_match.group(1)) if total_match else None
+    return chunk_index, total_chunks
+
+
+def strip_json_fences(raw: str) -> str:
+    return re.sub(r"```json|```", "", raw).strip()
+
+
 def parse_tagged_segments(raw: str, video_id: str) -> list[dict] | None:
-    raw = re.sub(r"```json|```", "", raw).strip()
-    match = re.search(r"\{.*\}", raw, re.DOTALL)
+    cleaned = strip_json_fences(raw)
+    match = re.search(r"\{.*\}", cleaned, re.DOTALL)
     if not match:
         print(f"  [WARN] No tagged JSON block found for {video_id}")
         return None
@@ -67,6 +91,183 @@ def parse_tagged_segments(raw: str, video_id: str) -> list[dict] | None:
         print(f"  [WARN] Tagged response missing segments for {video_id}")
         return None
     return segments
+
+
+def sanitize_json_text(raw: str) -> str:
+    """Repair common model-output JSON issues without changing semantics."""
+    out: list[str] = []
+    stack: list[str] = []
+    in_string = False
+    escape = False
+
+    i = 0
+    while i < len(raw):
+        ch = raw[i]
+
+        if in_string:
+            if escape:
+                if ch == "\n":
+                    out.append("n")
+                elif ch == "\r":
+                    out.append("r")
+                elif ch == "\t":
+                    out.append("t")
+                else:
+                    out.append(ch)
+                escape = False
+            elif ch == "\\":
+                out.append(ch)
+                escape = True
+            elif ch == '"':
+                j = i + 1
+                while j < len(raw) and raw[j] in " \t\r\n":
+                    j += 1
+                next_sig = raw[j] if j < len(raw) else ""
+                if next_sig and next_sig not in ",}]:":
+                    out.append('\\"')
+                else:
+                    out.append(ch)
+                    in_string = False
+            elif ch == "\n":
+                out.append("\\n")
+            elif ch == "\r":
+                out.append("\\r")
+            elif ch == "\t":
+                out.append("\\t")
+            elif ord(ch) < 32:
+                out.append(" ")
+            else:
+                out.append(ch)
+        else:
+            if ch == '"':
+                out.append(ch)
+                in_string = True
+            else:
+                out.append(ch)
+                if ch in "{[":
+                    stack.append(ch)
+                elif ch == "}" and stack and stack[-1] == "{":
+                    stack.pop()
+                elif ch == "]" and stack and stack[-1] == "[":
+                    stack.pop()
+        i += 1
+
+    if in_string:
+        out.append('"')
+
+    repaired = "".join(out)
+    repaired = re.sub(r",(\s*[}\]])", r"\1", repaired)
+
+    closers = []
+    for opener in reversed(stack):
+        closers.append("}" if opener == "{" else "]")
+    repaired += "".join(closers)
+    return repaired
+
+
+def is_valid_cleaned_item(item: dict) -> bool:
+    return (
+        isinstance(item, dict)
+        and "idx" in item
+        and "text" in item
+        and isinstance(item["idx"], int)
+        and isinstance(item["text"], str)
+    )
+
+
+def parse_cleaned_array(raw: str) -> list[dict] | None:
+    data = json.loads(raw)
+    return data if isinstance(data, list) else None
+
+
+def salvage_cleaned_items(cleaned: str) -> tuple[list[dict] | None, str]:
+    marker = '"idx"'
+    positions = [m.start() for m in re.finditer(marker, cleaned)]
+    if not positions:
+        return None, "no cleaned item markers found"
+
+    items: list[dict] = []
+    for idx, pos in enumerate(positions):
+        obj_start = cleaned.rfind("{", 0, pos)
+        if obj_start == -1:
+            continue
+
+        next_pos = positions[idx + 1] if idx + 1 < len(positions) else len(cleaned)
+        obj_end = cleaned.rfind("}", pos, next_pos)
+        if obj_end == -1:
+            obj_end = cleaned.find("}", pos)
+        if obj_end == -1:
+            continue
+
+        candidate = sanitize_json_text(cleaned[obj_start:obj_end + 1])
+        try:
+            item = json.loads(candidate)
+        except json.JSONDecodeError:
+            continue
+        if is_valid_cleaned_item(item):
+            items.append(item)
+
+    if items:
+        return items, f"salvaged {len(items)} cleaned items"
+    return None, "could not salvage any cleaned items"
+
+
+def recover_cleaned_segments(raw: str) -> tuple[list[dict] | None, str]:
+    cleaned = strip_json_fences(raw)
+    if not cleaned:
+        return None, "empty response"
+
+    start = cleaned.find("[")
+    if start == -1:
+        return None, "no JSON array found"
+    cleaned = cleaned[start:]
+
+    try:
+        items = parse_cleaned_array(cleaned)
+        if items is not None:
+            return items, "already valid"
+        return None, "response was not a JSON array"
+    except json.JSONDecodeError as err:
+        original_error = str(err)
+
+    repaired = sanitize_json_text(cleaned)
+    try:
+        items = parse_cleaned_array(repaired)
+    except json.JSONDecodeError as err:
+        salvaged, salvage_status = salvage_cleaned_items(cleaned)
+        if salvaged is not None:
+            return salvaged, salvage_status
+        return None, f"repair failed: {err}; original: {original_error}"
+
+    return items, "repaired"
+
+
+def chunk_segments(segments_data: list[dict]) -> list[list[dict]]:
+    chunks: list[list[dict]] = []
+    current: list[dict] = []
+    current_chars = 0
+
+    for entry in segments_data:
+        text_len = len(entry["text"])
+        should_split = (
+            current
+            and (
+                len(current) >= MAX_SEGMENTS_PER_REQUEST
+                or current_chars + text_len > MAX_CHARS_PER_REQUEST
+            )
+        )
+        if should_split:
+            chunks.append(current)
+            current = []
+            current_chars = 0
+
+        current.append(entry)
+        current_chars += text_len
+
+    if current:
+        chunks.append(current)
+
+    return chunks
 
 
 def iter_tagged_docs(tagged_paths: list[Path]) -> list[tuple[Path, dict]]:
@@ -145,8 +346,13 @@ def ensure_bucket(gcs: storage.Client) -> None:
         print(f"[GCS] Created bucket: gs://{BUCKET_NAME}")
 
 
-def build_input_jsonl(tagged_docs: list[tuple[Path, dict]]) -> str:
+def build_input_jsonl(
+    tagged_docs: list[tuple[Path, dict]]
+) -> tuple[str, dict[str, set[str]], dict[str, set[int]]]:
     lines = []
+    expected_requests: dict[str, set[str]] = {}
+    expected_indices_by_request: dict[str, set[int]] = {}
+
     for path, t in tagged_docs:
         video_id = path.stem
         segments_data = [
@@ -157,18 +363,32 @@ def build_input_jsonl(tagged_docs: list[tuple[Path, dict]]) -> str:
         if not segments_data:
             continue
 
-        prompt = PROMPT_TEMPLATE.format(
-            video_id=video_id,
-            segments_json=json.dumps(segments_data, ensure_ascii=False, indent=2),
-        )
-        request = {
-            "request": {
-                "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-                "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8192},
+        segment_chunks = chunk_segments(segments_data)
+        expected_requests[video_id] = set()
+
+        for chunk_index, chunk in enumerate(segment_chunks, 1):
+            request_id = f"{video_id}__chunk_{chunk_index:03d}"
+            expected_requests[video_id].add(request_id)
+            expected_indices_by_request[request_id] = {entry["idx"] for entry in chunk}
+            prompt = PROMPT_TEMPLATE.format(
+                request_id=request_id,
+                video_id=video_id,
+                chunk_index=chunk_index,
+                total_chunks=len(segment_chunks),
+                segments_json=json.dumps(chunk, ensure_ascii=False, indent=2),
+            )
+            request = {
+                "request": {
+                    "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+                    "generationConfig": {
+                        "temperature": 0.1,
+                        "maxOutputTokens": 8192,
+                        "responseMimeType": "application/json",
+                    },
+                }
             }
-        }
-        lines.append(json.dumps(request, ensure_ascii=False))
-    return "\n".join(lines)
+            lines.append(json.dumps(request, ensure_ascii=False))
+    return "\n".join(lines), expected_requests, expected_indices_by_request
 
 
 def upload_jsonl(gcs: storage.Client, content: str, gcs_path: str) -> str:
@@ -211,21 +431,17 @@ def fetch_results(gcs: storage.Client, output_prefix_uri: str) -> list[dict]:
 
 
 def parse_cleaned_segments(raw: str, video_id: str) -> list[dict] | None:
-    raw = re.sub(r"```json|```", "", raw).strip()
-    start = raw.find("[")
-    end = raw.rfind("]")
-    if start == -1 or end == -1:
-        print(f"  [WARN] No JSON array found for {video_id}")
+    cleaned, status = recover_cleaned_segments(raw)
+    if cleaned is None:
+        print(f"  [WARN] Could not parse cleaned response for {video_id}: {status}")
         return None
-    try:
-        data = json.loads(raw[start:end + 1])
-    except json.JSONDecodeError as e:
-        print(f"  [WARN] JSON decode error for {video_id}: {e}")
+    valid = [item for item in cleaned if is_valid_cleaned_item(item)]
+    if not valid:
+        print(f"  [WARN] No valid cleaned items for {video_id}")
         return None
-    if not isinstance(data, list):
-        print(f"  [WARN] Expected list for {video_id}, got {type(data)}")
-        return None
-    return data
+    if status != "already valid":
+        print(f"  [WARN] {video_id}: parsed cleaned response with recovery ({status})")
+    return valid
 
 
 def main():
@@ -262,7 +478,7 @@ def main():
           f"via Vertex AI Batch API ({MODEL_NAME})...")
 
     ts = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
-    jsonl_content = build_input_jsonl(to_clean)
+    jsonl_content, expected_requests, expected_indices_by_request = build_input_jsonl(to_clean)
     if not jsonl_content.strip():
         print("[03b_clean] No valid segments to clean.")
         return
@@ -278,6 +494,12 @@ def main():
 
     results = fetch_results(gcs, output_prefix)
 
+    docs_by_video = {path.stem: doc for path, doc in to_clean}
+    paths_by_video = {path.stem: path for path, doc in to_clean}
+    updated_counts: dict[str, int] = {video_id: 0 for video_id in docs_by_video}
+    succeeded_requests: set[str] = set()
+    seen_requests: set[str] = set()
+    failed_videos: set[str] = set()
     cleaned_count = 0
     failed_count = 0
 
@@ -287,20 +509,33 @@ def main():
                         .get("parts", [{}])[0]
                         .get("text", ""))
         video_id = extract_video_id(req_text)
+        request_id = extract_request_id(req_text)
+        chunk_index, total_chunks = extract_chunk_metadata(req_text)
 
-        if not video_id:
-            print("  [WARN] Skipping item: VIDEO_ID not found in request text")
+        if not video_id or not request_id:
+            print("  [WARN] Skipping item: request metadata not found in request text")
             failed_count += 1
             continue
 
+        seen_requests.add(request_id)
+
         if item.get("status"):
-            print(f"  [WARN] {video_id}: item-level error: {item['status']}")
+            print(f"  [WARN] {video_id}: item-level error in {request_id}: {item['status']}")
+            failed_videos.add(video_id)
             failed_count += 1
             continue
 
         candidates = item.get("response", {}).get("candidates", [])
         if not candidates:
-            print(f"  [WARN] {video_id}: no candidates in response")
+            print(f"  [WARN] {video_id}: no candidates in response for {request_id}")
+            failed_videos.add(video_id)
+            failed_count += 1
+            continue
+
+        finish_reason = candidates[0].get("finishReason", "")
+        if finish_reason and finish_reason != "STOP":
+            print(f"  [WARN] {video_id}: incomplete cleaned response in {request_id} ({finish_reason})")
+            failed_videos.add(video_id)
             failed_count += 1
             continue
 
@@ -309,37 +544,64 @@ def main():
                                  .get("text", ""))
         cleaned = parse_cleaned_segments(raw_text, video_id)
         if cleaned is None:
+            failed_videos.add(video_id)
             failed_count += 1
             continue
 
-        tagged_path = Path(f"data/tagged/{video_id}.json")
-        existing_doc = next((doc for path, doc in to_clean if path.stem == video_id), None)
+        existing_doc = docs_by_video.get(video_id)
         if existing_doc is None:
             print(f"  [WARN] {video_id}: source tagged data not found, skipping")
+            failed_videos.add(video_id)
             failed_count += 1
             continue
-
-        t = existing_doc
 
         idx_to_text = {
             entry["idx"]: entry["text"]
             for entry in cleaned
             if "idx" in entry and "text" in entry and str(entry["text"]).strip()
         }
+        expected_indices = expected_indices_by_request.get(request_id, set())
+        if expected_indices and set(idx_to_text) != expected_indices:
+            missing_indices = sorted(expected_indices - set(idx_to_text))
+            print(
+                f"  [WARN] {video_id}: incomplete cleaned items in {request_id}; "
+                f"missing idx {missing_indices[:5]}"
+            )
+            failed_videos.add(video_id)
+            failed_count += 1
+            continue
 
         updated = 0
-        for i, seg in enumerate(t.get("segments", [])):
+        for i, seg in enumerate(existing_doc.get("segments", [])):
             if i in idx_to_text:
                 seg["transcript"] = idx_to_text[i]
                 updated += 1
 
-        tagged_path.write_text(json.dumps(t, ensure_ascii=False, indent=2))
+        updated_counts[video_id] += updated
+        succeeded_requests.add(request_id)
+        chunk_label = ""
+        if chunk_index is not None and total_chunks is not None:
+            chunk_label = f" chunk {chunk_index}/{total_chunks}"
+        print(f"  Cleaned {video_id}{chunk_label} ({updated} segments updated)")
 
+    expected_request_ids = set().union(*expected_requests.values()) if expected_requests else set()
+    missing_requests = expected_request_ids - seen_requests
+    for request_id in sorted(missing_requests):
+        video_id = request_id.split("__chunk_", 1)[0]
+        print(f"  [WARN] {video_id}: missing batch result for {request_id}")
+        failed_videos.add(video_id)
+        failed_count += 1
+
+    for video_id, request_ids in expected_requests.items():
+        if video_id in failed_videos or not request_ids.issubset(succeeded_requests):
+            continue
+
+        tagged_path = paths_by_video[video_id]
+        tagged_path.write_text(json.dumps(docs_by_video[video_id], ensure_ascii=False, indent=2))
         with open(cleaned_log, "a") as f:
             f.write(video_id + "\n")
-
-        print(f"  Cleaned {video_id} ({updated} segments updated)")
         cleaned_count += 1
+        print(f"  Saved {video_id} ({updated_counts[video_id]} segments updated across {len(request_ids)} chunk(s))")
 
     print(f"[03b_clean] Done. {cleaned_count} cleaned, {failed_count} failed.")
 

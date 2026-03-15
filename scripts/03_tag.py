@@ -49,20 +49,19 @@ Identify thematic segments of 5-10 minutes each. For each segment return ONLY va
       "content_type": "story|analogy|philosophy|practical",
       "circle_fit": [1, 2],
       "key_quote": "Most impactful sentence from this segment",
-      "summary": "One sentence describing this segment",
-      "transcript": "Verbatim cleaned text of everything said in this segment. Fix grammar and punctuation. Remove repeated phrases from speech disfluencies. Preserve all Sanskrit terms, names, and philosophical concepts exactly."
+      "summary": "One sentence describing this segment"
     }}
   ]
 }}
 circle_fit: 1=full-time devotees, 2=congregation/volunteers, 3=newcomers, 4=general public with no prior exposure
 VERSE REFERENCE FORMAT (P1): Use ONLY "BG X.Y" for Bhagavad-gita and "SB X.Y.Z" for Srimad Bhagavatam.
 No other formats ("Bg.", "Bhagavad-gita", chapter references without verse). If uncertain, use empty list [].
-TRANSCRIPT FIELD: Cleaned verbatim prose — not a summary. Include all content said. Fix grammar and remove disfluency repetitions only.
+Do not include transcript text or any extra keys beyond the schema above.
 THEMES FIELD: Choose 1-3 descriptive themes per segment.
 """
 
-REQUIRED_KEYS = {"start_time", "end_time", "verse_references", "themes",
-                 "content_type", "circle_fit", "key_quote", "summary", "transcript"}
+MODEL_REQUIRED_KEYS = {"start_time", "end_time", "verse_references", "themes",
+                       "content_type", "circle_fit", "key_quote", "summary"}
 
 # All non-Latin foreign scripts: Devanagari, Arabic/Urdu, Tamil, Telugu, Bengali,
 # Cyrillic, CJK — used to strip segments before sending to Gemini.
@@ -129,7 +128,11 @@ def build_input_jsonl(transcript_paths: list[Path], failed_log: Path) -> str:
             request = {
                 "request": {
                     "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-                    "generationConfig": {"temperature": 0.1, "maxOutputTokens": 8192},
+                    "generationConfig": {
+                        "temperature": 0.1,
+                        "maxOutputTokens": 8192,
+                        "responseMimeType": "application/json",
+                    },
                 }
             }
             lines.append(json.dumps(request, ensure_ascii=False))
@@ -182,23 +185,186 @@ def fetch_results(gcs: storage.Client, output_prefix_uri: str) -> list[dict]:
     return results
 
 
-def parse_response(raw: str, video_id: str) -> list[dict] | None:
-    """Parse Gemini response with regex fallback. Returns valid segments or None."""
-    raw = re.sub(r"```json|```", "", raw).strip()
-    match = re.search(r"\{.*\}", raw, re.DOTALL)
-    if not match:
-        print(f"  [WARN] No JSON block found for {video_id}")
-        return None
+def strip_json_fences(raw: str) -> str:
+    return re.sub(r"```json|```", "", raw).strip()
+
+
+def parse_segments(raw: str) -> list[dict] | None:
+    data = json.loads(raw)
+    segments = data.get("segments")
+    return segments if isinstance(segments, list) else None
+
+
+def is_valid_segment(segment: dict) -> bool:
+    return isinstance(segment, dict) and MODEL_REQUIRED_KEYS.issubset(segment.keys())
+
+
+def sanitize_json_text(raw: str) -> str:
+    """Repair common model-output JSON issues without changing semantics."""
+    out: list[str] = []
+    stack: list[str] = []
+    in_string = False
+    escape = False
+
+    i = 0
+    while i < len(raw):
+        ch = raw[i]
+
+        if in_string:
+            if escape:
+                if ch == "\n":
+                    out.append("n")
+                elif ch == "\r":
+                    out.append("r")
+                elif ch == "\t":
+                    out.append("t")
+                else:
+                    out.append(ch)
+                escape = False
+            elif ch == "\\":
+                out.append(ch)
+                escape = True
+            elif ch == '"':
+                j = i + 1
+                while j < len(raw) and raw[j] in " \t\r\n":
+                    j += 1
+                next_sig = raw[j] if j < len(raw) else ""
+                if next_sig and next_sig not in ",}]:":
+                    out.append('\\"')
+                else:
+                    out.append(ch)
+                    in_string = False
+            elif ch == "\n":
+                out.append("\\n")
+            elif ch == "\r":
+                out.append("\\r")
+            elif ch == "\t":
+                out.append("\\t")
+            elif ord(ch) < 32:
+                out.append(" ")
+            else:
+                out.append(ch)
+        else:
+            if ch == '"':
+                out.append(ch)
+                in_string = True
+            else:
+                out.append(ch)
+                if ch in "{[":
+                    stack.append(ch)
+                elif ch == "}" and stack and stack[-1] == "{":
+                    stack.pop()
+                elif ch == "]" and stack and stack[-1] == "[":
+                    stack.pop()
+        i += 1
+
+    if in_string:
+        out.append('"')
+
+    repaired = "".join(out)
+    repaired = re.sub(r",(\s*[}\]])", r"\1", repaired)
+
+    closers = []
+    for opener in reversed(stack):
+        closers.append("}" if opener == "{" else "]")
+    repaired += "".join(closers)
+    return repaired
+
+
+def salvage_segment_objects(cleaned: str) -> tuple[list[dict] | None, str]:
+    marker = '"start_time"'
+    positions = [m.start() for m in re.finditer(marker, cleaned)]
+    if not positions:
+        return None, "no segment markers found"
+
+    segments: list[dict] = []
+    for idx, pos in enumerate(positions):
+        obj_start = cleaned.rfind("{", 0, pos)
+        if obj_start == -1:
+            continue
+
+        next_pos = positions[idx + 1] if idx + 1 < len(positions) else len(cleaned)
+        obj_end = cleaned.rfind("}", pos, next_pos)
+        if obj_end == -1:
+            obj_end = cleaned.find("}", pos)
+        if obj_end == -1:
+            continue
+
+        candidate = sanitize_json_text(cleaned[obj_start:obj_end + 1])
+        try:
+            segment = json.loads(candidate)
+        except json.JSONDecodeError:
+            continue
+        if is_valid_segment(segment):
+            segments.append(segment)
+
+    if segments:
+        return segments, f"salvaged {len(segments)} complete segment objects"
+    return None, "could not salvage any complete segments"
+
+
+def recover_segments(raw: str) -> tuple[list[dict] | None, str]:
+    cleaned = strip_json_fences(raw)
+    if not cleaned:
+        return None, "empty response"
+
+    start = cleaned.find("{")
+    if start == -1:
+        return None, "no JSON object found"
+    cleaned = cleaned[start:]
+
     try:
-        data = json.loads(match.group())
-    except json.JSONDecodeError as e:
-        print(f"  [WARN] JSON decode error for {video_id}: {e}")
+        segments = parse_segments(cleaned)
+        if segments is not None:
+            return segments, "already valid"
+        return None, "missing segments key"
+    except json.JSONDecodeError as err:
+        original_error = str(err)
+
+    repaired = sanitize_json_text(cleaned)
+    try:
+        segments = parse_segments(repaired)
+    except json.JSONDecodeError as err:
+        salvaged, salvage_status = salvage_segment_objects(cleaned)
+        if salvaged is not None:
+            return salvaged, salvage_status
+        return None, f"repair failed: {err}; original: {original_error}"
+
+    return segments, "repaired"
+
+
+def parse_response(raw: str, video_id: str) -> list[dict] | None:
+    """Parse Gemini response, attempting light repair before failing."""
+    segments, status = recover_segments(raw)
+    if segments is None:
+        print(f"  [WARN] Could not parse {video_id}: {status}")
         return None
-    valid = [s for s in data.get("segments", []) if REQUIRED_KEYS.issubset(s.keys())]
+
+    valid = [s for s in segments if is_valid_segment(s)]
     if not valid:
         print(f"  [WARN] No valid segments for {video_id}")
         return None
+
+    if status != "already valid":
+        print(f"  [WARN] {video_id}: parsed with recovery ({status})")
     return valid
+
+
+def build_segment_transcript(whisper_segments: list[dict], start_time: int, end_time: int) -> str:
+    """Reconstruct the raw transcript text for a model-defined segment window."""
+    chunks = [
+        seg["text"].strip()
+        for seg in whisper_segments
+        if start_time <= seg.get("start", -1) < end_time and seg.get("text", "").strip()
+    ]
+    if not chunks:
+        chunks = [
+            seg["text"].strip()
+            for seg in whisper_segments
+            if seg.get("end", -1) > start_time and seg.get("start", float("inf")) < end_time
+            and seg.get("text", "").strip()
+        ]
+    return " ".join(chunks)
 
 
 def extract_video_id(request_text: str) -> str | None:
@@ -281,6 +447,14 @@ def main():
             failed_count += 1
             continue
 
+        finish_reason = candidates[0].get("finishReason", "")
+        if finish_reason and finish_reason != "STOP":
+            print(f"  [WARN] {video_id}: incomplete model response ({finish_reason})")
+            with open(failed_log, "a") as f:
+                f.write(video_id + "\n")
+            failed_count += 1
+            continue
+
         raw_text = (candidates[0].get("content", {})
                                  .get("parts", [{}])[0]
                                  .get("text", ""))
@@ -297,6 +471,11 @@ def main():
 
         for seg in segments:
             seg["timestamp_url"] = f"https://youtu.be/{video_id}?t={int(seg['start_time'])}"
+            seg["transcript"] = build_segment_transcript(
+                t.get("segments", []),
+                int(seg["start_time"]),
+                int(seg["end_time"]),
+            )
 
         Path(f"data/tagged/{video_id}.json").write_text(
             json.dumps({

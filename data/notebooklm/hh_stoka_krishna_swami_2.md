@@ -1,5 +1,5 @@
 # HH Stoka Krishna Swami — Vaishnava Lecture Corpus (Part 2/3)
-Generated: 2026-03-14 | Part 2/3 | Lectures: 506 | Segments: 3837 | Est. words: 447,416
+Generated: 2026-03-15 | Part 2/3 | Lectures: 506 | Segments: 3837 | Est. words: 447,416
 
 ---
 
